@@ -1,33 +1,22 @@
 import React, { useState } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
-import { useLocalStorage } from '../hooks/useLocalStorage';
+import { useSimulados } from '../hooks/useSupabaseData';
 import { Plus, Trash2 } from 'lucide-react';
 
 export function Simulados() {
-  const [simulados, setSimulados] = useLocalStorage('sanfran-simulados', [
-    { id: 1, date: '2025-01-15', score: 45 },
-    { id: 2, date: '2025-02-20', score: 52 },
-    { id: 3, date: '2025-03-10', score: 58 },
-  ]);
-
+  const { simulados, addSimulado, deleteSimulado } = useSimulados();
   const [formData, setFormData] = useState({ date: '', score: '' });
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!formData.date || !formData.score) return;
 
-    const newSimulado = {
-      id: Date.now(),
+    addSimulado({
       date: formData.date,
       score: Number(formData.score)
-    };
+    });
 
-    setSimulados([...simulados, newSimulado].sort((a, b) => new Date(a.date) - new Date(b.date)));
     setFormData({ date: '', score: '' });
-  };
-
-  const handleDelete = (id) => {
-    setSimulados(simulados.filter(s => s.id !== id));
   };
 
   return (

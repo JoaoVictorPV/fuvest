@@ -158,14 +158,12 @@ function SubjectSection({ title, groups, meta, checkedItems, onToggle, colorThem
 }
 
 export function ContentSyllabus() {
-  const [checkedItems, setCheckedItems] = useLocalStorage('sanfran-syllabus-check', {});
+  const { checkedItems, toggleItem, loading } = useSyllabus();
 
   const handleToggle = (id) => {
-    setCheckedItems(prev => ({
-      ...prev,
-      [id]: !prev[id]
-    }));
-    window.localStorage.setItem('sanfran-last-activity', new Date().toISOString());
+    toggleItem(id);
+    // The hook will handle the database update.
+    // We could add last-activity tracking here if needed, but let's keep it simple for now.
   };
 
   return (

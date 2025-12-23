@@ -1,31 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import { editalData } from '../data/edital';
 import { booksData } from '../data/books';
-import { useLocalStorage } from '../hooks/useLocalStorage';
+import { useSyllabus, useBooks, useNotes } from '../hooks/useSupabaseData';
 import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar, Tooltip } from 'recharts';
 import { AlertTriangle, TrendingUp, BookOpen, CheckCircle, Save, Trash2, PenTool } from 'lucide-react';
 import { differenceInDays, format } from 'date-fns';
 import { ptBR } from 'date-fns/locale';
 
 function Notepad() {
-  const [notes, setNotes] = useLocalStorage('sanfran-notes', []);
+  const { notes, addNote, deleteNote } = useNotes();
   const [currentNote, setCurrentNote] = useState('');
 
   const handleSave = () => {
     if (!currentNote.trim()) return;
-    
-    const newNote = {
-      id: Date.now(),
-      text: currentNote,
-      date: new Date().toISOString()
-    };
-
-    setNotes([newNote, ...notes]);
+    addNote(currentNote);
     setCurrentNote('');
-  };
-
-  const handleDelete = (id) => {
-    setNotes(notes.filter(n => n.id !== id));
   };
 
   return (
@@ -57,13 +46,13 @@ function Notepad() {
         ) : (
           notes.map(note => (
             <div key={note.id} className="bg-slate-50 p-3 rounded-lg border border-slate-100 relative group">
-              <p className="text-slate-700 text-sm whitespace-pre-wrap">{note.text}</p>
+              <p className="text-slate-700 text-sm whitespace-pre-wrap">{note.content}</p>
               <div className="mt-2 flex justify-between items-center">
                 <span className="text-[10px] text-slate-400 uppercase font-bold tracking-wider">
-                  {format(new Date(note.date), "d 'de' MMM. 'às' HH:mm", { locale: ptBR })}
+                  {format(new Date(note.created_at), "d 'de' MMM. 'às' HH:mm", { locale: ptBR })}
                 </span>
                 <button 
-                  onClick={() => handleDelete(note.id)}
+                  onClick={() => deleteNote(note.id)}
                   className="text-slate-400 hover:text-red-600 opacity-0 group-hover:opacity-100 transition-opacity"
                 >
                   <Trash2 size={14} />
@@ -92,19 +81,11 @@ function StatCard({ icon: Icon, label, value, colorClass }) {
 }
 
 export function Dashboard() {
-  const [checkedItems] = useLocalStorage('sanfran-syllabus-check', {});
-  const [bookStatus] = useLocalStorage('sanfran-books-status', {});
-  const [lastActivity] = useState(() => window.localStorage.getItem('sanfran-last-activity'));
-  const [showAlert, setShowAlert] = useState(false);
-
-  useEffect(() => {
-    if (lastActivity) {
-      const days = differenceInDays(new Date(), new Date(lastActivity));
-      if (days >= 3) {
-        setShowAlert(true);
-      }
-    }
-  }, [lastActivity]);
+  const { checkedItems } = useSyllabus();
+  const { bookStatus } = useBooks();
+  
+  // Alert logic paused for Supabase migration until query implementation
+  const showAlert = false; 
 
   // Calculate Progress with nested structure
   const flattenItems = (groups) => groups.flatMap(g => g.items);
