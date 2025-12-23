@@ -25,10 +25,11 @@ export function AuthProvider({ children }) {
           });
 
           if (error) {
-            console.error('Auto-login failed:', error);
-            // Handle error, maybe show a message to the user
+            console.error('!!!! SUPABASE AUTO-LOGIN FAILED !!!!', error);
+          } else {
+            console.log('%%%%%% SUPABASE AUTO-LOGIN SUCCESS %%%%%%', data);
           }
-          setSession(data.session);
+          setSession(data?.session ?? null);
         }
       } catch (e) {
         console.error('Error during auth process:', e);
