@@ -58,7 +58,7 @@ function Notepad() {
         ) : (
           notes.map(note => (
             <div key={note.id} className="bg-slate-50 p-3 rounded-lg border border-slate-100 relative group">
-              <p className="text-slate-700 text-sm whitespace-pre-wrap">{note.content}</p>
+              <p className="text-slate-700 text-sm whitespace-pre-wrap">{note.text}</p>
               <div className="mt-2 flex justify-between items-center">
                 <span className="text-[10px] text-slate-400 uppercase font-bold tracking-wider">
                   {format(new Date(note.date), "d 'de' MMM. 'às' HH:mm", { locale: ptBR })}
