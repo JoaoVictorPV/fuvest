@@ -100,7 +100,7 @@ export function Simulados() {
                     <span className="text-xs text-slate-500">{sim.score} acertos</span>
                   </div>
                   <button 
-                    onClick={() => handleDelete(sim.id)}
+                    onClick={() => deleteSimulado(sim.id)}
                     className="text-slate-400 hover:text-red-600 transition-colors opacity-0 group-hover:opacity-100"
                   >
                     <Trash2 size={16} />
