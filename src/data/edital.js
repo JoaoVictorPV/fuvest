@@ -3,17 +3,17 @@ export const editalData = {
     meta: {
       description: "Ciências Humanas e Sociais Aplicadas",
       competencies: [
-        "Analisar processos históricos, sociais e políticos em diferentes escalas e temporalidades.",
-        "Compreender a formação de territórios, fronteiras e identidades nacionais.",
-        "Analisar relações de trabalho, produção e transformação das sociedades.",
-        "Identificar e combater formas de injustiça, preconceito e violência na história."
+        "**Analisar processos históricos, sociais e políticos em diferentes escalas e temporalidades:** A FUVEST espera que você seja um 'analista do tempo', capaz de conectar o local (sua cidade, Brasil) ao global (guerras, globalização) e o presente ao passado. *Dica quente:* Sempre se pergunte 'Como isso afeta o Brasil hoje?'. Por exemplo, ao estudar a Guerra Fria, conecte-a com a Ditadura Militar no Brasil. A banca adora essa ponte entre o geral e o particular.",
+        "**Compreender a formação de territórios, fronteiras e identidades nacionais:** Aqui, a palavra-chave é 'poder'. Quem define as fronteiras? Por quê? Pense no Brasil: como a fronteira agrícola na Amazônia redesenha o mapa e cria conflitos? Como a identidade 'brasileira' foi construída e quais grupos foram deixados de fora (indígenas, quilombolas)? A FUVEST valoriza a percepção crítica sobre a construção do espaço e da nação.",
+        "**Analisar relações de trabalho, produção e transformação das sociedades:** Essencialmente, é sobre a evolução do capitalismo e suas crises. Você precisa dominar desde a Revolução Industrial (e suas fases) até a 'uberização' do trabalho. *Foco:* Entenda os modelos de produção (fordismo, toyotismo) e como eles moldam a sociedade. A prova frequentemente aborda o impacto da tecnologia nas relações de trabalho e o surgimento de novas desigualdades.",
+        "**Identificar e combater formas de injustiça, preconceito e violência na história:** Este é o eixo da cidadania e dos direitos humanos. A FUVEST cobrará sua capacidade de identificar as raízes históricas de problemas atuais, como o racismo estrutural (originado na escravidão), a violência de gênero (patriarcalismo) e a xenofobia. *Conselho:* Não basta descrever o preconceito, é preciso entender seu mecanismo histórico e as formas de resistência a ele."
       ],
       skills: [
-        "Análise crítica de fontes, narrativas e documentos históricos.",
-        "Compreensão de matrizes conceituais (etnocentrismo, modernidade, civilização).",
-        "Estudo da cultura material, imaterial e patrimônio histórico.",
-        "Análise de dinâmicas populacionais, migrações e formação dos Estados.",
-        "Discussão sobre cidadania, democracia e direitos humanos ao longo da história."
+        "**Análise crítica de fontes, narrativas e documentos históricos:** A FUVEST raramente pede para você simplesmente 'lembrar' de um fato. Em vez disso, ela apresenta um texto, uma imagem, um gráfico e pergunta: 'O que o autor quis dizer? Qual o contexto disso? Quais as intenções por trás dessa fonte?'. *Treino essencial:* Pratique interpretar charges, pinturas e textos de época. Questione tudo: quem escreveu, para quem e por quê.",
+        "**Compreensão de matrizes conceituais (etnocentrismo, modernidade, civilização):** São as 'ferramentas' do historiador. Você precisa saber o que esses conceitos significam e como eles são usados para justificar ações históricas. Exemplo: como o conceito de 'civilização' foi usado para justificar o imperialismo europeu no século XIX? Entender esses conceitos mostra maturidade intelectual.",
+        "**Estudo da cultura material, imaterial e patrimônio histórico:** A prova pode usar um objeto (cultura material, como uma cerâmica marajoara) ou uma prática (cultura imaterial, como o samba) como ponto de partida para uma questão mais ampla sobre sociedade, identidade e memória. *Dica:* Esteja atento ao papel do patrimônio como campo de disputas políticas no presente.",
+        "**Análise de dinâmicas populacionais, migrações e formação dos Estados:** Um tema recorrente. Esteja preparado para analisar gráficos de pirâmides etárias, fluxos migratórios (atuais e históricos, como a vinda de italianos para o Brasil) e entender como esses movimentos reconfiguram territórios e criam novas realidades sociais e políticas.",
+        "**Discussão sobre cidadania, democracia e direitos humanos ao longo da história:** Outro favorito da FUVEST. Você deve ser capaz de traçar a evolução desses conceitos, desde a democracia ateniense (limitada) até a Constituição de 1988 no Brasil. *Foco:* Entenda as lutas históricas por direitos (movimento abolicionista, sufragistas, diretas já) e os retrocessos (ditaduras). É a habilidade de pensar o presente à luz das conquistas e perdas do passado."
       ]
     },
     groups: [
@@ -95,17 +95,17 @@ export const editalData = {
     meta: {
       description: "Ciências Humanas e Sociais Aplicadas",
       competencies: [
-        "Compreender a relação sociedade-natureza e seus impactos socioambientais.",
-        "Analisar a produção do espaço geográfico, territórios e fronteiras.",
-        "Interpretar fenômenos geopolíticos e econômicos globais.",
-        "Utilizar linguagens cartográficas para leitura do mundo."
+        "**Compreender a relação sociedade-natureza e seus impactos socioambientais:** A FUVEST quer que você pense como um 'geógrafo crítico'. Não basta decorar nomes de rios ou tipos de clima. Você precisa entender a *interação*: como o desmatamento na Amazônia (ação da sociedade) afeta o regime de chuvas no Sudeste (reação da natureza)? *Dica:* Domine os grandes problemas ambientais (aquecimento global, crise hídrica, ilhas de calor) sempre buscando a causa humana e a consequência social.",
+        "**Analisar a produção do espaço geográfico, territórios e fronteiras:** Pense no espaço como um 'palco de disputas'. O espaço urbano, por exemplo, é disputado por imobiliárias, movimentos por moradia, pelo Estado, etc. A FUVEST adora questões sobre a produção da cidade, a gentrificação e a segregação (centro vs. periferia). Entender o que é um 'território' (espaço definido por relações de poder) é crucial para interpretar mapas de conflitos agrários ou geopolíticos.",
+        "**Interpretar fenômenos geopolíticos e econômicos globais:** O mundo em constante mudança. Você precisa estar antenado aos grandes temas da atualidade: a ascensão da China, os conflitos no Oriente Médio, a formação de blocos econômicos (e suas crises, como o Brexit) e o papel de organismos como a ONU e a OMC. *Conselho:* Leia notícias de fontes diversas. A FUVEST espera que você analise criticamente as relações de poder entre os países, e não apenas descreva os fatos.",
+        "**Utilizar linguagens cartográficas para leitura do mundo:** Esta é uma competência fundamental e muito cobrada. Você precisa ser 'alfabetizado em mapas'. Isso vai além de saber ler legendas. Implica em interpretar escalas, projeções (Mercator vs. Peters e suas intenções políticas), curvas de nível e, principalmente, mapas temáticos (densidade demográfica, produção industrial, etc.). *Treino:* Pegue mapas complexos e tente 'traduzir' os dados em um texto, explicando o fenômeno que ele representa."
       ],
       skills: [
-        "Uso de cartografia, geotecnologias e mapas temáticos.",
-        "Análise de dinâmicas climáticas, geomorfológicas e biomas.",
-        "Compreensão da globalização, redes e divisão internacional do trabalho.",
-        "Estudo da urbanização, população e segregação socioespacial.",
-        "Avaliação de questões agrárias, industriais e energéticas."
+        "**Uso de cartografia, geotecnologias e mapas temáticos:** Na prática, isso significa resolver problemas usando mapas. Calcular distâncias com base na escala, identificar a melhor localização para algo com base em variáveis espaciais, e, o mais importante, extrair conclusões a partir de um mapa temático. Por exemplo, a prova pode mostrar um mapa de IDH e pedir para você correlacioná-lo com um mapa de industrialização.",
+        "**Análise de dinâmicas climáticas, geomorfológicas e biomas:** É a base da Geografia Física. É crucial entender os fenômenos climáticos (El Niño, massas de ar no Brasil), os agentes que modelam o relevo (intemperismo, erosão) e as características dos grandes biomas brasileiros, especialmente a Amazônia e o Cerrado, e os impactos ambientais que eles sofrem.",
+        "**Compreensão da globalização, redes e divisão internacional do trabalho:** A globalização não é apenas econômica. A FUVEST aborda seus aspectos culturais (hegemonia cultural, hibridismo) e informacionais (redes de internet, fluxos financeiros). Entender a Nova DIT (Divisão Internacional do Trabalho) é chave para compreender por que certos países produzem tecnologia e outros, commodities.",
+        "**Estudo da urbanização, população e segregação socioespacial:** Temas quentes. Domine conceitos como metropolização, conurbação, macrocefalia urbana e gentrificação. Saiba analisar pirâmides etárias, entender a transição demográfica e discutir os desafios das grandes cidades brasileiras (mobilidade, moradia, saneamento).",
+        "**Avaliação de questões agrárias, industriais e energéticas:** São os pilares da geografia econômica. No campo, entenda a oposição entre agronegócio e agricultura familiar e os conflitos por terra. Na indústria, conheça os modelos de industrialização (clássica, tardia) e a reconfiguração espacial da indústria no Brasil. Em energia, saiba debater as vantagens e desvantagens das diferentes fontes da matriz energética brasileira, especialmente hidrelétricas e fontes alternativas."
       ]
     },
     groups: [
@@ -172,17 +172,17 @@ export const editalData = {
     meta: {
       description: "Matemática e suas Tecnologias",
       competencies: [
-        "Utilizar estratégias e conceitos matemáticos para interpretar situações reais.",
-        "Articular conhecimentos algébricos e geométricos para resolver problemas.",
-        "Construir modelos para situações tecnológicas e sociais.",
-        "Interpretar representações geométricas e estatísticas."
+        "**Utilizar estratégias e conceitos matemáticos para interpretar situações reais:** A FUVEST não quer apenas que você resolva uma equação, mas que saiba *montar* a equação a partir de um problema do mundo real. Seja um cálculo de juros, uma análise de crescimento populacional ou a otimização de uma área. *Dica:* A chave é a tradução da linguagem verbal para a linguagem matemática. Pratique a modelagem de problemas.",
+        "**Articular conhecimentos algébricos e geométricos para resolver problemas:** Muitos problemas da FUVEST são 'híbridos'. Uma questão pode começar com uma função (álgebra) cujo gráfico forma uma figura geométrica, e o objetivo ser calcular a área dessa figura (geometria). *Foco:* Esteja confortável em transitar entre a representação algébrica (fórmulas) e a visualização geométrica (gráficos, figuras). Geometria analítica é o ápice dessa competência.",
+        "**Construir modelos para situações tecnológicas e sociais:** Isso geralmente se refere a funções. Um processo social (como a disseminação de uma notícia) pode ser modelado por uma função exponencial ou logística. Uma trajetória pode ser modelada por uma parábola (função do 2º grau). A FUVEST espera que você identifique qual 'molde' matemático se encaixa melhor em uma situação-problema.",
+        "**Interpretar representações geométricas e estatísticas:** É a capacidade de 'ler' dados. A prova está repleta de gráficos (barras, pizza, linhas) e tabelas. Você precisa ir além da simples leitura, sendo capaz de fazer inferências, calcular tendências (média, mediana) e identificar informações enganosas. *Conselho:* Em qualquer gráfico, a primeira coisa a fazer é ler com atenção os títulos dos eixos (o que está sendo medido) e as unidades utilizadas."
       ],
       skills: [
-        "Resolução de problemas com porcentagem, juros e matemática financeira.",
-        "Análise de funções (1º e 2º grau, exponencial, logarítmica) e seus gráficos.",
-        "Aplicação de geometria plana e espacial (áreas, volumes, isometrias).",
-        "Cálculo de probabilidade e análise combinatória.",
-        "Interpretação de dados estatísticos, gráficos e medidas de tendência central."
+        "**Resolução de problemas com porcentagem, juros e matemática financeira:** Tema garantido. A FUVEST adora problemas que envolvem descontos sucessivos, aumento de preços, e comparação entre juros simples e compostos. *Dica:* Domine o cálculo de fatores de aumento/desconto (ex: aumentar 10% é multiplicar por 1.10). Isso agiliza muito a resolução.",
+        "**Análise de funções (1º e 2º grau, exponencial, logarítmica) e seus gráficos:** É o coração da álgebra na prova. Para cada função, você precisa saber: 1) A forma da equação. 2) O formato do gráfico. 3) O que cada parâmetro da equação faz no gráfico (ex: o 'a' na função quadrática define a concavidade). 4) Como encontrar raízes, vértices, e pontos de interseção. A interpretação do gráfico é tão importante quanto a manipulação algébrica.",
+        "**Aplicação de geometria plana e espacial (áreas, volumes, isometrias):** Outro pilar da prova. Em geometria plana, foque em áreas de figuras complexas (que podem ser decompostas em triângulos, retângulos, etc.) e relações métricas no triângulo retângulo e no círculo. Em geometria espacial, o cálculo de volumes de prismas, pirâmides, cilindros, cones e esferas é essencial. *Foco:* Fique atento a problemas que envolvem inscrição e circunscrição de sólidos.",
+        "**Cálculo de probabilidade e análise combinatória:** Estes são os temas que mais exigem raciocínio lógico. Em análise combinatória, a maior dificuldade é saber quando usar arranjo, combinação ou permutação. *Dica:* Pense: 'A ordem importa?'. Se sim, é arranjo/permutação. Se não, é combinação. Em probabilidade, domine a ideia de espaço amostral e evento, e saiba trabalhar com probabilidade condicional e união de eventos.",
+        "**Interpretação de dados estatísticos, gráficos e medidas de tendência central:** Como mencionado nas competências, a FUVEST exige uma leitura crítica de dados. Você precisa saber calcular e, mais importante, interpretar o que significa a média, a mediana e a moda de um conjunto de dados. Entender o conceito de desvio padrão como uma medida de dispersão também é um diferencial."
       ]
     },
     groups: [
