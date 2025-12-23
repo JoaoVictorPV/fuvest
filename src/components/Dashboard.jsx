@@ -6,6 +6,7 @@ import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadius
 import { AlertTriangle, TrendingUp, BookOpen, CheckCircle, Save, Trash2, PenTool } from 'lucide-react';
 import { differenceInDays, format } from 'date-fns';
 import { ptBR } from 'date-fns/locale';
+import { quotes } from '../data/quotes';
 
 function Notepad() {
   const [notes, setNotes] = useLocalStorage('sanfran-notes', []);
@@ -87,6 +88,23 @@ function StatCard({ icon: Icon, label, value, colorClass }) {
         <p className="text-sm text-slate-500 font-medium">{label}</p>
         <p className="text-2xl font-bold text-slate-800">{value}</p>
       </div>
+    </div>
+  );
+}
+
+function QuoteDisplay() {
+  const [quote, setQuote] = useState({ quote: '', author: '' });
+
+  useEffect(() => {
+    setQuote(quotes[Math.floor(Math.random() * quotes.length)]);
+  }, []);
+
+  return (
+    <div className="mt-4 bg-slate-50 border-l-4 border-crimson-200 p-4 rounded-r-lg">
+      <blockquote className="text-slate-600 italic text-center">
+        "{quote.quote}"
+      </blockquote>
+      <cite className="block text-right text-sm text-slate-500 font-medium mt-2">- {quote.author}</cite>
     </div>
   );
 }
@@ -201,23 +219,8 @@ export function Dashboard() {
     <div className="p-8 max-w-6xl mx-auto pb-20">
       <div className="mb-8">
         <h2 className="font-serif text-3xl font-bold text-slate-800 mb-2">Painel de Controle</h2>
-        <p className="text-slate-600">Bem-vindo, futuro sanfraniano.</p>
+        <QuoteDisplay />
       </div>
-
-      {showAlert && (
-        <div className="bg-red-50 border-l-4 border-red-600 p-6 mb-8 rounded-r-lg shadow-sm animate-pulse">
-          <div className="flex items-start">
-            <AlertTriangle className="text-red-600 mr-4 mt-1" size={24} />
-            <div>
-              <h3 className="text-red-800 font-bold text-lg mb-1">ATENÇÃO, GUERREIRO!</h3>
-              <p className="text-red-700 italic">
-                "A disciplina é a ponte entre metas e realizações. Você está há mais de 3 dias sem registrar progresso.
-                O sucesso não aceita preguiça. Retome o comando agora!"
-              </p>
-            </div>
-          </div>
-        </div>
-      )}
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
         <StatCard 
