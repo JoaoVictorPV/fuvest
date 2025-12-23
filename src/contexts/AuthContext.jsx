@@ -10,16 +10,38 @@ export function AuthProvider({ children }) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    supabase.auth.getSession().then(({ data: { session } }) => {
-      setSession(session);
-      setLoading(false);
-    });
+    const signInAndSetSession = async () => {
+      try {
+        // Attempt to get the current session
+        const { data: { session: currentSession } } = await supabase.auth.getSession();
 
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
+        if (currentSession) {
+          setSession(currentSession);
+        } else {
+          // If no session, sign in with the hardcoded credentials
+          const { data, error } = await supabase.auth.signInWithPassword({
+            email: 'joaovictorpv@hotmail.com',
+            password: '123456',
+          });
+
+          if (error) {
+            console.error('Auto-login failed:', error);
+            // Handle error, maybe show a message to the user
+          }
+          setSession(data.session);
+        }
+      } catch (e) {
+        console.error('Error during auth process:', e);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    signInAndSetSession();
+
+    // The onAuthStateChange is still useful if the session is refreshed or user signs out (though sign out is removed from UI)
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
       setSession(session);
-      setLoading(false);
     });
 
     return () => subscription.unsubscribe();
@@ -28,7 +50,7 @@ export function AuthProvider({ children }) {
   const value = {
     session,
     user: session?.user,
-    signOut: () => supabase.auth.signOut(),
+    signOut: () => supabase.auth.signOut(), // Keeping this for potential future use or debugging
   };
 
   return (

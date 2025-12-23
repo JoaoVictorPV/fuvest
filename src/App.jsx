@@ -5,17 +5,11 @@ import { Dashboard } from './components/Dashboard';
 import { ContentSyllabus } from './components/ContentSyllabus';
 import { Readings } from './components/Readings';
 import { Simulados } from './components/Simulados';
-import { AuthProvider, useAuth } from './contexts/AuthContext';
-import { Auth } from './components/Auth';
+import { AuthProvider } from './contexts/AuthContext';
 
 function AppContent() {
   const [activeTab, setActiveTab] = useState('dashboard');
-  const { session } = useAuth();
-
-  if (!session) {
-    return <Auth />;
-  }
-
+  
   return (
     <div className="bg-slate-100 min-h-screen font-sans text-slate-800">
       <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} />
