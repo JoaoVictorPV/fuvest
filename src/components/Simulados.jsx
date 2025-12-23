@@ -1,22 +1,28 @@
 import React, { useState } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
-import { useSimulados } from '../hooks/useSupabaseData';
+import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Plus, Trash2 } from 'lucide-react';
 
 export function Simulados() {
-  const { simulados, addSimulado, deleteSimulado } = useSimulados();
+  const [simulados, setSimulados] = useLocalStorage('sanfran-simulados', []);
   const [formData, setFormData] = useState({ date: '', score: '' });
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!formData.date || !formData.score) return;
 
-    addSimulado({
+    const newSimulado = {
+      id: Date.now(),
       date: formData.date,
       score: Number(formData.score)
-    });
+    };
 
+    setSimulados([...simulados, newSimulado].sort((a, b) => new Date(a.date) - new Date(b.date)));
     setFormData({ date: '', score: '' });
+  };
+
+  const handleDelete = (id) => {
+    setSimulados(simulados.filter(s => s.id !== id));
   };
 
   return (
@@ -100,7 +106,7 @@ export function Simulados() {
                     <span className="text-xs text-slate-500">{sim.score} acertos</span>
                   </div>
                   <button 
-                    onClick={() => deleteSimulado(sim.id)}
+                    onClick={() => handleDelete(sim.id)}
                     className="text-slate-400 hover:text-red-600 transition-colors opacity-0 group-hover:opacity-100"
                   >
                     <Trash2 size={16} />

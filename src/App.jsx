@@ -5,9 +5,8 @@ import { Dashboard } from './components/Dashboard';
 import { ContentSyllabus } from './components/ContentSyllabus';
 import { Readings } from './components/Readings';
 import { Simulados } from './components/Simulados';
-import { AuthProvider } from './contexts/AuthContext';
 
-function AppContent() {
+function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   
   return (
@@ -22,14 +21,6 @@ function AppContent() {
         {activeTab === 'simulados' && <Simulados />}
       </main>
     </div>
-  );
-}
-
-function App() {
-  return (
-    <AuthProvider>
-      <AppContent />
-    </AuthProvider>
   );
 }
 

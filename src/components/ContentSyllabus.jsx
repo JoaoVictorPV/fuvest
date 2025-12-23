@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { editalData } from '../data/edital';
-import { useSyllabus } from '../hooks/useSupabaseData';
+import { useLocalStorage } from '../hooks/useLocalStorage';
 import { CheckCircle2, Circle, AlertCircle, Info, ChevronDown, ChevronUp } from 'lucide-react';
 import clsx from 'clsx';
 
@@ -158,12 +158,14 @@ function SubjectSection({ title, groups, meta, checkedItems, onToggle, colorThem
 }
 
 export function ContentSyllabus() {
-  const { checkedItems, toggleItem, loading } = useSyllabus();
+  const [checkedItems, setCheckedItems] = useLocalStorage('sanfran-syllabus-check', {});
 
   const handleToggle = (id) => {
-    toggleItem(id);
-    // The hook will handle the database update.
-    // We could add last-activity tracking here if needed, but let's keep it simple for now.
+    setCheckedItems(prev => ({
+      ...prev,
+      [id]: !prev[id]
+    }));
+    window.localStorage.setItem('sanfran-last-activity', new Date().toISOString());
   };
 
   return (

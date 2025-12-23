@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { booksData } from '../data/books';
-import { useBooks } from '../hooks/useSupabaseData';
+import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Book, Check, X, BookOpen, FileText } from 'lucide-react';
 import clsx from 'clsx';
 
@@ -70,13 +70,16 @@ function BookModal({ book, onClose, status, onStatusChange }) {
 }
 
 export function Readings() {
-  const { bookStatus, updateStatus, loading } = useBooks();
+  const [bookStatus, setBookStatus] = useLocalStorage('sanfran-books-status', {});
   const [selectedBook, setSelectedBook] = useState(null);
 
   const getStatus = (id) => bookStatus[id] || 'unread';
 
   const handleStatusChange = (id, newStatus) => {
-    updateStatus(id, newStatus);
+    setBookStatus(prev => ({
+      ...prev,
+      [id]: newStatus
+    }));
   };
 
   const readCount = booksData.filter(b => {
