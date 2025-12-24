@@ -88,54 +88,60 @@ def _detect_question_markers_from_pdf_page(page: fitz.Page):
 
     Observação: isso é determinístico e geralmente mais confiável do que bboxes gerados por IA.
     """
-    text = page.get_text("dict")
-    markers = []
+    # Implementação mais robusta via "words" (evita problemas de encoding e spans quebrados)
+    words = page.get_text("words") or []
+    # words: x0,y0,x1,y1,"word",block,line,word
+    if not words:
+        return []
 
-    # padrões típicos: "1", "1.", "1)" (apenas 1-2 dígitos)
-    # Obs: limitamos a 1-2 dígitos para evitar capturar "2019" etc.
-    num_re = re.compile(r"^(\d{1,2})(?:[\.)])?$")
-
-    # Para reduzir falsos positivos (números aleatórios no texto), exigimos que o número
-    # esteja próximo da margem esquerda da coluna.
     rect = page.rect
     page_w = rect.width
     mid_x = page_w / 2.0
-    margin_pt = 220  # margem mais relaxada (questões às vezes vêm mais indentadas)
 
-    for block in text.get("blocks", []):
-        if block.get("type") != 0:  # 0 = texto
+    # margem mais relaxada (questões às vezes vêm mais indentadas)
+    margin_pt = 240
+
+    num_re = re.compile(r"^(\d{1,2})(?:[\.)])?$")
+
+    # agrupa por linha usando (block,line)
+    lines = {}
+    for w in words:
+        x0, y0, x1, y1, txt, block_no, line_no = w[0], w[1], w[2], w[3], w[4], w[5], w[6]
+        txt = (txt or "").strip()
+        if not txt:
             continue
-        for line in block.get("lines", []):
-            line_text = "".join(span.get("text", "") for span in line.get("spans", [])).strip()
-            if not line_text:
+        key = (block_no, line_no)
+        lines.setdefault(key, []).append((x0, y0, x1, y1, txt))
+
+    candidates = []
+    for items in lines.values():
+        items_sorted = sorted(items, key=lambda t: t[0])
+        tokens = [t[4] for t in items_sorted]
+        joined = "".join(tokens)
+        # aceitamos apenas linhas curtinhas, ex: "3" / "3." / "3)"
+        if len(joined) > 4:
+            continue
+        m = num_re.match(joined)
+        if not m:
+            continue
+
+        qnum = int(m.group(1))
+        x0 = min(t[0] for t in items_sorted)
+        y0 = min(t[1] for t in items_sorted)
+        x1 = max(t[2] for t in items_sorted)
+        y1 = max(t[3] for t in items_sorted)
+
+        # checagem de margem (coluna)
+        if x0 < mid_x:
+            if x0 > margin_pt:
+                continue
+        else:
+            if x0 > (mid_x + margin_pt):
                 continue
 
-            # pega primeiro token da linha
-            first_token = line_text.split()[0]
-            m = num_re.match(first_token)
-            if not m:
-                continue
+        candidates.append((qnum, (x0, y0, x1, y1)))
 
-            # o número da questão costuma aparecer sozinho (ex: "3" / "3.")
-            # se a linha tiver texto além disso, provavelmente é um falso positivo
-            if len(line_text) > 4:
-                continue
-
-            qnum = int(m.group(1))
-            bbox = tuple(line.get("bbox"))
-
-            x0 = bbox[0]
-            # valida que o número está na margem da coluna
-            if x0 < mid_x:
-                # coluna esquerda: deve estar bem perto do início da página
-                if x0 > margin_pt:
-                    continue
-            else:
-                # coluna direita: deve estar perto do início da coluna direita
-                if x0 > (mid_x + margin_pt):
-                    continue
-
-            markers.append((qnum, bbox))
+    markers = candidates
 
     # remove duplicatas mantendo a menor y (primeira ocorrência)
     best = {}
@@ -230,8 +236,6 @@ def build_question_rect_index(pdf_path: str, dpi: int = 200, min_q=1, max_q=90):
     scale = dpi / 72.0
     idx = {}
 
-    expected = min_q
-
     for i in range(len(doc)):
         page = doc.load_page(i)
         rect = page.rect
@@ -257,24 +261,8 @@ def build_question_rect_index(pdf_path: str, dpi: int = 200, min_q=1, max_q=90):
         left.sort(key=lambda t: t[1])
         right.sort(key=lambda t: t[1])
 
-        # Ordem de leitura: coluna esquerda (top-down) -> coluna direita (top-down)
-        ordered = left + right
-
-        # Aplica heurística de sequência: só aceita marcadores próximos do esperado,
-        # para evitar capturar números "soltos" no meio do texto.
-        filtered = []
-        for qnum, y0 in ordered:
-            if qnum < expected:
-                continue
-            # tolera pequenos saltos caso alguma questão não seja detectada
-            if qnum > expected + 5:
-                continue
-            filtered.append((qnum, y0))
-            expected = qnum + 1
-
-        # Reconstroi colunas filtradas
-        left = [(q, y) for (q, y) in filtered if (q, y) in left]
-        right = [(q, y) for (q, y) in filtered if (q, y) in right]
+        # Importante: NÃO filtramos por sequência esperada.
+        # Queremos 100% das questões no JSON.
 
         def build_col(col_items, col_x0, col_x1):
             out = []
@@ -396,12 +384,20 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
         text = " ".join([c for c in chunk if c]).strip()
         options_by_key[key] = text
 
-    # validação: precisa ter A..E, e pelo menos 4 preenchidas; senão, considera inválida
-    filled = sum(1 for k in ["A", "B", "C", "D", "E"] if options_by_key.get(k))
-    if filled < 4:
-        return None, None
+    # validação: idealmente A..E e pelo menos 4 preenchidas.
+    # Porém, para garantir 100% das questões no JSON sem quebrar o app,
+    # quando faltar texto, preenchimos com placeholder para o aluno ler na imagem.
+    for k in ["A", "B", "C", "D", "E"]:
+        if not options_by_key.get(k):
+            options_by_key[k] = "(Veja a imagem da questão)"
 
     options = [{"key": k, "text": options_by_key.get(k, "")} for k in ["A", "B", "C", "D", "E"]]
+
+    # limpeza simples de espaços estranhos (NBSP etc)
+    stem = re.sub(r"\s+", " ", stem.replace("\u00a0", " ")).strip()
+    for opt in options:
+        opt["text"] = re.sub(r"\s+", " ", opt["text"].replace("\u00a0", " ")).strip()
+
     return stem, options
 
 

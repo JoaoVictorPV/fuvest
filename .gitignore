@@ -105,6 +105,8 @@ dist
 tools/questions/cache/
 tools/questions/out/
 tools/questions/.venv/
+tools/questions/__pycache__/
+tools/questions/**/*.pyc
 
 # DynamoDB Local files
 .dynamodb/

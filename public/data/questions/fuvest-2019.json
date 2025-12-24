@@ -1,6 +1,6 @@
 {
   "year": 2019,
-  "generatedAt": "2025-12-24T00:06:52.722209",
+  "generatedAt": "2025-12-24T07:45:28.238811",
   "questions": [
     {
       "number": 1,
@@ -88,6 +88,50 @@
       },
       "assets": {
         "questionImage": "/assets/questions/2019/q02/image.png"
+      }
+    },
+    {
+      "number": 3,
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 1225
+      },
+      "stem": "No planeta Terra, há processos escultores, tais como a ação do gelo, o intemperismo e a ação do vento. A atuação de tais processos pode ser representada em gráficos elaborados segundo variações médias de temperatura e precipitação anual. Considere as características do deserto do Saara, da Antártida e de uma floresta tropical e identifique o gráfico em que estão corretamente localizados.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(D)"
+        },
+        {
+          "key": "B",
+          "text": "(E)"
+        },
+        {
+          "key": "C",
+          "text": "04"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q03",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q03/image.png"
       }
     },
     {
@@ -311,6 +355,50 @@
       }
     },
     {
+      "number": 9,
+      "page": 4,
+      "bbox": {
+        "x": 804,
+        "y": 1100,
+        "w": 849,
+        "h": 1238
+      },
+      "stem": "O gráfico mostra as temperaturas médias mensais históricas de cinco cidades, todas localizadas em altitudes próximas do nível do mar: Alexandria (Egito), Barcelona (Espanha), Buenos Aires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil). Fonte: Weatherbase No gráfico, essas cidades estão representadas, respectivamente, pelos símbolos:",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q09",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q09/image.png"
+      }
+    },
+    {
       "number": 10,
       "page": 5,
       "bbox": {
@@ -361,29 +449,29 @@
         "x": 804,
         "y": 106,
         "w": 849,
-        "h": 1186
+        "h": 867
       },
       "stem": "Examine a imagem e o gráfico. Google Earth, 2018. A sequência correta dos compartimentos geomorfológicos no traçado A – B apresentados na imagem e no perfil é: 1 2 3",
       "options": [
         {
           "key": "A",
-          "text": "planalto escarpa planície litorânea"
+          "text": ""
         },
         {
           "key": "B",
-          "text": "escarpa planalto depressão periférica"
+          "text": ""
         },
         {
           "key": "C",
-          "text": "escarpa planalto planície litorânea"
+          "text": ""
         },
         {
           "key": "D",
-          "text": "planalto escarpa depressão periférica"
+          "text": ""
         },
         {
           "key": "E",
-          "text": "depressão periférica escarpa planície litorânea 12"
+          "text": ""
         }
       ],
       "answer": {
@@ -1455,35 +1543,79 @@
       }
     },
     {
+      "number": 36,
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 561,
+        "w": 849,
+        "h": 183
+      },
+      "stem": "pastilha (em segundos) 1. Água mineral sem gás à 36 temperatura ambiente (25 oC) 2. Água mineral com gás à 35 temperatura ambiente (25 oC) 3. Água mineral sem gás deixada 53",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q36",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q36/image.png"
+      }
+    },
+    {
       "number": 37,
       "page": 11,
       "bbox": {
         "x": 804,
         "y": 106,
         "w": 849,
-        "h": 1652
+        "h": 499
       },
-      "stem": "Um antiácido comercial em pastilhas possui, em sua composição, entre outras substâncias, bicarbonato de sódio, carbonato de sódio e ácido cítrico. Ao ser colocada em água, a pastilha dissolve‐se completamente e libera gás carbônico, o que causa a efervescência. Para entender a influência de alguns fatores sobre a velocidade de dissolução da pastilha, adicionou‐ se uma pastilha a cada um dos quatro recipientes descritos na tabela, medindo‐se o tempo até a sua dissolução completa. Tempo medido até a Solução completa dissolução da pastilha (em segundos) 1. Água mineral sem gás à 36 temperatura ambiente (25 oC) 2. Água mineral com gás à 35 temperatura ambiente (25 oC) 3. Água mineral sem gás deixada 53 em geladeira (4 oC) 4. Água mineral com gás deixada 55 em geladeira (4 oC) Para todos os experimentos, foi usada água mineral da mesma marca. Considere a água com gás como tendo gás carbônico dissolvido. Com base nessas informações, é correto afirmar que",
+      "stem": "Um antiácido comercial em pastilhas possui, em sua composição, entre outras substâncias, bicarbonato de sódio, carbonato de sódio e ácido cítrico. Ao ser colocada em água, a pastilha dissolve‐se completamente e libera gás carbônico, o que causa a efervescência. Para entender a influência de alguns fatores sobre a velocidade de dissolução da pastilha, adicionou‐ se uma pastilha a cada um dos quatro recipientes descritos na tabela, medindo‐se o tempo até a sua dissolução completa. Tempo medido até a Solução completa dissolução da pastilha (em segundos) 1. Água mineral sem gás à 36",
       "options": [
         {
           "key": "A",
-          "text": "o uso da água com gás, ao invés da sem gás, diminuiu a velocidade de dissolução da pastilha em cerca de 50%, uma vez que, como já possui gás carbônico, há o deslocamento do equilíbrio para a formação dos reagentes."
+          "text": ""
         },
         {
           "key": "B",
-          "text": "o uso da água com gás, ao invés da sem gás, aumentou a velocidade de dissolução da pastilha em cerca de 33%, uma vez que o gás carbônico acidifica a água, aumentando a velocidade de consumo do carbonato de sódio."
+          "text": ""
         },
         {
           "key": "C",
-          "text": "nem a mudança de temperatura nem a adição de gás carbônico na solução afetaram a velocidade da reação, uma vez que o sistema não se encontra em equilíbrio."
+          "text": ""
         },
         {
           "key": "D",
-          "text": "o aumento da temperatura da água, de 4 °C para 25 °C, levou a um aumento na velocidade da reação, uma vez que aumentou a frequência e a energia de colisão entre as moléculas envolvidas na reação."
+          "text": ""
         },
         {
           "key": "E",
-          "text": "o aumento da temperatura da água, de 4 °C para 25 °C, levou a um aumento na velocidade da reação, uma vez que facilita a liberação de gás carbônico da solução, deslocando o equilíbrio para a formação dos reagentes. 38"
+          "text": ""
         }
       ],
       "answer": {
@@ -1587,6 +1719,94 @@
       }
     },
     {
+      "number": 40,
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2013
+      },
+      "stem": "Em um experimento, determinadas massas de ácido maleico e acetona foram misturadas a 0 °C, preparando‐se duas misturas idênticas. Uma delas (X) foi resfriada a ‐78 °C, enquanto a outra (M) foi mantida a 0 °C. A seguir, ambas as misturas (M e X) foram filtradas, resultando nas misturas N e Y. Finalmente, um dos componentes de cada mistura foi totalmente retirado por destilação. Os recipientes (marcados pelas letras O e Z) representam o que restou de cada mistura após a destilação. Nas figuras, as moléculas de cada componente estão representadas por retângulos ou triângulos. Tanto no recipiente M como no recipiente X, estão representadas soluções ___I___ de ___II___, cuja solubilidade ___III___ com a diminuição da temperatura. A uma determinada temperatura, as concentrações em M e N e em X e Y são ___IV___. Em diferentes instantes, as moléculas representadas por um retângulo pertencem a um composto que pode estar ___V___ ou no estado ___VI___. As lacunas que correspondem aos números de I a VI devem ser corretamente preenchidas por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I saturadas (D) I heterogêneas II acetona II acetona III aumenta III aumenta IV diferentes IV diferentes V sólido V sólido VI líquido VI sólido"
+        },
+        {
+          "key": "B",
+          "text": "I homogêneas (E) I saturadas II ácido maleico II ácido maleico III diminui III diminui IV iguais IV iguais V dissolvido V sólido VI líquido VI líquido"
+        },
+        {
+          "key": "C",
+          "text": "I saturadas II ácido maleico III diminui IV iguais V dissolvido VI sólido Note e adote: Composto Ponto de fusão (°C) Ponto de ebulição (°C) Ácido maleico 138 202 Acetona ‐95 56"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q40",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q40/image.png"
+      }
+    },
+    {
+      "number": 41,
+      "page": 13,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "O gráfico a seguir indica a temperatura de ebulição de bromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia carbônica. 9 F 18,998 17 Cl 35,453 35 Br 79,904 53 I 126,904 Considerando as propriedades periódicas dos halogênios, a alternativa que descreve adequadamente o comportamento expresso no gráfico de temperaturas de ebulição versus tamanho de cadeia carbônica para CnH2n+1F ( ) e CnH2n+1I (•) é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "(D)"
+        },
+        {
+          "key": "B",
+          "text": "(E)"
+        },
+        {
+          "key": "C",
+          "text": "Note e adote: P.E. = ponto de ebulição V"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q41",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q41/image.png"
+      }
+    },
+    {
       "number": 42,
       "page": 13,
       "bbox": {
@@ -1672,6 +1892,50 @@
       },
       "assets": {
         "questionImage": "/assets/questions/2019/q43/image.png"
+      }
+    },
+    {
+      "number": 44,
+      "page": 14,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "A bola de futebol que foi utilizada na Copa de 2018 foi chamada Telstar 18. Essa bola contém uma camada interna de borracha que pertence a uma classe de polímeros genericamente chamada de EPDM. A fórmula estrutural de um exemplo desses polímeros é Polímeros podem ser produzidos pela polimerização de compostos insaturados (monômeros) como exemplificado para o polipropileno (um homopolímero): Os monômeros que podem ser utilizados para preparar o co‐ polímero do tipo EPDM, cuja fórmula estrutural foi apresentada, são",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "V"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q44",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q44/image.png"
       }
     },
     {
@@ -1769,29 +2033,29 @@
         "x": 0,
         "y": 626,
         "w": 848,
-        "h": 717
+        "h": 272
       },
       "stem": "ଶ௫ାଵ ݂ : Թ െሼ2ሽ→Թ ݂ ሺ ݔ ሻൌ Se a função é definida por e a ௫ିଶ ݃ : Թ െሼ2ሽ→Թ ݃ ሺ ݔ ሻൌ ݂ ሺ ݂ ሺ ݔ ሻሻ, função é definida por então ݃ ሺ ݔ ሻ é igual a ௫",
       "options": [
         {
           "key": "A",
-          "text": "ଶ ݔ ଶ"
+          "text": ""
         },
         {
           "key": "B",
-          "text": "2 ݔ"
+          "text": ""
         },
         {
           "key": "C",
-          "text": "2 ݔ ൅3"
+          "text": ""
         },
         {
           "key": "D",
-          "text": "ݔ"
+          "text": ""
         },
         {
           "key": "E",
-          "text": "48"
+          "text": ""
         }
       ],
       "answer": {
@@ -1848,6 +2112,50 @@
       },
       "assets": {
         "questionImage": "/assets/questions/2019/q48/image.png"
+      }
+    },
+    {
+      "number": 49,
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 1569
+      },
+      "stem": "Um dono de restaurante assim descreveu a evolução do faturamento quinzenal de seu negócio, ao longo dos dez primeiros meses após a inauguração: “Até o final dos três primeiros meses, tivemos uma velocidade de crescimento mais ou menos constante, quando então sofremos uma queda abrupta, com o faturamento caindo à metade do que tinha sido atingido. Em seguida, voltamos a crescer, igualando, um mês e meio depois dessa queda, o faturamento obtido ao final do terceiro mês. Agora, ao final do décimo mês, estamos estabilizando o faturamento em um patamar 50% acima do faturamento obtido ao final do terceiro mês”. Considerando que, na ordenada, o faturamento quinzenal está representado em unidades desconhecidas, porém uniformemente espaçadas, qual dos gráficos é compatível com a descrição do comerciante?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(D)"
+        },
+        {
+          "key": "B",
+          "text": "(E)"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q49",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q49/image.png"
       }
     },
     {
@@ -1984,34 +2292,34 @@
     },
     {
       "number": 53,
-      "page": 16,
+      "page": 11,
       "bbox": {
-        "x": 0,
-        "y": 1557,
-        "w": 848,
-        "h": 781
+        "x": 804,
+        "y": 699,
+        "w": 849,
+        "h": 114
       },
-      "stem": "ଵ ଶ logଶ ݕ ൌെ ଶ൅ ଷlogଶ ݔ ݔ ൐0, Se , para então య √௫మ ݕ ൌ",
+      "stem": "temperatura ambiente (25 C) 3. Água mineral sem gás deixada 53 em geladeira (4 oC) 4. Água mineral com gás deixada 55",
       "options": [
         {
           "key": "A",
-          "text": "√ଶ ൌට௫య ݕ"
+          "text": ""
         },
         {
           "key": "B",
-          "text": "ଶ ଵ య ݕ ൌെ √ଶ൅√ ݔ ଶ"
+          "text": ""
         },
         {
           "key": "C",
-          "text": "య ଶ ݕ ൌ√2 ∙√ ݔ"
+          "text": ""
         },
         {
           "key": "D",
-          "text": "ݕ ൌ√2 ݔ ଷ"
+          "text": ""
         },
         {
           "key": "E",
-          "text": "V"
+          "text": ""
         }
       ],
       "answer": {
@@ -2072,34 +2380,34 @@
     },
     {
       "number": 55,
-      "page": 16,
+      "page": 11,
       "bbox": {
         "x": 804,
-        "y": 1306,
+        "y": 768,
         "w": 849,
-        "h": 1032
+        "h": 990
       },
-      "stem": "Uma seta aponta para a posição zero no instante inicial. A cada rodada, ela poderá ficar no mesmo lugar ou mover‐se uma unidade para a direita ou mover‐se uma unidade para a esquerda, cada uma dessas três possibilidades com igual probabilidade. Qual é a probabilidade de que, após 5 rodadas, a seta volte à posição inicial? ଵ",
+      "stem": "em geladeira (4 C) 4. Água mineral com gás deixada 55 em geladeira (4 oC) Para todos os experimentos, foi usada água mineral da mesma marca. Considere a água com gás como tendo gás carbônico dissolvido. Com base nessas informações, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "ଽ ଵ଻"
+          "text": "o uso da água com gás, ao invés da sem gás, diminuiu a velocidade de dissolução da pastilha em cerca de 50%, uma vez que, como já possui gás carbônico, há o deslocamento do equilíbrio para a formação dos reagentes."
         },
         {
           "key": "B",
-          "text": "଼ଵ ଵ"
+          "text": "o uso da água com gás, ao invés da sem gás, aumentou a velocidade de dissolução da pastilha em cerca de 33%, uma vez que o gás carbônico acidifica a água, aumentando a velocidade de consumo do carbonato de sódio."
         },
         {
           "key": "C",
-          "text": "ଷ ହଵ"
+          "text": "nem a mudança de temperatura nem a adição de gás carbônico na solução afetaram a velocidade da reação, uma vez que o sistema não se encontra em equilíbrio."
         },
         {
           "key": "D",
-          "text": "ଵଶହ ଵଶହ"
+          "text": "o aumento da temperatura da água, de 4 °C para 25 °C, levou a um aumento na velocidade da reação, uma vez que aumentou a frequência e a energia de colisão entre as moléculas envolvidas na reação."
         },
         {
           "key": "E",
-          "text": "ଶସଷ V"
+          "text": "o aumento da temperatura da água, de 4 °C para 25 °C, levou a um aumento na velocidade da reação, uma vez que facilita a liberação de gás carbônico da solução, deslocando o equilíbrio para a formação dos reagentes. 38"
         }
       ],
       "answer": {
@@ -2112,6 +2420,50 @@
       },
       "assets": {
         "questionImage": "/assets/questions/2019/q55/image.png"
+      }
+    },
+    {
+      "number": 56,
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 2075,
+        "w": 849,
+        "h": 263
+      },
+      "stem": "Ácido maleico 138 202 Acetona ‐95 56 Considere que não houve perda do solvente durante a filtração. V",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q56",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente"
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2019/q56/image.png"
       }
     },
     {
@@ -2253,29 +2605,29 @@
         "x": 0,
         "y": 106,
         "w": 848,
-        "h": 1252
+        "h": 242
       },
-      "stem": "Sim, estou me associando à campanha nacional contra os verbos que acabam em \"ilizar\". Se nada for feito, daqui a pouco eles serão mais numerosos do que os terminados simplesmente em \"ar\". Todos os dias os maus tradutores de livros de 5 marketing e administração disponibilizam mais e mais termos infelizes, que imediatamente são operacionalizados pela mídia, reinicializando palavras que já existiam e eram perfeitamente claras e eufônicas. A doença está tão disseminada que muitos verbos honestos, 10 com currículo de ótimos serviços prestados, estão a ponto de cair em desgraça entre pessoas de ouvidos sensíveis. Depois que você fica alérgico a disponibilizar, como você vai admitir, digamos, \"viabilizar\"? É triste demorar tanto tempo para a gente se dar conta de que \"desincompatibilizar\" sempre foi um 15 palavrão. FREIRE, Ricardo. Complicabilizando. Época, ago. 2003. Com base no texto, é correto afirmar:",
+      "stem": "Sim, estou me associando à campanha nacional contra os verbos que acabam em \"ilizar\". Se nada for feito, daqui a pouco eles serão mais numerosos do que os terminados simplesmente em \"ar\". Todos os dias os maus tradutores de livros de 5 marketing e administração disponibilizam mais e mais termos",
       "options": [
         {
           "key": "A",
-          "text": "A “campanha nacional” a que se refere o autor tem por objetivo banir da língua portuguesa os verbos terminados em “ilizar”."
+          "text": ""
         },
         {
           "key": "B",
-          "text": "O autor considera o emprego de verbos como “reinicializando” (L. 7) e “viabilizar” (L. 13) uma verdadeira “doença”."
+          "text": ""
         },
         {
           "key": "C",
-          "text": "A maioria dos verbos terminados em “(i)lizar”, presentes no texto, foi incorporada à língua por influência estrangeira."
+          "text": ""
         },
         {
           "key": "D",
-          "text": "O autor, no final do primeiro parágrafo, acaba usando involuntariamente os verbos que ele condena."
+          "text": ""
         },
         {
           "key": "E",
-          "text": "Os prefixos “des” e “in”, que entram na formação do verbo “desincompatibilizar” (L. 14), têm sentido oposto, por isso o autor o considera um “palavrão”. 61"
+          "text": ""
         }
       ],
       "answer": {
@@ -2913,7 +3265,7 @@
         "x": 0,
         "y": 106,
         "w": 848,
-        "h": 1743
+        "h": 912
       },
       "stem": "De acordo com o texto, considera‐se contraditório, em relação à percepção humana do tempo,",
       "options": [
@@ -2935,7 +3287,7 @@
         },
         {
           "key": "E",
-          "text": "seu grau de abundância e desperdício. TEXTO PARA AS QUESTÕES DE 76 A 79 For most, The Gateway International Bridge functions as it should, allowing people to get between the U.S. and Mexico. But on a hot Sunday afternoon, a dozen migrants at the mouth of the bridge weren’t getting anywhere at all. 5 They had been told, once again, to wait. At a press conference the next day, President Trump once again touted the border wall he has promised supporters. “The wall is getting longer and taller and stronger each and every day”, he said, even though construction has not 10 begun. The President’s characterization of the physical wall was false, but his Administration has effectively erected an invisible one. It is built, in part, from situations like the one at the bridge, which illustrates the problem with this kind of 15 barrier. The practices that Trump praises for keeping out criminals also punish those who are trying to follow the rules. Those migrants who spoke to TIME at the bridge had varied stories but shared a determination to cross. Some 20 understood a bit of what could happen to them next. How long could it take to get processed? And if they did ultimately apply for asylum, it remained to be seen whether their stories would qualify. The regulations governing such matters are complicated, and the vast majority who apply 25 are rejected. But in theory, their fates would be decided at immigration courts, not at the border. TIME, August 23, 2018. Adaptado. 76"
+          "text": "seu grau de abundância e desperdício. TEXTO PARA AS QUESTÕES DE 76 A 79 For most, The Gateway International Bridge functions as it should, allowing people to get between the U.S. and Mexico. But on a hot Sunday afternoon, a dozen migrants at the mouth of the bridge weren’t getting anywhere at all. 5 They had been told, once again, to wait."
         }
       ],
       "answer": {

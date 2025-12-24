@@ -30,12 +30,13 @@ export function Questoes() {
         const response = await fetch(`/data/questions/fuvest-${selectedYear}.json`);
         if (!response.ok) throw new Error('Falha ao carregar as questões.');
         const data = await response.json();
-        
-        // Filtra e prioriza as questões que o usuário ainda não acertou ou que errou recentemente
-        const enrichedOnly = data.questions.filter(q => q.explanation && q.explanation.theory !== "Pendente");
-        
+
+        // Importante: em produção o JSON pode estar parcialmente enriquecido.
+        // Se não houver explicação, ainda assim a questão deve aparecer (o aluno lê pela imagem).
+        const all = Array.isArray(data.questions) ? data.questions : [];
+
         // Sorteia as questões para não ser sempre na mesma ordem
-        const shuffled = [...enrichedOnly].sort(() => Math.random() - 0.5);
+        const shuffled = [...all].sort(() => Math.random() - 0.5);
         
         setQuestions(shuffled);
         setCurrentIndex(0);
@@ -143,6 +144,9 @@ export function Questoes() {
   if (questions.length === 0) return <div className="p-8 text-center text-slate-500">Nenhuma questão encontrada para este ano.</div>;
 
   const currentQ = questions[currentIndex];
+  const explanation = currentQ?.explanation || {};
+  const steps = Array.isArray(explanation.steps) ? explanation.steps : [];
+  const distractors = explanation.distractors || {};
   const isCorrect = selectedOption === currentQ.answer.correct;
   const accuracy = stats.totalAnswered > 0 ? Math.round((stats.correctCount / stats.totalAnswered) * 100) : 0;
 
@@ -315,14 +319,16 @@ export function Questoes() {
                     <HelpCircle size={14} className="mr-2" /> Conceito Chave
                   </h4>
                   <p className="text-sm text-slate-600 leading-relaxed bg-slate-50 p-4 rounded-2xl border border-slate-100 italic">
-                    {currentQ.explanation.theory}
+                    {explanation.theory || "(Explicação ainda não gerada para esta questão.)"}
                   </p>
                 </div>
 
                 <div>
                   <h4 className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3">Passo a Passo</h4>
                   <div className="space-y-3">
-                    {currentQ.explanation.steps.map((step, idx) => (
+                    {steps.length === 0 ? (
+                      <p className="text-sm text-slate-500">(Passo a passo ainda não disponível.)</p>
+                    ) : steps.map((step, idx) => (
                       <div key={idx} className="flex items-start text-sm">
                         <span className="bg-slate-900 text-white w-5 h-5 rounded-md flex items-center justify-center text-[10px] font-black mr-3 shrink-0 mt-0.5">{idx + 1}</span>
                         <span className="text-slate-600 leading-tight">{step}</span>
@@ -336,7 +342,7 @@ export function Questoes() {
                   <div className="space-y-2">
                     {['A', 'B', 'C', 'D', 'E'].map(key => (
                       <div key={key} className={`p-3 rounded-xl border text-xs leading-snug ${key === currentQ.answer.correct ? 'bg-emerald-50 border-emerald-100 text-emerald-800 font-bold' : 'bg-white border-slate-100 text-slate-500'}`}>
-                        <span className="mr-1">{key})</span> {currentQ.explanation.distractors[key]}
+                        <span className="mr-1">{key})</span> {distractors[key] || '(Ainda não disponível)'}
                       </div>
                     ))}
                   </div>
