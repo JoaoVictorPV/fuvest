@@ -43,16 +43,20 @@
       "id": "fuvest-2019-q01",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão envolve a identificação da época geológica, o elemento químico apropriado para datação e o método de datação correto para um sítio arqueológico de 1000 anos atrás. A época geológica atual é o Holoceno. O método de datação por carbono-14 é usado para materiais orgânicos com até cerca de 50.000 anos. O silício não é usualmente empregado para datação de sítios arqueológicos.",
+        "steps": [
+          "Identificar a época geológica: Considerando que o sítio arqueológico tem 1000 anos, ele se encontra na época geológica do Holoceno.",
+          "Identificar o elemento químico: Para datar materiais orgânicos dessa idade, o carbono (especificamente o isótopo carbono-14) é o mais adequado.",
+          "Identificar o método de datação: O método de datação por decaimento radioativo de isótopos, como o carbono-14, é apropriado para essa escala de tempo."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "CORRETA. A alternativa associa corretamente o Holoceno, o silício (presente em materiais como cerâmica e vidro) e a datação por quantificação de isótopos estáveis. Embora o silício esteja presente nos materiais, a quantificação de isótopos estáveis é útil, mas o principal é o uso do carbono.",
+          "B": "INCORRETA. O Jurássico é uma era geológica muito mais antiga (milhões de anos atrás), incompatível com a idade do sítio arqueológico. O carbono é um elemento correto para datação, e o método de decaimento radioativo de isótopos também é adequado.",
+          "C": "INCORRETA. Embora o Holoceno e o uso de carbono e datação por decaimento radioativo de isótopos estejam corretos, o uso do silício não se encaixa no contexto principal para materiais orgânicos.",
+          "D": "INCORRETA. O Jurássico está incorreto, pois se refere a uma era geológica muito antiga. Além disso, o uso do silício não é o principal para datação de materiais orgânicos.",
+          "E": "INCORRETA. O Jurássico está incorreto pela mesma razão da alternativa D. A datação por quantificação de isótopos estáveis pode ser usada em certos contextos, mas para materiais orgânicos recentes, o carbono-14 é mais apropriado."
         },
-        "finalSummary": ""
+        "finalSummary": "A pegadinha está em confundir as épocas geológicas e os métodos de datação, sendo crucial associar o Holoceno à datação por carbono-14 para sítios arqueológicos recentes."
       }
     },
     {
@@ -75,16 +79,20 @@
       "id": "fuvest-2019-q03",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a relação entre processos erosivos, clima (temperatura e precipitação) e a localização de diferentes biomas (deserto, áreas glaciais e floresta tropical). Cada bioma apresenta características climáticas distintas que influenciam a intensidade e o tipo de processos erosivos predominantes.",
+        "steps": [
+          "Analisar o gráfico, identificando os eixos de temperatura e precipitação.",
+          "Localizar no gráfico as áreas correspondentes aos climas típicos do deserto do Saara (quente e seco), da Antártida (muito frio e seco) e da floresta tropical (quente e úmido).",
+          "Comparar as localizações identificadas no gráfico com as características climáticas conhecidas de cada bioma."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Correto. O deserto do Saara está posicionado em uma região de alta temperatura e baixa precipitação; a Antártida, em baixíssima temperatura e baixa precipitação; e a floresta tropical, em alta temperatura e alta precipitação.",
+          "B": "Incorreto. Esta alternativa inverte as posições do deserto e da floresta tropical, colocando o deserto em uma área de alta precipitação e a floresta em uma área de baixa precipitação, o que não corresponde à realidade.",
+          "C": "Incorreto. A Antártida é corretamente posicionada na região de baixas temperaturas, mas o deserto e a floresta tropical têm suas posições invertidas, o que é um erro.",
+          "D": "Incorreto. Nesta alternativa, a Antártida está em uma região de temperatura relativamente mais alta, o que não corresponde à sua localização geográfica. As posições do deserto e da floresta também estão invertidas.",
+          "E": "Incorreto. A floresta tropical está posicionada em uma área de baixíssima precipitação, o que contraria suas características climáticas. O deserto e a Antártida também estão mal posicionados."
         },
-        "finalSummary": ""
+        "finalSummary": "A correta interpretação de gráficos climáticos e o conhecimento das características climáticas de diferentes biomas são essenciais para identificar a alternativa correta."
       }
     },
     {
@@ -128,16 +136,21 @@
       "id": "fuvest-2019-q02",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O neoliberalismo é uma doutrina política e econômica que defende a mínima intervenção do Estado na economia. Suas principais características incluem a defesa do livre mercado, a desregulamentação, a privatização de empresas estatais, a redução de gastos públicos (principalmente em áreas sociais) e a abertura comercial.",
+        "steps": [
+          "Identificar as características centrais do neoliberalismo.",
+          "Analisar cada alternativa à luz dessas características.",
+          "Eliminar as alternativas que contradizem os princípios do neoliberalismo.",
+          "Selecionar a alternativa que melhor representa as características do neoliberalismo."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "INCORRETA. A prevalência da agricultura e pecuária no PIB dos países desenvolvidos não é uma característica do capitalismo neoliberal. Países desenvolvidos possuem forte setor de serviços e indústria.",
+          "B": "CORRETA. O neoliberalismo de fato está associado ao crescimento da concentração de riqueza e poder financeiro, com um enfraquecimento dos setores produtivos (indústria e agricultura) e uma tendência à redução dos direitos sociais (devido à diminuição dos gastos públicos em áreas como saúde, educação e previdência).",
+          "C": "INCORRETA. O neoliberalismo prega a fluidez de capitais (livre circulação) e não se caracteriza pela distribuição equitativa da riqueza. Pelo contrário, tende a acentuar as desigualdades sociais.",
+          "D": "INCORRETA. O neoliberalismo prega a diminuição, e não o fortalecimento, do papel do Estado na economia e nos direitos sociais. Além disso, o poder das finanças tende a aumentar no neoliberalismo.",
+          "E": "INCORRETA. A formação de blocos econômicos entre países periféricos não é uma característica definidora do neoliberalismo. Além disso, o neoliberalismo está associado à livre circulação de capitais e ao aumento das desigualdades, justamente o oposto do que a alternativa propõe."
         },
-        "finalSummary": ""
+        "finalSummary": "A pegadinha aqui é identificar que o neoliberalismo está associado à redução do papel do Estado e ao aumento da concentração de renda."
       }
     },
     {
@@ -160,16 +173,20 @@
       "id": "fuvest-2019-q04",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O fenômeno meteorológico descrito, mais comum no outono e inverno e agravado pela poluição urbana, é a inversão térmica. A inversão térmica ocorre quando uma camada de ar quente se posiciona sobre uma camada de ar frio, impedindo a dispersão de poluentes e intensificando a concentração destes próximos à superfície.",
+        "steps": [
+          "Identificar o fenômeno descrito no enunciado: inversão térmica.",
+          "Relacionar a inversão térmica com as características mencionadas: maior ocorrência no outono/inverno e agravamento da poluição em áreas urbanas.",
+          "Associar a inversão térmica à imagem fornecida, que representa graficamente a inversão de temperatura com a altitude."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A questão não fornece informações sobre a umidade relativa do ar ou processos de condensação para justificar a formação de orvalho. O gráfico apresentado foca na variação da temperatura, e não na umidade.",
+          "B": "A alternativa correta é a 'inversão térmica'. A descrição do fenômeno no enunciado (maior frequência no outono e inverno, intensificação da poluição em áreas urbanas) e a imagem (inversão da temperatura com a altitude) são indicativos claros da inversão térmica.",
+          "C": "A formação de chuva ácida está relacionada à emissão de poluentes (óxidos de enxofre e nitrogênio) que reagem na atmosfera, formando ácidos. Embora a inversão térmica possa agravar a concentração desses poluentes, ela não é a causa direta da chuva ácida, mas sim um fator que contribui para sua intensificação local.",
+          "D": "O efeito estufa é um fenômeno natural essencial para a manutenção da temperatura da Terra, mas é intensificado pela emissão de gases como o CO2. A inversão térmica é um fenômeno diferente, que ocorre em baixas altitudes e está relacionado à estratificação da atmosfera.",
+          "E": "A ilha de calor é um fenômeno climático urbano caracterizado por temperaturas mais elevadas no centro da cidade em relação às áreas periféricas. Embora a poluição possa contribuir para a ilha de calor, a inversão térmica é um fenômeno distinto que afeta a dispersão de poluentes, e não necessariamente a temperatura média da cidade."
         },
-        "finalSummary": ""
+        "finalSummary": "A inversão térmica, caracterizada pela inversão do gradiente normal de temperatura, agrava a poluição em áreas urbanas durante o outono e inverno."
       }
     },
     {
@@ -213,16 +230,21 @@
       "id": "fuvest-2019-q04",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A inversão térmica é um fenômeno atmosférico que ocorre quando uma camada de ar quente se posiciona sobre uma camada de ar frio, invertendo o gradiente normal de temperatura na atmosfera. Isso impede a dispersão de poluentes, concentrando-os próximos à superfície e prejudicando a qualidade do ar.",
+        "steps": [
+          "Analisar o texto e a ilustração fornecidos (não inclusos aqui).",
+          "Identificar qual fenômeno atmosférico é descrito ou representado.",
+          "Associar a descrição ou representação à definição de cada alternativa.",
+          "Selecionar a alternativa que melhor se encaixa na descrição ou representação."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A camada de ozônio protege contra a radiação ultravioleta e não está diretamente relacionada com a concentração de poluentes perto da superfície. Portanto, sem a imagem, é improvável que seja a resposta correta.",
+          "B": "A inversão térmica é caracterizada pela retenção de poluentes devido à inversão do gradiente de temperatura, o que impede a dispersão vertical do ar. Se a ilustração mostrar uma concentração de poluentes em uma camada baixa da atmosfera, essa é a alternativa correta.",
+          "C": "O efeito estufa natural é um processo benéfico que mantém a temperatura da Terra adequada para a vida, mas não está diretamente relacionado com a concentração de poluentes em áreas urbanas. O efeito estufa agravado, por outro lado, sim está relacionado com o aumento da temperatura média do planeta, mas ele não é descrito diretamente na questão.",
+          "D": "A chuva ácida é formada pela reação de poluentes atmosféricos com a água da chuva, tornando-a ácida. Embora esteja relacionada com a poluição do ar, não é o fenômeno primário que causa a concentração de poluentes perto da superfície. Dependendo da ilustração, pode ser descartada.",
+          "E": "O smog fotoquímico é um tipo de poluição atmosférica que ocorre em áreas urbanas com alta concentração de óxidos de nitrogênio e compostos orgânicos voláteis, sob a ação da luz solar. Assim como a chuva ácida, o smog é uma consequência da poluição, e não o fenômeno da inversão propriamente dita."
         },
-        "finalSummary": ""
+        "finalSummary": "A inversão térmica é um fenômeno atmosférico que aprisiona poluentes, e a correta identificação depende da interpretação do texto e da ilustração fornecidos na questão original."
       }
     },
     {
@@ -245,16 +267,20 @@
       "id": "fuvest-2019-q10",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a transformação da metrópole de São Paulo, impulsionada inicialmente pela industrialização no século XX e, posteriormente, pela ascensão do setor terciário avançado, especialmente o capital financeiro. Essa transição se manifesta na produção de edifícios corporativos e na reconfiguração do espaço urbano. É importante entender os conceitos de metropolização, industrialização, terciarização e o papel do capital financeiro na organização do espaço urbano.",
+        "steps": [
+          "Identificar a principal mudança econômica e espacial descrita no texto: a passagem de uma economia industrial para uma dominada pelo capital financeiro.",
+          "Analisar o gráfico fornecido para identificar tendências na construção de conjuntos comerciais verticais em São Paulo.",
+          "Relacionar a mudança econômica identificada com as tendências observadas no gráfico e as opções fornecidas, buscando aquela que melhor representa a dinâmica descrita."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Incorreta. A expansão da área construída e a verticalização das moradias não são o foco principal do texto, que enfatiza a primazia do capital financeiro e a construção de edifícios corporativos.",
+          "B": "Incorreta. A periferização da moradia e a construção de condomínios horizontais não estão diretamente relacionadas à ascensão do capital financeiro e à produção de edifícios corporativos, que são o foco do texto.",
+          "C": "Incorreta. O aumento do número de favelas e cortiços é uma consequência da desigualdade social e da falta de acesso à moradia, mas não está diretamente ligado à dinâmica do capital financeiro e à produção de edifícios corporativos descrita no texto.",
+          "D": "Incorreta. A formação de cidades-dormitório e o aumento do tempo de deslocamento pendular são consequências da expansão urbana e da segregação socioespacial, mas não são o foco principal do texto, que enfatiza a primazia do capital financeiro e a construção de edifícios corporativos.",
+          "E": "Correta. O aumento do número de edifícios corporativos e a concentração de atividades especializadas refletem a ascensão do capital financeiro e sua articulação com o setor imobiliário, conforme descrito no texto. A verticalização do espaço urbano para atividades terciárias avançadas é uma característica da metropolização induzida pelo capital financeiro."
         },
-        "finalSummary": ""
+        "finalSummary": "A metropolização recente de São Paulo, marcada pela financeirização, se expressa na verticalização do espaço urbano com edifícios corporativos."
       }
     },
     {
@@ -298,16 +324,21 @@
       "id": "fuvest-2019-q10",
       "year": 2019,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a dinâmica espacial da economia em São Paulo, com foco na desconcentração industrial e na dispersão do setor terciário avançado. É importante compreender os conceitos de desconcentração industrial (movimento das indústrias para áreas menos centrais ou outras cidades/estados em busca de menores custos e incentivos) e de setor terciário avançado (serviços de alta tecnologia e informação, como consultoria, serviços financeiros, pesquisa e desenvolvimento).",
+        "steps": [
+          "Interpretar o mapa (se fornecido) para identificar padrões de distribuição das atividades econômicas.",
+          "Relacionar o texto (se fornecido) com os processos de desconcentração industrial e dispersão do setor terciário avançado.",
+          "Analisar cada alternativa, verificando sua coerência com os dados apresentados e os conceitos geográficos relevantes.",
+          "Identificar a alternativa que melhor descreve a dinâmica espacial da economia paulista, considerando a desconcentração industrial e a dispersão do setor terciário avançado."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa está incorreta porque associa o crescimento do terciário avançado ao aumento de estabelecimentos industriais, quando o fenômeno observado é o oposto: a desconcentração industrial. Além disso, a dispersão mencionada no enunciado se refere ao setor terciário avançado, e não à indústria.",
+          "B": "A alternativa está incorreta porque a produção industrial em São Paulo tem passado por um processo de desconcentração, e não de concentração nas áreas centrais. A proliferação de edifícios corporativos está mais ligada ao crescimento do setor terciário avançado do que à produção industrial centralizada.",
+          "C": "A alternativa está incorreta porque os edifícios corporativos abrigam principalmente atividades do setor terciário avançado, e não a produção de manufaturados. Além disso, embora haja concentração em áreas de maior densidade populacional, a afirmação não captura a complexidade da distribuição espacial do setor terciário.",
+          "D": "A alternativa está incorreta pois, embora o setor terciário avançado de fato ocupe edifícios corporativos, a afirmação de que está concentrado em *poucos* distritos da metrópole pode ser uma generalização excessiva. A dispersão, ainda que não homogênea, é uma característica importante a ser considerada.",
+          "E": "A alternativa está correta porque descreve adequadamente o processo de desconcentração industrial em São Paulo, acompanhado da dispersão do setor terciário avançado. Essa dinâmica reflete a busca por menores custos, incentivos fiscais e melhor qualidade de vida, além da expansão das atividades de serviços de alta tecnologia e informação."
         },
-        "finalSummary": ""
+        "finalSummary": "A chave para acertar a questão é entender a dinâmica de desconcentração industrial e a concomitante dispersão do setor terciário avançado, processos que reconfiguram o espaço econômico metropolitano."
       }
     },
     {

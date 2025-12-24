@@ -1,103 +1,101 @@
-[
-  {
-    "page": 1,
-    "questions": [
-      {
-        "number": 32,
-        "stem": "O esquema representa, de maneira bastante simplificada, uma\ndas possíveis hipóteses de relação de parentesco entre grupos\nanimais, assinalados pelo nome comum de alguns de seus\nrepresentantes. Na base do esquema, a característica que une\ntodos em um mesmo grupo é a deuterostomia.\nIdentifique quais seriam as características I, II, III, IV, V que\njustificariam os respectivos grupos.",
-        "options": [
-          {
-            "key": "A",
-            "text": "I-notocorda; II-pulmão; III-âmnio; IV-pelo; V-ovo com casca."
-          },
-          {
-            "key": "B",
-            "text": "I-escamas; II-encéfalo; III-pulmão; IV-glândulas mamárias;\nV-âmnio."
-          },
-          {
-            "key": "C",
-            "text": "I-mandíbula; II-4 membros locomotores; III-pulmão;\nIV-ventrículo subdividido em 2 câmaras; V-ovo com casca."
-          },
-          {
-            "key": "D",
-            "text": "I-notocorda; II-4 membros locomotores; III-pulmão;\nIV-glândulas mamárias; V-pena."
-          },
-          {
-            "key": "E",
-            "text": "I-âmnio; II-pulmão; III-mandíbula;\nIV-ventrículo subdividido em 2 câmaras; V-escama."
-          }
-        ],
-        "bbox": {
-          "x": 23,
-          "y": 30,
-          "w": 306,
-          "h": 329
+{
+  "page": 1,
+  "questions": [
+    {
+      "number": 32,
+      "stem": "O esquema representa, de maneira bastante simplificada, uma\ndas possíveis hipóteses de relação de parentesco entre grupos\nanimais, assinalados pelo nome comum de alguns de seus\nrepresentantes. Na base do esquema, a característica que une\ntodos em um mesmo grupo é a deuterostomia.\nIdentifique quais seriam as características I, II, III, IV, V que\njustificariam os respectivos grupos.",
+      "options": [
+        {
+          "key": "A",
+          "text": "I-notocorda; II-pulmão; III-âmnio; IV-pelo; V-ovo com casca."
+        },
+        {
+          "key": "B",
+          "text": "I-escamas; II-encéfalo; III-pulmão; IV-glândulas mamárias;\nV-âmnio."
+        },
+        {
+          "key": "C",
+          "text": "I-mandíbula; II-4 membros locomotores; III-pulmão;\nIV-ventrículo subdividido em 2 câmaras; V-ovo com casca."
+        },
+        {
+          "key": "D",
+          "text": "I-notocorda; II-4 membros locomotores; III-pulmão;\nIV-glândulas mamárias; V-pena."
+        },
+        {
+          "key": "E",
+          "text": "I-âmnio; II-pulmão; III-mandíbula;\nIV-ventrículo subdividido em 2 câmaras; V-escama."
         }
-      },
-      {
-        "number": 33,
-        "stem": "Uma alteração genética é determinada por um gene com\nherança autossômica recessiva. O heredograma mostra\nfamílias em que essa condição está presente.\nO casal III2 e III3 está esperando um menino. Considerando\nque, nessa população, uma em cada 50 pessoas é\nheterozigótica para essa alteração, a probabilidade de que esse\nmenino seja afetado é",
-        "options": [
-          {
-            "key": "A",
-            "text": "1/100"
-          },
-          {
-            "key": "B",
-            "text": "1/200"
-          },
-          {
-            "key": "C",
-            "text": "1/1.000"
-          },
-          {
-            "key": "D",
-            "text": "1/25.000"
-          },
-          {
-            "key": "E",
-            "text": "1/40.000"
-          }
-        ],
-        "bbox": {
-          "x": 23,
-          "y": 594,
-          "w": 306,
-          "h": 267
-        }
-      },
-      {
-        "number": 34,
-        "stem": "Desde 2013, a cobertura vacinal para doenças como caxumba,\nsarampo, rubéola e poliomielite vem caindo ano a ano em todo\no país, devido, entre outros motivos,  I . Contudo,\nsabe-se que a vacina é o único meio de prevenir essas doenças\ne consiste na inoculação de II\nAs lacunas I e II podem ser corretamente preenchidas por:",
-        "options": [
-          {
-            "key": "A",
-            "text": "I\nà baixa incidência dessas doenças atualmente, não\nrepresentando mais riscos à saúde pública.\nII\nanticorpos que estimulam uma resposta imunológica\npassiva contra uma doença específica, em pessoas\nsaudáveis."
-          },
-          {
-            "key": "B",
-            "text": "I\na movimentos antivacinação, que têm se expandido\npelo mundo.\nII\nvírus patogênicos modificados em laboratório,\ncausando a cura pela competição com os vírus não\nmodificados da pessoa doente."
-          },
-          {
-            "key": "C",
-            "text": "I\na movimentos antivacinação, que têm se expandido\npelo mundo.\nII\nantígenos do agente patogênico, estimulando uma\nresposta imunológica ativa, em pessoas saudáveis."
-          },
-          {
-            "key": "D",
-            "text": "I\nao alto custo dessas vacinas, não coberto pelo\nsistema público, o que as torna inacessíveis a grande\nparte da população.\nII\nantígenos do agente patogênico para garantir a cura\nem um curto espaço de tempo, em pessoas doentes."
-          },
-          {
-            "key": "E",
-            "text": "I\nà baixa incidência dessas doenças atualmente, não\nrepresentando mais riscos à saúde pública.\nII\nanticorpos específicos produzidos em outro\norganismo, que se multiplicam e eliminam o agente\npatogênico, em pessoas doentes."
-          }
-        ],
-        "bbox": {
-          "x": 349,
-          "y": 89,
-          "w": 307,
-          "h": 534
-        }
+      ],
+      "bbox": {
+        "x": 23,
+        "y": 32,
+        "w": 504,
+        "h": 324
       }
-    ]
-  }
-]
+    },
+    {
+      "number": 34,
+      "stem": "Desde 2013, a cobertura vacinal para doenças como caxumba,\nsarampo, rubéola e poliomielite vem caindo ano a ano em todo\no país, devido, entre outros motivos,\nContudo,\nsabe-se que a vacina é o único meio de prevenir essas doenças\ne consiste na inoculação de\nII\nAs lacunas I e II podem ser corretamente preenchidas por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I à baixa incidência dessas doenças atualmente, não\n representando mais riscos à saúde pública.\nII anticorpos que estimulam uma resposta imunológica\n passiva contra uma doença específica, em pessoas\nsaudáveis."
+        },
+        {
+          "key": "B",
+          "text": "I a movimentos antivacinação, que têm se expandido\n pelo mundo.\nII vírus patogênicos modificados em laboratório,\n causando a cura pela competição com os vírus não\nmodificados da pessoa doente."
+        },
+        {
+          "key": "C",
+          "text": "I a movimentos antivacinação, que têm se expandido\n pelo mundo.\nII antígenos do agente patogênico, estimulando uma\n resposta imunológica ativa, em pessoas saudáveis."
+        },
+        {
+          "key": "D",
+          "text": "I ao alto custo dessas vacinas, não coberto pelo\n sistema público, o que as torna inacessíveis a grande\nparte da população.\nII antígenos do agente patogênico para garantir a cura\nem um curto espaço de tempo, em pessoas doentes."
+        },
+        {
+          "key": "E",
+          "text": "I à baixa incidência dessas doenças atualmente, não\n representando mais riscos à saúde pública.\nII anticorpos específicos produzidos em outro\n organismo, que se multiplicam e eliminam o agente\npatogênico, em pessoas doentes."
+        }
+      ],
+      "bbox": {
+        "x": 542,
+        "y": 32,
+        "w": 454,
+        "h": 528
+      }
+    },
+    {
+      "number": 33,
+      "stem": "Uma alteração genética é determinada por um gene com\nherança autossômica recessiva. O heredograma mostra\nfamílias em que essa condição está presente.\nO casal III2 e III3 está esperando um menino. Considerando\nque, nessa população, uma em cada 50 pessoas é\nheterozigótica para essa alteração, a probabilidade de que esse\nmenino seja afetado é",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/100"
+        },
+        {
+          "key": "B",
+          "text": "1/200"
+        },
+        {
+          "key": "C",
+          "text": "1/1.000"
+        },
+        {
+          "key": "D",
+          "text": "1/25.000"
+        },
+        {
+          "key": "Ε",
+          "text": "1/40.000"
+        }
+      ],
+      "bbox": {
+        "x": 23,
+        "y": 586,
+        "w": 504,
+        "h": 312
+      }
+    }
+  ]
+}

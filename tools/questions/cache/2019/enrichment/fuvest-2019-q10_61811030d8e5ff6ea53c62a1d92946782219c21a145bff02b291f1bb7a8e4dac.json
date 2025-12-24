@@ -1,0 +1,17 @@
+{
+  "theory": "A questão aborda a dinâmica espacial da economia em São Paulo, com foco na desconcentração industrial e na dispersão do setor terciário avançado. É importante compreender os conceitos de desconcentração industrial (movimento das indústrias para áreas menos centrais ou outras cidades/estados em busca de menores custos e incentivos) e de setor terciário avançado (serviços de alta tecnologia e informação, como consultoria, serviços financeiros, pesquisa e desenvolvimento).",
+  "steps": [
+    "Interpretar o mapa (se fornecido) para identificar padrões de distribuição das atividades econômicas.",
+    "Relacionar o texto (se fornecido) com os processos de desconcentração industrial e dispersão do setor terciário avançado.",
+    "Analisar cada alternativa, verificando sua coerência com os dados apresentados e os conceitos geográficos relevantes.",
+    "Identificar a alternativa que melhor descreve a dinâmica espacial da economia paulista, considerando a desconcentração industrial e a dispersão do setor terciário avançado."
+  ],
+  "distractors": {
+    "A": "A alternativa está incorreta porque associa o crescimento do terciário avançado ao aumento de estabelecimentos industriais, quando o fenômeno observado é o oposto: a desconcentração industrial. Além disso, a dispersão mencionada no enunciado se refere ao setor terciário avançado, e não à indústria.",
+    "B": "A alternativa está incorreta porque a produção industrial em São Paulo tem passado por um processo de desconcentração, e não de concentração nas áreas centrais. A proliferação de edifícios corporativos está mais ligada ao crescimento do setor terciário avançado do que à produção industrial centralizada.",
+    "C": "A alternativa está incorreta porque os edifícios corporativos abrigam principalmente atividades do setor terciário avançado, e não a produção de manufaturados. Além disso, embora haja concentração em áreas de maior densidade populacional, a afirmação não captura a complexidade da distribuição espacial do setor terciário.",
+    "D": "A alternativa está incorreta pois, embora o setor terciário avançado de fato ocupe edifícios corporativos, a afirmação de que está concentrado em *poucos* distritos da metrópole pode ser uma generalização excessiva. A dispersão, ainda que não homogênea, é uma característica importante a ser considerada.",
+    "E": "A alternativa está correta porque descreve adequadamente o processo de desconcentração industrial em São Paulo, acompanhado da dispersão do setor terciário avançado. Essa dinâmica reflete a busca por menores custos, incentivos fiscais e melhor qualidade de vida, além da expansão das atividades de serviços de alta tecnologia e informação."
+  },
+  "finalSummary": "A chave para acertar a questão é entender a dinâmica de desconcentração industrial e a concomitante dispersão do setor terciário avançado, processos que reconfiguram o espaço econômico metropolitano."
+}

@@ -5,6 +5,17 @@
       {
         "number": 13,
         "stem": "Os grandes aviões comerciais voam em altitudes onde o ar é\nrarefeito e a pressão atmosférica é baixa. Devido a isso, eles\ntêm o seu interior pressurizado em uma pressão igual à\natmosférica na altitude de 2.000 m. A figura mostra o gráfico da\npressão atmosférica em função da altitude.",
+        "options": [],
+        "bbox": {
+          "x": 44,
+          "y": 53,
+          "w": 424,
+          "h": 450
+        }
+      },
+      {
+        "number": null,
+        "stem": "A força, em N, a que fica submetida uma janela plana de vidro,\nde 20 x 30 cm², na cabine de passageiros na altitude de\n10.000 m, é, aproximadamente,",
         "options": [
           {
             "key": "A",
@@ -23,20 +34,31 @@
             "text": "3.200"
           },
           {
-            "key": "E",
+            "key": "Ε",
             "text": "1.600"
           }
         ],
         "bbox": {
-          "x": 23,
-          "y": 56,
-          "w": 483,
-          "h": 418
+          "x": 44,
+          "y": 503,
+          "w": 424,
+          "h": 145
         }
       },
       {
         "number": 14,
         "stem": "O consumo calórico de um animal de sangue quente é\nproporcional à área superficial de seu corpo. Um animal com\nmassa 3,5 kg consome 250 kcal diárias. O gráfico relaciona a\nárea superficial desse animal com sua massa.",
+        "options": [],
+        "bbox": {
+          "x": 44,
+          "y": 664,
+          "w": 424,
+          "h": 508
+        }
+      },
+      {
+        "number": null,
+        "stem": "Considerando o gráfico, conclui-se que, se a massa deste animal\ndobrar, o seu novo consumo diário de energia, em kcal, será,\naproximadamente,",
         "options": [
           {
             "key": "A",
@@ -60,10 +82,10 @@
           }
         ],
         "bbox": {
-          "x": 23,
-          "y": 537,
-          "w": 483,
-          "h": 530
+          "x": 44,
+          "y": 1172,
+          "w": 424,
+          "h": 164
         }
       },
       {
@@ -92,15 +114,26 @@
           }
         ],
         "bbox": {
-          "x": 527,
-          "y": 56,
-          "w": 477,
-          "h": 414
+          "x": 518,
+          "y": 53,
+          "w": 424,
+          "h": 329
         }
       },
       {
         "number": 16,
-        "stem": "Dois corpos de massas iguais são soltos, ao mesmo tempo, a\npartir do repouso, da altura h₁ e percorrem os diferentes\ntrajetos (A) e (B), mostrados na figura, onde x1 > X2 e h₁ > h2.\nConsidere as seguintes afirmações:",
+        "stem": "Dois corpos de massas iguais são soltos, ao mesmo tempo, a\npartir do repouso, da altura h₁ e percorrem os diferentes\ntrajetos (A) e (B), mostrados na figura, onde x1 > X2 e h₁ > h2.",
+        "options": [],
+        "bbox": {
+          "x": 518,
+          "y": 391,
+          "w": 424,
+          "h": 252
+        }
+      },
+      {
+        "number": null,
+        "stem": "Considere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são\ndiferentes.\nII. As energias mecânicas dos corpos, logo antes de\ncomeçarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da\ntrajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois\ncasos.\nÉ correto somente o que se afirma em",
         "options": [
           {
             "key": "A",
@@ -124,10 +157,10 @@
           }
         ],
         "bbox": {
-          "x": 527,
-          "y": 467,
-          "w": 477,
-          "h": 600
+          "x": 518,
+          "y": 643,
+          "w": 424,
+          "h": 379
         }
       }
     ]

@@ -28,10 +28,10 @@
           }
         ],
         "bbox": {
-          "x": 32,
-          "y": 45,
-          "w": 455,
-          "h": 553
+          "x": 36,
+          "y": 41,
+          "w": 454,
+          "h": 519
         }
       },
       {
@@ -60,10 +60,10 @@
           }
         ],
         "bbox": {
-          "x": 32,
-          "y": 606,
-          "w": 402,
-          "h": 193
+          "x": 36,
+          "y": 587,
+          "w": 454,
+          "h": 161
         }
       },
       {
@@ -92,53 +92,42 @@
           }
         ],
         "bbox": {
-          "x": 32,
-          "y": 812,
-          "w": 443,
-          "h": 195
+          "x": 36,
+          "y": 763,
+          "w": 454,
+          "h": 181
         }
       },
       {
         "number": 30,
         "stem": "O gráfico representa a concentração de alguns hormônios\nobservados durante a gravidez de uma mulher.",
-        "options": [],
-        "bbox": {
-          "x": 517,
-          "y": 45,
-          "w": 459,
-          "h": 322
-        }
-      },
-      {
-        "number": 30,
-        "stem": "Identifique os hormônios H1 e H2, respectivamente, e o motivo\nda queda abrupta de suas concentrações no sangue ao final do\nperíodo de gestação.",
         "options": [
           {
             "key": "A",
-            "text": "H1\nprogesterona\nH2\nFSH\nMotivo\neliminação da\nplacenta"
+            "text": "progesterona FSH\neliminação da\nplacenta"
           },
           {
             "key": "B",
-            "text": "H1\nFSH\nH2\nLH\nMotivo\nreinício da\nmenstruação"
+            "text": "FSH\nLH\nreinício da\nmenstruação"
           },
           {
             "key": "C",
-            "text": "H1\nFSH\nH2\nestrógeno\nMotivo\nreinício da\nmenstruação"
+            "text": "FSH\nestrógeno\nreinício da\nmenstruação"
           },
           {
             "key": "D",
-            "text": "H1\nprogesterona\nH2\nestrógeno\nMotivo\neliminação da\nplacenta"
+            "text": "progesterona estrógeno\neliminação da\nplacenta"
           },
           {
             "key": "E",
-            "text": "H1\nFSH\nH2\nprogesterona\nMotivo\ninício da\nlactação"
+            "text": "FSH\nprogesterona\ninício da\nlactação"
           }
         ],
         "bbox": {
-          "x": 517,
-          "y": 368,
-          "w": 423,
-          "h": 260
+          "x": 519,
+          "y": 41,
+          "w": 454,
+          "h": 427
         }
       },
       {
@@ -167,10 +156,10 @@
           }
         ],
         "bbox": {
-          "x": 517,
-          "y": 631,
-          "w": 452,
-          "h": 377
+          "x": 519,
+          "y": 477,
+          "w": 454,
+          "h": 477
         }
       }
     ]

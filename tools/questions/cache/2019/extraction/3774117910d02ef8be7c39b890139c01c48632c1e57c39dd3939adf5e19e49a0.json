@@ -28,15 +28,15 @@
           }
         ],
         "bbox": {
-          "x": 54,
-          "y": 45,
-          "w": 505,
-          "h": 669
+          "x": 52,
+          "y": 61,
+          "w": 460,
+          "h": 590
         }
       },
       {
         "number": 6,
-        "stem": "As bases da teoria de Wegener seguiram inúmeras evidências\ndeixadas na superfície dos continentes ao longo do tempo\ngeológico. Considerando as figuras e seus conhecimentos,\nindique o fator básico que influenciou o raciocínio de Wegener.",
+        "stem": "A Litosfera é fragmentada em placas que deslizam, convergem\ne se separam umas em relação às outras à medida que se\nmovimentam sobre a Astenosfera. Essa dinâmica compõe a\nTectônica de Placas, reconhecida inicialmente pelo cientista\nalemão Alfred Wegener, que elaborou a teoria da Deriva\nContinental no início do século XX, tal como demonstrado a\nseguir.\nAs bases da teoria de Wegener seguiram inúmeras evidências\ndeixadas na superfície dos continentes ao longo do tempo\ngeológico. Considerando as figuras e seus conhecimentos,\nindique o fator básico que influenciou o raciocínio de Wegener.",
         "options": [
           {
             "key": "A",
@@ -60,10 +60,10 @@
           }
         ],
         "bbox": {
-          "x": 566,
-          "y": 65,
-          "w": 461,
-          "h": 847
+          "x": 526,
+          "y": 61,
+          "w": 457,
+          "h": 867
         }
       }
     ]

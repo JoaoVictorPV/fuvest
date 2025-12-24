@@ -1,0 +1,16 @@
+{
+  "theory": "A questão aborda a transformação da metrópole de São Paulo, impulsionada inicialmente pela industrialização no século XX e, posteriormente, pela ascensão do setor terciário avançado, especialmente o capital financeiro. Essa transição se manifesta na produção de edifícios corporativos e na reconfiguração do espaço urbano. É importante entender os conceitos de metropolização, industrialização, terciarização e o papel do capital financeiro na organização do espaço urbano.",
+  "steps": [
+    "Identificar a principal mudança econômica e espacial descrita no texto: a passagem de uma economia industrial para uma dominada pelo capital financeiro.",
+    "Analisar o gráfico fornecido para identificar tendências na construção de conjuntos comerciais verticais em São Paulo.",
+    "Relacionar a mudança econômica identificada com as tendências observadas no gráfico e as opções fornecidas, buscando aquela que melhor representa a dinâmica descrita."
+  ],
+  "distractors": {
+    "A": "Incorreta. A expansão da área construída e a verticalização das moradias não são o foco principal do texto, que enfatiza a primazia do capital financeiro e a construção de edifícios corporativos.",
+    "B": "Incorreta. A periferização da moradia e a construção de condomínios horizontais não estão diretamente relacionadas à ascensão do capital financeiro e à produção de edifícios corporativos, que são o foco do texto.",
+    "C": "Incorreta. O aumento do número de favelas e cortiços é uma consequência da desigualdade social e da falta de acesso à moradia, mas não está diretamente ligado à dinâmica do capital financeiro e à produção de edifícios corporativos descrita no texto.",
+    "D": "Incorreta. A formação de cidades-dormitório e o aumento do tempo de deslocamento pendular são consequências da expansão urbana e da segregação socioespacial, mas não são o foco principal do texto, que enfatiza a primazia do capital financeiro e a construção de edifícios corporativos.",
+    "E": "Correta. O aumento do número de edifícios corporativos e a concentração de atividades especializadas refletem a ascensão do capital financeiro e sua articulação com o setor imobiliário, conforme descrito no texto. A verticalização do espaço urbano para atividades terciárias avançadas é uma característica da metropolização induzida pelo capital financeiro."
+  },
+  "finalSummary": "A metropolização recente de São Paulo, marcada pela financeirização, se expressa na verticalização do espaço urbano com edifícios corporativos."
+}

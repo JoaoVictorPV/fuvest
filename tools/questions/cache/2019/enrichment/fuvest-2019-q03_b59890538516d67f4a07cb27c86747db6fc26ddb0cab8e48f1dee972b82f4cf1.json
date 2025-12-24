@@ -1,0 +1,16 @@
+{
+  "theory": "A questão aborda a relação entre processos erosivos, clima (temperatura e precipitação) e a localização de diferentes biomas (deserto, áreas glaciais e floresta tropical). Cada bioma apresenta características climáticas distintas que influenciam a intensidade e o tipo de processos erosivos predominantes.",
+  "steps": [
+    "Analisar o gráfico, identificando os eixos de temperatura e precipitação.",
+    "Localizar no gráfico as áreas correspondentes aos climas típicos do deserto do Saara (quente e seco), da Antártida (muito frio e seco) e da floresta tropical (quente e úmido).",
+    "Comparar as localizações identificadas no gráfico com as características climáticas conhecidas de cada bioma."
+  ],
+  "distractors": {
+    "A": "Correto. O deserto do Saara está posicionado em uma região de alta temperatura e baixa precipitação; a Antártida, em baixíssima temperatura e baixa precipitação; e a floresta tropical, em alta temperatura e alta precipitação.",
+    "B": "Incorreto. Esta alternativa inverte as posições do deserto e da floresta tropical, colocando o deserto em uma área de alta precipitação e a floresta em uma área de baixa precipitação, o que não corresponde à realidade.",
+    "C": "Incorreto. A Antártida é corretamente posicionada na região de baixas temperaturas, mas o deserto e a floresta tropical têm suas posições invertidas, o que é um erro.",
+    "D": "Incorreto. Nesta alternativa, a Antártida está em uma região de temperatura relativamente mais alta, o que não corresponde à sua localização geográfica. As posições do deserto e da floresta também estão invertidas.",
+    "E": "Incorreto. A floresta tropical está posicionada em uma área de baixíssima precipitação, o que contraria suas características climáticas. O deserto e a Antártida também estão mal posicionados."
+  },
+  "finalSummary": "A correta interpretação de gráficos climáticos e o conhecimento das características climáticas de diferentes biomas são essenciais para identificar a alternativa correta."
+}

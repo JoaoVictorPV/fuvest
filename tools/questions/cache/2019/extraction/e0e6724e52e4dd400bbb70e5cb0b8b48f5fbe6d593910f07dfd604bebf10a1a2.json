@@ -1,144 +1,157 @@
-{
-  "page": 1,
-  "questions": [
-    {
-      "number": 10,
-      "stem": "A metropolização de São Paulo foi induzida pela industrialização no século XX. Nas últimas décadas, o deslocamento de parte da indústria da metrópole e o crescimento do setor terciário avançado revelam a primazia do capital financeiro, que se articula com o setor imobiliário e produz, por exemplo, os edifícios corporativos, sede deste terciário.\nCarlos, A.F.A. São Paulo: do capital industrial ao capital financeiro. In: Carlos, A.F.A. e Oliveira. A.U. Geografias de São Paulo: a metrópole do século XΧΙ.\nSão Paulo. Adaptado.\nConjuntos comerciais verticais lançados no município de São Paulo de 1992 a 2015",
-      "options": [],
-      "bbox": {
-        "x": 56,
-        "y": 33,
-        "w": 526,
-        "h": 411
-      }
-    },
-    {
-      "number": 10,
-      "stem": "Com base no texto e no mapa, é correto afirmar que",
-      "options": [
-        {
-          "key": "A",
-          "text": "o crescimento do terciário avançado indica o aumento de estabelecimentos industriais, ambos dispersos em São Paulo."
-        },
-        {
-          "key": "B",
-          "text": "a produção industrial em São Paulo está concentrada nas áreas centrais, o que induziu a proliferação de edifícios corporativos."
-        },
-        {
-          "key": "C",
-          "text": "os edifícios corporativos concentram a produção de manufaturados e, em São Paulo, estão concentrados nas áreas de maior densidade populacional."
-        },
-        {
-          "key": "D",
-          "text": "o setor terciário avançado ocupa os edifícios corporativos e está concentrado em poucos distritos da metrópole de São Paulo no momento atual."
-        },
-        {
-          "key": "E",
-          "text": "a desconcentração industrial em São Paulo foi acompanhada da dispersão do setor terciário avançado."
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 10,
+        "stem": "A metropolização de São Paulo foi induzida pela\nindustrialização no século XX. Nas últimas décadas, o\ndeslocamento de parte da indústria da metrópole e o\ncrescimento do setor terciário avançado revelam a primazia do\ncapital financeiro, que se articula com o setor imobiliário e\nproduz, por exemplo, os edifícios corporativos, sede deste\nterciário.\nCarlos, A.F.A. São Paulo: do capital industrial ao capital financeiro. In: Carlos,\nA.F.A. e Oliveira. A.U. Geografias de São Paulo: a metrópole do século XΧΙ.\nSão Paulo. Adaptado.\nConjuntos comerciais verticais lançados no município de São Paulo\nde 1992 a 2015",
+        "options": [],
+        "bbox": {
+          "x": 42,
+          "y": 41,
+          "w": 513,
+          "h": 224
         }
-      ],
-      "bbox": {
-        "x": 56,
-        "y": 641,
-        "w": 527,
-        "h": 269
-      }
-    },
-    {
-      "number": 11,
-      "stem": "Examine a imagem e o gráfico.",
-      "options": [
-        {
-          "key": "A",
-          "text": "planalto"
-        },
-        {
-          "key": "B",
-          "text": "escarpa"
-        },
-        {
-          "key": "C",
-          "text": "escarpa"
-        },
-        {
-          "key": "D",
-          "text": "planalto"
-        },
-        {
-          "key": "E",
-          "text": "depressão periférica"
+      },
+      {
+        "number": null,
+        "stem": "Com base no texto e no mapa, é correto afirmar que",
+        "options": [
+          {
+            "key": "A",
+            "text": "o crescimento do terciário avançado indica o aumento de\nestabelecimentos industriais, ambos dispersos em São\nPaulo."
+          },
+          {
+            "key": "B",
+            "text": "a produção industrial em São Paulo está concentrada nas\náreas centrais, o que induziu a proliferação de edifícios\ncorporativos."
+          },
+          {
+            "key": "C",
+            "text": "os edifícios corporativos concentram a produção de\nmanufaturados e, em São Paulo, estão concentrados nas\náreas de maior densidade populacional."
+          },
+          {
+            "key": "D",
+            "text": "o setor terciário avançado ocupa os edifícios corporativos e\nestá concentrado em poucos distritos da metrópole de São\nPaulo no momento atual."
+          },
+          {
+            "key": "E",
+            "text": "a\nem\ndesconcentração industrial\nSão Paulo foi\nacompanhada da dispersão do setor terciário avançado."
+          }
+        ],
+        "bbox": {
+          "x": 42,
+          "y": 632,
+          "w": 504,
+          "h": 268
         }
-      ],
-      "bbox": {
-        "x": 598,
-        "y": 33,
-        "w": 516,
-        "h": 502
-      }
-    },
-    {
-      "number": 11,
-      "stem": "A sequência correta dos compartimentos geomorfológicos no traçado A - B apresentados na imagem e no perfil é:",
-      "options": [
-        {
-          "key": "A",
-          "text": "planalto"
-        },
-        {
-          "key": "B",
-          "text": "escarpa"
-        },
-        {
-          "key": "C",
-          "text": "escarpa"
-        },
-        {
-          "key": "D",
-          "text": "planalto"
-        },
-        {
-          "key": "E",
-          "text": "depressão periférica"
+      },
+      {
+        "number": 11,
+        "stem": "Examine a imagem e o gráfico.",
+        "options": [
+          {
+            "key": "A",
+            "text": "planalto"
+          },
+          {
+            "key": "B",
+            "text": "escarpa"
+          },
+          {
+            "key": "C",
+            "text": "escarpa"
+          },
+          {
+            "key": "D",
+            "text": "planalto"
+          },
+          {
+            "key": "E",
+            "text": "depressão periférica"
+          }
+        ],
+        "bbox": {
+          "x": 559,
+          "y": 41,
+          "w": 408,
+          "h": 463
         }
-      ],
-      "bbox": {
-        "x": 597,
-        "y": 529,
-        "w": 517,
-        "h": 205
-      }
-    },
-    {
-      "number": 12,
-      "stem": "À medida que a parcela de ar se eleva na atmosfera, nos limites da troposfera, a temperatura do ar decai a uma razão de 1 °C a cada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada 100 metros (Razão Adiabática Úmida - RAU).\nConsiderando os conceitos e a ilustração, é correto afirmar que as temperaturas do ar, em graus Celsius, T1 e T2, são, respectivamente,",
-      "options": [
-        {
-          "key": "A",
-          "text": "8,0 e 26,0."
-        },
-        {
-          "key": "B",
-          "text": "12,8 e 28,0."
-        },
-        {
-          "key": "C",
-          "text": "12,0 e 26,0."
-        },
-        {
-          "key": "D",
-          "text": "12,0 e 20,4."
-        },
-        {
-          "key": "E",
-          "text": "11,6 e 20,4."
+      },
+      {
+        "number": null,
+        "stem": "A sequência correta dos compartimentos geomorfológicos no\ntraçado A - B apresentados na imagem e no perfil é:\n1 2 3",
+        "options": [
+          {
+            "key": "A",
+            "text": "planalto escarpa planície litorânea"
+          },
+          {
+            "key": "B",
+            "text": "escarpa planalto depressão periférica"
+          },
+          {
+            "key": "C",
+            "text": "escarpa planalto planície litorânea"
+          },
+          {
+            "key": "D",
+            "text": "planalto escarpa depressão periférica"
+          },
+          {
+            "key": "E",
+            "text": "depressão periférica escarpa planície litorânea"
+          }
+        ],
+        "bbox": {
+          "x": 559,
+          "y": 469,
+          "w": 407,
+          "h": 164
         }
-      ],
-      "bbox": {
-        "x": 598,
-        "y": 740,
-        "w": 516,
-        "h": 330
+      },
+      {
+        "number": 12,
+        "stem": "À medida que a parcela de ar se eleva na atmosfera, nos limites\nda troposfera, a temperatura do ar decai a uma razão de 1 °C a\ncada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada\n100 metros (Razão Adiabática Úmida - RAU).",
+        "options": [],
+        "bbox": {
+          "x": 559,
+          "y": 632,
+          "w": 408,
+          "h": 213
+        }
+      },
+      {
+        "number": null,
+        "stem": "Considerando os conceitos e a ilustração, é correto afirmar que\nas temperaturas do ar, em graus Celsius, T1 e T2, são,\nrespectivamente,",
+        "options": [
+          {
+            "key": "A",
+            "text": "8,0 e 26,0."
+          },
+          {
+            "key": "B",
+            "text": "12,8 e 28,0."
+          },
+          {
+            "key": "C",
+            "text": "12,0 e 26,0."
+          },
+          {
+            "key": "D",
+            "text": "12,0 e 20,4."
+          },
+          {
+            "key": "E",
+            "text": "11,6 e 20,4."
+          }
+        ],
+        "bbox": {
+          "x": 559,
+          "y": 846,
+          "w": 408,
+          "h": 175
+        }
       }
-    }
-  ]
-}
+    ]
+  }
+]

@@ -4,7 +4,7 @@
     "questions": [
       {
         "number": 7,
-        "stem": "Segundo a Organização das Nações Unidas para a Alimentação\ne a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de\nalimentos (30% da produção total no planeta) é perdido em\ndois processos: o desperdício que se relaciona ao descarte de\nalimentos em bom estado e a perda ao longo da cadeia\nprodutiva. O desperdício representa 46% e é muito maior nas\nregiões mais ricas. As perdas relativas ao circuito de produção\nrepresentam 54% do total e são maiores nos países em\ndesenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-\nparar-no-lixo. Adaptado.\nPercentual de pessoas em estado de insegurança alimentar grave*\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018.\nAdaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias\nvezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos,\nindique a afirmação correta.",
+        "stem": "Segundo a Organização das Nações Unidas para a Alimentação\ne a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de\nalimentos (30% da produção total no planeta) é perdido em\ndois processos: o desperdício que se relaciona ao descarte de\nalimentos em bom estado e a perda ao longo da cadeia\nprodutiva. O desperdício representa 46% e é muito maior nas\nregiões mais ricas. As perdas relativas ao circuito de produção\nrepresentam 54% do total e são maiores nos países em\ndesenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-\nparar-no-lixo. Adaptado.\nPercentual de pessoas em estado de insegurança alimentar grave*\nLocal\n2017\nÁfrica\n29,8%\nAmérica Latina\n9,8%\nÁsia\n6,9%\nAmérica Setentrional e Europa\n1,4%\nMundo\n10,2%\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018.\nAdaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias\nvezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos,\nindique a afirmação correta.",
         "options": [
           {
             "key": "A",
@@ -28,49 +28,12 @@
           }
         ],
         "bbox": {
-          "x": 72,
-          "y": 78,
+          "x": 50,
+          "y": 76,
           "w": 407,
-          "h": 676
+          "h": 698
         }
       },
-      {
-        "number": 9,
-        "stem": "O gráfico mostra as temperaturas médias mensais históricas de\ncinco cidades, todas localizadas em altitudes próximas do nível\ndo mar: Alexandria (Egito), Barcelona (Espanha), Buenos\nAires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil).\nNo gráfico, essas cidades estão representadas,\nrespectivamente, pelos símbolos:",
-        "options": [
-          {
-            "key": "A",
-            "text": ""
-          },
-          {
-            "key": "B",
-            "text": ""
-          },
-          {
-            "key": "C",
-            "text": ""
-          },
-          {
-            "key": "D",
-            "text": ""
-          },
-          {
-            "key": "E",
-            "text": ""
-          }
-        ],
-        "bbox": {
-          "x": 505,
-          "y": 508,
-          "w": 407,
-          "h": 436
-        }
-      }
-    ]
-  },
-  {
-    "page": 1,
-    "questions": [
       {
         "number": 8,
         "stem": "Com base no gráfico referente à pauta das exportações\nbrasileiras, é correto afirmar que, no período analisado, houve",
@@ -97,10 +60,42 @@
           }
         ],
         "bbox": {
-          "x": 505,
-          "y": 77,
-          "w": 406,
-          "h": 405
+          "x": 476,
+          "y": 74,
+          "w": 384,
+          "h": 701
+        }
+      },
+      {
+        "number": 9,
+        "stem": "O gráfico mostra as temperaturas médias mensais históricas de\ncinco cidades, todas localizadas em altitudes próximas do nível\ndo mar: Alexandria (Egito), Barcelona (Espanha), Buenos\nAires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil).\nNo gráfico, essas cidades estão representadas,\nrespectivamente, pelos símbolos:",
+        "options": [
+          {
+            "key": "A",
+            "text": "□ ○ △ ● ◆"
+          },
+          {
+            "key": "B",
+            "text": "◆ △ ○ ● □"
+          },
+          {
+            "key": "C",
+            "text": "● △ ○ □ ◆"
+          },
+          {
+            "key": "D",
+            "text": "◆ ● △ ○ □"
+          },
+          {
+            "key": "E",
+            "text": "□ △ ● ○ ◆"
+          }
+        ],
+        "bbox": {
+          "x": 476,
+          "y": 775,
+          "w": 382,
+          "h": 313
         }
       }
     ]

@@ -3,6 +3,38 @@
     "page": 1,
     "questions": [
       {
+        "number": 17,
+        "stem": "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre\num skate de massa m₂, que se encontra inicialmente em\nrepouso. Com o impacto, o skate adquire velocidade e o\nconjunto rapaz+skate segue em direção a uma rampa e atinge\numa altura máxima h. A velocidade do rapaz, imediatamente\nantes de tocar no skate, é dada por",
+        "options": [
+          {
+            "key": "A",
+            "text": "(m1 + m2) √gh\nm2"
+          },
+          {
+            "key": "B",
+            "text": "(m1+ m2) √gh\n2m1"
+          },
+          {
+            "key": "C",
+            "text": "m1\nm2 √2gh"
+          },
+          {
+            "key": "D",
+            "text": "(m1+m2)\nm1 √2gh"
+          },
+          {
+            "key": "E",
+            "text": "(2m1+m2)\nm1 √gh"
+          }
+        ],
+        "bbox": {
+          "x": 59,
+          "y": 159,
+          "w": 348,
+          "h": 378
+        }
+      },
+      {
         "number": 19,
         "stem": "Uma pessoa observa uma vela através de uma lente de vidro\nbiconvexa, como representado na figura.",
         "options": [
@@ -28,10 +60,42 @@
           }
         ],
         "bbox": {
-          "x": 514,
-          "y": 151,
-          "w": 394,
-          "h": 294
+          "x": 469,
+          "y": 159,
+          "w": 364,
+          "h": 396
+        }
+      },
+      {
+        "number": 18,
+        "stem": "Três pequenas esferas carregadas com carga positiva Q ocupam\nos vértices de um triângulo, como mostra a figura. Na parte\ninterna do triângulo, está afixada outra pequena esfera, com\ncarga negativa q. As distâncias dessa carga às outras três\npodem ser obtidas a partir da figura.",
+        "options": [
+          {
+            "key": "A",
+            "text": "é nula."
+          },
+          {
+            "key": "B",
+            "text": "tem direção do eixo y, sentido para baixo e módulo 1,8 Ν."
+          },
+          {
+            "key": "C",
+            "text": "tem direção do eixo y, sentido para cima e módulo 1,0 Ν."
+          },
+          {
+            "key": "D",
+            "text": "tem direção do eixo y, sentido para baixo e módulo 1,0 N."
+          },
+          {
+            "key": "E",
+            "text": "tem direção do eixo y, sentido para cima e módulo 0,3 Ν."
+          }
+        ],
+        "bbox": {
+          "x": 59,
+          "y": 555,
+          "w": 354,
+          "h": 327
         }
       },
       {
@@ -60,10 +124,10 @@
           }
         ],
         "bbox": {
-          "x": 514,
-          "y": 398,
-          "w": 394,
-          "h": 391
+          "x": 469,
+          "y": 577,
+          "w": 364,
+          "h": 330
         }
       },
       {
@@ -92,10 +156,10 @@
           }
         ],
         "bbox": {
-          "x": 514,
-          "y": 831,
-          "w": 394,
-          "h": 344
+          "x": 469,
+          "y": 934,
+          "w": 364,
+          "h": 320
         }
       }
     ]

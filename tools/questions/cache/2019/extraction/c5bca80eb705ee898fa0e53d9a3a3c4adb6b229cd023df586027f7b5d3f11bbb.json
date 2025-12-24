@@ -1,165 +1,167 @@
-{
-  "page": 1,
-  "questions": [
-    {
-      "number": 22,
-      "stem": "No diagrama P x V da figura, A, B e C representam\ntransformações possíveis de um gás entre os estados I e II.",
-      "options": [
-        {
-          "key": "A",
-          "text": "AUA = ∆UB = AUC е WC > WB > WA."
-        },
-        {
-          "key": "B",
-          "text": "AUA > AUC > AUB е WC = WA < WB."
-        },
-        {
-          "key": "C",
-          "text": "AUA < AUB < AUC е WC > WB > WA."
-        },
-        {
-          "key": "D",
-          "text": "AUA = AUB = AUce Wc = WA > WB."
-        },
-        {
-          "key": "E",
-          "text": "AUA > AUB > AUce WC = WB = WA."
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 22,
+        "stem": "No diagrama P x V da figura, A, B e C representam\ntransformações possíveis de um gás entre os estados I e II.",
+        "options": [
+          {
+            "key": "A",
+            "text": "AUA = ∆UB = AUC е WC > WB > WA."
+          },
+          {
+            "key": "B",
+            "text": "AUA > AUC > AUB е WC = WA < WB."
+          },
+          {
+            "key": "C",
+            "text": "AUA < AUB < AUC е WC > WB > WA."
+          },
+          {
+            "key": "D",
+            "text": "AUA = AUB = AUce Wc = WA > WB."
+          },
+          {
+            "key": "E",
+            "text": "AUA > AUB > AUce WC = WB = WA."
+          }
+        ],
+        "bbox": {
+          "x": 36,
+          "y": 88,
+          "w": 402,
+          "h": 352
         }
-      ],
-      "bbox": {
-        "x": 64,
-        "y": 91,
-        "w": 420,
-        "h": 369
-      }
-    },
-    {
-      "number": 23,
-      "stem": "Três amigos vão acampar e descobrem que nenhum deles\ntrouxe fósforos. Para acender o fogo e fazer o almoço, resolvem\nimprovisar e prendem um pedaço de filme plástico\ntransparente num aro de \"cipó\". Colocam um pouco de água\nsobre o plástico, formando uma poça de aproximadamente\n14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma\npode ser aproximada pela de uma calota esférica. Quando o sol\nestá a pino, para aproveitamento máximo da energia solar, a\ndistância, em cm, entre o centro do filme e a palha seca usada\npara iniciar o fogo, é, aproximadamente,",
-      "options": [
-        {
-          "key": "A",
-          "text": "75"
-        },
-        {
-          "key": "B",
-          "text": "50"
-        },
-        {
-          "key": "C",
-          "text": "25"
-        },
-        {
-          "key": "D",
-          "text": "14"
-        },
-        {
-          "key": "E",
-          "text": "7"
+      },
+      {
+        "number": 23,
+        "stem": "Três amigos vão acampar e descobrem que nenhum deles\ntrouxe fósforos. Para acender o fogo e fazer o almoço, resolvem\nimprovisar e prendem um pedaço de filme plástico\ntransparente num aro de \"cipó\". Colocam um pouco de água\nsobre o plástico, formando uma poça de aproximadamente\n14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma\npode ser aproximada pela de uma calota esférica. Quando o sol\nestá a pino, para aproveitamento máximo da energia solar, a\ndistância, em cm, entre o centro do filme e a palha seca usada\npara iniciar o fogo, é, aproximadamente,",
+        "options": [
+          {
+            "key": "A",
+            "text": "75"
+          },
+          {
+            "key": "B",
+            "text": "50"
+          },
+          {
+            "key": "C",
+            "text": "25"
+          },
+          {
+            "key": "D",
+            "text": "14"
+          },
+          {
+            "key": "E",
+            "text": "7"
+          }
+        ],
+        "bbox": {
+          "x": 36,
+          "y": 456,
+          "w": 401,
+          "h": 289
         }
-      ],
-      "bbox": {
-        "x": 64,
-        "y": 472,
-        "w": 420,
-        "h": 292
-      }
-    },
-    {
-      "number": 24,
-      "stem": "Um chuveiro elétrico que funciona em 220 V possui uma chave\nque comuta entre as posições “verão” e “inverno\". Na posição\n\"verão\", a sua resistência elétrica tem o valor 22 Ω, enquanto\nna posição \"inverno” é 11 Ω. Considerando que na posição\n\"verão\" o aumento de temperatura da água, pelo chuveiro, é\n5 °C, para o mesmo fluxo de água, a variação de temperatura,\nna posição \"inverno\", em °C, é",
-      "options": [
-        {
-          "key": "A",
-          "text": "2,5"
-        },
-        {
-          "key": "B",
-          "text": "5,0"
-        },
-        {
-          "key": "C",
-          "text": "10,0"
-        },
-        {
-          "key": "D",
-          "text": "15,0"
-        },
-        {
-          "key": "E",
-          "text": "20,0"
+      },
+      {
+        "number": 24,
+        "stem": "Um chuveiro elétrico que funciona em 220 V possui uma chave\nque comuta entre as posições “verão” e “inverno\". Na posição\n\"verão\", a sua resistência elétrica tem o valor 22 Ω, enquanto\nna posição \"inverno” é 11 Ω. Considerando que na posição\n\"verão\" o aumento de temperatura da água, pelo chuveiro, é\n5 °C, para o mesmo fluxo de água, a variação de temperatura,\nna posição \"inverno\", em °C, é",
+        "options": [
+          {
+            "key": "A",
+            "text": "2,5"
+          },
+          {
+            "key": "B",
+            "text": "5,0"
+          },
+          {
+            "key": "C",
+            "text": "10,0"
+          },
+          {
+            "key": "D",
+            "text": "15,0"
+          },
+          {
+            "key": "E",
+            "text": "20,0"
+          }
+        ],
+        "bbox": {
+          "x": 36,
+          "y": 802,
+          "w": 400,
+          "h": 248
         }
-      ],
-      "bbox": {
-        "x": 64,
-        "y": 812,
-        "w": 419,
-        "h": 223
-      }
-    },
-    {
-      "number": 25,
-      "stem": "Nas margens de um rio, verificava-se a seguinte cadeia trófica:\no capim ali presente servia de alimento para gafanhotos, que,\npor sua vez, eram predados por passarinhos, cuja espécie só\nocorria naquele ambiente e tinha exclusivamente os\ngafanhotos como alimento; tais passarinhos eram predados por\ngaviões da região.\nA lama tóxica que vazou de uma empresa mineradora matou\nquase totalmente o capim ali existente. É correto afirmar que,\nem seguida, o consumidor secundário",
-      "options": [
-        {
-          "key": "A",
-          "text": "teve sua população reduzida como consequência direta do\naumento da biomassa no primeiro nível trófico da cadeia."
-        },
-        {
-          "key": "B",
-          "text": "teve sua população reduzida como consequência indireta\nda diminuição da biomassa no primeiro nível trófico da\ncadeia."
-        },
-        {
-          "key": "C",
-          "text": "não teve sua população afetada, pois o efeito da lama tóxica\nse deu sobre o primeiro nível trófico da cadeia e não sobre\no segundo."
-        },
-        {
-          "key": "D",
-          "text": "não teve sua população afetada, pois a lama tóxica não teve\nefeito direto sobre ele, mas sim sobre um nível trófico\ninferior."
-        },
-        {
-          "key": "E",
-          "text": "teve sua população aumentada como consequência direta\ndo aumento da biomassa no segundo nível trófico da\ncadeia."
+      },
+      {
+        "number": 25,
+        "stem": "Nas margens de um rio, verificava-se a seguinte cadeia trófica:\no capim ali presente servia de alimento para gafanhotos, que,\npor sua vez, eram predados por passarinhos, cuja espécie só\nocorria naquele ambiente e tinha exclusivamente os\ngafanhotos como alimento; tais passarinhos eram predados por\ngaviões da região.\nA lama tóxica que vazou de uma empresa mineradora matou\nquase totalmente o capim ali existente. É correto afirmar que,\nem seguida, o consumidor secundário",
+        "options": [
+          {
+            "key": "A",
+            "text": "teve sua população reduzida como consequência direta do\naumento da biomassa no primeiro nível trófico da cadeia."
+          },
+          {
+            "key": "B",
+            "text": "teve sua população reduzida como consequência indireta\nda diminuição da biomassa no primeiro nível trófico da\ncadeia."
+          },
+          {
+            "key": "C",
+            "text": "não teve sua população afetada, pois o efeito da lama tóxica\nse deu sobre o primeiro nível trófico da cadeia e não sobre\no segundo."
+          },
+          {
+            "key": "D",
+            "text": "não teve sua população afetada, pois a lama tóxica não teve\nefeito direto sobre ele, mas sim sobre um nível trófico\ninferior."
+          },
+          {
+            "key": "E",
+            "text": "teve sua população aumentada como consequência direta\ndo aumento da biomassa no segundo nível trófico da\ncadeia."
+          }
+        ],
+        "bbox": {
+          "x": 478,
+          "y": 88,
+          "w": 402,
+          "h": 519
         }
-      ],
-      "bbox": {
-        "x": 520,
-        "y": 91,
-        "w": 420,
-        "h": 455
-      }
-    },
-    {
-      "number": 26,
-      "stem": "A tabela lista características bióticas e abióticas associadas a\nalguns biomas brasileiros.",
-      "options": [
-        {
-          "key": "A",
-          "text": "I-Floresta Amazônica; II-Cerrado; III-Mata Atlântica;\nIV-Caatinga."
-        },
-        {
-          "key": "B",
-          "text": "I- Floresta Amazônica; II-Pampas; III-Mata Atlântica;\nIV-Cerrado."
-        },
-        {
-          "key": "C",
-          "text": "I-Mata Atlântica; II-Cerrado; III-Floresta Amazônica;\nIV-Caatinga."
-        },
-        {
-          "key": "D",
-          "text": "I-Mata Atlântica; II-Pampas; III-Floresta Amazônica;\nIV-Cerrado."
-        },
-        {
-          "key": "E",
-          "text": "I-Pampas; II-Mata Atlântica; III-Cerrado;\nIV- Floresta Amazônica."
+      },
+      {
+        "number": 26,
+        "stem": "A tabela lista características bióticas e abióticas associadas a\nalguns biomas brasileiros.",
+        "options": [
+          {
+            "key": "A",
+            "text": "I-Floresta Amazônica; II-Cerrado; III-Mata Atlântica;\nIV-Caatinga."
+          },
+          {
+            "key": "B",
+            "text": "I- Floresta Amazônica; II-Pampas; III-Mata Atlântica;\nIV-Cerrado."
+          },
+          {
+            "key": "C",
+            "text": "I-Mata Atlântica; II-Cerrado; III-Floresta Amazônica;\nIV-Caatinga."
+          },
+          {
+            "key": "D",
+            "text": "I-Mata Atlântica; II-Pampas; III-Floresta Amazônica;\nIV-Cerrado."
+          },
+          {
+            "key": "E",
+            "text": "I-Pampas; II-Mata Atlântica; III-Cerrado;\nIV- Floresta Amazônica."
+          }
+        ],
+        "bbox": {
+          "x": 478,
+          "y": 616,
+          "w": 401,
+          "h": 434
         }
-      ],
-      "bbox": {
-        "x": 520,
-        "y": 565,
-        "w": 420,
-        "h": 469
       }
-    }
-  ]
-}
+    ]
+  }
+]
