@@ -1,0 +1,135 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 80,
+        "stem": "(...) o \"arco do triunfo\" é um fragmento de muro que, embora\nisolado da muralha, tem a forma de uma porta da cidade. (...)\nOs primeiros exemplos documentados são estruturas do século\nII a.C., mas os principais arcos de triunfo são os do Império,\ncomo os arcos de Tito, de Sétimo Severo ou de Constantino,\ntodos no foro romano, e todos de grande beleza pela elegância\nde suas proporções.\nPEREIRA, J. R. A., Introdução à arquitetura. Das origens ao século XXI. Porto\nAlegre: Salvaterra, 2010, p. 81.\nDentre os vários aspectos da arquitetura romana, destaca-se a\nmonumentalidade de suas construções. A relação entre o \"arco\ndo triunfo\" e a História de Roma está baseada",
+        "options": [
+          {
+            "key": "A",
+            "text": "no processo de formação da urbe romana e de edificação\nde entradas defensivas contra invasões de povos\nconsiderados bárbaros."
+          },
+          {
+            "key": "B",
+            "text": "nas celebrações religiosas das divindades romanas\nvinculadas aos ritos de fertilidade e aos seus ancestrais\netruscos."
+          },
+          {
+            "key": "C",
+            "text": "nas celebrações das vitórias militares romanas que\npermitiram a expansão territorial, a consolidação territorial\ne o estabelecimento do sistema escravista."
+          },
+          {
+            "key": "D",
+            "text": "na edificação de monumentos comemorativos em memória\ndas lutas dos plebeus e do alargamento da cidadania\nromana."
+          },
+          {
+            "key": "E",
+            "text": "nos registros das perseguições ao cristianismo e da\ndestruição de suas edificações monásticas."
+          }
+        ],
+        "bbox": {
+          "x": 62,
+          "y": 84,
+          "w": 403,
+          "h": 477
+        }
+      },
+      {
+        "number": 81,
+        "stem": "Os comentadores do texto sagrado (...) reconhecem a\nsubmissão da mulher ao homem como um dos momentos da\ndivisão hierárquica que regula as relações entre Deus, Cristo e\na humanidade, encontrando ainda a origem e o fundamento\ndivino daquela submissão na cena primária da criação de Adão\ne Eva e no seu destino antes e depois da queda.\nCASAGRANDE, C., A mulher sob custódia, in: História das Mulheres, Lisboa:\nAfrontamento, 1993, v. 2, p. 122-123.\nO excerto refere-se à apreensão de determinadas passagens\nbíblicas pela cristandade medieval, especificamente em relação\nà condição das mulheres na sociedade feudal. A esse respeito,\né correto afirmar:",
+        "options": [
+          {
+            "key": "A",
+            "text": "As mulheres originárias da nobreza podiam ingressar nos\nconventos e ministrar os sacramentos como os homens de\nmesma condição social."
+          },
+          {
+            "key": "B",
+            "text": "A culpabilização das mulheres pela expulsão do Paraíso\nTerrestre servia de justificativa para sua subordinação social\naos homens."
+          },
+          {
+            "key": "C",
+            "text": "As mulheres medievais eram impedidas do exercício das\natividades políticas, ao contrário do que acontecera no\nmundo greco-romano."
+          },
+          {
+            "key": "D",
+            "text": "As mulheres medievais eram iletradas e tinham o acesso à\ncultura e às artes proibido, devido à sua condição social e\nnatural."
+          },
+          {
+            "key": "E",
+            "text": "A submissão das mulheres medievais aos homens esteve\ndesvinculada de normatizações acerca da sexualidade."
+          }
+        ],
+        "bbox": {
+          "x": 62,
+          "y": 602,
+          "w": 403,
+          "h": 402
+        }
+      },
+      {
+        "number": 82,
+        "stem": "Lasar Segall, Navio de Emigrantes, 1939-41, óleo com areia sobre tela.\nEsta imagem é a reprodução de",
+        "options": [
+          {
+            "key": "A",
+            "text": "uma pintura impressionista, marcada por pinceladas soltas\ne pela temática da emigração americana para o continente\neuropeu."
+          },
+          {
+            "key": "B",
+            "text": "um mosaico cubista, caracterizado pelas formas\ngeométricas que procuram salientar a esperança daqueles\nque se dirigem para terras estrangeiras."
+          },
+          {
+            "key": "C",
+            "text": "uma pintura expressionista, que reforça o sofrimento dos\nque se deslocavam em um contexto de perseguições e\nintolerâncias."
+          },
+          {
+            "key": "D",
+            "text": "um painel surrealista, que procurava destacar Ο\nsubconsciente atormentado daqueles que deixavam seus\nlocais de origem."
+          },
+          {
+            "key": "E",
+            "text": "uma pintura futurista, influenciada pelas referências de\nmodernização tecnológica características da primeira\nmetade do século XX."
+          }
+        ],
+        "bbox": {
+          "x": 520,
+          "y": 84,
+          "w": 402,
+          "h": 409
+        }
+      },
+      {
+        "number": 83,
+        "stem": "Sobre a revolução cultural ocorrida na China, a partir de 1966,\né correto afirmar que se tratou de",
+        "options": [
+          {
+            "key": "A",
+            "text": "movimento dirigido por intelectuais e estudantes contra o\ngoverno ditatorial de Mao Tsé-Tung."
+          },
+          {
+            "key": "B",
+            "text": "proposta encaminhada pelos camponeses em busca da\nretomada das raízes xintoístas da China imperial."
+          },
+          {
+            "key": "C",
+            "text": "reação dos intelectuais refratários ao regime comunista que\npretendia restaurar o mandarinato."
+          },
+          {
+            "key": "D",
+            "text": "expurgo de cunho anti-intelectualista que recusava as\ninfluências ocidental e soviética."
+          },
+          {
+            "key": "E",
+            "text": "um processo que culminou nas reivindicações de livre-\npensamento e na abertura da China para o mercado."
+          }
+        ],
+        "bbox": {
+          "x": 520,
+          "y": 525,
+          "w": 402,
+          "h": 272
+        }
+      }
+    ]
+  }
+]

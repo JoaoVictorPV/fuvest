@@ -1,0 +1,71 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 44,
+        "stem": "A bola de futebol que foi utilizada na Copa de 2018 foi chamada\nTelstar 18. Essa bola contém uma camada interna de borracha\nque pertence a uma classe de polímeros genericamente\nchamada de EPDM. A fórmula estrutural de um exemplo desses\npolímeros é\n\n\nPolímeros podem ser produzidos pela polimerização de\ncompostos insaturados (monômeros) como exemplificado para\no polipropileno (um homopolímero):\n\nn\nn\nOs monômeros que podem ser utilizados para preparar o co-\npolímero do tipo EPDM, cuja fórmula estrutural foi\napresentada, são",
+        "options": [
+          {
+            "key": "A",
+            "text": ""
+          },
+          {
+            "key": "B",
+            "text": ""
+          },
+          {
+            "key": "C",
+            "text": ""
+          },
+          {
+            "key": "D",
+            "text": ""
+          },
+          {
+            "key": "E",
+            "text": ""
+          }
+        ],
+        "bbox": {
+          "x": 44,
+          "y": 66,
+          "w": 503,
+          "h": 786
+        }
+      },
+      {
+        "number": 45,
+        "stem": "Um grão de milho de pipoca, visto a olho nu,\napresenta duas regiões distintas,\nrepresentadas por A e B na figura. Em A,\nocorre o tecido acumulador de amido, usado,\npela planta, para nutrir o embrião. Em B, os\ntecidos vegetais possuem maior teor de água.\nAo ser aquecida, parte da água transforma-se em vapor,\naumentando a pressão interna do grão. Quando a temperatura\natinge 177°C, a pressão se torna suficiente para romper o grão,\nque vira uma pipoca.\nUm estudo feito por um grupo de pesquisadores determinou\nque o interior do grão tem 4,5 mg de água da qual, no momento\nimediatamente anterior ao seu rompimento, apenas 9% está\nna fase vapor, atuando como um gás ideal e ocupando 0,1 mL.\nDessa forma, foi possível calcular a pressão Pfinal no momento\nimediatamente anterior ao rompimento do grão.\nA associação correta entre região do milho e Pfinal é dada por:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A = endosperma e Pfinal = 8,3 atm."
+          },
+          {
+            "key": "B",
+            "text": "B = endosperma e Pfinal = 5,9 atm."
+          },
+          {
+            "key": "C",
+            "text": "A = xilema e Pfinal = 22,1 atm."
+          },
+          {
+            "key": "D",
+            "text": "B = xilema e Pfinal = 5,9 atm."
+          },
+          {
+            "key": "E",
+            "text": "B = endosperma e Pfinal = 92,0 atm."
+          }
+        ],
+        "bbox": {
+          "x": 553,
+          "y": 66,
+          "w": 417,
+          "h": 517
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "page": 1,
+  "questions": [
+    {
+      "number": 41,
+      "stem": "O gráfico a seguir indica a temperatura de ebulição de\nbromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia\ncarbônica.",
+      "options": [
+        {
+          "key": "A",
+          "text": null
+        },
+        {
+          "key": "B",
+          "text": null
+        },
+        {
+          "key": "C",
+          "text": null
+        },
+        {
+          "key": "D",
+          "text": null
+        },
+        {
+          "key": "E",
+          "text": null
+        }
+      ],
+      "bbox": {
+        "x": 41,
+        "y": 85,
+        "w": 452,
+        "h": 685
+      }
+    },
+    {
+      "number": 42,
+      "stem": "O cinamaldeído é um dos principais compostos que dão o sabor\ne o aroma da canela. Quando exposto ao ar, oxida conforme a\nequação balanceada:\nUma amostra de 19,80 g desse composto puro foi exposta ao\nar por 74 dias e depois pesada novamente, sendo que a massa\nfinal aumentou em 1,20 g. A porcentagem desse composto que\nfoi oxidada no período foi de",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "25%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "75%"
+        },
+        {
+          "key": "E",
+          "text": "90%"
+        }
+      ],
+      "bbox": {
+        "x": 509,
+        "y": 85,
+        "w": 448,
+        "h": 324
+      }
+    },
+    {
+      "number": 43,
+      "stem": "Uma postagem de humor na internet trazia como título \"Provas\nde que gatos são líquidos\" e usava, como essas provas, fotos\nreais de gatos, como as reproduzidas aqui.\nO efeito de humor causado na associação do título com as fotos\nbaseia-se no fato de que líquidos",
+      "options": [
+        {
+          "key": "A",
+          "text": "metálicos, em repouso, formam uma superfície refletora de\nluz, como os pelos dos gatos."
+        },
+        {
+          "key": "B",
+          "text": "têm volume constante e forma variável, propriedade que os\ngatos aparentam ter."
+        },
+        {
+          "key": "C",
+          "text": "moleculares são muito viscosos, como aparentam ser os\ngatos em repouso."
+        },
+        {
+          "key": "D",
+          "text": "são muito compressíveis, mantendo forma mas ajustando o\nvolume ao do recipiente, como os gatos aparentam ser."
+        },
+        {
+          "key": "E",
+          "text": "moleculares são voláteis, necessitando estocagem em\nrecipientes fechados, como os gatos aparentam ser."
+        }
+      ],
+      "bbox": {
+        "x": 509,
+        "y": 413,
+        "w": 448,
+        "h": 477
+      }
+    }
+  ]
+}

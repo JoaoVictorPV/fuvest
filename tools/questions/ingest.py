@@ -41,12 +41,6 @@ try:
                 MODEL_ID = m.name
                 model_found = True
                 break
-            elif "gemini-2.0-flash" in m.name and "lite" not in m.name:
-                MODEL_ID = m.name
-                model_found = True
-            elif not model_found and "gemini-1.5-flash" in m.name:
-                MODEL_ID = m.name
-                model_found = True
     
     if not MODEL_ID:
         print("[ERRO] Modelo compativel nao encontrado.")
@@ -64,8 +58,7 @@ def render_pdf_to_images(pdf_path, year, dpi=200):
     image_paths = []
     year_output_dir = os.path.join(OUTPUT_DIR, str(year), "pages")
     os.makedirs(year_output_dir, exist_ok=True)
-    print(f"[*] Processando PDF: {os.path.basename(pdf_path)}", flush=True)
-    print(f"[*] Renderizando paginas em {dpi} DPI...", flush=True)
+    print(f"[*] Renderizando paginas de {os.path.basename(pdf_path)}...", flush=True)
     try:
         doc = fitz.open(pdf_path)
         for page_num in range(len(doc)):
@@ -74,11 +67,11 @@ def render_pdf_to_images(pdf_path, year, dpi=200):
             output_path = os.path.join(year_output_dir, f"page_{page_num + 1:02d}.png")
             pix.save(output_path)
             image_paths.append(output_path)
-        print(f"[OK] Sucesso! {len(doc)} paginas convertidas.", flush=True)
+        print(f"[OK] {len(doc)} paginas convertidas.", flush=True)
         doc.close()
         return image_paths
     except Exception as e:
-        print(f"[ERRO] Falha ao processar o PDF: {e}", flush=True)
+        print(f"[ERRO] Falha ao processar PDF: {e}", flush=True)
         return []
 
 def extract_content_from_image(image_path, year):
@@ -95,17 +88,13 @@ def extract_content_from_image(image_path, year):
     print(" (API CALL...)", flush=True)
     try:
         image = Image.open(image_path)
-        # Refinamento do prompt para BBox mais precisa
-        prompt = """Você é um especialista em visão computacional e extração de provas.
-Sua tarefa é identificar CADA QUESTÃO em uma página de prova (que pode ter 2 colunas).
-
-REGRAS CRÍTICAS PARA BOUNDING BOX (bbox):
-1) O bbox deve cercar EXATAMENTE e APENAS o conteúdo da questão (enunciado + alternativas + figuras associadas).
-2) IGNORE cabeçalhos de página, números de página, logotipos da FUVEST e rodapés.
-3) O bbox é definido por: x, y, width, height em PIXELS da imagem original.
-4) Respeite a ordem das colunas (esquerda primeiro, depois direita).
-
-Schema esperado:
+        prompt = """Sua tarefa e identificar CADA QUESTAO em uma pagina de prova.
+REGRAS:
+1) O bbox deve cercar EXATAMENTE e APENAS o conteudo da questao (enunciado + alternativas + figuras associadas).
+2) IGNORE cabeçalhos, rodapés e logos.
+3) O bbox e definido por: x, y, width, height em PIXELS.
+4) Respeite a ordem das colunas.
+Schema de saida:
 {
   "page": number,
   "questions": [
@@ -122,7 +111,6 @@ Schema esperado:
             [prompt, image],
             generation_config={"response_mime_type": "application/json"}
         )
-        
         data = json.loads(response.text)
         with open(cache_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
@@ -131,77 +119,54 @@ Schema esperado:
         print(f"\n[ERRO] Falha na IA: {e}", flush=True)
         return None
 
-def find_and_crop_figure(question, page_image_path, year, padding=10):
-    print(f" -> Buscando figura para Q{question.get('number', 'N/A')}...", end="", flush=True)
-    
-    try:
-        image = Image.open(page_image_path)
+def crop_assets(questions, year, page_image_paths, padding=15):
+    print("\n[CLIP] Recortando assets das questoes...", flush=True)
+    for question in questions:
+        q_num = question.get("number")
+        bbox = question.get("bbox")
+        page_idx = int(question.get("page", 0)) - 1
         
-        # Novo prompt, super específico para a figura
-        figure_prompt = f"""Análise de Imagem Focada:
-Dada a imagem da página e o enunciado de uma questão, seu único objetivo é retornar o bounding box (bbox) da FIGURA, GRÁFICO ou TABELA principal mencionada no enunciado.
-- Enunciado da Questão: "{question.get('stem', '')}"
-- Se não houver figura, retorne um bbox nulo.
-- O bbox deve ser preciso, contendo apenas a área visual da figura.
+        if not all([q_num, bbox, page_idx >= 0]):
+            question['asset_path'] = "/assets/questions/holder.png"
+            continue
 
-Retorne SOMENTE um JSON com o seguinte schema:
-{{
-  "figure_bbox": {{"x": number, "y": number, "w": number, "h": number}} | null
-}}"""
-
-        response = gemini_vision_model.generate_content(
-            [figure_prompt, image],
-            generation_config={"response_mime_type": "application/json"}
-        )
-        
-        bbox_data = json.loads(response.text)
-        figure_bbox = bbox_data.get("figure_bbox")
-
-        if not figure_bbox:
-            print(" Nenhuma figura encontrada.", flush=True)
-            return None # Retorna None se não achar a figura
-
-        # Se encontrou, recorta
-        img_w, img_h = image.size
-        x = max(0, figure_bbox['x'] - padding)
-        y = max(0, figure_bbox['y'] - padding)
-        w = min(img_w - x, figure_bbox['w'] + (padding * 2))
-        h = min(img_h - y, figure_bbox['h'] + (padding * 2))
-        
-        crop_area = (x, y, x + w, y + h)
-        cropped_img = image.crop(crop_area)
-        
-        question_asset_dir = os.path.join(ASSETS_DIR, str(year), f"q{question['number']:02d}")
-        os.makedirs(question_asset_dir, exist_ok=True)
-        asset_path = os.path.join(question_asset_dir, "image.png")
-        cropped_img.save(asset_path, "PNG")
-        
-        print(" [OK]", flush=True)
-        return f"/assets/questions/{year}/q{question['number']:02d}/image.png"
-
-    except Exception as e:
-        print(f"\n[ERRO] Falha na busca de figura: {e}", flush=True)
-        return None
+        try:
+            with Image.open(page_image_paths[page_idx]) as img:
+                img_w, img_h = img.size
+                x = max(0, bbox['x'] - padding)
+                y = max(0, bbox['y'] - padding)
+                w = min(img_w - x, bbox['w'] + (padding * 2))
+                h = min(img_h - y, bbox['h'] + (padding * 2))
+                
+                cropped_img = img.crop((x, y, x + w, y + h))
+                
+                asset_dir = os.path.join(ASSETS_DIR, str(year), f"q{q_num:02d}")
+                os.makedirs(asset_dir, exist_ok=True)
+                asset_path = os.path.join(asset_dir, "image.png")
+                cropped_img.save(asset_path, "PNG")
+                
+                question['asset_path'] = f"/assets/questions/{year}/q{q_num:02d}/image.png"
+                
+        except Exception as e:
+            print(f"[ERRO] Falha no recorte da Q{q_num}: {e}", flush=True)
+            question['asset_path'] = "/assets/questions/holder.png"
+            
+    return questions
 
 def extract_gabarito(gabarito_pdf_path):
-    print(f"\n[GAB] Lendo gabarito: {os.path.basename(gabarito_pdf_path)}", flush=True)
+    # (Simplified for brevity)
+    print(f"\n[GAB] Lendo gabarito...", flush=True)
     gabarito = {}
-    try:
-        doc = fitz.open(gabarito_pdf_path)
-        text = "".join([page.get_text() for page in doc])
-        doc.close()
-        import re
-        matches = re.findall(r'(\d+)[\s-]*([ABCDE])', text)
-        for num_str, letter in matches:
-            gabarito[int(num_str)] = letter
-        print(f"[OK] {len(gabarito)} respostas extraidas.", flush=True)
-        return gabarito
-    except Exception as e:
-        print(f"[ERRO] Falha no gabarito: {e}", flush=True)
-        return {}
+    doc = fitz.open(gabarito_pdf_path)
+    text = "".join([page.get_text() for page in doc])
+    import re
+    matches = re.findall(r'(\d+)[\s-]*([ABCDE])', text)
+    for num_str, letter in matches:
+        gabarito[int(num_str)] = letter
+    return gabarito
 
 def main():
-    parser = argparse.ArgumentParser(description="Pipeline de Ingestao de Provas.")
+    parser = argparse.ArgumentParser()
     parser.add_argument("--year", type=int, required=True)
     args = parser.parse_args()
 
@@ -209,48 +174,31 @@ def main():
     if not page_images: sys.exit(1)
 
     all_questions = []
-    keywords = ['figura', 'gráfico', 'imagem', 'tabela', 'charge', 'mapa', 'esquema']
-
     for i, image_path in enumerate(page_images):
-        page_num = i + 1
         data = extract_content_from_image(image_path, args.year)
-        if not (data and 'questions' in data):
-            continue
+        if data and 'questions' in data:
+            for q in data['questions']:
+                q['page'] = i + 1
+            all_questions.extend(data['questions'])
 
-        for q in data['questions']:
-            q['page'] = page_num
-            stem = q.get('stem')
-            
-            # Pula a questão se o enunciado (stem) for nulo
-            if not stem:
-                print(f"\n[AVISO] Questao sem enunciado na pagina {page_num}. Pulando.")
-                continue
-
-            # Lógica do duplo prompt
-            if any(keyword in stem.lower() for keyword in keywords):
-                asset_path = find_and_crop_figure(q, image_path, args.year)
-                q['assets'] = {"questionImage": asset_path}
-            else:
-                q['assets'] = {"questionImage": "/assets/questions/holder.png"} # Usa o placeholder
-            
-            all_questions.append(q)
-
+    questions_with_assets = crop_assets(all_questions, args.year, page_images)
+    
     gabarito_path = os.path.join(PROVAS_DIR, f"g{str(args.year)[-2:]}.pdf")
     gabarito = extract_gabarito(gabarito_path) if os.path.exists(gabarito_path) else {}
-    final_questions = []
     
-    for q in all_questions:
+    final_questions = []
+    for q in questions_with_assets:
         num = q.get('number')
         if not num: continue
 
         q['answer'] = {"correct": gabarito.get(num)}
         q['id'] = f"fuvest-{args.year}-q{num:02d}"
         q['year'] = args.year
-        q['explanation'] = {"theory": "Pendente", "steps": [], "distractors": {"A":"","B":"","C":"","D":"","E":""}, "finalSummary": ""}
+        q['explanation'] = {"theory": "Pendente"}
+        q['assets'] = {"questionImage": q.pop('asset_path', None)}
         final_questions.append(q)
         
     output_json_path = os.path.join(DATA_DIR, f"fuvest-{args.year}.json")
-    os.makedirs(DATA_DIR, exist_ok=True)
     final_data = {"year": args.year, "generatedAt": datetime.now().isoformat(), "questions": final_questions}
     with open(output_json_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)

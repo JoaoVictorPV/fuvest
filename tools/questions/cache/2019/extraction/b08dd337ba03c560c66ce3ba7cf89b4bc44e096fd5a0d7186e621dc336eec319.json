@@ -1,0 +1,133 @@
+{
+  "page": 1,
+  "questions": [
+    {
+      "number": 87,
+      "stem": "É difícil acreditar que a Revolução Francesa teria sido muito\ndiferente, mesmo que a Revolução Americana nunca tivesse\nacontecido. É fácil mostrar que os americanos não tentaram\numa semelhante ruptura substancial com o passado, como\nfizeram os franceses. No entanto, (...) as duas revoluções foram\nmuito parecidas.\nRobert R. Palmer, The Age of The Democratic Revolution: The Challenge,\nPrinceton, Princeton University Presse, vol I, 1959, p.267.\nCom base no texto e em seus conhecimentos acerca da\nRevolução Francesa e do revolucionário processo de\nindependência dos Estados Unidos, assinale a afirmação\ncorreta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A revolução norte-americana repercutiu pouco nos\nmovimentos liberais da Europa e, mesmo na França da\népoca da Ilustração, seu impacto foi mais de ordem\neconômica do que política."
+        },
+        {
+          "key": "B",
+          "text": "O processo de independência dos Estados Unidos foi\nmarcado pela ausência de divisões internas entre os colonos\ne pela exclusão das camadas populares da sociedade no\nprocesso político."
+        },
+        {
+          "key": "C",
+          "text": "O processo de independência dos Estados Unidos foi\nconsumado pela redação de uma Constituição, cuja\nelaboração ficou a cargo de notáveis, que representavam os\ninteresses das classes proprietárias."
+        },
+        {
+          "key": "D",
+          "text": "A guerra da independência norte-americana caracterizou-\nse pela ausência de radicalismo político e social, o que se\ndeveu à menor penetração dos ideais Ilustrados nos últimos\nanos do período colonial."
+        },
+        {
+          "key": "E",
+          "text": "A revolução norte-americana repercutiu não só na\nIlustração europeia e na Revolução Francesa, como\ndemonstrou de modo teórico e prático a viabilidade de um\ngrande Estado republicano e democrático."
+        }
+      ],
+      "bbox": {
+        "x": 60,
+        "y": 75,
+        "w": 442,
+        "h": 507
+      }
+    },
+    {
+      "number": 88,
+      "stem": "Em junho de 1995, a seleção de rugby da África do Sul\nconquistou a Copa do Mundo dessa modalidade esportiva ao\nvencer a equipe da Nova Zelândia por 15 a 12, na cidade de\nJohannesburgo. O capitão sul-africano, François Pienaar,\nrecebeu a taça destinada à seleção campeã das mãos de Nelson\nMandela.\nEsse acontecimento esportivo",
+      "options": [
+        {
+          "key": "A",
+          "text": "é um dos marcos do fim do Apartheid, devido à constituição\nde uma primeira seleção multirracial representando a África\ndo Sul."
+        },
+        {
+          "key": "B",
+          "text": "tornou-se uma das justificativas para o veto à participação\nda África do Sul em eventos esportivos devido à proibição\nda presença de atletas brancos."
+        },
+        {
+          "key": "C",
+          "text": "permitiu a vitória eleitoral de Mandela, apoiado\nmassivamente pelos bôeres insuflados pelo nacionalismo\nsul-africano."
+        },
+        {
+          "key": "D",
+          "text": "desencadeou uma série de conflitos raciais entre negros e\nbrancos devido às rivalidades entre os atletas da seleção\nsul-africana."
+        },
+        {
+          "key": "E",
+          "text": "foi realizado graças a um esforço conjunto de Nelson\nMandela e de Frederik de Klerk, agraciados, por isso, com o\nprêmio Nobel da Paz."
+        }
+      ],
+      "bbox": {
+        "x": 60,
+        "y": 593,
+        "w": 442,
+        "h": 367
+      }
+    },
+    {
+      "number": 89,
+      "stem": "Observe as imagens das duas charges de Angelo Agostini\npublicadas no periódico Vida Fluminense. Ambas oferecem\nrepresentações sobre a Guerra do Paraguai, que causaram\nforte impacto na opinião pública. A imagem I retrata Solano\nLópez como o \"Nero do século XIX\"; a imagem II figura um\nsoldado brasileiro que retorna dos campos de batalha.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atribui um caráter redentor ao chefe da tropa paraguaia;\nfixa o assombro do soldado brasileiro ao constatar a\npersistência da opressão escravista."
+        },
+        {
+          "key": "B",
+          "text": "Denuncia os efeitos da guerra entre a população brasileira;\nilustra a manutenção da violência entre a população cativa."
+        },
+        {
+          "key": "C",
+          "text": "Reconhece os méritos militares do general López; denota a\nincongruência entre o recrutamento de negros libertos e a\nmanutenção da escravidão."
+        },
+        {
+          "key": "D",
+          "text": "Personifica o culpado pelo morticínio do povo paraguaio;\nestimula o debate sobre o fim do trabalho escravo no Brasil."
+        },
+        {
+          "key": "E",
+          "text": "Fixa atributos de barbárie ao ditador Solano López; sublinha\na incompatibilidade entre o Exército e o exercício da\ncidadania."
+        }
+      ],
+      "bbox": {
+        "x": 530,
+        "y": 75,
+        "w": 444,
+        "h": 501
+      }
+    },
+    {
+      "number": 90,
+      "stem": "A história do século XIX foi marcada pela tensão entre tradições\npolíticas e intelectuais que apelava, ora para a força do\nnacionalismo, ora para o vigor das ideias internacionalistas.\nIndique a alternativa que traduz uma destas tradições.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A formulação de alianças militares, a união de forças\nmonárquicas e abolição das fronteiras políticas\ncontribuíram para minar o poder dos Estados-Nacionais."
+        },
+        {
+          "key": "B",
+          "text": "O 1º de Maio e os rituais trabalhistas manifestavam a\nascensão de partidos e de movimentos de massa, expressão\ndo nacionalismo da classe trabalhadora."
+        },
+        {
+          "key": "C",
+          "text": "As guerras de caráter religioso que eclodiram na Europa\ndemonstram um enfraquecimento do poder universal da\nIgreja Católica e a ascensão de tradições religiosas nacionais."
+        },
+        {
+          "key": "D",
+          "text": "O apelo ao direito de autodeterminação dos povos\nquestionou o poder das casas dinásticas e contribuiu para a\nposterior fragmentação dos grandes impérios europeus."
+        },
+        {
+          "key": "E",
+          "text": "O culto do progresso e da liberdade despertou os ideais\nrepublicanos e democráticos que contribuíram para o\nestabelecimento de federações supranacionais."
+        }
+      ],
+      "bbox": {
+        "x": 530,
+        "y": 593,
+        "w": 444,
+        "h": 365
+      }
+    }
+  ]
+}

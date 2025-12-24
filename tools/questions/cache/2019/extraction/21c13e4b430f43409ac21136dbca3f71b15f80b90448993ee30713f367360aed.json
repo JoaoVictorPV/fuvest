@@ -1,0 +1,103 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 19,
+        "stem": "Uma pessoa observa uma vela através de uma lente de vidro\nbiconvexa, como representado na figura.",
+        "options": [
+          {
+            "key": "A",
+            "text": "virtual, invertida e maior."
+          },
+          {
+            "key": "B",
+            "text": "virtual, invertida e menor."
+          },
+          {
+            "key": "C",
+            "text": "real, direita e menor."
+          },
+          {
+            "key": "D",
+            "text": "real, invertida e maior."
+          },
+          {
+            "key": "E",
+            "text": "virtual, direita e maior."
+          }
+        ],
+        "bbox": {
+          "x": 514,
+          "y": 151,
+          "w": 394,
+          "h": 294
+        }
+      },
+      {
+        "number": 20,
+        "stem": "Uma bateria de tensão V e resistência interna R₁ é ligada em\nsérie com um resistor de resistência R. O esquema do circuito\nestá apresentado na figura. A potência dissipada pelo resistor\nR é dada por",
+        "options": [
+          {
+            "key": "A",
+            "text": "V2\nR"
+          },
+          {
+            "key": "B",
+            "text": "V2\n(R+Ri)"
+          },
+          {
+            "key": "C",
+            "text": "V2R\n(R+Ri)2"
+          },
+          {
+            "key": "D",
+            "text": "V2R\n(R+Ri)"
+          },
+          {
+            "key": "E",
+            "text": "V2\n(R-Ri)"
+          }
+        ],
+        "bbox": {
+          "x": 514,
+          "y": 398,
+          "w": 394,
+          "h": 391
+        }
+      },
+      {
+        "number": 21,
+        "stem": "Em uma garrafa térmica, são colocados 200 g de água à\ntemperatura de 30 °C e uma pedra de gelo de 50 g, à\ntemperatura de -10 °C. Após o equilíbrio térmico,",
+        "options": [
+          {
+            "key": "A",
+            "text": "todo o gelo derreteu e a temperatura de equilíbrio é 7 °C."
+          },
+          {
+            "key": "B",
+            "text": "todo o gelo derreteu e a temperatura de equilíbrio\né 0,4 °C."
+          },
+          {
+            "key": "C",
+            "text": "todo o gelo derreteu e a temperatura de equilíbrio é 20 °C."
+          },
+          {
+            "key": "D",
+            "text": "nem todo o gelo derreteu e a temperatura de equilíbrio\né 0 °C."
+          },
+          {
+            "key": "E",
+            "text": "o gelo não derreteu e a temperatura de equilíbrio é -2 °C."
+          }
+        ],
+        "bbox": {
+          "x": 514,
+          "y": 831,
+          "w": 394,
+          "h": 344
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 5,
+        "stem": "A tabela mostra o número total de refugiados no mundo em\n2017, segundo relatório do Alto Comissariado das Nações\nUnidas Para Refugiados (UNHCR ou ACNUR em português).\nSobre os refugiados e sua distribuição no mundo, é correto\nafirmar:",
+        "options": [
+          {
+            "key": "A",
+            "text": "Os provenientes do Sudão do Sul e da Somália são acolhidos\nna Turquia, onde encontram oferta de empregos nas\natividades comerciais, tradição econômica do país, desde o\nséculo XVII."
+          },
+          {
+            "key": "B",
+            "text": "A maioria provém da África, devido aos processos de\ndesertificação, e tem como destino o Oriente Médio e a\nEuropa."
+          },
+          {
+            "key": "C",
+            "text": "O Irã recebe majoritariamente refugiados de países da\nÁfrica Subsaariana, dentre os quais se destacam o Sudão e\no Sudão do Sul."
+          },
+          {
+            "key": "D",
+            "text": "Os de origem síria são a maior população nesta condição, e\nestão sendo acolhidos em vários países do Extremo Oriente\ne da África, os quais apoiam o governo sírio na guerra civil\nque ocorre nesse país desde 2011."
+          },
+          {
+            "key": "E",
+            "text": "São majoritariamente provenientes do Oriente Médio,\nÁfrica e Ásia, deslocam-se, forçadamente, devido a longas\nguerras, em grande parte para países e/ou regiões\nfronteiriços."
+          }
+        ],
+        "bbox": {
+          "x": 54,
+          "y": 45,
+          "w": 505,
+          "h": 669
+        }
+      },
+      {
+        "number": 6,
+        "stem": "As bases da teoria de Wegener seguiram inúmeras evidências\ndeixadas na superfície dos continentes ao longo do tempo\ngeológico. Considerando as figuras e seus conhecimentos,\nindique o fator básico que influenciou o raciocínio de Wegener.",
+        "options": [
+          {
+            "key": "A",
+            "text": "As repartições internas atuais dos continentes no\nHemisfério Norte."
+          },
+          {
+            "key": "B",
+            "text": "A continuidade dos sistemas fluviais entre América e África."
+          },
+          {
+            "key": "C",
+            "text": "As ligações atuais entre os continentes no Hemisfério Sul."
+          },
+          {
+            "key": "D",
+            "text": "A semelhança entre os contornos da costa sul-americana e\nafricana."
+          },
+          {
+            "key": "E",
+            "text": "A distribuição das águas constituindo um só oceano."
+          }
+        ],
+        "bbox": {
+          "x": 566,
+          "y": 65,
+          "w": 461,
+          "h": 847
+        }
+      }
+    ]
+  }
+]

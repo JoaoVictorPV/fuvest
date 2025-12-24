@@ -1,0 +1,108 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 7,
+        "stem": "Segundo a Organização das Nações Unidas para a Alimentação\ne a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de\nalimentos (30% da produção total no planeta) é perdido em\ndois processos: o desperdício que se relaciona ao descarte de\nalimentos em bom estado e a perda ao longo da cadeia\nprodutiva. O desperdício representa 46% e é muito maior nas\nregiões mais ricas. As perdas relativas ao circuito de produção\nrepresentam 54% do total e são maiores nos países em\ndesenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-\nparar-no-lixo. Adaptado.\nPercentual de pessoas em estado de insegurança alimentar grave*\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018.\nAdaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias\nvezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos,\nindique a afirmação correta.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A produção de alimentos vem decaindo mundialmente\ndevido aos problemas na logística de produção, o que tem\nprovocado aumento da insegurança alimentar."
+          },
+          {
+            "key": "B",
+            "text": "Nos continentes mais desenvolvidos, a perda de alimentos\ndevido ao sistema de transporte e armazenamento é a\nprincipal causa da inexistência da insegurança alimentar."
+          },
+          {
+            "key": "C",
+            "text": "O fato de parte significativa da população africana estar em\nestado de insegurança alimentar ocorre devido ao\ndesperdício das monoculturas de cereais."
+          },
+          {
+            "key": "D",
+            "text": "O controle rigoroso do desperdício explica o baixo\npercentual de pessoas em situação de insegurança\nalimentar na América Setentrional e na Europa."
+          },
+          {
+            "key": "E",
+            "text": "Os dois diferentes processos que causam a enorme perda\nde alimentos no mundo refletem as desigualdades\neconômicas e sociais existentes entre os continentes."
+          }
+        ],
+        "bbox": {
+          "x": 72,
+          "y": 78,
+          "w": 407,
+          "h": 676
+        }
+      },
+      {
+        "number": 9,
+        "stem": "O gráfico mostra as temperaturas médias mensais históricas de\ncinco cidades, todas localizadas em altitudes próximas do nível\ndo mar: Alexandria (Egito), Barcelona (Espanha), Buenos\nAires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil).\nNo gráfico, essas cidades estão representadas,\nrespectivamente, pelos símbolos:",
+        "options": [
+          {
+            "key": "A",
+            "text": ""
+          },
+          {
+            "key": "B",
+            "text": ""
+          },
+          {
+            "key": "C",
+            "text": ""
+          },
+          {
+            "key": "D",
+            "text": ""
+          },
+          {
+            "key": "E",
+            "text": ""
+          }
+        ],
+        "bbox": {
+          "x": 505,
+          "y": 508,
+          "w": 407,
+          "h": 436
+        }
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 8,
+        "stem": "Com base no gráfico referente à pauta das exportações\nbrasileiras, é correto afirmar que, no período analisado, houve",
+        "options": [
+          {
+            "key": "A",
+            "text": "ampliação do setor secundário, especialmente de bens de\ncapital intermediários."
+          },
+          {
+            "key": "B",
+            "text": "consolidação do Brasil como exportador de alta tecnologia,\ncujo percentual vem se ampliando na pauta de exportações\nbrasileiras."
+          },
+          {
+            "key": "C",
+            "text": "fortalecimento do setor primário e declínio do setor de\nmaior valor agregado."
+          },
+          {
+            "key": "D",
+            "text": "maior peso do setor primário, pela primeira vez na história\neconômica brasileira."
+          },
+          {
+            "key": "E",
+            "text": "diminuição da agroindústria nas exportações e aumento do\npeso dos bens manufaturados."
+          }
+        ],
+        "bbox": {
+          "x": 505,
+          "y": 77,
+          "w": 406,
+          "h": 405
+        }
+      }
+    ]
+  }
+]

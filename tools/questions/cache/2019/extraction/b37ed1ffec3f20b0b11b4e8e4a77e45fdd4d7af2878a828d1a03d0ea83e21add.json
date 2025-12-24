@@ -1,0 +1,135 @@
+[
+  {
+    "page": 1,
+    "questions": [
+      {
+        "number": 13,
+        "stem": "Os grandes aviões comerciais voam em altitudes onde o ar é\nrarefeito e a pressão atmosférica é baixa. Devido a isso, eles\ntêm o seu interior pressurizado em uma pressão igual à\natmosférica na altitude de 2.000 m. A figura mostra o gráfico da\npressão atmosférica em função da altitude.",
+        "options": [
+          {
+            "key": "A",
+            "text": "12.400"
+          },
+          {
+            "key": "B",
+            "text": "6.400"
+          },
+          {
+            "key": "C",
+            "text": "4.800"
+          },
+          {
+            "key": "D",
+            "text": "3.200"
+          },
+          {
+            "key": "E",
+            "text": "1.600"
+          }
+        ],
+        "bbox": {
+          "x": 23,
+          "y": 56,
+          "w": 483,
+          "h": 418
+        }
+      },
+      {
+        "number": 14,
+        "stem": "O consumo calórico de um animal de sangue quente é\nproporcional à área superficial de seu corpo. Um animal com\nmassa 3,5 kg consome 250 kcal diárias. O gráfico relaciona a\nárea superficial desse animal com sua massa.",
+        "options": [
+          {
+            "key": "A",
+            "text": "130"
+          },
+          {
+            "key": "B",
+            "text": "250"
+          },
+          {
+            "key": "C",
+            "text": "310"
+          },
+          {
+            "key": "D",
+            "text": "390"
+          },
+          {
+            "key": "E",
+            "text": "500"
+          }
+        ],
+        "bbox": {
+          "x": 23,
+          "y": 537,
+          "w": 483,
+          "h": 530
+        }
+      },
+      {
+        "number": 15,
+        "stem": "Em uma fábrica, um técnico deve medir a velocidade angular\nde uma polia girando. Ele apaga as luzes do ambiente e ilumina\na peça somente com a luz de uma lâmpada estroboscópica, cuja\nfrequência pode ser continuamente variada e precisamente\nconhecida. A polia tem uma mancha branca na lateral. Ele\nobserva que, quando a frequência de flashes é 9 Hz, a mancha\nna polia parece estar parada. Então aumenta vagarosamente a\nfrequência do piscar da lâmpada e só quando esta atinge 12 Hz\né que, novamente, a mancha na polia parece estar parada. Com\nbase nessas observações, ele determina que a velocidade\nangular da polia, em rpm, é",
+        "options": [
+          {
+            "key": "A",
+            "text": "2.160"
+          },
+          {
+            "key": "B",
+            "text": "1.260"
+          },
+          {
+            "key": "C",
+            "text": "309"
+          },
+          {
+            "key": "D",
+            "text": "180"
+          },
+          {
+            "key": "E",
+            "text": "36"
+          }
+        ],
+        "bbox": {
+          "x": 527,
+          "y": 56,
+          "w": 477,
+          "h": 414
+        }
+      },
+      {
+        "number": 16,
+        "stem": "Dois corpos de massas iguais são soltos, ao mesmo tempo, a\npartir do repouso, da altura h₁ e percorrem os diferentes\ntrajetos (A) e (B), mostrados na figura, onde x1 > X2 e h₁ > h2.\nConsidere as seguintes afirmações:",
+        "options": [
+          {
+            "key": "A",
+            "text": "I e III."
+          },
+          {
+            "key": "B",
+            "text": "II e V."
+          },
+          {
+            "key": "C",
+            "text": "IV e V."
+          },
+          {
+            "key": "D",
+            "text": "II e III."
+          },
+          {
+            "key": "E",
+            "text": "I e V."
+          }
+        ],
+        "bbox": {
+          "x": 527,
+          "y": 467,
+          "w": 477,
+          "h": 600
+        }
+      }
+    ]
+  }
+]

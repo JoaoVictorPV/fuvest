@@ -1,0 +1,189 @@
+{
+  "page": 1,
+  "questions": [
+    {
+      "number": 1,
+      "stem": "A figura exemplifica o comportamento de povos indígenas que\nviveram no Brasil há 1.000 anos. Eles construíam suas casas\nescavadas na terra, faziam fogueiras e manuseavam objetos.\n\n\n\n\n\n\n\n\n\nEscavações revelam hábitos de antigos povos que ocuparam o Sul do país.\nFolha de S.Paulo. 20/03/2016. Adaptado.\n\nCom base nos dados apresentados e em seus conhecimentos,\nassinale a alternativa correta quanto à época geológica desses\nsítios arqueológicos, quanto ao elemento químico analisado\ncoerente com as práticas humanas exemplificadas na figura e\nquanto ao método de datação.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Holoceno, silício e datação por quantificação de isótopos\nestáveis."
+        },
+        {
+          "key": "B",
+          "text": "Jurássico, carbono e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "C",
+          "text": "Holoceno, carbono e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "D",
+          "text": "Jurássico, silício e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "E",
+          "text": "Jurássico, carbono e datação por quantificação de isótopos\nestáveis."
+        }
+      ],
+      "bbox": {
+        "x": 34,
+        "y": 70,
+        "w": 449,
+        "h": 550
+      }
+    },
+    {
+      "number": 3,
+      "stem": "No planeta Terra, há processos escultores, tais como a ação do\ngelo, o intemperismo e a ação do vento. A atuação de tais\nprocessos pode ser representada em gráficos elaborados\nsegundo variações médias de temperatura e precipitação\nanual. Considere as características do deserto do Saara, da\nAntártida e de uma floresta tropical e identifique o gráfico em\nque estão corretamente localizados.",
+      "options": [],
+      "bbox": {
+        "x": 508,
+        "y": 70,
+        "w": 446,
+        "h": 166
+      }
+    },
+    {
+      "number": 3,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 509,
+        "y": 165,
+        "w": 220,
+        "h": 200
+      }
+    },
+    {
+      "number": 3,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 732,
+        "y": 165,
+        "w": 220,
+        "h": 200
+      }
+    },
+    {
+      "number": 3,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 509,
+        "y": 362,
+        "w": 220,
+        "h": 200
+      }
+    },
+    {
+      "number": 3,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 732,
+        "y": 362,
+        "w": 220,
+        "h": 200
+      }
+    },
+    {
+      "number": 3,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 509,
+        "y": 558,
+        "w": 220,
+        "h": 200
+      }
+    },
+    {
+      "number": 2,
+      "stem": "O capitalismo neoliberal, após os anos 1980, caracteriza-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "pela prevalência da agricultura e pecuária no PIB dos países\ndesenvolvidos."
+        },
+        {
+          "key": "B",
+          "text": "pelo crescimento da concentração da riqueza e das finanças\nem detrimento dos setores produtivos e pela tendência à\ndiminuição dos direitos sociais."
+        },
+        {
+          "key": "C",
+          "text": "pela adoção de políticas que restringem a fluidez dos\ncapitais e distribuem mais equitativamente a riqueza."
+        },
+        {
+          "key": "D",
+          "text": "pelo fortalecimento do papel do Estado nos direitos sociais\ne pela diminuição do papel das finanças em relação ao PIB\nmundial."
+        },
+        {
+          "key": "E",
+          "text": "pela formação de blocos econômicos entre países\nperiféricos, que impediram a livre circulação de capitais e\ncontiveram o aumento das desigualdades."
+        }
+      ],
+      "bbox": {
+        "x": 35,
+        "y": 643,
+        "w": 449,
+        "h": 314
+      }
+    },
+    {
+      "number": 4,
+      "stem": "A curva de temperatura do ar ilustrada na figura caracteriza um\nfenômeno meteorológico que é mais frequente no outono e no\ninverno. Em ambientes urbanos com elevado número de\nindústrias e poluição veicular, esse fenômeno pode ocasionar\nquadros de elevadas concentrações de poluentes, provocando\nproblemas à saúde da população e danos à fauna e à flora.",
+      "options": [],
+      "bbox": {
+        "x": 509,
+        "y": 643,
+        "w": 446,
+        "h": 168
+      }
+    },
+    {
+      "number": 4,
+      "stem": null,
+      "options": [],
+      "bbox": {
+        "x": 509,
+        "y": 798,
+        "w": 314,
+        "h": 112
+      }
+    },
+    {
+      "number": 4,
+      "stem": "O texto e a ilustração apresentados referem-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "à camada de ozônio."
+        },
+        {
+          "key": "B",
+          "text": "à inversão térmica."
+        },
+        {
+          "key": "C",
+          "text": "ao efeito estufa natural."
+        },
+        {
+          "key": "D",
+          "text": "à chuva ácida."
+        },
+        {
+          "key": "E",
+          "text": "ao smog fotoquímico."
+        }
+      ],
+      "bbox": {
+        "x": 509,
+        "y": 911,
+        "w": 446,
+        "h": 145
+      }
+    }
+  ]
+}
