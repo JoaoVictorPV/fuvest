@@ -3,6 +3,11 @@ import jsonschema
 import sys
 import os
 
+# Força stdout em UTF-8 no Windows para evitar UnicodeEncodeError
+if sys.stdout.encoding != 'utf-8':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 def validate_dataset(schema_path, dataset_path):
     """
     Valida um arquivo de dataset JSON contra um schema.
@@ -19,22 +24,22 @@ def validate_dataset(schema_path, dataset_path):
         # Valida
         jsonschema.validate(instance=dataset, schema=schema)
         
-        print(f"✅ Validação bem-sucedida para: {os.path.basename(dataset_path)}")
+        print(f"[OK] Validação bem-sucedida para: {os.path.basename(dataset_path)}")
         return True
         
     except json.JSONDecodeError as e:
-        print(f"❌ Erro de JSON em '{os.path.basename(dataset_path)}': {e}")
+        print(f"[ERRO] JSON inválido em '{os.path.basename(dataset_path)}': {e}")
         return False
     except jsonschema.exceptions.ValidationError as e:
-        print(f"❌ Erro de validação de schema em '{os.path.basename(dataset_path)}':")
-        print(f"   - Mensagem: {e.message}")
-        print(f"   - Caminho no JSON: {list(e.path)}")
+        print(f"[ERRO] Validação de schema falhou em '{os.path.basename(dataset_path)}':")
+        print(f"  - Mensagem: {e.message}")
+        print(f"  - Caminho no JSON: {list(e.path)}")
         return False
     except FileNotFoundError as e:
-        print(f"❌ Erro: Arquivo não encontrado - {e.filename}")
+        print(f"[ERRO] Arquivo não encontrado - {e.filename}")
         return False
     except Exception as e:
-        print(f"❌ Ocorreu um erro inesperado: {e}")
+        print(f"[ERRO] Ocorreu um erro inesperado: {e}")
         return False
 
 if __name__ == "__main__":
@@ -64,8 +69,8 @@ if __name__ == "__main__":
             validation_passed = False
             
     if validation_passed:
-        print("\n🎉 Todos os arquivos de dataset foram validados com sucesso!")
+        print("\n[OK] Todos os arquivos de dataset foram validados com sucesso!")
         sys.exit(0)
     else:
-        print("\n🚨 Encontrados erros de validação em um ou mais arquivos.")
+        print("\n[ERRO] Encontrados erros de validação em um ou mais arquivos.")
         sys.exit(1)

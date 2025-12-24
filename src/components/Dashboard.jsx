@@ -140,9 +140,18 @@ export function Dashboard() {
   const histProgress = calculateProgress(editalData.historia.groups);
   const geoProgress = calculateProgress(editalData.geografia.groups);
   const matProgress = calculateProgress(editalData.matematica.groups);
+  const portProgress = calculateProgress(editalData.portugues.groups);
+  const litProgress = calculateProgress(editalData.literatura.groups);
+  const fisProgress = calculateProgress(editalData.fisica.groups);
+  const quiProgress = calculateProgress(editalData.quimica.groups);
+  const bioProgress = calculateProgress(editalData.biologia.groups);
+  const redProgress = calculateProgress(editalData.redacao.groups);
   
   const totalEditalProgress = Math.round(
-    ((histProgress + geoProgress + matProgress) / 300) * 100
+    (
+      (histProgress + geoProgress + matProgress + portProgress + litProgress + fisProgress + quiProgress + bioProgress + redProgress) /
+      900
+    ) * 100
   );
 
   const booksRead = booksData.filter(b => {
@@ -151,13 +160,40 @@ export function Dashboard() {
   }).length;
 
   const radarData = [
+    { subject: 'Português', A: portProgress, fullMark: 100 },
+    { subject: 'Literatura', A: litProgress, fullMark: 100 },
+    { subject: 'Redação', A: redProgress, fullMark: 100 },
     { subject: 'História', A: histProgress, fullMark: 100 },
     { subject: 'Geografia', A: geoProgress, fullMark: 100 },
     { subject: 'Matemática', A: matProgress, fullMark: 100 },
+    { subject: 'Física', A: fisProgress, fullMark: 100 },
+    { subject: 'Química', A: quiProgress, fullMark: 100 },
+    { subject: 'Biologia', A: bioProgress, fullMark: 100 },
   ];
 
   // Subject Colors Configuration
   const subjectColors = {
+    'Português': {
+      bg: 'bg-red-50',
+      border: 'border-red-100',
+      text: 'text-red-800',
+      title: 'text-red-600',
+      dot: 'bg-red-500'
+    },
+    'Literatura': {
+      bg: 'bg-red-50',
+      border: 'border-red-100',
+      text: 'text-red-800',
+      title: 'text-red-600',
+      dot: 'bg-red-500'
+    },
+    'Redação': {
+      bg: 'bg-red-50',
+      border: 'border-red-100',
+      text: 'text-red-800',
+      title: 'text-red-600',
+      dot: 'bg-red-500'
+    },
     'História': {
       bg: 'bg-red-50',
       border: 'border-red-100',
@@ -178,6 +214,27 @@ export function Dashboard() {
       text: 'text-indigo-800',
       title: 'text-indigo-600',
       dot: 'bg-indigo-500'
+    },
+    'Física': {
+      bg: 'bg-indigo-50',
+      border: 'border-indigo-100',
+      text: 'text-indigo-800',
+      title: 'text-indigo-600',
+      dot: 'bg-indigo-500'
+    },
+    'Química': {
+      bg: 'bg-indigo-50',
+      border: 'border-indigo-100',
+      text: 'text-indigo-800',
+      title: 'text-indigo-600',
+      dot: 'bg-indigo-500'
+    },
+    'Biologia': {
+      bg: 'bg-indigo-50',
+      border: 'border-indigo-100',
+      text: 'text-indigo-800',
+      title: 'text-indigo-600',
+      dot: 'bg-indigo-500'
     }
   };
 
@@ -186,28 +243,52 @@ export function Dashboard() {
     const extract = (groups, subjectName) => 
       groups.flatMap(g => g.items.map(i => ({...i, subject: subjectName})));
 
+    const allPort = extract(editalData.portugues.groups, 'Português');
+    const allLit = extract(editalData.literatura.groups, 'Literatura');
+    const allRed = extract(editalData.redacao.groups, 'Redação');
     const allHist = extract(editalData.historia.groups, 'História');
     const allGeo = extract(editalData.geografia.groups, 'Geografia');
     const allMat = extract(editalData.matematica.groups, 'Matemática');
+    const allFis = extract(editalData.fisica.groups, 'Física');
+    const allQui = extract(editalData.quimica.groups, 'Química');
+    const allBio = extract(editalData.biologia.groups, 'Biologia');
 
+    const uncheckedPort = allPort.filter(i => !checkedItems[i.id]);
+    const uncheckedLit = allLit.filter(i => !checkedItems[i.id]);
+    const uncheckedRed = allRed.filter(i => !checkedItems[i.id]);
     const uncheckedHist = allHist.filter(i => !checkedItems[i.id]);
     const uncheckedGeo = allGeo.filter(i => !checkedItems[i.id]);
     const uncheckedMat = allMat.filter(i => !checkedItems[i.id]);
+    const uncheckedFis = allFis.filter(i => !checkedItems[i.id]);
+    const uncheckedQui = allQui.filter(i => !checkedItems[i.id]);
+    const uncheckedBio = allBio.filter(i => !checkedItems[i.id]);
 
     const pMap = { 'high': 3, 'medium': 2, 'normal': 1 };
     const sortFn = (a, b) => pMap[b.priority] - pMap[a.priority];
 
+    uncheckedPort.sort(sortFn);
+    uncheckedLit.sort(sortFn);
+    uncheckedRed.sort(sortFn);
     uncheckedHist.sort(sortFn);
     uncheckedGeo.sort(sortFn);
     uncheckedMat.sort(sortFn);
+    uncheckedFis.sort(sortFn);
+    uncheckedQui.sort(sortFn);
+    uncheckedBio.sort(sortFn);
 
     const suggestions = [];
     const limitPerSubject = 2;
 
     for (let i = 0; i < limitPerSubject; i++) {
+        if (uncheckedPort[i]) suggestions.push(uncheckedPort[i]);
+        if (uncheckedLit[i]) suggestions.push(uncheckedLit[i]);
+        if (uncheckedRed[i]) suggestions.push(uncheckedRed[i]);
         if (uncheckedHist[i]) suggestions.push(uncheckedHist[i]);
         if (uncheckedGeo[i]) suggestions.push(uncheckedGeo[i]);
         if (uncheckedMat[i]) suggestions.push(uncheckedMat[i]);
+        if (uncheckedFis[i]) suggestions.push(uncheckedFis[i]);
+        if (uncheckedQui[i]) suggestions.push(uncheckedQui[i]);
+        if (uncheckedBio[i]) suggestions.push(uncheckedBio[i]);
     }
 
     return suggestions;

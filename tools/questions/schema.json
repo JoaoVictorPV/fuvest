@@ -39,7 +39,7 @@
         "id": {
           "description": "ID único e estável da questão (ex: fuvest-2019-q12).",
           "type": "string",
-          "pattern": "^fuvest-\\\\d{4}-q\\\\d+$"
+          "pattern": "^fuvest-\\d{4}-q\\d{2}$"
         },
         "year": { "type": "integer" },
         "number": { "type": "integer" },

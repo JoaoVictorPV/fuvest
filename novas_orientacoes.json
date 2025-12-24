@@ -1,0 +1,94 @@
+{
+  "titulo": "Pipeline de Questões (Fuvest) + Operação Local (Guia) - v1",
+  "objetivo": "Documentar, de forma operacional, como você adiciona novos PDFs (pXX/gXX) e gera o dataset JSON consumido pelo frontend, minimizando custos de IA e mantendo escalabilidade.",
+  "visao_geral": {
+    "principio": "Geração sob demanda com cache: só usamos IA quando a extração determinística falhar (gabarito escaneado).",
+    "fonte_de_verdade": [
+      "provas/pYY.pdf (prova)",
+      "provas/gYY.pdf (gabarito)",
+      "public/data/questions/fuvest-YYYY.json (dataset final)"
+    ],
+    "id_questao": "fuvest-YYYY-qNN (NN sempre com 2 dígitos: 01..90)"
+  },
+  "estrutura_de_pastas": {
+    "provas": "provas/ (entrada: p19.pdf, g19.pdf, ...)",
+    "dataset": "public/data/questions/ (saída: fuvest-2019.json, ...)",
+    "assets": "public/assets/questions/YYYY/qNN/image.png (recortes PNG para cada questão)",
+    "cache": "tools/questions/cache/ (cache de IA e cache OCR de gabarito)"
+  },
+  "requisitos": {
+    "python": "Python instalado (recomendado >= 3.10)",
+    "venv": "Ambiente virtual em tools/questions/.venv",
+    "dependencias": "Instalar requirements.txt em tools/questions/",
+    "gemini_api_key": {
+      "quando_precisa": "Somente quando o gabarito for 'mudo' (escaneado) e o fallback OCR via Gemini for necessário.",
+      "como_configurar": [
+        "Criar tools/questions/.env (ou usar variável de ambiente no sistema)",
+        "Adicionar: GEMINI_API_KEY=..."
+      ]
+    }
+  },
+  "fluxo_padrao_adicionar_ano": {
+    "passo_1_colocar_pdfs": {
+      "descricao": "Copie os PDFs novos para a pasta provas/.",
+      "exemplo": [
+        "provas/p26.pdf",
+        "provas/g26.pdf"
+      ]
+    },
+    "passo_2_criar_venv_uma_vez": {
+      "descricao": "Se ainda não existe venv (primeira vez na máquina), crie e instale dependências.",
+      "comandos_windows": [
+        "cd tools\\questions",
+        "python -m venv .venv",
+        ".venv\\Scripts\\python -m pip install -U pip",
+        ".venv\\Scripts\\python -m pip install -r requirements.txt"
+      ]
+    },
+    "passo_3_gerar_dataset": {
+      "descricao": "Gera dataset JSON + recortes PNG (assets) de forma determinística. Se o gabarito for escaneado, usa fallback OCR via Gemini e cacheia.",
+      "comando_windows": "tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026",
+      "observacoes": [
+        "O script cria/atualiza public/data/questions/fuvest-2026.json",
+        "O script cria/atualiza public/assets/questions/2026/qNN/image.png",
+        "Cada questão sai com explanation.theory='Pendente' (placeholder), pronto para enriquecimento futuro.",
+        "BBoxes e páginas para recorte são calculados de forma determinística via PyMuPDF (mais robusto que IA)."
+      ]
+    },
+    "passo_4_validar": {
+      "descricao": "Valida o JSON gerado contra tools/questions/schema.json.",
+      "comando_windows": "tools\\questions\\.venv\\Scripts\\python tools/questions/validate.py public/data/questions/fuvest-2026.json"
+    },
+    "passo_5_recrop_only_opcional": {
+      "descricao": "Se você alterou apenas lógica de recorte e quer regenerar PNGs sem IA.",
+      "comando_windows": "tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026 --recrop-only"
+    }
+  },
+  "sobre_cache_e_custos": {
+    "cache_extraction": "tools/questions/cache/<ano>/extraction/*.json (quando IA vision for usada)",
+    "cache_gabarito": "tools/questions/cache/gabarito/<arquivo>_<hash>.json (OCR via Gemini do gabarito)",
+    "regra_de_ouro": "Se o cache existe, o script reaproveita e não faz chamada nova. Isso reduz custo e garante repetibilidade."
+  },
+  "enriquecimento_futuro_ai": {
+    "descricao": "O enrich.py pode preencher explanation.theory/steps/distractors/finalSummary. Hoje você pode deixar como 'Pendente' e ir enriquecendo por demanda.",
+    "estado_atual": "Mecanismo preparado: explanation existe no dataset e o frontend tolera campos pendentes.",
+    "recomendacao": [
+      "Enriquecer só as questões mais erradas (baseado em histórico do usuário).",
+      "Commitar apenas JSONs já validados e assets correspondentes."
+    ]
+  },
+  "faq": [
+    {
+      "q": "O gabarito não extraiu tudo (faltando respostas).",
+      "a": "Isso geralmente acontece quando o PDF do gabarito é escaneado. Configure GEMINI_API_KEY e rode o ingest.py novamente: ele faz OCR via Gemini e cacheia."
+    },
+    {
+      "q": "As alternativas estão vazias em algumas questões.",
+      "a": "É esperado em casos de layout/figuras: o dataset mantém as 5 opções e preenche com '(Veja a imagem da questão)'. O aluno responde olhando o recorte PNG."
+    },
+    {
+      "q": "Posso subir só o JSON no GitHub?",
+      "a": "Pode, mas o ideal é subir também os assets (imagens recortadas), senão o usuário não consegue ver a questão."
+    }
+  ]
+}

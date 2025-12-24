@@ -11,9 +11,37 @@ function BookModal({ book, onClose, status, onStatusChange }) {
 
   const tabs = [
     { id: 'summary', label: 'Resumo' },
+    { id: 'plot', label: 'Enredo / Estrutura' },
+    { id: 'themes', label: 'Temas e Motivos' },
+    { id: 'characters', label: 'Personagens / Vozes' },
+    { id: 'style', label: 'Linguagem e Estilo' },
+    { id: 'fuvest', label: 'Como a Fuvest Cobra' },
+    { id: 'study', label: 'Plano de Estudo' },
     { id: 'context', label: 'Contexto Histórico' },
     { id: 'analysis', label: 'Análise Crítica' }
   ];
+
+  // Filtra tabs sem conteúdo (mantém o modal "limpo" enquanto você vai ampliando os textos)
+  const visibleTabs = tabs.filter(tab => {
+    const map = {
+      summary: book.summary,
+      plot: book.plot,
+      themes: book.themes,
+      characters: book.characters,
+      style: book.style,
+      fuvest: book.fuvest,
+      study: book.studyPlan,
+      context: book.context,
+      analysis: book.analysis,
+    };
+    return (map[tab.id] || '').toString().trim().length > 0;
+  });
+
+  const renderText = (value) => {
+    const text = (value || '').toString().trim();
+    if (!text) return <p className="text-slate-500">(Conteúdo em produção.)</p>;
+    return <div className="whitespace-pre-line">{text}</div>;
+  };
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm animate-in fade-in duration-200">
@@ -43,7 +71,7 @@ function BookModal({ book, onClose, status, onStatusChange }) {
             <option value="summarized">Resumido</option>
           </select>
           <div className="flex space-x-1">
-            {tabs.map(tab => (
+            {visibleTabs.map(tab => (
               <button
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
@@ -59,10 +87,16 @@ function BookModal({ book, onClose, status, onStatusChange }) {
           </div>
         </div>
 
-        <div className="p-8 overflow-y-auto flex-1 text-slate-700 leading-relaxed">
-          {activeTab === 'summary' && <p>{book.summary}</p>}
-          {activeTab === 'context' && <p>{book.context}</p>}
-          {activeTab === 'analysis' && <p>{book.analysis}</p>}
+        <div className="p-8 overflow-y-auto flex-1 text-slate-700 leading-relaxed space-y-4">
+          {activeTab === 'summary' && renderText(book.summary)}
+          {activeTab === 'plot' && renderText(book.plot)}
+          {activeTab === 'themes' && renderText(book.themes)}
+          {activeTab === 'characters' && renderText(book.characters)}
+          {activeTab === 'style' && renderText(book.style)}
+          {activeTab === 'fuvest' && renderText(book.fuvest)}
+          {activeTab === 'study' && renderText(book.studyPlan)}
+          {activeTab === 'context' && renderText(book.context)}
+          {activeTab === 'analysis' && renderText(book.analysis)}
         </div>
       </div>
     </div>

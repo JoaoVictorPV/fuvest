@@ -27,6 +27,8 @@ PROVAS_DIR = os.path.join(PROJECT_ROOT, "provas")
 
 gemini_vision_model = None
 
+gemini_text_model = None
+
 
 def get_gemini_vision_model():
     """Inicializa o cliente Gemini somente se/when necessário.
@@ -55,6 +57,47 @@ def get_gemini_vision_model():
     print(f"[OK] Usando modelo: {MODEL_ID}")
     gemini_vision_model = genai.GenerativeModel(MODEL_ID)
     return gemini_vision_model
+
+
+def get_gemini_text_model():
+    """Modelo 'texto' (mas multimodal) recomendado para OCR/leitura do gabarito.
+
+    Preferência: gemini-2.0-flash (não-lite). Fallback: gemini-1.5-flash.
+    """
+    global gemini_text_model
+    if gemini_text_model is not None:
+        return gemini_text_model
+
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    if not GEMINI_API_KEY or GEMINI_API_KEY == "SUA_CHAVE_AQUI":
+        raise ValueError("A variável de ambiente GEMINI_API_KEY não foi definida.")
+
+    genai.configure(api_key=GEMINI_API_KEY)
+
+    model_id = None
+    found = False
+    for m in genai.list_models():
+        if 'generateContent' not in m.supported_generation_methods:
+            continue
+
+        if "gemini-2.0-flash" in m.name and "lite" not in m.name:
+            model_id = m.name
+            found = True
+            break
+
+    if not found:
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods and "gemini-1.5-flash" in m.name:
+                model_id = m.name
+                found = True
+                break
+
+    if not model_id:
+        raise RuntimeError("Modelo Gemini (texto) compatível não encontrado.")
+
+    print(f"[OK] Usando modelo para OCR/gabarito: {model_id}")
+    gemini_text_model = genai.GenerativeModel(model_id)
+    return gemini_text_model
 
 
 def render_pdf_to_images(pdf_path, year, dpi=200):
@@ -546,16 +589,103 @@ def crop_assets(questions, year, page_image_paths, bbox_index=None, padding=15):
     return questions
 
 def extract_gabarito(gabarito_pdf_path):
-    # (Simplified for brevity)
+    """Extrai gabarito de gXX.pdf.
+
+    Estratégia: regex tolerante em cima do texto extraído.
+    Se o gabarito vier incompleto, abortamos para não gerar JSON inválido.
+    """
     print(f"\n[GAB] Lendo gabarito...", flush=True)
     gabarito = {}
     doc = fitz.open(gabarito_pdf_path)
-    text = "".join([page.get_text() for page in doc])
-    import re
-    matches = re.findall(r'(\d+)[\s-]*([ABCDE])', text)
+    text = "\n".join([page.get_text("text") for page in doc])
+    doc.close()
+
+    # padrões comuns: "1-A", "01 A", "1 A", "1) A" etc
+    patterns = [
+        r'(\d{1,2})\s*[-–—]\s*([ABCDE])',
+        r'(\d{1,2})\s*[\)\.]\s*([ABCDE])',
+        r'(\d{1,2})\s+([ABCDE])',
+    ]
+
+    matches = []
+    for pat in patterns:
+        matches.extend(re.findall(pat, text))
+
     for num_str, letter in matches:
-        gabarito[int(num_str)] = letter
+        n = int(num_str)
+        if 1 <= n <= 90:
+            gabarito[n] = letter
+
+    # Fallback: se o PDF for "mudo" (scaneado) o get_text falha.
+    # Nesse caso, fazemos OCR via Gemini (2 páginas apenas) e cacheamos.
+    if len(gabarito) < 90:
+        gabarito = extract_gabarito_via_gemini(gabarito_pdf_path)
+
+    # hard guard: precisamos do gabarito completo para garantir integridade
+    if len(gabarito) < 90:
+        missing = [i for i in range(1, 91) if i not in gabarito]
+        raise RuntimeError(f"Gabarito incompleto ({len(gabarito)}/90). Faltando: {missing[:20]}...")
+
     return gabarito
+
+
+def extract_gabarito_via_gemini(gabarito_pdf_path: str):
+    """Extrai gabarito via Gemini Vision/Text (OCR).
+
+    - Renderiza cada página do gabarito para PNG.
+    - Envia para Gemini pedindo JSON com mapeamento 1..90.
+    - Usa cache por hash do PDF.
+    """
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    pdf_bytes = open(gabarito_pdf_path, 'rb').read()
+    cache_key = hashlib.sha256(pdf_bytes).hexdigest()
+    cache_subdir = os.path.join(CACHE_DIR, "gabarito")
+    os.makedirs(cache_subdir, exist_ok=True)
+    cache_file = os.path.join(cache_subdir, f"{os.path.basename(gabarito_pdf_path)}_{cache_key}.json")
+
+    if os.path.exists(cache_file):
+        with open(cache_file, 'r', encoding='utf-8') as f:
+            return {int(k): v for k, v in json.load(f).items()}
+
+    print("[GAB] Fallback OCR via Gemini (PDF escaneado)...", flush=True)
+    model = get_gemini_text_model()
+    doc = fitz.open(gabarito_pdf_path)
+    answers = {}
+
+    for i in range(len(doc)):
+        page = doc.load_page(i)
+        pix = page.get_pixmap(dpi=220)
+        # usa PIL Image em memória
+        img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+
+        prompt = """Você vai ler um gabarito da Fuvest (questões 1 a 90) a partir de uma imagem.
+
+Regras:
+1) Retorne SOMENTE JSON estrito.
+2) Formato de saída: {"1":"A","2":"C",...,"90":"E"}.
+3) Use letras A/B/C/D/E.
+4) Ignore quaisquer textos que não sejam o gabarito.
+5) Se algum número estiver ilegível, omita-o (não chute)."""
+
+        resp = model.generate_content(
+            [prompt, img],
+            generation_config={"response_mime_type": "application/json"}
+        )
+        page_map = json.loads(resp.text)
+        for k, v in page_map.items():
+            try:
+                n = int(str(k).strip())
+            except Exception:
+                continue
+            if 1 <= n <= 90 and str(v).strip() in ["A", "B", "C", "D", "E"]:
+                answers[n] = str(v).strip()
+
+    doc.close()
+
+    with open(cache_file, 'w', encoding='utf-8') as f:
+        json.dump({str(k): v for k, v in sorted(answers.items())}, f, ensure_ascii=False, indent=2)
+
+    return answers
 
 def main():
     parser = argparse.ArgumentParser()
@@ -606,15 +736,33 @@ def main():
         num = q.get('number')
         if not num: continue
 
-        q['answer'] = {"correct": gabarito.get(num)}
+        correct = gabarito.get(num)
+        if correct not in ["A", "B", "C", "D", "E"]:
+            raise RuntimeError(f"Sem gabarito para questão {num} ({args.year}).")
+
+        q['answer'] = {"correct": correct}
         q['id'] = f"fuvest-{args.year}-q{num:02d}"
         q['year'] = args.year
-        q['explanation'] = {"theory": "Pendente"}
+        # Placeholder compatível com schema.json e com enrich.py (que procura theory == "Pendente")
+        q['explanation'] = {
+            "theory": "Pendente",
+            "steps": [],
+            "distractors": {"A": "", "B": "", "C": "", "D": "", "E": ""},
+            "finalSummary": ""
+        }
         q['assets'] = {"questionImage": q.pop('asset_path', None)}
         final_questions.append(q)
         
     output_json_path = os.path.join(DATA_DIR, f"fuvest-{args.year}.json")
-    final_data = {"year": args.year, "generatedAt": datetime.now().isoformat(), "questions": final_questions}
+    final_data = {
+        "year": args.year,
+        "source": {
+            "provaPdf": os.path.basename(pdf_path),
+            "gabaritoPdf": os.path.basename(gabarito_path)
+        },
+        "generatedAt": datetime.now().isoformat(),
+        "questions": final_questions
+    }
     with open(output_json_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
 

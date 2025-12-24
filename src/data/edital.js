@@ -231,4 +231,257 @@ export const editalData = {
     }
     ]
   }
+  ,
+  portugues: {
+    meta: {
+      description: "Linguagens, Códigos e suas Tecnologias",
+      competencies: [
+        "**Compreender e interpretar textos de diferentes gêneros e épocas:** A Fuvest prioriza leitura fina: tese, argumentos, efeitos de sentido, pressupostos e ironias. Não é só ‘entender o tema’, é perceber como o texto constrói o que diz.",
+        "**Reconhecer recursos linguísticos e discursivos (coesão, coerência, argumentação):** Você precisa identificar como o texto se organiza: conectivos, pronomes, progressão temática, relações lógicas, modalização e marcas de ponto de vista.",
+        "**Analisar variação linguística e adequação:** A Fuvest cobra norma-padrão, mas também cobra compreensão de registros, variedades, preconceito linguístico e adequação à situação comunicativa.",
+        "**Produzir respostas com clareza e precisão:** Mesmo em questões objetivas, a banca valoriza leitura técnica. Em questões discursivas, a organização (tese → justificativa → conclusão) conta muito." 
+      ],
+      skills: [
+        "**Gramática em uso (não decorada):** classes de palavras, concordância, regência, crase e pontuação aplicadas à interpretação.",
+        "**Coesão e coerência:** referenciação, substituição, elipse, conectores, paralelismo.",
+        "**Semântica e efeitos de sentido:** ambiguidade, polissemia, pressupostos, implícitos, ironia.",
+        "**Análise sintática funcional:** identificar funções em períodos simples/compostos e explicar efeitos (ênfase, ordem, elipse).",
+        "**Interpretação de gêneros:** artigo, crônica, editorial, reportagem, publicidade, textos científicos e literários." 
+      ]
+    },
+    groups: [
+      {
+        title: "Leitura e Interpretação",
+        items: [
+          { id: 'p01', topic: 'Tese, argumentos e progressão temática', priority: 'high' },
+          { id: 'p02', topic: 'Inferência, pressupostos e subentendidos', priority: 'high' },
+          { id: 'p03', topic: 'Ironia, humor e efeitos de sentido', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Gramática e Uso",
+        items: [
+          { id: 'p04', topic: 'Concordância verbal e nominal (em contexto)', priority: 'high' },
+          { id: 'p05', topic: 'Regência e crase (em contexto)', priority: 'high' },
+          { id: 'p06', topic: 'Pontuação e efeitos de sentido', priority: 'high' },
+          { id: 'p07', topic: 'Colocação pronominal e pronomes referenciais', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Texto e Discurso",
+        items: [
+          { id: 'p08', topic: 'Coesão: conectivos, referenciação, paralelismo', priority: 'high' },
+          { id: 'p09', topic: 'Coerência: relações lógicas e consistência argumentativa', priority: 'high' },
+          { id: 'p10', topic: 'Variação linguística e adequação (registro e norma)', priority: 'medium' }
+        ]
+      }
+    ]
+  },
+  literatura: {
+    meta: {
+      description: "Linguagens, Códigos e suas Tecnologias",
+      competencies: [
+        "**Ler textos literários como construção histórica e formal:** A Fuvest cobra relação entre forma, tema e contexto. Não basta ‘a história’, é preciso identificar procedimentos de linguagem.",
+        "**Reconhecer movimentos literários e suas tensões:** Romantismo, Realismo, Modernismo etc. como respostas a contextos e disputas estéticas.",
+        "**Comparar textos e interpretar estilos:** A banca gosta de aproximações e contrastes (por exemplo: narrador, ironia, lirismo, oralidade).",
+        "**Articular literatura e sociedade sem reduzir a obra a ‘documento’:** O social aparece na forma: escolha de narrador, linguagem, recorte de mundo." 
+      ],
+      skills: [
+        "**Análise de narrador e foco narrativo:** 1ª/3ª pessoa, confiabilidade, ironia.",
+        "**Recursos poéticos:** metáfora, ritmo, imagens, campos semânticos.",
+        "**Gêneros e modos:** romance, novela, poema, ensaio; como cada forma produz sentido.",
+        "**Intertextualidade e diálogo entre obras:** referências, reescrituras, alusões.",
+        "**Leituras obrigatórias:** identificar temas e procedimentos recorrentes nas obras da lista." 
+      ]
+    },
+    groups: [
+      {
+        title: "Ferramentas de Leitura Literária",
+        items: [
+          { id: 'l01', topic: 'Narrador, focalização e ironia', priority: 'high' },
+          { id: 'l02', topic: 'Personagem, conflito e construção de sentido', priority: 'medium' },
+          { id: 'l03', topic: 'Tempo, espaço e estrutura narrativa', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Poesia e Linguagem",
+        items: [
+          { id: 'l04', topic: 'Imagens poéticas, metáforas e campos semânticos', priority: 'high' },
+          { id: 'l05', topic: 'Ritmo, sonoridade e forma', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Movimentos Literários (panorama)",
+        items: [
+          { id: 'l06', topic: 'Romantismo, Realismo/Naturalismo e Modernismo (noções)', priority: 'high' },
+          { id: 'l07', topic: 'Literatura contemporânea: polifonia, fragmentação, oralidade', priority: 'high' }
+        ]
+      }
+    ]
+  },
+  fisica: {
+    meta: {
+      description: "Ciências da Natureza e suas Tecnologias",
+      competencies: [
+        "**Modelar fenômenos e interpretar gráficos:** a Fuvest cobra leitura de unidades, gráficos v×t, a×t, F×x e relações funcionais.",
+        "**Aplicar leis físicas com raciocínio (não fórmula cega):** reconhecer princípios (conservação, 2ª lei, energia) e escolher o modelo certo.",
+        "**Resolver problemas com atenção a ordem de grandeza e unidades:** conversões, notação científica e consistência dimensional.",
+        "**Conectar física a situações reais:** circuitos, óptica, ondas, mecânica do cotidiano." 
+      ],
+      skills: [
+        "**Cinemática e dinâmica:** movimento, forças, atrito, trabalho.",
+        "**Energia e conservação:** energia mecânica, potência, impulso, quantidade de movimento.",
+        "**Eletricidade básica:** circuitos simples, resistência, potência, associações.",
+        "**Ondulatória e óptica:** reflexão/refração, lentes e espelhos (noções usuais).",
+        "**Termologia:** calorimetria, mudanças de fase, dilatação (conceitos e contas)." 
+      ]
+    },
+    groups: [
+      {
+        title: "Mecânica",
+        items: [
+          { id: 'f01', topic: 'Cinemática: MRU, MRUV, gráficos', priority: 'high' },
+          { id: 'f02', topic: 'Leis de Newton e forças', priority: 'high' },
+          { id: 'f03', topic: 'Trabalho, energia e potência', priority: 'high' },
+          { id: 'f04', topic: 'Impulso e quantidade de movimento', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Termologia",
+        items: [
+          { id: 'f05', topic: 'Calorimetria e mudanças de fase', priority: 'high' },
+          { id: 'f06', topic: 'Dilatação térmica e escalas', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Eletricidade e Ondas",
+        items: [
+          { id: 'f07', topic: 'Eletrodinâmica: circuitos, Lei de Ohm, potência', priority: 'high' },
+          { id: 'f08', topic: 'Ondas: frequência, comprimento, propagação', priority: 'medium' },
+          { id: 'f09', topic: 'Óptica geométrica: reflexão e refração (noções)', priority: 'medium' }
+        ]
+      }
+    ]
+  },
+  quimica: {
+    meta: {
+      description: "Ciências da Natureza e suas Tecnologias",
+      competencies: [
+        "**Interpretar transformações químicas e linguagem simbólica:** equações, balanceamento, estados físicos, mol e concentração.",
+        "**Relacionar estrutura da matéria e propriedades:** ligações químicas, polaridade e interações.",
+        "**Analisar reações em contexto (energia, equilíbrio, pH):** pensamento de sistema e condições.",
+        "**Química aplicada:** meio ambiente, materiais, combustíveis, cotidiano." 
+      ],
+      skills: [
+        "**Estequiometria:** mol, massas, reagente limitante, rendimento.",
+        "**Soluções:** concentração, diluição, mistura, titulação (noções).",
+        "**Equilíbrio químico e ácido-base:** Le Chatelier, pH/pOH (noções usuais).",
+        "**Eletroquímica:** oxirredução, pilhas e eletrólise (noções).",
+        "**Orgânica:** funções orgânicas, propriedades e reações básicas." 
+      ]
+    },
+    groups: [
+      {
+        title: "Química Geral",
+        items: [
+          { id: 'q01', topic: 'Estrutura atômica, tabela periódica e ligações', priority: 'high' },
+          { id: 'q02', topic: 'Estequiometria e balanceamento', priority: 'high' },
+          { id: 'q03', topic: 'Soluções: concentração e diluição', priority: 'high' }
+        ]
+      },
+      {
+        title: "Fisico-Química",
+        items: [
+          { id: 'q04', topic: 'Equilíbrio químico e deslocamentos (Le Chatelier)', priority: 'medium' },
+          { id: 'q05', topic: 'Ácido-base e pH (noções)', priority: 'high' },
+          { id: 'q06', topic: 'Oxirredução, pilhas e eletrólise (noções)', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Química Orgânica",
+        items: [
+          { id: 'q07', topic: 'Funções orgânicas e propriedades', priority: 'high' },
+          { id: 'q08', topic: 'Reações orgânicas mais comuns (noções)', priority: 'medium' }
+        ]
+      }
+    ]
+  },
+  biologia: {
+    meta: {
+      description: "Ciências da Natureza e suas Tecnologias",
+      competencies: [
+        "**Compreender processos biológicos em níveis (célula → organismo → ecossistema):** conectar micro e macro.",
+        "**Interpretar dados e experimentos:** tabelas, gráficos, hipóteses e conclusões.",
+        "**Integrar biologia e sociedade:** saúde pública, ambiente, biotecnologia.",
+        "**Usar conceitos-chave com precisão:** genética, evolução, fisiologia." 
+      ],
+      skills: [
+        "**Citologia e bioquímica:** organelas, membranas, metabolismo (noções).",
+        "**Genética:** Mendel, herança, DNA, biotecnologia (noções).",
+        "**Evolução e ecologia:** seleção natural, relações ecológicas, ciclos.",
+        "**Fisiologia humana:** sistemas e homeostase.",
+        "**Botânica e zoologia:** organização e funções básicas." 
+      ]
+    },
+    groups: [
+      {
+        title: "Biologia Celular e Genética",
+        items: [
+          { id: 'b01', topic: 'Célula: organelas, membranas e metabolismo', priority: 'high' },
+          { id: 'b02', topic: 'Genética mendeliana e herança', priority: 'high' },
+          { id: 'b03', topic: 'DNA, síntese proteica e biotecnologia (noções)', priority: 'medium' }
+        ]
+      },
+      {
+        title: "Evolução e Ecologia",
+        items: [
+          { id: 'b04', topic: 'Evolução: seleção natural e evidências', priority: 'high' },
+          { id: 'b05', topic: 'Ecologia: cadeias, ciclos e relações', priority: 'high' }
+        ]
+      },
+      {
+        title: "Fisiologia",
+        items: [
+          { id: 'b06', topic: 'Sistemas do corpo humano e homeostase', priority: 'high' },
+          { id: 'b07', topic: 'Imunologia e saúde (noções)', priority: 'medium' }
+        ]
+      }
+    ]
+  },
+  redacao: {
+    meta: {
+      description: "Linguagens, Códigos e suas Tecnologias",
+      competencies: [
+        "**Construir texto dissertativo-argumentativo coerente:** tese clara, encadeamento lógico e conclusão consistente.",
+        "**Mobilizar repertório sociocultural pertinente:** usar exemplos e conceitos sem ‘citar por citar’.",
+        "**Adequar linguagem à norma-padrão e ao gênero:** clareza, formalidade e precisão.",
+        "**Planejar e revisar:** evitar contradições, generalizações vagas e desvios gramaticais." 
+      ],
+      skills: [
+        "**Tese e recorte:** responder ao tema com posicionamento objetivo.",
+        "**Argumentação:** causa/consequência, comparação, exemplificação, dados.",
+        "**Coesão:** conectores, paralelismo, progressão.",
+        "**Conclusão propositiva:** síntese e encaminhamento (quando cabível).",
+        "**Revisão:** concordância, regência, pontuação e repetição vocabular." 
+      ]
+    },
+    groups: [
+      {
+        title: "Estrutura da Dissertação",
+        items: [
+          { id: 'r01', topic: 'Introdução: tese + delimitação do problema', priority: 'high' },
+          { id: 'r02', topic: 'Desenvolvimento: 2 parágrafos argumentativos sólidos', priority: 'high' },
+          { id: 'r03', topic: 'Conclusão: síntese + encaminhamento', priority: 'high' }
+        ]
+      },
+      {
+        title: "Técnicas",
+        items: [
+          { id: 'r04', topic: 'Repertório: exemplo, referência, conceito (com função)', priority: 'high' },
+          { id: 'r05', topic: 'Coesão e conectores (progressão)', priority: 'high' },
+          { id: 'r06', topic: 'Revisão final: gramática e clareza', priority: 'high' }
+        ]
+      }
+    ]
+  }
 };

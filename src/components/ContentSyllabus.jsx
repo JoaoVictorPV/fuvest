@@ -180,6 +180,54 @@ export function ContentSyllabus() {
 
       <div className="grid gap-8">
         <SubjectSection 
+          title="Português" 
+          groups={editalData.portugues.groups} 
+          meta={editalData.portugues.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="crimson"
+        />
+        <SubjectSection 
+          title="Literatura" 
+          groups={editalData.literatura.groups} 
+          meta={editalData.literatura.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="crimson"
+        />
+        <SubjectSection 
+          title="Física" 
+          groups={editalData.fisica.groups} 
+          meta={editalData.fisica.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="indigo"
+        />
+        <SubjectSection 
+          title="Química" 
+          groups={editalData.quimica.groups} 
+          meta={editalData.quimica.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="indigo"
+        />
+        <SubjectSection 
+          title="Biologia" 
+          groups={editalData.biologia.groups} 
+          meta={editalData.biologia.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="indigo"
+        />
+        <SubjectSection 
+          title="Redação" 
+          groups={editalData.redacao.groups} 
+          meta={editalData.redacao.meta}
+          checkedItems={checkedItems} 
+          onToggle={handleToggle} 
+          colorTheme="crimson"
+        />
+        <SubjectSection 
           title="História" 
           groups={editalData.historia.groups} 
           meta={editalData.historia.meta}
