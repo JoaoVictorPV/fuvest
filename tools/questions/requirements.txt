@@ -1,0 +1,16 @@
+# Arquivo de dependências para o pipeline de ingestão de questões
+
+# Para renderizar PDFs como imagens
+pymupdf
+
+# Para manipulação de imagens (recorte, salvamento)
+pillow
+
+# SDK oficial do Google para a API do Gemini (pacote atualizado)
+google-genai
+
+# Para carregar variáveis de ambiente (como a API Key) de um arquivo .env
+python-dotenv
+
+# Para validar a estrutura dos dados gerados
+jsonschema

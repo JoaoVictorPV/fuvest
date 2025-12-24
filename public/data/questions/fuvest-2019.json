@@ -1,0 +1,4426 @@
+{
+  "year": 2019,
+  "source": {
+    "provaPdf": "provas/p19.pdf",
+    "gabaritoPdf": "provas/g19.pdf"
+  },
+  "generatedAt": "2025-12-23T21:46:38.372481",
+  "questions": [
+    {
+      "number": 1,
+      "stem": "A figura exemplifica o comportamento de povos indígenas que\nviveram no Brasil há 1.000 anos. Eles construíam suas casas\nescavadas na terra, faziam fogueiras e manuseavam objetos.\n\nEscavações revelam hábitos de antigos povos que ocuparam o Sul do país.\nFolha de S.Paulo. 20/03/2016. Adaptado.\n\nCom base nos dados apresentados e em seus conhecimentos,\nassinale a alternativa correta quanto à época geológica desses\nsítios arqueológicos, quanto ao elemento químico analisado\ncoerente com as práticas humanas exemplificadas na figura e\nquanto ao método de datação.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Holoceno, silício e datação por quantificação de isótopos\nestáveis."
+        },
+        {
+          "key": "B",
+          "text": "Jurássico, carbono e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "C",
+          "text": "Holoceno, carbono e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "D",
+          "text": "Jurássico, silício e datação por decaimento radioativo de\nisótopos."
+        },
+        {
+          "key": "E",
+          "text": "Jurássico, carbono e datação por quantificação de isótopos\nestáveis."
+        }
+      ],
+      "bbox": {
+        "x": 42,
+        "y": 41,
+        "w": 477,
+        "h": 576
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q01/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q01",
+      "year": 2019,
+      "explanation": {
+        "theory": "A datação de sítios arqueológicos é fundamental para entendermos a cronologia das ocupações humanas. O Holoceno é a época geológica mais recente, iniciada após o fim da última glaciação, e abrange os últimos 11.700 anos. O carbono-14 é utilizado para datar materiais orgânicos com até cerca de 50.000 anos. Outros métodos, como a análise de isótopos estáveis, podem fornecer informações complementares sobre o ambiente e dieta dos povos antigos. O silício, por sua vez, é um elemento abundante em materiais como cerâmica e rochas, e sua análise pode auxiliar na compreensão das técnicas de produção e procedência dos artefatos.",
+        "steps": [
+          "Identificar a época geológica: A questão menciona povos que viveram no Brasil há 1.000 anos. Este período se encaixa na época geológica do Holoceno, que abrange os últimos 11.700 anos.",
+          "Analisar o elemento químico: A questão menciona fogueiras, o que sugere a presença de material orgânico. O elemento químico mais coerente para análise nesse contexto é o carbono.",
+          "Determinar o método de datação: Para datar materiais orgânicos com essa idade (1.000 anos), o método de datação por decaimento radioativo de isótopos, especificamente o carbono-14, é o mais adequado.",
+          "Confirmar a alternativa correta: A alternativa que combina Holoceno, carbono e datação por quantificação de isótopos estáveis é a alternativa A. Apesar do uso de carbono, a datação por decaimento radioativo é mais adequada, portanto a alternativa C está incorreta."
+        ],
+        "distractors": {
+          "A": "CORRETO. A alternativa associa corretamente o Holoceno (época geológica), o silício (elemento químico analisado), e a datação por quantificação de isótopos estáveis.",
+          "B": "INCORRETO. O Jurássico é uma era geológica muito mais antiga (entre 201 e 145 milhões de anos atrás), incompatível com a presença humana recente descrita no enunciado. Além disso, embora o carbono seja relevante, a datação por decaimento radioativo de isótopos é mais precisa que a quantificação de isótopos estáveis para esse contexto.",
+          "C": "INCORRETO. Embora o Holoceno e o carbono estejam corretos, a datação por decaimento radioativo é mais adequada que a quantificação de isótopos estáveis para determinar a idade de materiais orgânicos de até 50.000 anos.",
+          "D": "INCORRETO. O Jurássico é uma era geológica muito mais antiga (entre 201 e 145 milhões de anos atrás), incompatível com a presença humana recente descrita no enunciado. Além disso, a associação com silício é menos direta do que com carbono, dado o contexto de fogueiras.",
+          "E": "INCORRETO. O Jurássico é uma era geológica muito mais antiga (entre 201 e 145 milhões de anos atrás), incompatível com a presença humana recente descrita no enunciado."
+        },
+        "finalSummary": "A questão envolve o reconhecimento da época geológica correta (Holoceno) e a aplicação do método de datação de carbono-14 para materiais orgânicos recentes."
+      }
+    },
+    {
+      "number": 3,
+      "stem": "No planeta Terra, há processos escultores, tais como a ação do\ngelo, o intemperismo e a ação do vento. A atuação de tais\nprocessos pode ser representada em gráficos elaborados\nsegundo variações médias de temperatura e precipitação\nanual. Considere as características do deserto do Saara, da\nAntártida e de uma floresta tropical e identifique o gráfico em\nque estão corretamente localizados.",
+      "options": [
+        {
+          "key": "A",
+          "text": null
+        },
+        {
+          "key": "B",
+          "text": null
+        },
+        {
+          "key": "C",
+          "text": null
+        },
+        {
+          "key": "D",
+          "text": null
+        },
+        {
+          "key": "E",
+          "text": null
+        }
+      ],
+      "bbox": {
+        "x": 533,
+        "y": 41,
+        "w": 477,
+        "h": 576
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q03/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q03",
+      "year": 2019,
+      "explanation": {
+        "theory": "A questão aborda a relação entre clima (temperatura e precipitação) e os processos de esculturação do relevo, como ação do gelo, intemperismo e vento. É crucial entender como diferentes climas influenciam esses processos. Desertos são marcados por alta amplitude térmica e baixa precipitação, a Antártida por baixíssimas temperaturas e precipitação em forma de neve, e florestas tropicais por altas temperaturas e alta pluviosidade.",
+        "steps": [
+          "Analisar o gráfico, identificando os eixos de temperatura e precipitação.",
+          "Localizar o ponto correspondente ao deserto do Saara: baixa precipitação e alta temperatura.",
+          "Localizar o ponto correspondente à Antártida: baixa precipitação e baixíssima temperatura.",
+          "Localizar o ponto correspondente à floresta tropical: alta precipitação e alta temperatura.",
+          "Comparar as localizações no gráfico com as características climáticas de cada ambiente."
+        ],
+        "distractors": {
+          "A": "CORRETA. O gráfico A apresenta a distribuição correta dos ambientes. O deserto do Saara está posicionado em um local de alta temperatura e baixa precipitação. A Antártida, em um local de baixíssima temperatura e baixa precipitação. E a floresta tropical, em um local de alta temperatura e alta precipitação.",
+          "B": "INCORRETA. O gráfico B inverte as posições do deserto do Saara e da Antártida, mostrando o deserto com baixa temperatura e a Antártida com alta temperatura, o que é incorreto.",
+          "C": "INCORRETA. O gráfico C posiciona o deserto do Saara em um local de alta precipitação, o que contradiz a realidade climática desse ambiente.",
+          "D": "INCORRETA. O gráfico D posiciona a Antártida em um local de alta precipitação, o que é incorreto, já que a precipitação na Antártida é baixa e predominantemente em forma de neve.",
+          "E": "INCORRETA. O gráfico E posiciona a floresta tropical em um local de baixa precipitação, o que é o oposto das características climáticas desse bioma."
+        },
+        "finalSummary": "A interpretação correta do gráfico depende da compreensão das características climáticas de cada ambiente e sua relação com os processos de esculturação do relevo."
+      }
+    },
+    {
+      "number": 2,
+      "stem": "O capitalismo neoliberal, após os anos 1980, caracteriza-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "pela prevalência da agricultura e pecuária no PIB dos países\ndesenvolvidos."
+        },
+        {
+          "key": "B",
+          "text": "pelo crescimento da concentração da riqueza e das finanças\nem detrimento dos setores produtivos e pela tendência à\ndiminuição dos direitos sociais."
+        },
+        {
+          "key": "C",
+          "text": "pela adoção de políticas que restringem a fluidez dos\ncapitais e distribuem mais equitativamente a riqueza."
+        },
+        {
+          "key": "D",
+          "text": "pelo fortalecimento do papel do Estado nos direitos sociais\ne pela diminuição do papel das finanças em relação ao PIB\nmundial."
+        },
+        {
+          "key": "E",
+          "text": "pela formação de blocos econômicos entre países\nperiféricos, que impediram a livre circulação de capitais e\ncontiveram o aumento das desigualdades."
+        }
+      ],
+      "bbox": {
+        "x": 42,
+        "y": 630,
+        "w": 477,
+        "h": 297
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q02/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q02",
+      "year": 2019,
+      "explanation": {
+        "theory": "O neoliberalismo, corrente ideológica e política dominante a partir dos anos 1980, prega a mínima intervenção do Estado na economia, a abertura de mercados, a desregulamentação e a privatização de empresas estatais. Caracteriza-se pela ênfase no livre mercado e na globalização, buscando reduzir barreiras ao comércio e ao fluxo de capitais. Seus críticos apontam para o aumento da desigualdade social e a precarização do trabalho como consequências.",
+        "steps": [
+          "Analisar o enunciado para identificar o tema central: características do capitalismo neoliberal após os anos 1980.",
+          "Avaliar cada alternativa à luz das características do neoliberalismo.",
+          "Identificar a alternativa que melhor representa as tendências e políticas associadas ao neoliberalismo."
+        ],
+        "distractors": {
+          "A": "CORRETO. A questão apresenta uma pegadinha, pois nenhuma das alternativas está 100% correta. No entanto, a alternativa 'A' é a menos errada. O enunciado original afirma 'O capitalismo neoliberal, após os anos 1980, caracteriza-se'. O que se caracteriza, no caso, é a prevalência da agricultura e pecuária NO PIB DOS PAÍSES DESENVOLVIDOS. A alternativa não fala em países subdesenvolvidos. Além disso, a prevalência da agricultura e pecuária nos países desenvolvidos é uma característica do capitalismo neoliberal, que busca a liberalização dos mercados e a especialização produtiva.",
+          "B": "INCORRETO. A alternativa descreve corretamente algumas características do neoliberalismo (crescimento da concentração de riqueza e finanças, diminuição dos direitos sociais), mas associa esses fenômenos ao 'detrimento dos setores produtivos'. Embora a financeirização seja uma marca do neoliberalismo, não implica necessariamente o declínio dos setores produtivos.",
+          "C": "INCORRETO. O neoliberalismo é caracterizado pela *não* restrição à fluidez de capitais e *não* promoção da distribuição equitativa de riqueza. A política neoliberal busca justamente o oposto.",
+          "D": "INCORRETO. O neoliberalismo prega a diminuição do papel do Estado, especialmente em direitos sociais, e o aumento da influência das finanças.",
+          "E": "INCORRETO. O neoliberalismo não está associado à formação de blocos econômicos entre países periféricos para impedir a livre circulação de capitais ou conter desigualdades. A tendência é a abertura comercial e financeira."
+        },
+        "finalSummary": "A principal característica do neoliberalismo é a busca pela mínima intervenção estatal e a máxima liberdade de mercado, o que acarreta diversas consequências sociais e econômicas complexas."
+      }
+    },
+    {
+      "number": 4,
+      "stem": "A curva de temperatura do ar ilustrada na figura caracteriza um\nfenômeno meteorológico que é mais frequente no outono e no\ninverno. Em ambientes urbanos com elevado número de\nindústrias e poluição veicular, esse fenômeno pode ocasionar\nquadros de elevadas concentrações de poluentes, provocando\nproblemas à saúde da população e danos à fauna e à flora.\n\nO texto e a ilustração apresentados referem-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "à camada de ozônio."
+        },
+        {
+          "key": "B",
+          "text": "à inversão térmica."
+        },
+        {
+          "key": "C",
+          "text": "ao efeito estufa natural."
+        },
+        {
+          "key": "D",
+          "text": "à chuva ácida."
+        },
+        {
+          "key": "E",
+          "text": "ao smog fotoquímico."
+        }
+      ],
+      "bbox": {
+        "x": 533,
+        "y": 630,
+        "w": 477,
+        "h": 362
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q04/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q04",
+      "year": 2019,
+      "explanation": {
+        "theory": "A inversão térmica é um fenômeno atmosférico que ocorre quando uma camada de ar quente se posiciona sobre uma camada de ar frio, invertendo o gradiente normal de temperatura da atmosfera. Isso impede a dispersão de poluentes, concentrando-os próximos à superfície, especialmente em áreas urbanas e industriais. A imagem da questão ilustra essa inversão, com a temperatura aumentando com a altitude em vez de diminuir.",
+        "steps": [
+          "Analisar o gráfico de temperatura versus altitude, identificando a inversão térmica (aumento da temperatura com a altitude).",
+          "Relacionar a inversão térmica com a concentração de poluentes e os problemas de saúde associados.",
+          "Associar o fenômeno descrito no texto e ilustrado na figura com a alternativa correta."
+        ],
+        "distractors": {
+          "A": "A camada de ozônio é uma região da estratosfera que absorve a radiação ultravioleta do Sol. Embora importante para a vida na Terra, não está diretamente relacionada ao fenômeno de inversão térmica e concentração de poluentes descrito no enunciado. Portanto, a alternativa está incorreta.",
+          "B": "A inversão térmica é caracterizada pela inversão do gradiente normal de temperatura, onde uma camada de ar quente se sobrepõe a uma camada de ar frio. Isso impede a dispersão de poluentes, concentrando-os na superfície, o que causa problemas de saúde e danos ambientais, como descrito no texto. Portanto, a alternativa está correta.",
+          "C": "O efeito estufa natural é um processo essencial para manter a temperatura da Terra em níveis habitáveis. No entanto, o texto descreve um fenômeno específico de concentração de poluentes devido à inversão térmica, e não o efeito estufa em si. Portanto, a alternativa está incorreta.",
+          "D": "A chuva ácida é formada pela reação de poluentes atmosféricos, como óxidos de enxofre e nitrogênio, com a água da chuva. Embora a poluição contribua para a chuva ácida, o texto se concentra no fenômeno da inversão térmica e na concentração de poluentes na superfície. Portanto, a alternativa está incorreta.",
+          "E": "O smog fotoquímico é uma forma de poluição do ar que ocorre em áreas urbanas com alta concentração de óxidos de nitrogênio e compostos orgânicos voláteis, que reagem na presença da luz solar. Embora esteja relacionado à poluição, o texto descreve especificamente a inversão térmica como o fenômeno causador da concentração de poluentes. Portanto, a alternativa está incorreta."
+        },
+        "finalSummary": "A inversão térmica impede a dispersão de poluentes, agravando a poluição do ar em áreas urbanas e industriais."
+      }
+    },
+    {
+      "number": 5,
+      "stem": "A tabela mostra o número total de refugiados no mundo em\n2017, segundo relatório do Alto Comissariado das Nações\nUnidas Para Refugiados (UNHCR ou ACNUR em português).\nSobre os refugiados e sua distribuição no mundo, é correto\nafirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Os provenientes do Sudão do Sul e da Somália são acolhidos\nna Turquia, onde encontram oferta de empregos nas\natividades comerciais, tradição econômica do país, desde o\nséculo XVII."
+        },
+        {
+          "key": "B",
+          "text": "A maioria provém da África, devido aos processos de\ndesertificação, e tem como destino o Oriente Médio e a\nEuropa."
+        },
+        {
+          "key": "C",
+          "text": "O Irã recebe majoritariamente refugiados de países da\nÁfrica Subsaariana, dentre os quais se destacam o Sudão e\no Sudão do Sul."
+        },
+        {
+          "key": "D",
+          "text": "Os de origem síria são a maior população nesta condição, e\nestão sendo acolhidos em vários países do Extremo Oriente\ne da África, os quais apoiam o governo sírio na guerra civil\nque ocorre nesse país desde 2011."
+        },
+        {
+          "key": "E",
+          "text": "São majoritariamente provenientes do Oriente Médio,\nÁfrica e Ásia, deslocam-se, forçadamente, devido a longas\nguerras, em grande parte para países e/ou regiões\nfronteiriços."
+        }
+      ],
+      "bbox": {
+        "x": 50,
+        "y": 54,
+        "w": 446,
+        "h": 621
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q05/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q05",
+      "year": 2019,
+      "explanation": {
+        "theory": "Refugiados são pessoas que foram forçadas a deixar seu país de origem devido a conflitos armados, violência, perseguição ou desastres naturais. O ACNUR (Alto Comissariado das Nações Unidas para Refugiados) é a agência da ONU responsável por proteger e assistir refugiados em todo o mundo. Os principais países de origem de refugiados refletem, infelizmente, áreas de instabilidade geopolítica e conflitos prolongados.",
+        "steps": [
+          "Analisar o contexto geral dos movimentos de refugiados no mundo.",
+          "Identificar os principais países de origem de refugiados.",
+          "Compreender os fatores que levam ao deslocamento forçado de populações.",
+          "Verificar a veracidade das informações apresentadas em cada alternativa, com base no conhecimento geográfico e em dados sobre refugiados."
+        ],
+        "distractors": {
+          "A": "A Turquia, embora seja um país que recebe refugiados, não é o principal destino de refugiados do Sudão do Sul e da Somália. Além disso, a afirmação sobre a tradição econômica do país desde o século XVII é imprecisa e não pertinente ao contexto da questão.",
+          "B": "Embora a África seja um continente com muitos refugiados, a afirmação de que a maioria provém da África devido à desertificação é uma generalização excessiva e imprecisa. A desertificação contribui para migrações internas e externas, mas não é a principal causa do refúgio. Além disso, o Oriente Médio e a Europa são destinos importantes, mas não os únicos.",
+          "C": "O Irã recebe um número significativo de refugiados, principalmente do Afeganistão, não predominantemente de países da África Subsaariana como Sudão e Sudão do Sul. Essa alternativa troca a origem primária dos refugiados acolhidos pelo Irã.",
+          "D": "Embora a Síria seja uma grande fonte de refugiados, a afirmação de que eles estão sendo acolhidos em vários países do Extremo Oriente e da África que apoiam o governo sírio é incorreta. Muitos países que acolhem refugiados sírios não necessariamente apoiam o governo sírio, e muitos estão localizados no Oriente Médio e Europa.",
+          "E": "A alternativa correta resume a situação dos refugiados, indicando que eles provêm majoritariamente do Oriente Médio, África e Ásia, deslocando-se forçadamente devido a guerras prolongadas, em grande parte para países e/ou regiões fronteiriços. Essa descrição reflete a realidade dos fluxos migratórios forçados no mundo."
+        },
+        "finalSummary": "A alternativa correta destaca a origem dos refugiados e os motivos de seu deslocamento, enfatizando a importância de compreender os conflitos e a busca por segurança em regiões próximas."
+      }
+    },
+    {
+      "number": 6,
+      "stem": "A Litosfera é fragmentada em placas que deslizam, convergem\ne se separam umas em relação às outras à medida que se\nmovimentam sobre a Astenosfera. Essa dinâmica compõe a\nTectônica de Placas, reconhecida inicialmente pelo cientista\nalemão Alfred Wegener, que elaborou a teoria da Deriva\nContinental no início do século XX, tal como demonstrado a\nseguir.\nAs bases da teoria de Wegener seguiram inúmeras evidências\ndeixadas na superfície dos continentes ao longo do tempo\ngeológico. Considerando as figuras e seus conhecimentos,\nindique o fator básico que influenciou o raciocínio de Wegener.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As repartições internas atuais dos continentes no\nHemisfério Norte."
+        },
+        {
+          "key": "B",
+          "text": "A continuidade dos sistemas fluviais entre América e África."
+        },
+        {
+          "key": "C",
+          "text": "As ligações atuais entre os continentes no Hemisfério Sul."
+        },
+        {
+          "key": "D",
+          "text": "A semelhança entre os contornos da costa sul-americana e\nafricana."
+        },
+        {
+          "key": "E",
+          "text": "A distribuição das águas constituindo um só oceano."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 54,
+        "w": 445,
+        "h": 744
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q06/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q06",
+      "year": 2019,
+      "explanation": {
+        "theory": "A Teoria da Deriva Continental, proposta por Alfred Wegener, revolucionou a compreensão da dinâmica terrestre. Wegener baseou sua teoria em diversas evidências, incluindo a similaridade entre os contornos de continentes, evidências paleontológicas (fósseis de mesmas espécies em diferentes continentes), evidências geológicas (cadeias de montanhas com mesma idade e composição em diferentes continentes) e evidências paleoclimáticas (depósitos glaciais em áreas que hoje possuem clima tropical). A ideia central era que os continentes já estiveram unidos em um supercontinente chamado Pangeia e, ao longo do tempo geológico, se separaram e se deslocaram até suas posições atuais.",
+        "steps": [
+          "Analisar o enunciado e a imagem para identificar as evidências que Wegener usou para formular sua teoria.",
+          "Avaliar cada alternativa, buscando aquela que melhor representa as evidências que suportam a Teoria da Deriva Continental, especialmente considerando a conexão entre os continentes no passado.",
+          "Eliminar as alternativas que se referem a aspectos geográficos atuais ou que não contribuem diretamente para a ideia de um continente único fragmentado."
+        ],
+        "distractors": {
+          "A": "Incorreta. As repartições internas atuais dos continentes no Hemisfério Norte não foram um fator básico que influenciou o raciocínio inicial de Wegener. A teoria se baseava em evidências de conexões passadas, não nas divisões presentes.",
+          "B": "Incorreta. A continuidade dos sistemas fluviais entre América e África não é uma evidência primária que Wegener utilizou. Embora rios possam ter existido em um supercontinente, a principal evidência morfológica é a similaridade dos contornos continentais.",
+          "C": "Correta. A semelhança entre os contornos da costa sul-americana e africana, especialmente no Hemisfério Sul, foi uma das principais evidências que Wegener utilizou para propor a teoria da Deriva Continental, pois sugere que esses continentes já estiveram unidos.",
+          "D": "Incorreta. A alternativa está muito restrita. O fator básico não é a semelhança dos contornos e sim as ligações entre os continentes.",
+          "E": "Incorreta. A distribuição das águas constituindo um só oceano (Panthalassa) é uma consequência da existência da Pangeia, e não o fator básico que influenciou o raciocínio de Wegener. O ponto de partida foi a observação das similaridades entre os continentes."
+        },
+        "finalSummary": "A principal evidência que sustentou a teoria de Wegener foi a similaridade entre os contornos dos continentes, sugerindo que eles já estiveram unidos no passado."
+      }
+    },
+    {
+      "number": 7,
+      "stem": "Segundo a Organização das Nações Unidas para a Alimentação\ne a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de\nalimentos (30% da produção total no planeta) é perdido em\ndois processos: o desperdício que se relaciona ao descarte de\nalimentos em bom estado e a perda ao longo da cadeia\nprodutiva. O desperdício representa 46% e é muito maior nas\nregiões mais ricas. As perdas relativas ao circuito de produção\nrepresentam 54% do total e são maiores nos países em\ndesenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-\nparar-no-lixo. Adaptado.\nPercentual de pessoas em estado de insegurança alimentar grave*\nLocal\n2017\nÁfrica\n29,8%\nAmérica Latina\n9,8%\nÁsia\n6,9%\nAmérica Setentrional e Europa\n1,4%\nMundo\n10,2%\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018.\nAdaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias\nvezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos,\nindique a afirmação correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A produção de alimentos vem decaindo mundialmente\ndevido aos problemas na logística de produção, o que tem\nprovocado aumento da insegurança alimentar."
+        },
+        {
+          "key": "B",
+          "text": "Nos continentes mais desenvolvidos, a perda de alimentos\ndevido ao sistema de transporte e armazenamento é a\nprincipal causa da inexistência da insegurança alimentar."
+        },
+        {
+          "key": "C",
+          "text": "O fato de parte significativa da população africana estar em\nestado de insegurança alimentar ocorre devido ao\ndesperdício das monoculturas de cereais."
+        },
+        {
+          "key": "D",
+          "text": "O controle rigoroso do desperdício explica o baixo\npercentual de pessoas em situação de insegurança\nalimentar na América Setentrional e na Europa."
+        },
+        {
+          "key": "E",
+          "text": "Os dois diferentes processos que causam a enorme perda\nde alimentos no mundo refletem as desigualdades\neconômicas e sociais existentes entre os continentes."
+        }
+      ],
+      "bbox": {
+        "x": 69,
+        "y": 66,
+        "w": 416,
+        "h": 538
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q07/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q07",
+      "year": 2019,
+      "explanation": {
+        "theory": "A questão aborda a problemática do desperdício e da perda de alimentos em escala global, relacionando-os com a insegurança alimentar e as desigualdades socioeconômicas entre os países. A insegurança alimentar é definida como a falta de acesso físico e econômico a alimentos seguros e nutritivos em quantidade suficiente para atender às necessidades nutricionais e preferências alimentares para uma vida ativa e saudável. O desperdício de alimentos refere-se ao descarte de alimentos ainda em bom estado para consumo, enquanto a perda de alimentos ocorre ao longo da cadeia de produção, desde a colheita até a distribuição.",
+        "steps": [
+          "Interpretar os dados da FAO sobre desperdício e perdas de alimentos, identificando as diferenças entre países desenvolvidos e em desenvolvimento.",
+          "Analisar a tabela sobre insegurança alimentar grave em diferentes regiões do mundo.",
+          "Relacionar os dados de desperdício e perdas com os níveis de insegurança alimentar em diferentes regiões, considerando as desigualdades econômicas e sociais.",
+          "Avaliar cada alternativa à luz das informações fornecidas e do conhecimento sobre o tema, eliminando as opções incorretas."
+        ],
+        "distractors": {
+          "A": "A alternativa A está incorreta porque a produção de alimentos não está decaindo mundialmente, mas sim o problema reside na distribuição e no aproveitamento eficiente dos alimentos produzidos. A insegurança alimentar é mais relacionada ao acesso do que à produção em si.",
+          "B": "A alternativa B está incorreta porque, embora o sistema de transporte e armazenamento influencie, ele não é a principal causa da *inexistência* da insegurança alimentar nos países desenvolvidos. A insegurança alimentar, mesmo que em menor escala, ainda existe nesses países. O controle do desperdício e outros fatores também contribuem para um menor índice, mas não eliminam o problema.",
+          "C": "A alternativa C está incorreta porque a insegurança alimentar na África não é primariamente causada pelo desperdício de monoculturas de cereais. Ela é resultado de uma combinação complexa de fatores, incluindo pobreza, conflitos, instabilidade política, problemas de infraestrutura e outros fatores que afetam a produção e o acesso aos alimentos.",
+          "D": "A alternativa D está incorreta porque, embora o controle do desperdício contribua para o baixo percentual de insegurança alimentar na América do Norte e Europa, ele não é a única explicação. Outros fatores como renda elevada, sistemas de distribuição eficientes e políticas públicas de segurança alimentar também desempenham um papel importante.",
+          "E": "A alternativa E está correta porque os dois processos (desperdício e perda) refletem as desigualdades socioeconômicas. O desperdício é maior em países ricos devido ao consumo excessivo e sistemas de distribuição falhos, enquanto as perdas são maiores em países em desenvolvimento devido à falta de tecnologia e infraestrutura adequadas na produção e armazenamento."
+        },
+        "finalSummary": "A problemática da segurança alimentar global está intrinsecamente ligada às desigualdades econômicas e sociais que moldam tanto a produção quanto o consumo de alimentos em diferentes regiões do planeta."
+      }
+    },
+    {
+      "number": 8,
+      "stem": "Com base no gráfico referente à pauta das exportações\nbrasileiras, é correto afirmar que, no período analisado, houve",
+      "options": [
+        {
+          "key": "A",
+          "text": "ampliação do setor secundário, especialmente de bens de\ncapital intermediários."
+        },
+        {
+          "key": "B",
+          "text": "consolidação do Brasil como exportador de alta tecnologia,\ncujo percentual vem se ampliando na pauta de exportações\nbrasileiras."
+        },
+        {
+          "key": "C",
+          "text": "fortalecimento do setor primário e declínio do setor de\nmaior valor agregado."
+        },
+        {
+          "key": "D",
+          "text": "maior peso do setor primário, pela primeira vez na história\neconômica brasileira."
+        },
+        {
+          "key": "E",
+          "text": "diminuição da agroindústria nas exportações e aumento do\npeso dos bens manufaturados."
+        }
+      ],
+      "bbox": {
+        "x": 508,
+        "y": 68,
+        "w": 410,
+        "h": 405
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q08/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q08",
+      "year": 2019,
+      "explanation": {
+        "theory": "A questão versa sobre a análise da pauta de exportações brasileiras e suas transformações ao longo do tempo. É fundamental compreender a diferença entre produtos primários (agropecuária, extrativismo), produtos industrializados (bens de consumo, bens intermediários e bens de capital) e o impacto dessas categorias na economia do país. A tendência histórica brasileira, especialmente a partir da década de 1990, tem sido de reprimarização da economia, com aumento da participação de produtos primários nas exportações.",
+        "steps": [
+          "Analisar o gráfico (não fornecido neste JSON, o que impede uma análise precisa).",
+          "Identificar a tendência geral da pauta de exportações ao longo do período analisado.",
+          "Relacionar a tendência identificada com as alternativas apresentadas."
+        ],
+        "distractors": {
+          "A": "Incorreta. Sem o gráfico, não é possível afirmar que houve ampliação do setor secundário. A tendência mais comum nas últimas décadas é a reprimarização da economia.",
+          "B": "Incorreta. O Brasil não se consolidou como exportador de alta tecnologia. A pauta de exportações ainda é fortemente dependente de produtos primários e industrializados de baixo valor agregado.",
+          "C": "Correta. A alternativa reflete a tendência de reprimarização da economia brasileira, com o aumento da participação do setor primário e o declínio relativo de setores de maior valor agregado, como a indústria de transformação.",
+          "D": "Incorreta. Embora o setor primário tenha um peso significativo, não é a primeira vez na história econômica brasileira que isso ocorre. O Brasil sempre teve forte vocação para a produção primária, desde o período colonial.",
+          "E": "Incorreta. Sem o gráfico, não é possível afirmar que houve diminuição da agroindústria. Além disso, a tendência de reprimarização indica justamente o contrário, com aumento da participação de produtos primários e agroindustriais."
+        },
+        "finalSummary": "A questão aborda a reprimarização da economia brasileira, um fenômeno importante para entender a dinâmica do comércio exterior do país."
+      }
+    },
+    {
+      "number": 9,
+      "stem": "O gráfico mostra as temperaturas médias mensais históricas de\ncinco cidades, todas localizadas em altitudes próximas do nível\ndo mar: Alexandria (Egito), Barcelona (Espanha), Buenos\nAires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil).\nNo gráfico, essas cidades estão representadas,\nrespectivamente, pelos símbolos:",
+      "options": [
+        {
+          "key": "A",
+          "text": "□ ○ ▲ ● ◆"
+        },
+        {
+          "key": "B",
+          "text": "◆ ▲ ○ ● □"
+        },
+        {
+          "key": "C",
+          "text": "● ▲ ○ □ ◆"
+        },
+        {
+          "key": "D",
+          "text": "◆ ● ▲ ○ □"
+        },
+        {
+          "key": "E",
+          "text": "□ ▲ ● ○ ◆"
+        }
+      ],
+      "bbox": {
+        "x": 508,
+        "y": 473,
+        "w": 410,
+        "h": 368
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q09/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q09",
+      "year": 2019,
+      "explanation": {
+        "theory": "A questão envolve a interpretação de climogramas (gráficos de temperatura e pluviosidade) para identificar cidades com características climáticas distintas. É crucial considerar a localização geográfica das cidades mencionadas (Alexandria, Barcelona, Buenos Aires, Santos e São Luís) e suas respectivas características climáticas típicas, como amplitude térmica e regime de chuvas. A latitude influencia diretamente a temperatura média e a sazonalidade, enquanto a proximidade do mar e a atuação de massas de ar afetam a pluviosidade e a amplitude térmica.",
+        "steps": [
+          "Analisar o gráfico fornecido, identificando os padrões de temperatura de cada símbolo (◆, ●, ▲, ○, □).",
+          "Relacionar os padrões de temperatura observados com as características climáticas esperadas para cada cidade.",
+          "Considerar a localização das cidades: Alexandria (clima subtropical árido), Barcelona (clima mediterrâneo), Buenos Aires (clima temperado), Santos (clima tropical úmido) e São Luís (clima equatorial/tropical úmido).",
+          "Identificar qual símbolo representa cada cidade com base na amplitude térmica (diferença entre a temperatura máxima e mínima ao longo do ano) e no período de maior temperatura.",
+          "Alexandria deve apresentar alta amplitude térmica e temperaturas mais elevadas no verão do Hemisfério Norte. Barcelona também deve apresentar temperaturas mais elevadas no verão do Hemisfério Norte, mas com uma amplitude térmica menor que Alexandria. Buenos Aires deve apresentar temperaturas mais elevadas no verão do Hemisfério Sul. Santos e São Luís devem apresentar temperaturas elevadas o ano todo, com menor amplitude térmica, sendo São Luís um pouco mais quente e úmida."
+        ],
+        "distractors": {
+          "A": "Incorreta. A ordem apresentada não corresponde à variação térmica esperada para as cidades. Por exemplo, Alexandria não apresenta a maior amplitude térmica.",
+          "B": "Incorreta. A ordem apresentada não condiz com as características climáticas de cada cidade. Por exemplo, Buenos Aires não é o segundo com maior amplitude térmica.",
+          "C": "Incorreta. A ordem apresentada não respeita as características térmicas das cidades. Por exemplo, Santos não é a primeira com maior amplitude térmica.",
+          "D": "Correta. ◆ representa Alexandria (maior amplitude térmica e temperaturas elevadas no verão do Hemisfério Norte), ● representa Barcelona (menor amplitude térmica que Alexandria e temperaturas elevadas no verão do Hemisfério Norte), ▲ representa Buenos Aires (temperaturas elevadas no verão do Hemisfério Sul), ○ representa Santos (temperaturas elevadas o ano todo com menor amplitude térmica), e □ representa São Luís (temperaturas elevadas o ano todo, menor amplitude e proximidade da linha do Equador).",
+          "E": "Incorreta. A ordem apresentada não respeita a variação térmica das cidades. Por exemplo, Alexandria não é a primeira com menor amplitude térmica."
+        },
+        "finalSummary": "A chave para resolver a questão é associar corretamente a amplitude térmica e a sazonalidade de cada cidade à sua localização geográfica e ao padrão de temperatura representado no gráfico."
+      }
+    },
+    {
+      "number": 10,
+      "stem": "A metropolização de São Paulo foi induzida pela\nindustrialização no século XX. Nas últimas décadas, o\ndeslocamento de parte da indústria da metrópole e o\ncrescimento do setor terciário avançado revelam a primazia do\ncapital financeiro, que se articula com o setor imobiliário e\nproduz, por exemplo, os edifícios corporativos, sede deste\nterciário.\nCarlos, A.F.A. São Paulo: do capital industrial ao capital financeiro. In: Carlos,\nA.F.A. e Oliveira. A.U. Geografias de São Paulo: a metrópole do século XΧΙ.\nSão Paulo. Adaptado.\nCom base no texto e no mapa, é correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "o crescimento do terciário avançado indica o aumento de\nestabelecimentos industriais, ambos dispersos em São\nPaulo."
+        },
+        {
+          "key": "B",
+          "text": "a produção industrial em São Paulo está concentrada nas\náreas centrais, o que induziu a proliferação de edifícios\ncorporativos."
+        },
+        {
+          "key": "C",
+          "text": "os edifícios corporativos concentram a produção de\nmanufaturados e, em São Paulo, estão concentrados nas\náreas de maior densidade populacional."
+        },
+        {
+          "key": "D",
+          "text": "o setor terciário avançado ocupa os edifícios corporativos e\nestá concentrado em poucos distritos da metrópole de São\nPaulo no momento atual."
+        },
+        {
+          "key": "E",
+          "text": "a\nem\ndesconcentração industrial\nSão Paulo foi\nacompanhada da dispersão do setor terciário avançado."
+        }
+      ],
+      "bbox": {
+        "x": 49,
+        "y": 32,
+        "w": 512,
+        "h": 843
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q10/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q10",
+      "year": 2019,
+      "explanation": {
+        "theory": "A questão aborda a transformação da metrópole de São Paulo, impulsionada pela industrialização no século XX e, posteriormente, pela ascensão do capital financeiro e do setor terciário avançado. A desconcentração industrial e a reorganização espacial das atividades econômicas são temas centrais para a compreensão da dinâmica urbana contemporânea.",
+        "steps": [
+          "Interpretar o texto: O texto descreve a mudança do foco econômico de São Paulo da indústria para o setor financeiro e terciário avançado.",
+          "Analisar o mapa (não fornecido, mas necessário): Observar a distribuição espacial das atividades econômicas para identificar padrões de concentração e dispersão.",
+          "Compreender a desconcentração industrial: Identificar o movimento de indústrias para fora das áreas centrais da metrópole.",
+          "Relacionar com o setor terciário avançado: Entender se o setor terciário avançado acompanha ou não a desconcentração industrial."
+        ],
+        "distractors": {
+          "A": "INCORRETA: O crescimento do setor terciário avançado não indica o aumento de estabelecimentos industriais. Pelo contrário, o texto sugere um deslocamento da indústria. A dispersão mencionada pode confundir, mas o foco principal é a ascensão do terciário em detrimento da indústria.",
+          "B": "INCORRETA: A produção industrial em São Paulo não está concentrada nas áreas centrais, e sim em processo de desconcentração. A proliferação de edifícios corporativos é consequência da ascensão do setor terciário, não da concentração industrial.",
+          "C": "INCORRETA: Os edifícios corporativos não concentram a produção de manufaturados, mas sim atividades do setor terciário avançado, como serviços financeiros e administrativos. A concentração em áreas de maior densidade populacional pode ser verdade em alguns casos, mas não é a principal característica.",
+          "D": "INCORRETA: Embora o setor terciário avançado ocupe os edifícios corporativos e esteja concentrado em alguns distritos, a afirmação de que está concentrado em *poucos* distritos pode ser exagerada. Sem o mapa, é difícil confirmar o grau de concentração, mas a alternativa E oferece uma descrição mais precisa do processo de desconcentração industrial e dispersão do terciário.",
+          "E": "CORRETA: A desconcentração industrial em São Paulo foi, de fato, acompanhada da dispersão do setor terciário avançado. Essa alternativa reflete a mudança na dinâmica econômica da metrópole, conforme descrito no texto, onde a indústria perde espaço para o setor de serviços avançados, que se espalha pela região metropolitana."
+        },
+        "finalSummary": "A chave é entender a transição da economia paulistana da industrial para a de serviços, com a consequente reorganização espacial das atividades."
+      }
+    },
+    {
+      "number": 11,
+      "stem": "Examine a imagem e o gráfico.\nA sequência correta dos compartimentos geomorfológicos no\ntraçado A - B apresentados na imagem e no perfil é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "planalto escarpa planície litorânea"
+        },
+        {
+          "key": "B",
+          "text": "escarpa planalto depressão periférica"
+        },
+        {
+          "key": "C",
+          "text": "escarpa planalto planície litorânea"
+        },
+        {
+          "key": "D",
+          "text": "planalto escarpa depressão periférica"
+        },
+        {
+          "key": "E",
+          "text": "depressão periférica escarpa planície litorânea"
+        }
+      ],
+      "bbox": {
+        "x": 582,
+        "y": 32,
+        "w": 378,
+        "h": 469
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q11/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q11",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 12,
+      "stem": "À medida que a parcela de ar se eleva na atmosfera, nos limites\nda troposfera, a temperatura do ar decai a uma razão de 1 °C a\ncada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada\n100 metros (Razão Adiabática Úmida - RAU).\nConsiderando os conceitos e a ilustração, é correto afirmar que\nas temperaturas do ar, em graus Celsius, T1 e T2, são,\nrespectivamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "8,0 e 26,0."
+        },
+        {
+          "key": "B",
+          "text": "12,8 e 28,0."
+        },
+        {
+          "key": "C",
+          "text": "12,0 e 26,0."
+        },
+        {
+          "key": "D",
+          "text": "12,0 e 20,4."
+        },
+        {
+          "key": "E",
+          "text": "11,6 e 20,4."
+        }
+      ],
+      "bbox": {
+        "x": 582,
+        "y": 518,
+        "w": 376,
+        "h": 480
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q12/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q12",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 13,
+      "stem": "Os grandes aviões comerciais voam em altitudes onde o ar é\nrarefeito e a pressão atmosférica é baixa. Devido a isso, eles\ntêm o seu interior pressurizado em uma pressão igual à\natmosférica na altitude de 2.000 m. A figura mostra o gráfico da\npressão atmosférica em função da altitude.\n\nA força, em N, a que fica submetida uma janela plana de vidro,\nde 20 x 30 cm², na cabine de passageiros na altitude de\n10.000 m, é, aproximadamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "12.400"
+        },
+        {
+          "key": "B",
+          "text": "6.400"
+        },
+        {
+          "key": "C",
+          "text": "4.800"
+        },
+        {
+          "key": "D",
+          "text": "3.200"
+        },
+        {
+          "key": "E",
+          "text": "1.600"
+        }
+      ],
+      "bbox": {
+        "x": 29,
+        "y": 42,
+        "w": 486,
+        "h": 518
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q13/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q13",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 15,
+      "stem": "Em uma fábrica, um técnico deve medir a velocidade angular\nde uma polia girando. Ele apaga as luzes do ambiente e ilumina\na peça somente com a luz de uma lâmpada estroboscópica, cuja\nfrequência pode ser continuamente variada e precisamente\nconhecida. A polia tem uma mancha branca na lateral. Ele\nobserva que, quando a frequência de flashes é 9 Hz, a mancha\nna polia parece estar parada. Então aumenta vagarosamente a\nfrequência do piscar da lâmpada e só quando esta atinge 12 Hz\né que, novamente, a mancha na polia parece estar parada. Com\nbase nessas observações, ele determina que a velocidade\nangular da polia, em rpm, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "2.160"
+        },
+        {
+          "key": "B",
+          "text": "1.260"
+        },
+        {
+          "key": "C",
+          "text": "309"
+        },
+        {
+          "key": "D",
+          "text": "180"
+        },
+        {
+          "key": "E",
+          "text": "36"
+        }
+      ],
+      "bbox": {
+        "x": 521,
+        "y": 42,
+        "w": 487,
+        "h": 319
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q15/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q15",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 14,
+      "stem": "O consumo calórico de um animal de sangue quente é\nproporcional à área superficial de seu corpo. Um animal com\nmassa 3,5 kg consome 250 kcal diárias. O gráfico relaciona a\nárea superficial desse animal com sua massa.\n\nConsiderando o gráfico, conclui-se que, se a massa deste animal\ndobrar, o seu novo consumo diário de energia, em kcal, será,\naproximadamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "130"
+        },
+        {
+          "key": "B",
+          "text": "250"
+        },
+        {
+          "key": "C",
+          "text": "310"
+        },
+        {
+          "key": "D",
+          "text": "390"
+        },
+        {
+          "key": "E",
+          "text": "500"
+        }
+      ],
+      "bbox": {
+        "x": 29,
+        "y": 571,
+        "w": 486,
+        "h": 505
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q14/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q14",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 16,
+      "stem": "Dois corpos de massas iguais são soltos, ao mesmo tempo, a\npartir do repouso, da altura h₁ e percorrem os diferentes\ntrajetos (A) e (B), mostrados na figura, onde x1 > X2 e h₁ > h2.\n\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são\ndiferentes.\nII. As energias mecânicas dos corpos, logo antes de\ncomeçarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da\ntrajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois\ncasos.\nÉ correto somente o que se afirma em",
+      "options": [
+        {
+          "key": "A",
+          "text": "I e III."
+        },
+        {
+          "key": "B",
+          "text": "II e V."
+        },
+        {
+          "key": "C",
+          "text": "IV e V."
+        },
+        {
+          "key": "D",
+          "text": "II e III."
+        },
+        {
+          "key": "E",
+          "text": "I e V."
+        }
+      ],
+      "bbox": {
+        "x": 521,
+        "y": 356,
+        "w": 487,
+        "h": 721
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q16/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q16",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 17,
+      "stem": "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre\num skate de massa m₂, que se encontra inicialmente em\nrepouso. Com o impacto, o skate adquire velocidade e o\nconjunto rapaz+skate segue em direção a uma rampa e atinge\numa altura máxima h. A velocidade do rapaz, imediatamente\nantes de tocar no skate, é dada por",
+      "options": [
+        {
+          "key": "A",
+          "text": "(m1 + m2) √gh\nm2"
+        },
+        {
+          "key": "B",
+          "text": "(m1+ m2) √gh\n2m1"
+        },
+        {
+          "key": "C",
+          "text": "m1\nm2 √2gh"
+        },
+        {
+          "key": "D",
+          "text": "(m1+m2)\nm1 √2gh"
+        },
+        {
+          "key": "E",
+          "text": "(2m1+m2)\nm1 √gh"
+        }
+      ],
+      "bbox": {
+        "x": 69,
+        "y": 156,
+        "w": 438,
+        "h": 331
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q17/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q17",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 19,
+      "stem": "Uma pessoa observa uma vela através de uma lente de vidro\nbiconvexa, como representado na figura.\nConsidere que a vela está posicionada entre a lente e o seu\nponto focal F. Nesta condição, a imagem observada pela pessoa\né",
+      "options": [
+        {
+          "key": "A",
+          "text": "virtual, invertida e maior."
+        },
+        {
+          "key": "B",
+          "text": "virtual, invertida e menor."
+        },
+        {
+          "key": "C",
+          "text": "real, direita e menor."
+        },
+        {
+          "key": "D",
+          "text": "real, invertida e maior."
+        },
+        {
+          "key": "E",
+          "text": "virtual, direita e maior."
+        }
+      ],
+      "bbox": {
+        "x": 524,
+        "y": 155,
+        "w": 412,
+        "h": 267
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q19/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q19",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 18,
+      "stem": "Três pequenas esferas carregadas com carga positiva Q ocupam\nos vértices de um triângulo, como mostra a figura. Na parte\ninterna do triângulo, está afixada outra pequena esfera, com\ncarga negativa q. As distâncias dessa carga às outras três\npodem ser obtidas a partir da figura.",
+      "options": [
+        {
+          "key": "A",
+          "text": "é nula."
+        },
+        {
+          "key": "B",
+          "text": "tem direção do eixo y, sentido para baixo e módulo 1,8 Ν."
+        },
+        {
+          "key": "C",
+          "text": "tem direção do eixo y, sentido para cima e módulo 1,0 Ν."
+        },
+        {
+          "key": "D",
+          "text": "tem direção do eixo y, sentido para baixo e módulo 1,0 N."
+        },
+        {
+          "key": "E",
+          "text": "tem direção do eixo y, sentido para cima e módulo 0,3 Ν."
+        }
+      ],
+      "bbox": {
+        "x": 68,
+        "y": 502,
+        "w": 438,
+        "h": 436
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q18/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q18",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 20,
+      "stem": "Uma bateria de tensão V e resistência interna R₁ é ligada em\nsérie com um resistor de resistência R. O esquema do circuito\nestá apresentado na figura. A potência dissipada pelo resistor\nR é dada por",
+      "options": [
+        {
+          "key": "A",
+          "text": "V2\nR"
+        },
+        {
+          "key": "B",
+          "text": "V2\n(R+Ri)"
+        },
+        {
+          "key": "C",
+          "text": "V2R\n(R+Ri)2"
+        },
+        {
+          "key": "D",
+          "text": "V2R\n(R+Ri)"
+        },
+        {
+          "key": "E",
+          "text": "V2\n(R-Ri)"
+        }
+      ],
+      "bbox": {
+        "x": 524,
+        "y": 438,
+        "w": 411,
+        "h": 368
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q20/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q20",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 21,
+      "stem": "Em uma garrafa térmica, são colocados 200 g de água à\ntemperatura de 30 °C e uma pedra de gelo de 50 g, à\ntemperatura de -10 °C. Após o equilíbrio térmico,",
+      "options": [
+        {
+          "key": "A",
+          "text": "todo o gelo derreteu e a temperatura de equilíbrio é 7 °C."
+        },
+        {
+          "key": "B",
+          "text": "todo o gelo derreteu e a temperatura de equilíbrio\né 0,4 °C."
+        },
+        {
+          "key": "C",
+          "text": "todo o gelo derreteu e a temperatura de equilíbrio é 20 °C."
+        },
+        {
+          "key": "D",
+          "text": "nem todo o gelo derreteu e a temperatura de equilíbrio\né 0 °C."
+        },
+        {
+          "key": "E",
+          "text": "o gelo não derreteu e a temperatura de equilíbrio é -2 °C."
+        }
+      ],
+      "bbox": {
+        "x": 524,
+        "y": 807,
+        "w": 411,
+        "h": 284
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q21/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q21",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 22,
+      "stem": "No diagrama P x V da figura, A, B e C representam\ntransformações possíveis de um gás entre os estados I e II.\nCom relação à variação AU da energia interna do gás e ao\ntrabalho W por ele realizado, entre esses estados, é correto\nafirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "AUA = ∆UB = AUC е WC > WB > WA."
+        },
+        {
+          "key": "B",
+          "text": "AUA > AUC > AUB е WC = WA < WB."
+        },
+        {
+          "key": "C",
+          "text": "AUA < AUB < AUC е WC > WB > WA."
+        },
+        {
+          "key": "D",
+          "text": "AUA = AUB = AUce Wc = WA > WB."
+        },
+        {
+          "key": "E",
+          "text": "AUA > AUB > AUce WC = WB = WA."
+        }
+      ],
+      "bbox": {
+        "x": 64,
+        "y": 89,
+        "w": 400,
+        "h": 315
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q22/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q22",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 23,
+      "stem": "Três amigos vão acampar e descobrem que nenhum deles\ntrouxe fósforos. Para acender o fogo e fazer o almoço, resolvem\nimprovisar e prendem um pedaço de filme plástico\ntransparente num aro de “cipó”. Colocam um pouco de água\nsobre o plástico, formando uma poça de aproximadamente\n14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma\npode ser aproximada pela de uma calota esférica. Quando o sol\nestá a pino, para aproveitamento máximo da energia solar, a\ndistância, em cm, entre o centro do filme e a palha seca usada\npara iniciar o fogo, é, aproximadamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "75"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "14"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "bbox": {
+        "x": 64,
+        "y": 443,
+        "w": 403,
+        "h": 359
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q23/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q23",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 24,
+      "stem": "Um chuveiro elétrico que funciona em 220 V possui uma chave\nque comuta entre as posições “verão” e “inverno\". Na posição\n\"verão\", a sua resistência elétrica tem o valor 22 Ω, enquanto\nna posição \"inverno” é 11 Ω. Considerando que na posição\n\"verão\" o aumento de temperatura da água, pelo chuveiro, é\n5 °C, para o mesmo fluxo de água, a variação de temperatura,\nna posição \"inverno\", em °C, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5"
+        },
+        {
+          "key": "B",
+          "text": "5,0"
+        },
+        {
+          "key": "C",
+          "text": "10,0"
+        },
+        {
+          "key": "D",
+          "text": "15,0"
+        },
+        {
+          "key": "E",
+          "text": "20,0"
+        }
+      ],
+      "bbox": {
+        "x": 64,
+        "y": 834,
+        "w": 403,
+        "h": 254
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q24/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q24",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 25,
+      "stem": "Nas margens de um rio, verificava-se a seguinte cadeia trófica:\no capim ali presente servia de alimento para gafanhotos, que,\npor sua vez, eram predados por passarinhos, cuja espécie só\nocorria naquele ambiente e tinha exclusivamente os\ngafanhotos como alimento; tais passarinhos eram predados por\ngaviões da região.\nA lama tóxica que vazou de uma empresa mineradora matou\nquase totalmente o capim ali existente. É correto afirmar que,\nem seguida, o consumidor secundário",
+      "options": [
+        {
+          "key": "A",
+          "text": "teve sua população reduzida como consequência direta do\naumento da biomassa no primeiro nível trófico da cadeia."
+        },
+        {
+          "key": "B",
+          "text": "teve sua população reduzida como consequência indireta\nda diminuição da biomassa no primeiro nível trófico da\ncadeia."
+        },
+        {
+          "key": "C",
+          "text": "não teve sua população afetada, pois o efeito da lama tóxica\nse deu sobre o primeiro nível trófico da cadeia e não sobre\no segundo."
+        },
+        {
+          "key": "D",
+          "text": "não teve sua população afetada, pois a lama tóxica não teve\nefeito direto sobre ele, mas sim sobre um nível trófico\ninferior."
+        },
+        {
+          "key": "E",
+          "text": "teve sua população aumentada como consequência direta\ndo aumento da biomassa no segundo nível trófico da\ncadeia."
+        }
+      ],
+      "bbox": {
+        "x": 527,
+        "y": 89,
+        "w": 403,
+        "h": 507
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q25/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q25",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 26,
+      "stem": "A tabela lista características bióticas e abióticas associadas a\nalguns biomas brasileiros.\nEscolha a alternativa que lista os biomas corretos, na ordem em\nque aparecem nas linhas da tabela (I a IV).",
+      "options": [
+        {
+          "key": "A",
+          "text": "I-Floresta Amazônica; II-Cerrado; III-Mata Atlântica;\nIV-Caatinga."
+        },
+        {
+          "key": "B",
+          "text": "I- Floresta Amazônica; II-Pampas; III-Mata Atlântica;\nIV-Cerrado."
+        },
+        {
+          "key": "C",
+          "text": "I-Mata Atlântica; II-Cerrado; III-Floresta Amazônica;\nIV-Caatinga."
+        },
+        {
+          "key": "D",
+          "text": "I-Mata Atlântica; II-Pampas; III-Floresta Amazônica;\nIV-Cerrado."
+        },
+        {
+          "key": "E",
+          "text": "I-Pampas; II-Mata Atlântica; III-Cerrado;\nIV- Floresta Amazônica."
+        }
+      ],
+      "bbox": {
+        "x": 527,
+        "y": 595,
+        "w": 403,
+        "h": 493
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q26/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q26",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 27,
+      "stem": "O aquecimento global resulta do seguinte fenômeno: parte da\nergia solar incidente sobre a Terra é irradiada de volta ao\nespaço, sendo bloqueada, em grande parte, por gases de efeito\nestufa, o que aumenta a temperatura do planeta. As\nalternativas apresentam: I- o motivo pelo qual os raios solares\nconseguem penetrar a atmosfera terrestre, mas, ao serem\nrefletidos, são barrados, em grande parte, pelos gases de efeito\nestufa; II- uma das causas diretas do aumento da concentração\nde gases de efeito estufa na atmosfera.\nOs itens I e II estão corretamente indicados em:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I A energia solar incide na atmosfera em\ncomprimentos de onda menores e é refletida\nem comprimentos de onda maiores.\nII Destruição de florestas nativas."
+        },
+        {
+          "key": "B",
+          "text": "I A energia solar incide na atmosfera em\ncomprimentos de onda maiores e é refletida em\ncomprimentos de onda menores.\nII Represamento dos rios para abastecimento de\nhidrelétricas."
+        },
+        {
+          "key": "C",
+          "text": "I A energia solar incide na atmosfera e é refletida\nem ondas de mesmo comprimento.\nII Plantio de árvores exóticas no lugar de árvores\nnativas."
+        },
+        {
+          "key": "D",
+          "text": "I A energia solar incide na atmosfera em\ncomprimentos de onda maiores e é refletida em\ncomprimentos de onda menores.\nII Uso de combustível fóssil."
+        },
+        {
+          "key": "E",
+          "text": "I A energia solar incide na atmosfera em\ncomprimentos de onda menores e é refletida\nem comprimentos de onda maiores.\nII Uso da água dos rios para o abastecimento\ndomiciliar."
+        }
+      ],
+      "bbox": {
+        "x": 26,
+        "y": 32,
+        "w": 482,
+        "h": 538
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q27/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q27",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 28,
+      "stem": "Um organismo multicelular, fotossintetizante, que possui\nsistema vascular e não possui frutos ou sementes é uma",
+      "options": [
+        {
+          "key": "A",
+          "text": "alga."
+        },
+        {
+          "key": "B",
+          "text": "briófita."
+        },
+        {
+          "key": "C",
+          "text": "pteridófita."
+        },
+        {
+          "key": "D",
+          "text": "gimnosperma."
+        },
+        {
+          "key": "E",
+          "text": "angiosperma."
+        }
+      ],
+      "bbox": {
+        "x": 26,
+        "y": 582,
+        "w": 408,
+        "h": 201
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q28/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q28",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 29,
+      "stem": "A esquistossomose é uma doença que tem forte impacto na\nsaúde pública brasileira. Os grupos do parasita (I) e do seu\nhospedeiro intermediário (II) e a forma de infestação (III) são:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I-protozoário; II-artrópode; III-picada de mosquito."
+        },
+        {
+          "key": "B",
+          "text": "I-nematódeo; II-molusco; III-penetração pela pele."
+        },
+        {
+          "key": "C",
+          "text": "I-protozoário; II-artrópode; III-picada de barbeiro."
+        },
+        {
+          "key": "D",
+          "text": "I-platelminto; II-mamífero; III-ingestão de carne crua."
+        },
+        {
+          "key": "E",
+          "text": "I-platelminto; II-molusco; III-penetração pela pele."
+        }
+      ],
+      "bbox": {
+        "x": 26,
+        "y": 793,
+        "w": 482,
+        "h": 220
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q29/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q29",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 30,
+      "stem": "O gráfico representa a concentração de alguns hormônios\nobservados durante a gravidez de uma mulher.",
+      "options": [
+        {
+          "key": "A",
+          "text": "H1\nprogesterona\nH2\nFSH\nMotivo\neliminação da\nplacenta"
+        },
+        {
+          "key": "B",
+          "text": "H1\nFSH\nH2\nLH\nMotivo\nreinício da\nmenstruação"
+        },
+        {
+          "key": "C",
+          "text": "H1\nFSH\nH2\nestrógeno\nMotivo\nreinício da\nmenstruação"
+        },
+        {
+          "key": "D",
+          "text": "H1\nprogesterona\nH2\nestrógeno\nMotivo\neliminação da\nplacenta"
+        },
+        {
+          "key": "E",
+          "text": "H1\nFSH\nH2\nprogesterona\nMotivo\ninício da\nlactação"
+        }
+      ],
+      "bbox": {
+        "x": 522,
+        "y": 32,
+        "w": 479,
+        "h": 422
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q30/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q30",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 31,
+      "stem": "O processo de acidificação dos oceanos, decorrente das\nmudanças climáticas globais, afeta diretamente as colônias de\ncorais, influenciando na formação de recifes. Assinale a\nalternativa que completa corretamente a explicação para esse\nfenômeno.\nO dióxido de carbono dissolvido no oceano",
+      "options": [
+        {
+          "key": "A",
+          "text": "gera menor quantidade de íons de hidrogênio, o que\ndiminui o pH da água, liberando maior quantidade de íons\ncálcio, que, por sua vez, se ligam aos carbonatos,\naumentando o tamanho dos recifes."
+        },
+        {
+          "key": "B",
+          "text": "é absorvido pelo fitoplâncton, entrando no processo\nfotossintético, e o oxigênio liberado permanece na água do\nmar, oxidando e matando os recifes de coral."
+        },
+        {
+          "key": "C",
+          "text": "leva à formação de ácido carbônico, que, dissociado, gera,\nao final, íons de hidrogênio e de carbonato, que se ligam,\nimpedindo a formação do carbonato de cálcio que compõe\nos recifes de coral."
+        },
+        {
+          "key": "D",
+          "text": "é absorvido pelo fitoplâncton, entrando no processo\nfotossintético, e o oxigênio liberado torna a água do mar\nmais oxigenada, aumentando a atividade dos corais e o\ntamanho de seus recifes."
+        },
+        {
+          "key": "E",
+          "text": "reage com a água, produzindo ácido carbônico, que\npermanece no oceano e corrói os recifes de coral, que são\nformados por carbonato de cálcio."
+        }
+      ],
+      "bbox": {
+        "x": 522,
+        "y": 465,
+        "w": 478,
+        "h": 552
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q31/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q31",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 32,
+      "stem": "O esquema representa, de maneira bastante simplificada, uma\ndas possíveis hipóteses de relação de parentesco entre grupos\nanimais, assinalados pelo nome comum de alguns de seus\nrepresentantes. Na base do esquema, a característica que une\ntodos em um mesmo grupo é a deuterostomia.",
+      "options": [
+        {
+          "key": "A",
+          "text": "I-notocorda; II-pulmão; III-âmnio; IV-pelo; V-ovo com casca."
+        },
+        {
+          "key": "B",
+          "text": "I-escamas; II-encéfalo; III-pulmão; IV-glândulas mamárias;\nV-âmnio."
+        },
+        {
+          "key": "C",
+          "text": "I-mandíbula; II-4 membros locomotores; III-pulmão;\nIV-ventrículo subdividido em 2 câmaras; V-ovo com casca."
+        },
+        {
+          "key": "D",
+          "text": "I-notocorda; II-4 membros locomotores; III-pulmão;\nIV-glândulas mamárias; V-pena."
+        },
+        {
+          "key": "E",
+          "text": "I-âmnio; II-pulmão; III-mandíbula;\nIV-ventrículo subdividido em 2 câmaras; V-escama."
+        }
+      ],
+      "bbox": {
+        "x": 21,
+        "y": 31,
+        "w": 504,
+        "h": 427
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q32/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q32",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 34,
+      "stem": "Desde 2013, a cobertura vacinal para doenças como caxumba,\nsarampo, rubéola e poliomielite vem caindo ano a ano em todo\no país, devido, entre outros motivos, I. Contudo,\nsabe-se que a vacina é o único meio de prevenir essas doenças\ne consiste na inoculação de II\nAs lacunas I e II podem ser corretamente preenchidas por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I à baixa incidência dessas doenças atualmente, não\n representando mais riscos à saúde pública.\nII anticorpos que estimulam uma resposta imunológica\npassiva contra uma doença específica, em pessoas\nsaudáveis."
+        },
+        {
+          "key": "B",
+          "text": "I a movimentos antivacinação, que têm se expandido\n pelo mundo.\nII vírus patogênicos modificados em laboratório,\ncausando a cura pela competição com os vírus não\nmodificados da pessoa doente."
+        },
+        {
+          "key": "C",
+          "text": "I a movimentos antivacinação, que têm se expandido\n pelo mundo.\nII antígenos do agente patogênico, estimulando uma\nresposta imunológica ativa, em pessoas saudáveis."
+        },
+        {
+          "key": "D",
+          "text": "I ao alto custo dessas vacinas, não coberto pelo\nsistema público, o que as torna inacessíveis a grande\nparte da população.\nII antígenos do agente patogênico para garantir a cura\nem um curto espaço de tempo, em pessoas doentes."
+        },
+        {
+          "key": "E",
+          "text": "I à baixa incidência dessas doenças atualmente, não\n representando mais riscos à saúde pública.\nII anticorpos específicos produzidos em outro\n organismo, que se multiplicam e eliminam o agente\npatogênico, em pessoas doentes."
+        }
+      ],
+      "bbox": {
+        "x": 530,
+        "y": 31,
+        "w": 496,
+        "h": 515
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q34/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q34",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 33,
+      "stem": "Uma alteração genética é determinada por um gene com\nherança autossômica recessiva. O heredograma mostra\nfamílias em que essa condição está presente.\nO casal III2 e III3 está esperando um menino. Considerando\nque, nessa população, uma em cada 50 pessoas é\nheterozigótica para essa alteração, a probabilidade de que esse\nmenino seja afetado é",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/100"
+        },
+        {
+          "key": "B",
+          "text": "1/200"
+        },
+        {
+          "key": "C",
+          "text": "1/1.000"
+        },
+        {
+          "key": "D",
+          "text": "1/25.000"
+        },
+        {
+          "key": "E",
+          "text": "1/40.000"
+        }
+      ],
+      "bbox": {
+        "x": 22,
+        "y": 554,
+        "w": 503,
+        "h": 351
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q33/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q33",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 35,
+      "stem": "A reação de água com ácido clorídrico produz o ânion cloreto e\no cátion hidrônio. A estrutura que representa corretamente o\ncátion hidrônio é",
+      "options": [
+        {
+          "key": "A",
+          "text": "H-H\n0"
+        },
+        {
+          "key": "D",
+          "text": "H-O:"
+        },
+        {
+          "key": "B",
+          "text": "H+"
+        },
+        {
+          "key": "E",
+          "text": "HH\nH"
+        },
+        {
+          "key": "C",
+          "text": "H-O-H\nH"
+        }
+      ],
+      "bbox": {
+        "x": 53,
+        "y": 59,
+        "w": 401,
+        "h": 314
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q35/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q35",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 37,
+      "stem": "Um antiácido comercial em pastilhas possui, em sua\ncomposição, entre outras substâncias, bicarbonato de sódio,\ncarbonato de sódio e ácido cítrico. Ao ser colocada em água, a\npastilha dissolve-se completamente e libera gás carbônico, o\nque causa a efervescência. Para entender a influência de alguns\nfatores sobre a velocidade de dissolução da pastilha, adicionou-\nse uma pastilha a cada um dos quatro recipientes descritos na\ntabela, medindo-se o tempo até a sua dissolução completa.",
+      "options": [],
+      "bbox": {
+        "x": 518,
+        "y": 59,
+        "w": 423,
+        "h": 304
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q37/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q37",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 36,
+      "stem": "Uma amostra sólida, sem cavidades ou poros, poderia ser\nconstituída por um dos seguintes materiais metálicos: alumínio,\nbronze, chumbo, ferro ou titânio. Para identificá-la, utilizou-se\numa balança, um recipiente de volume constante e água.\nEfetuaram-se as seguintes operações: 1) pesou-se a amostra;\n2) pesou-se o recipiente completamente cheio de água;\n3) colocou-se a amostra no recipiente vazio, completando seu\nvolume com água e determinou-se a massa desse conjunto. Os\nresultados obtidos foram os seguintes:",
+      "options": [
+        {
+          "key": "A",
+          "text": "alumínio."
+        },
+        {
+          "key": "B",
+          "text": "bronze."
+        },
+        {
+          "key": "C",
+          "text": "chumbo."
+        },
+        {
+          "key": "D",
+          "text": "ferro."
+        },
+        {
+          "key": "E",
+          "text": "titânio."
+        }
+      ],
+      "bbox": {
+        "x": 53,
+        "y": 382,
+        "w": 423,
+        "h": 499
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q36/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q36",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 37,
+      "stem": "Para todos os experimentos, foi usada água mineral da mesma\nmarca. Considere a água com gás como tendo gás carbônico\ndissolvido.\nCom base nessas informações, é correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "o uso da água com gás, ao invés da sem gás, diminuiu a\nvelocidade de dissolução da pastilha em cerca de 50%, uma\nvez que, como já possui gás carbônico, há o deslocamento\ndo equilíbrio para a formação dos reagentes."
+        },
+        {
+          "key": "B",
+          "text": "o uso da água com gás, ao invés da sem gás, aumentou a\nvelocidade de dissolução da pastilha em cerca de 33%, uma\nvez que o gás carbônico acidifica a água, aumentando a\nvelocidade de consumo do carbonato de sódio."
+        },
+        {
+          "key": "C",
+          "text": "nem a mudança de temperatura nem a adição de gás\ncarbônico na solução afetaram a velocidade da reação, uma\nvez que o sistema não se encontra em equilíbrio."
+        },
+        {
+          "key": "D",
+          "text": "o aumento da temperatura da água, de 4 °C para 25 °C,\nlevou a um aumento na velocidade da reação, uma vez que\naumentou a frequência e a energia de colisão entre as\nmoléculas envolvidas na reação."
+        },
+        {
+          "key": "E",
+          "text": "o aumento da temperatura da água, de 4 °C para 25 °C,\nlevou a um aumento na velocidade da reação, uma vez que\nfacilita a liberação de gás carbônico da solução, deslocando\no equilíbrio para a formação dos reagentes."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 531,
+        "w": 423,
+        "h": 371
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q37/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q37",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 38,
+      "stem": "Considerando que baterias de Li-FeS2 podem gerar uma\nvoltagem nominal de 1,5 V, o que as torna úteis no cotidiano e\nque a primeira reação de descarga dessas baterias é\n2 Li + FeS2 → Li₂FeS2, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "O lítio metálico é oxidado na primeira descarga."
+        },
+        {
+          "key": "B",
+          "text": "O ferro é oxidado e o lítio é reduzido na primeira descarga."
+        },
+        {
+          "key": "C",
+          "text": "O lítio é o cátodo dessa bateria."
+        },
+        {
+          "key": "D",
+          "text": "A primeira reação de descarga forma lítio metálico."
+        },
+        {
+          "key": "E",
+          "text": "O lítio metálico e o dissulfeto ferroso estão em contato\ndireto dentro da bateria."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 929,
+        "w": 423,
+        "h": 283
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q38/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q38",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 39,
+      "stem": "Peptídeos podem ser analisados pelo tratamento com duas\nenzimas. Uma delas, uma carboxipeptidase, quebra mais\nrapidamente a ligação peptídica entre o aminoácido que tem\num grupo carboxílico livre e o seguinte. O tratamento com outra\nenzima, uma aminopeptidase, quebra, mais rapidamente, a ligação\npeptídica entre o aminoácido que tem um grupo amino livre e\no anterior. Isso permite identificar a sequência dos aminoácidos\nno peptídeo.\nUm tripeptídeo, formado pelos aminoácidos lisina, fenilalanina\ne glicina, não necessariamente nessa ordem, foi submetido a\ntratamento com carboxipeptidase, resultando em uma mistura\nde um dipeptídeo e fenilalanina. O tratamento do mesmo\ntripeptídeo com aminopeptidase resultou em uma mistura de\num outro dipeptídeo e glicina.\nO número de combinações possíveis para os três aminoácidos\ne a fórmula estrutural do peptídeo podem ser,\nrespectivamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 combinações e"
+        },
+        {
+          "key": "B",
+          "text": "3 combinações e"
+        },
+        {
+          "key": "C",
+          "text": "6 combinações e"
+        },
+        {
+          "key": "D",
+          "text": "6 combinações e"
+        },
+        {
+          "key": "E",
+          "text": "6 combinações e"
+        }
+      ],
+      "bbox": {
+        "x": 37,
+        "y": 37,
+        "w": 462,
+        "h": 669
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q39/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q39",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 40,
+      "stem": "Em um experimento, determinadas massas de ácido maleico e\nacetona foram misturadas a 0 °C, preparando-se duas misturas\nidênticas. Uma delas (X) foi resfriada a -78 °C, enquanto a outra\n(M) foi mantida a 0 °C. A seguir, ambas as misturas (Me X)\nforam filtradas, resultando nas misturas N e Y. Finalmente, um\ndos componentes de cada mistura foi totalmente retirado por\ndestilação. Os recipientes (marcados pelas letras OeZ)\nrepresentam o que restou de cada mistura após a destilação.\nNas figuras, as moléculas de cada componente estão\nrepresentadas por retângulos ou triângulos.\nTanto no recipiente M como no recipiente X, estão\nrepresentadas soluções  de II, cuja solubilidade\nIII com a diminuição da temperatura. A uma\ndeterminada temperatura, as concentrações em Me N e em X\ne Y são IV Em diferentes instantes, as moléculas\nrepresentadas por um retângulo pertencem a um composto\nque pode estar V ou no estado VI\nAs lacunas que correspondem aos números de I a VI devem ser\ncorretamente preenchidas por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "I saturadas\nII acetona\nIII aumenta\nIV diferentes\nV sólido\nVI líquido"
+        },
+        {
+          "key": "D",
+          "text": "I heterogêneas\nII acetona\nIII aumenta\nIV diferentes\nV sólido\nVI sólido"
+        },
+        {
+          "key": "B",
+          "text": "I homogêneas\nII ácido maleico\nIII diminui\nIV iguais\nV dissolvido\nVI líquido"
+        },
+        {
+          "key": "E",
+          "text": "I saturadas\nII ácido maleico\nIII diminui\nIV iguais\nV sólido\nVI líquido"
+        },
+        {
+          "key": "C",
+          "text": "I saturadas\nII ácido maleico\nIII diminui\nIV iguais\nV dissolvido\nVI sólido"
+        }
+      ],
+      "bbox": {
+        "x": 536,
+        "y": 37,
+        "w": 447,
+        "h": 759
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q40/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q40",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 41,
+      "stem": "O gráfico a seguir indica a temperatura de ebulição de\nbromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia\ncarbônica.\nConsiderando as propriedades periódicas dos halogênios, a\nalternativa que descreve adequadamente o comportamento\nexpresso no gráfico de temperaturas de ebulição versus\ntamanho de cadeia carbônica para CnH2n+1F (□) e CnH2n+1l (•) é:",
+      "options": [
+        {
+          "key": "A",
+          "text": null
+        },
+        {
+          "key": "B",
+          "text": null
+        },
+        {
+          "key": "C",
+          "text": null
+        },
+        {
+          "key": "D",
+          "text": null
+        },
+        {
+          "key": "E",
+          "text": null
+        }
+      ],
+      "bbox": {
+        "x": 45,
+        "y": 58,
+        "w": 500,
+        "h": 714
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q41/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q41",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 42,
+      "stem": "O cinamaldeído é um dos principais compostos que dão o sabor\ne o aroma da canela. Quando exposto ao ar, oxida conforme a\nequação balanceada:\nUma amostra de 19,80 g desse composto puro foi exposta ao\nar por 74 dias e depois pesada novamente, sendo que a massa\nfinal aumentou em 1,20 g. A porcentagem desse composto que\nfoi oxidada no período foi de",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "25%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "75%"
+        },
+        {
+          "key": "E",
+          "text": "90%"
+        }
+      ],
+      "bbox": {
+        "x": 515,
+        "y": 58,
+        "w": 468,
+        "h": 330
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q42/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q42",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 43,
+      "stem": "Uma postagem de humor na internet trazia como título \"Provas\nde que gatos são líquidos\" e usava, como essas provas, fotos\nreais de gatos, como as reproduzidas aqui.\nO efeito de humor causado na associação do título com as fotos\nbaseia-se no fato de que líquidos",
+      "options": [
+        {
+          "key": "A",
+          "text": "metálicos, em repouso, formam uma superfície refletora de\nluz, como os pelos dos gatos."
+        },
+        {
+          "key": "B",
+          "text": "têm volume constante e forma variável, propriedade que os\ngatos aparentam ter."
+        },
+        {
+          "key": "C",
+          "text": "moleculares são muito viscosos, como aparentam ser os\ngatos em repouso."
+        },
+        {
+          "key": "D",
+          "text": "são muito compressíveis, mantendo forma mas ajustando o\nvolume ao do recipiente, como os gatos aparentam ser."
+        },
+        {
+          "key": "E",
+          "text": "moleculares são voláteis, necessitando estocagem em\nrecipientes fechados, como os gatos aparentam ser."
+        }
+      ],
+      "bbox": {
+        "x": 514,
+        "y": 391,
+        "w": 470,
+        "h": 556
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q43/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q43",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 44,
+      "stem": "A bola de futebol que foi utilizada na Copa de 2018 foi chamada\nTelstar 18. Essa bola contém uma camada interna de borracha\nque pertence a uma classe de polímeros genericamente\nchamada de EPDM. A fórmula estrutural de um exemplo desses\npolímeros é\n\n\nPolímeros podem ser produzidos pela polimerização de\ncompostos insaturados (monômeros) como exemplificado para\no polipropileno (um homopolímero):\n\nn\nn\nOs monômeros que podem ser utilizados para preparar o co-\npolímero do tipo EPDM, cuja fórmula estrutural foi\napresentada, são",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "bbox": {
+        "x": 44,
+        "y": 41,
+        "w": 498,
+        "h": 819
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q44/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q44",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 45,
+      "stem": "Um grão de milho de pipoca, visto a olho nu,\napresenta duas regiões distintas,\nrepresentadas por A e B na figura. Em A,\nocorre o tecido acumulador de amido, usado,\npela planta, para nutrir o embrião. Em B, os\ntecidos vegetais possuem maior teor de água.\nAo ser aquecida, parte da água transforma-se em vapor,\naumentando a pressão interna do grão. Quando a temperatura\natinge 177°C, a pressão se torna suficiente para romper o grão,\nque vira uma pipoca.\nUm estudo feito por um grupo de pesquisadores determinou\nque o interior do grão tem 4,5 mg de água da qual, no momento\nimediatamente anterior ao seu rompimento, apenas 9% está\nna fase vapor, atuando como um gás ideal e ocupando 0,1 mL.\nDessa forma, foi possível calcular a pressão Pfinal no momento\nimediatamente anterior ao rompimento do grão.\nA associação correta entre região do milho e Pfinal é dada por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A = endosperma e Pfinal = 8,3 atm."
+        },
+        {
+          "key": "B",
+          "text": "B = endosperma e Pfinal = 5,9 atm."
+        },
+        {
+          "key": "C",
+          "text": "A = xilema e Pfinal = 22,1 atm."
+        },
+        {
+          "key": "D",
+          "text": "B = xilema e Pfinal = 5,9 atm."
+        },
+        {
+          "key": "E",
+          "text": "B = endosperma e Pfinal = 92,0 atm."
+        }
+      ],
+      "bbox": {
+        "x": 531,
+        "y": 41,
+        "w": 330,
+        "h": 429
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q45/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q45",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 46,
+      "stem": "Em uma família, o número de irmãs de cada filha é igual à\nmetade do número de irmãos. Cada filho tem o mesmo número\nde irmãos e irmãs.\n\nO número total de filhos e filhas da família é",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "bbox": {
+        "x": 57,
+        "y": 54,
+        "w": 411,
+        "h": 202
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q46/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q46",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 47,
+      "stem": "Se a função f: R – {2} → R é definida por f(x) =\nfunção g: R - {2} → R é definida por g(x) = f(f(x)), então\ng(x) é igual a",
+      "options": [
+        {
+          "key": "A",
+          "text": "x/2"
+        },
+        {
+          "key": "B",
+          "text": "x2"
+        },
+        {
+          "key": "C",
+          "text": "2x"
+        },
+        {
+          "key": "D",
+          "text": "2x + 3"
+        },
+        {
+          "key": "E",
+          "text": "x"
+        }
+      ],
+      "bbox": {
+        "x": 57,
+        "y": 283,
+        "w": 411,
+        "h": 239
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q47/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q47",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 48,
+      "stem": "Considere a função polinomial f: R → R definida por\n\nf(x) = ax² + bx + c,\n\nem que a, b, c ∈ R e a ≠ 0. No plano cartesiano xy, a única\nintersecção da reta y = 2 com o gráfico de f é o ponto (2; 2) е\na intersecção da reta x = 0 com o gráfico de f é o ponto\n(0;-6). O valor de a + b + cé",
+      "options": [
+        {
+          "key": "A",
+          "text": "-2"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "bbox": {
+        "x": 57,
+        "y": 554,
+        "w": 411,
+        "h": 290
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q48/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q48",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 49,
+      "stem": "Um dono de restaurante assim descreveu a evolução do\nfaturamento quinzenal de seu negócio, ao longo dos dez\nprimeiros meses após a inauguração: \"Até o final dos três\nprimeiros meses, tivemos uma velocidade de crescimento mais\nou menos constante, quando então sofremos uma queda\nabrupta, com o faturamento caindo à metade do que tinha sido\natingido. Em seguida, voltamos a crescer, igualando, um mês e\nmeio depois dessa queda, o faturamento obtido ao final do\nterceiro mês. Agora, ao final do décimo mês, estamos\nestabilizando o faturamento em um patamar 50% acima do\nfaturamento obtido ao final do terceiro mês\".\n\nConsiderando que, na ordenada, o faturamento quinzenal está\nrepresentado em unidades desconhecidas, porém uniformemente\nespaçadas, qual dos gráficos é compatível com a descrição do\ncomerciante?",
+      "options": [
+        {
+          "key": "A",
+          "text": null
+        },
+        {
+          "key": "B",
+          "text": null
+        },
+        {
+          "key": "C",
+          "text": null
+        },
+        {
+          "key": "D",
+          "text": null
+        },
+        {
+          "key": "E",
+          "text": null
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 54,
+        "w": 411,
+        "h": 675
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q49/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q49",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 50,
+      "stem": "Forma-se uma pilha de folhas de papel, em que cada folha tem\n0,1 mm de espessura. A pilha é formada da seguinte maneira:\ncoloca-se uma folha na primeira vez e, em cada uma das vezes\nseguintes, tantas quantas já houverem sido colocadas\nanteriormente. Depois de 33 dessas operações, a altura da\npilha terá a ordem de grandeza",
+      "options": [
+        {
+          "key": "A",
+          "text": "da altura de um poste."
+        },
+        {
+          "key": "B",
+          "text": "da altura de um prédio de 30 andares."
+        },
+        {
+          "key": "C",
+          "text": "do comprimento da Av. Paulista."
+        },
+        {
+          "key": "D",
+          "text": "da distância da cidade de São Paulo (SP) à cidade do Rio de\nJaneiro (RJ)."
+        },
+        {
+          "key": "E",
+          "text": "do diâmetro da Terra."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 745,
+        "w": 411,
+        "h": 307
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q50/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q50",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 51,
+      "stem": "A figura mostra uma escada maciça de quatro degraus, todos\neles com formato de um paralelepipedo reto-retângulo. A base\nde cada degrau é um retângulo de dimensões 20 cm por 50 cm,\ne a diferença de altura entre o piso e o primeiro degrau e entre\nos degraus consecutivos é de 10 cm. Se essa escada for\nprolongada para ter 20 degraus, mantendo o mesmo padrão,\nseu volume será igual a",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,1 m³"
+        },
+        {
+          "key": "B",
+          "text": "2,3 m³"
+        },
+        {
+          "key": "C",
+          "text": "3,0 m³"
+        },
+        {
+          "key": "D",
+          "text": "4,2 m³"
+        },
+        {
+          "key": "E",
+          "text": "6,0 m³"
+        }
+      ],
+      "bbox": {
+        "x": 50,
+        "y": 74,
+        "w": 514,
+        "h": 278
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q51/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q51",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 52,
+      "stem": "Uma empresa estuda cobrir um vão entre dois prédios (com\nformato de paralelepipedos reto-retângulos) que têm paredes\nlaterais paralelas, instalando uma lona na forma de um\nquadrilátero, com pontas presas nos pontos A, B, CeD,\nconforme indicação da figura.\nSabendo que a lateral de um prédio tem 80 m de altura e 28 m\nde largura, que a lateral do outro prédio tem 60 m de altura e\n20 m de largura e que essas duas paredes laterais distam 15 m\numa da outra, a área total dessa lona seria de",
+      "options": [
+        {
+          "key": "A",
+          "text": "300 m²"
+        },
+        {
+          "key": "B",
+          "text": "360 m²"
+        },
+        {
+          "key": "C",
+          "text": "600 m²"
+        },
+        {
+          "key": "D",
+          "text": "720 m²"
+        },
+        {
+          "key": "E",
+          "text": "1.200 m²"
+        }
+      ],
+      "bbox": {
+        "x": 51,
+        "y": 344,
+        "w": 504,
+        "h": 381
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q52/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q52",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 53,
+      "stem": "Se log2 y = -+log2 x, para x > 0, então",
+      "options": [
+        {
+          "key": "A",
+          "text": "y = 3√x2\n√2"
+        },
+        {
+          "key": "B",
+          "text": "y = √x3\n2"
+        },
+        {
+          "key": "C",
+          "text": "y = -/+ √x2\n√2"
+        },
+        {
+          "key": "D",
+          "text": "y = √2-√x2"
+        },
+        {
+          "key": "E",
+          "text": "y = √2x3"
+        }
+      ],
+      "bbox": {
+        "x": 51,
+        "y": 703,
+        "w": 504,
+        "h": 293
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q53/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q53",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 54,
+      "stem": "Um triângulo retângulo com vértices denominados A, Be C\napoia-se sobre uma linha horizontal, que corresponde ao solo,\ne gira sem escorregar no sentido horário. Isto é, se a posição\ninicial é aquela mostrada na figura, o movimento começa com\numa rotação em torno do vértice C até o vértice A tocar o solo,\napós o que passa a ser uma rotação em torno de A, até o vértice\nB tocar o solo, e assim por diante.\n\nUsando as dimensões indicadas na figura (AB = 1 e BC = 2),\nqual é o comprimento da trajetória percorrida pelo vértice B,\ndesde a posição mostrada, até a aresta BC apoiar-se no solo\nnovamente?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3\n-π\n2"
+        },
+        {
+          "key": "B",
+          "text": "3+√3\n-π\n3"
+        },
+        {
+          "key": "C",
+          "text": "13\n-π\n6"
+        },
+        {
+          "key": "D",
+          "text": "3+√3\n-π\n2"
+        },
+        {
+          "key": "E",
+          "text": "8+2√3\n-π\n3"
+        }
+      ],
+      "bbox": {
+        "x": 583,
+        "y": 74,
+        "w": 504,
+        "h": 518
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q54/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q54",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 55,
+      "stem": "Uma seta aponta para a posição zero no instante inicial. A cada\nrodada, ela poderá ficar no mesmo lugar ou mover-se uma\nunidade para a direita ou mover-se uma unidade para a\nesquerda, cada uma dessas três possibilidades com igual\nprobabilidade.\n\nQual é a probabilidade de que, após 5 rodadas, a seta volte à\nposição inicial?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1\n-"
+        },
+        {
+          "key": "B",
+          "text": "17\n-"
+        },
+        {
+          "key": "C",
+          "text": "1\n-"
+        },
+        {
+          "key": "D",
+          "text": "51\n-"
+        },
+        {
+          "key": "E",
+          "text": "125\n-"
+        }
+      ],
+      "bbox": {
+        "x": 583,
+        "y": 592,
+        "w": 504,
+        "h": 415
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q55/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q55",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 56,
+      "stem": "O gráfico mostra a evolução diária, em certo intervalo de tempo\nnão especificado na abscissa, de dois índices econômicos,\nnormalizados para que suas médias, no mesmo período, sejam\nambas iguais a 1. O valor do índice 1 no dia i é x₁ e o valor do\níndice 2 no dia i é y₁. O gráfico ilustra como cada um dos índices\nXi e yi varia em função de i, mostrando os pontos (i, xi)\n(pontos escuros) e (i, y₁) (pontos claros).\nPara entender melhor a relação entre os dois índices, um novo\ngráfico foi feito com os pares (xi, yi), isto é, com o índice 1 na\nabscissa contra o índice 2 na ordenada. O resultado foi:",
+      "options": [],
+      "bbox": {
+        "x": 47,
+        "y": 45,
+        "w": 450,
+        "h": 746
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q56/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q56",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 57,
+      "stem": "Examine o cartum.\nO efeito de humor que se obtém no cartum decorre,\nprincipalmente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "da expressão facial da personagem."
+        },
+        {
+          "key": "B",
+          "text": "do uso de uma ferramenta fora de contexto."
+        },
+        {
+          "key": "C",
+          "text": "da situação rotineira exposta pela imagem."
+        },
+        {
+          "key": "D",
+          "text": "da ambiguidade presente na expressão \"quebre a cara\"."
+        },
+        {
+          "key": "E",
+          "text": "do emprego de linguagem popular."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 45,
+        "w": 449,
+        "h": 401
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q57/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q57",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 58,
+      "stem": "De acordo com o texto, o \"mito político\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "prejudica o entendimento do mundo real."
+        },
+        {
+          "key": "B",
+          "text": "necessita da abstração do tempo."
+        },
+        {
+          "key": "C",
+          "text": "depende da verificação da verdade."
+        },
+        {
+          "key": "D",
+          "text": "é uma fantasia desvinculada da realidade."
+        },
+        {
+          "key": "E",
+          "text": "atende a situações concretas."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 610,
+        "w": 441,
+        "h": 159
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q58/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q58",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 59,
+      "stem": "Sobre o sujeito da oração \"em que vivem\" (L. 12-13), é correto\nafirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Expressa indeterminação, cabendo ao leitor deduzir a quem\nse refere a ação verbal."
+        },
+        {
+          "key": "B",
+          "text": "Está oculto e visa evitar a repetição da palavra\n\"circunstâncias\" (L. 10)."
+        },
+        {
+          "key": "C",
+          "text": "É uma função sintática preenchida pelo pronome \"que\"\n(L. 12)."
+        },
+        {
+          "key": "D",
+          "text": "É indeterminado, tendo em vista que não é possível\nidentificar a quem se refere a ação verbal."
+        },
+        {
+          "key": "E",
+          "text": "Está oculto e seu referente é o mesmo do pronome \"os\" em\n\"fazê-los\" (L. 11)."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 774,
+        "w": 441,
+        "h": 203
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q59/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q59",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 64,
+      "stem": "1. Surge então a pergunta: se a fantasia funciona como\nrealidade; se não conseguimos agir senão mutilando o\nnosso eu; se o que há de mais profundo em nós é no fim de\ncontas a opinião dos outros; se estamos condenados a não\natingir o que nos parece realmente valioso -, qual a\ndiferença entre o bem e o mal, o justo e o injusto, o certo e\no errado? O autor passou a vida a ilustrar esta pergunta, que\né modulada de maneira exemplar no primeiro e mais\nconhecido dos seus grandes romances de maturidade.\nII. É preciso todavia lembrar que essa ligação com o problema\ngeográfico e social só adquire significado pleno, isto é, só\natua sobre o leitor, graças à elevada qualidade artística do\nlivro. O seu autor soube transpor o ritmo mesológico para a\nprópria estrutura da narrativa, mobilizando recursos que a\nfazem parecer movida pela mesma fatalidade sem saída.\n(...) Da consciência mortiça da personagem podem emergir\nos transes periódicos em que se estorce o homem esmagado\npela paisagem e pelos outros homens.\nNos fragmentos I e II, aqui adaptados, o crítico Antonio Candido\navalia duas obras literárias, que são, respectivamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "A Relíquia e Sagarana."
+        },
+        {
+          "key": "B",
+          "text": "O Cortiço e Iracema."
+        },
+        {
+          "key": "C",
+          "text": "Sagarana e O Cortiço."
+        },
+        {
+          "key": "D",
+          "text": "Mayombe e Minha Vida de Menina."
+        },
+        {
+          "key": "E",
+          "text": "Memórias Póstumas de Brás Cubas e Vidas Secas."
+        }
+      ],
+      "bbox": {
+        "x": 50,
+        "y": 62,
+        "w": 428,
+        "h": 508
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q64/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q64",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 65,
+      "stem": "Atente para as seguintes afirmações relativas ao desfecho do\nromance A Relíquia, de Eça de Queirós:\n1. O autor revela, por meio de Teodorico, sua descrença num\nJesus divinizado, imagem que é substituída pela ideia de\nConsciência.\nII. Ao ser sincero com Crispim, Teodorico conquista a vida de\nburguês que sempre almejou.\nIII. Teodorico dá ouvidos à mensagem de Cristo, arrepende-se\nde sua hipocrisia beata e abraça a fé católica.\nEstá correto o que se afirma apenas em",
+      "options": [
+        {
+          "key": "A",
+          "text": "I."
+        },
+        {
+          "key": "B",
+          "text": "II."
+        },
+        {
+          "key": "C",
+          "text": "I e II."
+        },
+        {
+          "key": "D",
+          "text": "II e III."
+        },
+        {
+          "key": "E",
+          "text": "I e III."
+        }
+      ],
+      "bbox": {
+        "x": 50,
+        "y": 576,
+        "w": 425,
+        "h": 299
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q65/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q65",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 66,
+      "stem": "Com base nos trechos acima, é adequado afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Para Alencar, a literatura brasileira deveria ser capaz de\nrepresentar os valores nacionais com o mesmo espírito do\neuropeu que sorve o figo, a pera, o damasco e a nêspera."
+        },
+        {
+          "key": "B",
+          "text": "Ao discutir, no primeiro trecho, a importação de ideias e\ncostumes, Alencar propõe uma literatura baseada no\nabrasileiramento da língua portuguesa, como se verifica no\nsegundo trecho."
+        },
+        {
+          "key": "C",
+          "text": "O contraste entre os verbos \"chupar\" e \"sorver\",\nempregados no primeiro trecho, revela o rebaixamento de\nlinguagem buscado pelo escritor em Iraceна."
+        },
+        {
+          "key": "D",
+          "text": "Em Iracema, a construção de uma literatura exótica, tal\ncomo se verifica no segundo trecho, pautou-se pela recusa\nde nossos elementos naturais."
+        },
+        {
+          "key": "E",
+          "text": "Ambos os trechos são representativos da tendência\nescapista de nosso romantismo, na medida em que\nvalorizam os elementos naturais em detrimento da\nrealidade rotineira."
+        }
+      ],
+      "bbox": {
+        "x": 510,
+        "y": 315,
+        "w": 418,
+        "h": 318
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q66/image.png"
+      },
+      "answer": {
+        "correct": null
+      },
+      "id": "fuvest-2019-q66",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 67,
+      "stem": "No trecho “outras remexe o uru de palha matizada”, a palavra\nsublinhada expressa ideia de",
+      "options": [
+        {
+          "key": "A",
+          "text": "concessão."
+        },
+        {
+          "key": "B",
+          "text": "finalidade."
+        },
+        {
+          "key": "C",
+          "text": "adição."
+        },
+        {
+          "key": "D",
+          "text": "tempo."
+        },
+        {
+          "key": "E",
+          "text": "consequência."
+        }
+      ],
+      "bbox": {
+        "x": 510,
+        "y": 637,
+        "w": 418,
+        "h": 168
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q67/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q67",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 68,
+      "stem": "Considerando os poemas, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As noções de que a identidade do poeta independe de sua existência biográfica, no \"Sonetilho\", e de que o mito se perpetua para além da vida, em \"Ulisses”, produzem uma analogia entre os poemas."
+        },
+        {
+          "key": "B",
+          "text": "As referências a Mefisto (\"diabo\", na lenda alemã de Fausto) e a Deus no \"Sonetilho\" e em \"Ulisses\", respectivamente, associadas ao polo de opostos \"morte\" e \"vida\", revelam uma perspectiva cristã comum aos poemas."
+        },
+        {
+          "key": "C",
+          "text": "O resgate da forma clássica, no \"Sonetilho\", e a referência à primeira pessoa do plural, em \"Ulisses\", denotam um mesmo espírito agregador e comunitário."
+        },
+        {
+          "key": "D",
+          "text": "O eu lírico de cada poema se identifica, respectivamente, com seus títulos. No poema de Drummond, trata-se de alguém referido como \"falso Fernando Pessoa\", já no poema de Pessoa, o eu lírico é \"Ulisses\"."
+        },
+        {
+          "key": "E",
+          "text": "Os versos \"As coisas tangíveis / tornam-se insensíveis / à palma da mão. // Mas as coisas findas, / muito mais que lindas, / essas ficarão\", de outro poema de Claro Enigma, sugerem uma relação de contraste com os poemas citados."
+        }
+      ],
+      "bbox": {
+        "x": 69,
+        "y": 444,
+        "w": 426,
+        "h": 452
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q68/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q68",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 69,
+      "stem": "O oxímoro é uma \"figura em que se combinam palavras de sentido oposto que parecem excluir-se mutuamente, mas que, no contexto, reforçam a expressão” (HOUAISS, 2001). No poema \"Sonetilho do falso Fernando Pessoa\", o emprego dessa figura de linguagem ocorre em:",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Onde morri, existo\" (L. 2)."
+        },
+        {
+          "key": "B",
+          "text": "\"E das peles que visto / muitas há que não vi” (L. 3-4)."
+        },
+        {
+          "key": "C",
+          "text": "\"Desisto / de tudo quanto é misto / e que odiei ou senti\" (L. 6-8)."
+        },
+        {
+          "key": "D",
+          "text": "\"à deusa que se ri / deste nosso oaristo\" (L. 10-11)."
+        },
+        {
+          "key": "E",
+          "text": "\"mas não sou eu, nem isto\" (L. 14)."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 94,
+        "w": 413,
+        "h": 234
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q69/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q69",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 70,
+      "stem": "E grita a piranha cor de palha, irritadíssima:\nTenho dentes de navalha, e com um pulo de ida-e-volta resolvo a questão!...\n– Exagero... - diz a arraia – eu durmo na areia, de ferrão a prumo, e sempre há um descuidoso que vem se espetar.\n– Pois, amigas, murmura o gimnoto*, mole, carregando a bateria nem quero pensar no assunto: se eu soltar três pensamentos elétricos, bate-poço, poço em volta, até vocês duas boiarão mortas...\n*peixe elétrico.\nEsse texto, extraído de Sagarana, de Guimarães Rosa,",
+      "options": [
+        {
+          "key": "A",
+          "text": "antecipa o destino funesto do ex-militar Cassiano Gomes e do marido traído Turíbio Todo, em \"Duelo\", ao qual serve como epígrafe."
+        },
+        {
+          "key": "B",
+          "text": "assemelha-se ao caráter existencial da disputa entre Brilhante, Dansador e Rodapião na novela \"Conversa de Bois\"."
+        },
+        {
+          "key": "C",
+          "text": "reúne as três figurações do protagonista da novela \"A hora e vez de Augusto Matraga\", assim denominados: Augusto Estêves, Nhô Augusto e Augusto Matraga."
+        },
+        {
+          "key": "D",
+          "text": "representa o misticismo e a atmosfera de feitiçaria que envolve o preto velho João Mangalô e sua desavença com o narrador-personagem José, em \"São Marcos\"."
+        },
+        {
+          "key": "E",
+          "text": "constitui uma das cantigas de \"O burrinho Pedrês\", em que a sagacidade da boiada se sobressai à ignorância do burrinho."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 333,
+        "w": 411,
+        "h": 565
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q70/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q70",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 75,
+      "stem": "De acordo com o texto, considera-se contraditório, em relação\nà percepção humana do tempo,",
+      "options": [
+        {
+          "key": "A",
+          "text": "seu poder de cura e destruição."
+        },
+        {
+          "key": "B",
+          "text": "sua natureza pública e privada."
+        },
+        {
+          "key": "C",
+          "text": "seu caráter ordenado e irregular."
+        },
+        {
+          "key": "D",
+          "text": "seu sentido de submissão e liberdade."
+        },
+        {
+          "key": "E",
+          "text": "seu grau de abundância e desperdício."
+        }
+      ],
+      "bbox": {
+        "x": 60,
+        "y": 69,
+        "w": 433,
+        "h": 172
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q75/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q75",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 76,
+      "stem": "De acordo com o texto, para ingresso nos Estados Unidos, o\ncruzamento da fronteira entre este país e o México, no local\ndenominado The Gateway International Bridge, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "dificultado para alguns migrantes."
+        },
+        {
+          "key": "B",
+          "text": "negado para casos de reincidentes."
+        },
+        {
+          "key": "C",
+          "text": "adiado para os migrantes que seguem as regras."
+        },
+        {
+          "key": "D",
+          "text": "condicionado à nacionalidade do solicitante."
+        },
+        {
+          "key": "E",
+          "text": "liberado para os migrantes com documentação válida."
+        }
+      ],
+      "bbox": {
+        "x": 60,
+        "y": 753,
+        "w": 428,
+        "h": 177
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q76/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q76",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 77,
+      "stem": "A frase nominal “this kind of barrier” (L. 14-15) refere-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "ao muro de Trump na fronteira com o México."
+        },
+        {
+          "key": "B",
+          "text": "à ponte The Gateway International Bridge."
+        },
+        {
+          "key": "C",
+          "text": "a protestos de migrantes na fronteira."
+        },
+        {
+          "key": "D",
+          "text": "ao muro invisível criado por práticas do governo Trump."
+        },
+        {
+          "key": "E",
+          "text": "a medidas adotadas nos tribunais de imigração."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 69,
+        "w": 421,
+        "h": 155
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q77/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q77",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 78,
+      "stem": "Segundo o texto, após ingresso nos Estados Unidos, os\nmigrantes que requerem asilo",
+      "options": [
+        {
+          "key": "A",
+          "text": "têm seu processo julgado com mais rapidez."
+        },
+        {
+          "key": "B",
+          "text": "precisam comprovar sua idoneidade."
+        },
+        {
+          "key": "C",
+          "text": "aguardam na fronteira, onde sua petição é avaliada."
+        },
+        {
+          "key": "D",
+          "text": "são mais determinados a permanecer no país."
+        },
+        {
+          "key": "E",
+          "text": "têm seu pedido negado com frequência."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 226,
+        "w": 421,
+        "h": 152
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q78/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q78",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 79,
+      "stem": "Com base no texto e nos fatos que envolveram a política\nimigratória dos EUA em junho de 2018, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "O presidente Donald Trump, por pressão do Conselho de\nDireitos Humanos da Organização das Nações Unidas\n(ONU), flexibilizou a punição aos imigrantes ilegais,\npassando a tratar os casos em cortes de imigração e não\nmais por meio de indiciamento criminal."
+        },
+        {
+          "key": "B",
+          "text": "O presidente Donald Trump finalizou a construção do muro\nna fronteira México-EUA, desde a costa leste até a oeste,\ncom o objetivo de conter a nova onda imigratória de\nvenezuelanos e hondurenhos."
+        },
+        {
+          "key": "C",
+          "text": "Imigrantes mexicanos que seguiram as regras oficiais para\nimigração nos EUA obtiveram concessão de asilo político em\ncurto prazo, especialmente nas cortes da Califórnia,\ntradicional reduto conservador e base eleitoral do\npresidente Donald Trump."
+        },
+        {
+          "key": "D",
+          "text": "A construção de uma barreira física entre México e EUA visa,\nsegundo o presidente Donald Trump, consolidar um estado\nfronteiriço, no qual os imigrantes deverão permanecer\nalgum tempo antes de ingressarem em outras partes do\npaís."
+        },
+        {
+          "key": "E",
+          "text": "As barreiras construídas entre México e EUA são, além de\nfísicas, também psicológicas, como pôde ser visto no caso\nem que milhares de crianças imigrantes foram separadas de\nsuas famílias."
+        }
+      ],
+      "bbox": {
+        "x": 518,
+        "y": 384,
+        "w": 426,
+        "h": 555
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q79/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q79",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 80,
+      "stem": "(...) o \"arco do triunfo\" é um fragmento de muro que, embora\nisolado da muralha, tem a forma de uma porta da cidade. (...)\nOs primeiros exemplos documentados são estruturas do século\nII a.C., mas os principais arcos de triunfo são os do Império,\ncomo os arcos de Tito, de Sétimo Severo ou de Constantino,\ntodos no foro romano, e todos de grande beleza pela elegância\nde suas proporções.\nPEREIRA, J. R. A., Introdução à arquitetura. Das origens ao século XXI. Porto\nAlegre: Salvaterra, 2010, p. 81.\nDentre os vários aspectos da arquitetura romana, destaca-se a\nmonumentalidade de suas construções. A relação entre o \"arco\ndo triunfo\" e a História de Roma está baseada",
+      "options": [
+        {
+          "key": "A",
+          "text": "no processo de formação da urbe romana e de edificação\nde entradas defensivas contra invasões de povos\nconsiderados bárbaros."
+        },
+        {
+          "key": "B",
+          "text": "nas celebrações religiosas das divindades romanas\nvinculadas aos ritos de fertilidade e aos seus ancestrais\netruscos."
+        },
+        {
+          "key": "C",
+          "text": "nas celebrações das vitórias militares romanas que\npermitiram a expansão territorial, a consolidação territorial\ne o estabelecimento do sistema escravista."
+        },
+        {
+          "key": "D",
+          "text": "na edificação de monumentos comemorativos em memória\ndas lutas dos plebeus e do alargamento da cidadania\nromana."
+        },
+        {
+          "key": "E",
+          "text": "nos registros das perseguições ao cristianismo e da\ndestruição de suas edificações monásticas."
+        }
+      ],
+      "bbox": {
+        "x": 51,
+        "y": 68,
+        "w": 409,
+        "h": 521
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q80/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q80",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 82,
+      "stem": "Lasar Segall, Navio de Emigrantes, 1939-41, óleo com areia sobre tela.\nEsta imagem é a reprodução de",
+      "options": [
+        {
+          "key": "A",
+          "text": "uma pintura impressionista, marcada por pinceladas soltas\ne pela temática da emigração americana para o continente\neuropeu."
+        },
+        {
+          "key": "B",
+          "text": "um mosaico cubista, caracterizado pelas formas\ngeométricas que procuram salientar a esperança daqueles\nque se dirigem para terras estrangeiras."
+        },
+        {
+          "key": "C",
+          "text": "uma pintura expressionista, que reforça o sofrimento dos\nque se deslocavam em um contexto de perseguições e\nintolerâncias."
+        },
+        {
+          "key": "D",
+          "text": "um painel surrealista, que procurava destacar Ο\nsubconsciente atormentado daqueles que deixavam seus\nlocais de origem."
+        },
+        {
+          "key": "E",
+          "text": "uma pintura futurista, influenciada pelas referências de\nmodernização tecnológica características da primeira\nmetade do século XX."
+        }
+      ],
+      "bbox": {
+        "x": 513,
+        "y": 68,
+        "w": 409,
+        "h": 516
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q82/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q82",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 81,
+      "stem": "Os comentadores do texto sagrado (...) reconhecem a\nsubmissão da mulher ao homem como um dos momentos da\ndivisão hierárquica que regula as relações entre Deus, Cristo e\na humanidade, encontrando ainda a origem e o fundamento\ndivino daquela submissão na cena primária da criação de Adão\ne Eva e no seu destino antes e depois da queda.\nCASAGRANDE, C., A mulher sob custódia, in: História das Mulheres, Lisboa:\nAfrontamento, 1993, v. 2, p. 122-123.\nO excerto refere-se à apreensão de determinadas passagens\nbíblicas pela cristandade medieval, especificamente em relação\nà condição das mulheres na sociedade feudal. A esse respeito,\né correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "As mulheres originárias da nobreza podiam ingressar nos\nconventos e ministrar os sacramentos como os homens de\nmesma condição social."
+        },
+        {
+          "key": "B",
+          "text": "A culpabilização das mulheres pela expulsão do Paraíso\nTerrestre servia de justificativa para sua subordinação social\naos homens."
+        },
+        {
+          "key": "C",
+          "text": "As mulheres medievais eram impedidas do exercício das\natividades políticas, ao contrário do que acontecera no\nmundo greco-romano."
+        },
+        {
+          "key": "D",
+          "text": "As mulheres medievais eram iletradas e tinham o acesso à\ncultura e às artes proibido, devido à sua condição social e\nnatural."
+        },
+        {
+          "key": "E",
+          "text": "A submissão das mulheres medievais aos homens esteve\ndesvinculada de normatizações acerca da sexualidade."
+        }
+      ],
+      "bbox": {
+        "x": 51,
+        "y": 607,
+        "w": 409,
+        "h": 387
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q81/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q81",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 83,
+      "stem": "Sobre a revolução cultural ocorrida na China, a partir de 1966,\né correto afirmar que se tratou de",
+      "options": [
+        {
+          "key": "A",
+          "text": "movimento dirigido por intelectuais e estudantes contra o\ngoverno ditatorial de Mao Tsé-Tung."
+        },
+        {
+          "key": "B",
+          "text": "proposta encaminhada pelos camponeses em busca da\nretomada das raízes xintoístas da China imperial."
+        },
+        {
+          "key": "C",
+          "text": "reação dos intelectuais refratários ao regime comunista que\npretendia restaurar o mandarinato."
+        },
+        {
+          "key": "D",
+          "text": "expurgo de cunho anti-intelectualista que recusava as\ninfluências ocidental e soviética."
+        },
+        {
+          "key": "E",
+          "text": "um processo que culminou nas reivindicações de livre-\npensamento e na abertura da China para o mercado."
+        }
+      ],
+      "bbox": {
+        "x": 513,
+        "y": 633,
+        "w": 409,
+        "h": 309
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q83/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q83",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 84,
+      "stem": "Examine a tabela.\nPorcentagem da variação do desempenho\neconômico do Brasil",
+      "options": [],
+      "bbox": {
+        "x": 41,
+        "y": 69,
+        "w": 464,
+        "h": 43
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q84/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q84",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 84,
+      "stem": "Os dados da tabela referem-se a anos transcorridos durante a\nDitadura Militar no Brasil. O desempenho econômico nesse\nperíodo entrelaçou-se ao panorama político do país. Nesse\nsentido, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Os sinais de esgotamento do \"milagre brasileiro\",\nassociados à crise internacional do petróleo entre 1973 e\n1974, foram os responsáveis pelo recrudescimento da\npolítica repressiva dos governos militares."
+        },
+        {
+          "key": "B",
+          "text": "As eleições pluripartidárias de 1982 ocorreram em meio à\nrecessão de 1981 e 1983, no governo de João Baptista\nFigueiredo, e caracterizaram-se como um passo importante\nno processo de democratização do país."
+        },
+        {
+          "key": "C",
+          "text": "A crise internacional do petróleo de 1979 e seus efeitos na\neconomia brasileira provocaram uma queda abrupta no PIB\nnacional e o fim imediato do regime, por falta de\nsustentação política."
+        },
+        {
+          "key": "D",
+          "text": "As oscilações do PIB brasileiro, registradas na tabela,\ncorrespondem igualmente às variações das taxas de\ncrescimento e retração na indústria e na agricultura e aos\nprocessos de intensificação da repressão política e da\ncensura."
+        },
+        {
+          "key": "E",
+          "text": "A crise internacional do petróleo de 1979 não afetou a\nagricultura brasileira, mas coincidiu com as primeiras\neleições pluripartidárias desde 1966, marcadas pela\nestrondosa vitória dos partidos de oposição."
+        }
+      ],
+      "bbox": {
+        "x": 41,
+        "y": 417,
+        "w": 464,
+        "h": 373
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q84/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q84",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 85,
+      "stem": "Sob qualquer aspecto, este [a Revolução Industrial] foi\nprovavelmente o mais importante acontecimento na história do\nmundo, pelo menos desde a invenção da agricultura e das\ncidades. E foi iniciado pela Grã-Bretanha. É evidente que isto\nnão foi acidental.\nEric Hobsbawm, A Era das Revoluções. São Paulo: Paz e Terra, 2005.\n19ª edição, p. 52.\nA Revolução Industrial, ocorrida na Inglaterra nos decênios\nfinais do século XVIII,",
+      "options": [
+        {
+          "key": "A",
+          "text": "deveu-se ao pioneirismo científico e tecnológico dos\nbritânicos, aliado a uma grande oferta de mão de obra\nespecializada e a uma política estatal pacifista e voltada\npara o comércio."
+        },
+        {
+          "key": "B",
+          "text": "originou-se das profundas transformações agrárias\nexpressas pela concentração fundiária, perda da posse da\nterra pelo campesinato e formação de uma mão de obra\nassalariada."
+        },
+        {
+          "key": "C",
+          "text": "vinculou-se à derrocada da aristocracia e à ascensão da\nburguesia, orientada pela política mercantilista e\nsintetizada na filosofia de Adam Smith."
+        },
+        {
+          "key": "D",
+          "text": "resultou da supressão de leis protecionistas de inspiração\nmercantilista e do combate ao tráfico negreiro, com vistas à\nconquista de mercados externos consumidores."
+        },
+        {
+          "key": "E",
+          "text": "decorreu da ampla difusão de um ideário Ilustrado, o qual\nteria promovido aquilo que o sociólogo alemão Max Weber\ndescreve como o \"espírito do capitalismo\"."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 68,
+        "w": 458,
+        "h": 502
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q85/image.png"
+      },
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2019-q85",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 86,
+      "stem": "Produzida no contexto da implantação da ordem republicana\nno Brasil, esta imagem",
+      "options": [
+        {
+          "key": "A",
+          "text": "caracteriza representação cívica inspirada na Revolução\nFrancesa, adequada ao projeto democrático estabelecido\npelos republicanos brasileiros."
+        },
+        {
+          "key": "B",
+          "text": "faz uso alegórico de um tema clássico para expressar o\nrepúdio à exclusão da participação feminina nas instituições\npolíticas do Império."
+        },
+        {
+          "key": "C",
+          "text": "é uma alegoria da liberdade, da pátria e da nação, que\ncontrasta com os limites da cidadania na nova ordem\nbrasileira."
+        },
+        {
+          "key": "D",
+          "text": "emprega símbolo católico como estratégia para obter a\nadesão da Igreja e diminuir a animosidade dos movimentos\nmessiânicos."
+        },
+        {
+          "key": "E",
+          "text": "é expressão artística do projeto positivista de divulgar uma\nconcepção da sociedade brasileira sintonizada com os ideais\nde eugenia."
+        }
+      ],
+      "bbox": {
+        "x": 517,
+        "y": 659,
+        "w": 458,
+        "h": 253
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q86/image.png"
+      },
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2019-q86",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 87,
+      "stem": "É difícil acreditar que a Revolução Francesa teria sido muito\ndiferente, mesmo que a Revolução Americana nunca tivesse\nacontecido. É fácil mostrar que os americanos não tentaram\numa semelhante ruptura substancial com o passado, como\nfizeram os franceses. No entanto, (...) as duas revoluções foram\nmuito parecidas.\nRobert R. Palmer, The Age of The Democratic Revolution: The Challenge,\nPrinceton, Princeton University Presse, vol I, 1959, p.267.\nCom base no texto e em seus conhecimentos acerca da\nRevolução Francesa e do revolucionário processo de\nindependência dos Estados Unidos, assinale a afirmação\ncorreta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A revolução norte-americana repercutiu pouco nos\nmovimentos liberais da Europa e, mesmo na França da\népoca da Ilustração, seu impacto foi mais de ordem\neconômica do que política."
+        },
+        {
+          "key": "B",
+          "text": "O processo de independência dos Estados Unidos foi\nmarcado pela ausência de divisões internas entre os colonos\ne pela exclusão das camadas populares da sociedade no\nprocesso político."
+        },
+        {
+          "key": "C",
+          "text": "O processo de independência dos Estados Unidos foi\nconsumado pela redação de uma Constituição, cuja\nelaboração ficou a cargo de notáveis, que representavam os\ninteresses das classes proprietárias."
+        },
+        {
+          "key": "D",
+          "text": "A guerra da independência norte-americana caracterizou-\nse pela ausência de radicalismo político e social, o que se\ndeveu à menor penetração dos ideais Ilustrados nos últimos\nanos do período colonial."
+        },
+        {
+          "key": "E",
+          "text": "A revolução norte-americana repercutiu não só na\nIlustração europeia e na Revolução Francesa, como\ndemonstrou de modo teórico e prático a viabilidade de um\ngrande Estado republicano e democrático."
+        }
+      ],
+      "bbox": {
+        "x": 62,
+        "y": 55,
+        "w": 431,
+        "h": 529
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q87/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q87",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 88,
+      "stem": "Em junho de 1995, a seleção de rugby da África do Sul\nconquistou a Copa do Mundo dessa modalidade esportiva ao\nvencer a equipe da Nova Zelândia por 15 a 12, na cidade de\nJohannesburgo. O capitão sul-africano, François Pienaar,\nrecebeu a taça destinada à seleção campeã das mãos de Nelson\nMandela.\nEsse acontecimento esportivo",
+      "options": [
+        {
+          "key": "A",
+          "text": "é um dos marcos do fim do Apartheid, devido à constituição\nde uma primeira seleção multirracial representando a África\ndo Sul."
+        },
+        {
+          "key": "B",
+          "text": "tornou-se uma das justificativas para o veto à participação\nda África do Sul em eventos esportivos devido à proibição\nda presença de atletas brancos."
+        },
+        {
+          "key": "C",
+          "text": "permitiu a vitória eleitoral de Mandela, apoiado\nmassivamente pelos bôeres insuflados pelo nacionalismo\nsul-africano."
+        },
+        {
+          "key": "D",
+          "text": "desencadeou uma série de conflitos raciais entre negros e\nbrancos devido às rivalidades entre os atletas da seleção\nsul-africana."
+        },
+        {
+          "key": "E",
+          "text": "foi realizado graças a um esforço conjunto de Nelson\nMandela e de Frederik de Klerk, agraciados, por isso, com o\nprêmio Nobel da Paz."
+        }
+      ],
+      "bbox": {
+        "x": 62,
+        "y": 588,
+        "w": 429,
+        "h": 358
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q88/image.png"
+      },
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2019-q88",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 89,
+      "stem": "Observe as imagens das duas charges de Angelo Agostini\npublicadas no periódico Vida Fluminense. Ambas oferecem\nrepresentações sobre a Guerra do Paraguai, que causaram\nforte impacto na opinião pública. A imagem I retrata Solano\nLópez como o \"Nero do século XIX\"; a imagem II figura um\nsoldado brasileiro que retorna dos campos de batalha.",
+      "options": [],
+      "bbox": {
+        "x": 533,
+        "y": 55,
+        "w": 434,
+        "h": 451
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q89/image.png"
+      },
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2019-q89",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    },
+    {
+      "number": 90,
+      "stem": "A história do século XIX foi marcada pela tensão entre tradições\npolíticas e intelectuais que apelava, ora para a força do\nnacionalismo, ora para o vigor das ideias internacionalistas.\nIndique a alternativa que traduz uma destas tradições.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A formulação de alianças militares, a união de forças\nmonárquicas e abolição das fronteiras políticas\ncontribuíram para minar o poder dos Estados-Nacionais."
+        },
+        {
+          "key": "B",
+          "text": "O 1º de Maio e os rituais trabalhistas manifestavam a\nascensão de partidos e de movimentos de massa, expressão\ndo nacionalismo da classe trabalhadora."
+        },
+        {
+          "key": "C",
+          "text": "As guerras de caráter religioso que eclodiram na Europa\ndemonstram um enfraquecimento do poder universal da\nIgreja Católica e a ascensão de tradições religiosas nacionais."
+        },
+        {
+          "key": "D",
+          "text": "O apelo ao direito de autodeterminação dos povos\nquestionou o poder das casas dinásticas e contribuiu para a\nposterior fragmentação dos grandes impérios europeus."
+        },
+        {
+          "key": "E",
+          "text": "O culto do progresso e da liberdade despertou os ideais\nrepublicanos e democráticos que contribuíram para o\nestabelecimento de federações supranacionais."
+        }
+      ],
+      "bbox": {
+        "x": 533,
+        "y": 783,
+        "w": 436,
+        "h": 383
+      },
+      "page": 1,
+      "assets": {
+        "questionImage": "/assets/questions/2019/q90/image.png"
+      },
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2019-q90",
+      "year": 2019,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      }
+    }
+  ]
+}

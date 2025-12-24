@@ -1,0 +1,50 @@
+{
+  "project": "Sanfran 2027 - Sistema de Questões Escalonável",
+  "engineer_note": "A arquitetura foi desenhada para desacoplar o processamento pesado da execução em produção, garantindo performance e custo fixo próximo de zero.",
+  "architecture_principles": {
+    "separation_of_concerns": "Divisão clara entre Extração (ingest.py), Enriquecimento (enrich.py) e Apresentação (Questoes.jsx).",
+    "idempotency": "Uso extensivo de cache baseado em hashing (SHA-256) para evitar reprocessamento e gastos desnecessários de API.",
+    "static_first": "O frontend consome exclusivamente JSONs e PNGs estáticos, eliminando a necessidade de um backend complexo e banco de dados real no MVP."
+  },
+  "pipeline_step_by_step": [
+    {
+      "step": 1,
+      "name": "Ingestão Multimodal (Multimodal Ingestion)",
+      "technical_details": {
+        "engine": "Python + PyMuPDF + Gemini 2.0 Vision",
+        "process": "Converte páginas de PDF para PNG a 200 DPI. Cada imagem é processada pela IA para detecção de blocos de texto e figuras (Bounding Boxes).",
+        "scaling_strategy": "Adicione novos PDFs em /provas seguindo o padrão pXX.pdf e rode 'python ingest.py --year 20XX'. O sistema detectará automaticamente se a página já foi processada via cache local."
+      }
+    },
+    {
+      "step": 2,
+      "name": "Recorte Inteligente de Assets",
+      "technical_details": {
+        "engine": "Python + Pillow",
+        "process": "Utiliza as coordenadas x,y,w,h retornadas pela IA para recortar a área exata da questão na imagem da página original.",
+        "storage": "Salva em public/assets/questions/YYYY/qNN/image.png. Isso preserva fórmulas complexas e gráficos que seriam perdidos em uma extração apenas de texto."
+      }
+    },
+    {
+      "step": 3,
+      "name": "Enriquecimento via Agente Pedagógico",
+      "technical_details": {
+        "engine": "Python + Gemini 2.0 Flash (Text-only)",
+        "process": "Transforma o JSON bruto em um objeto pedagógico com: teoria do assunto, resolução passo a passo e análise técnica de por que cada distrator (alternativas incorretas) está errado.",
+        "scaling_note": "Este passo é o mais intensivo em tokens. O uso de 'application/json' mime-type garante que a saída da IA seja perfeitamente parseável sem erros de sintaxe."
+      }
+    }
+  ],
+  "frontend_mechanics": {
+    "data_loading": "Usa Fetch API para carregar o arquivo JSON do ano selecionado. Filtra questões 'Pendente' para garantir que o usuário só veja conteúdo enriquecido.",
+    "persistence": "Implementa o hook useLocalStorage para salvar XP, Streaks e o SRS (Spaced Repetition System) simples via array de 'wrongQuestions'.",
+    "ui_philosophy": "Layout em colunas adaptativo. O lado esquerdo foca na questão e o direito na explicação pós-submit, minimizando a carga cognitiva."
+  },
+  "how_to_scale_adding_new_questions": {
+    "instruction_01": "Coloque a Prova (p26.pdf) e o Gabarito (g26.pdf) na pasta '/provas'.",
+    "instruction_02": "Abra o terminal na pasta 'tools/questions'.",
+    "instruction_03": "Rode: '.venv\\Scripts\\python ingest.py --year 2026'. Isso gera o JSON base e as imagens.",
+    "instruction_04": "Rode: '.venv\\Scripts\\python enrich.py --year 2026'. Isso gera as explicações via IA.",
+    "instruction_05": "O novo ano aparecerá automaticamente no seletor do site (adicione a opção no <select> de Questoes.jsx)."
+  }
+}

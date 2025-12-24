@@ -5,6 +5,7 @@ import { Dashboard } from './components/Dashboard';
 import { ContentSyllabus } from './components/ContentSyllabus';
 import { Readings } from './components/Readings';
 import { Simulados } from './components/Simulados';
+import { Questoes } from './components/Questoes';
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -19,6 +20,7 @@ function App() {
         {activeTab === 'conteudo' && <ContentSyllabus />}
         {activeTab === 'leituras' && <Readings />}
         {activeTab === 'simulados' && <Simulados />}
+        {activeTab === 'questoes' && <Questoes />}
       </main>
     </div>
   );

@@ -1,5 +1,5 @@
 import React from 'react';
-import { LayoutDashboard, BookOpen, Library, GraduationCap } from 'lucide-react';
+import { LayoutDashboard, BookOpen, Library, GraduationCap, FileQuestion } from 'lucide-react';
 
 export function Sidebar({ activeTab, setActiveTab }) {
   const menuItems = [
@@ -7,6 +7,7 @@ export function Sidebar({ activeTab, setActiveTab }) {
     { id: 'conteudo', label: 'Conteúdo', icon: BookOpen },
     { id: 'leituras', label: 'Leituras', icon: Library },
     { id: 'simulados', label: 'Simulados', icon: GraduationCap },
+    { id: 'questoes', label: 'Questões', icon: FileQuestion },
   ];
 
   return (

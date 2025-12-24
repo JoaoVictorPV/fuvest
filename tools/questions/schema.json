@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Schema para Dataset de Questões da Fuvest",
+  "description": "Define a estrutura de um arquivo JSON que contém as questões de um ano específico da Fuvest.",
+  "type": "object",
+  "properties": {
+    "year": {
+      "description": "O ano da prova.",
+      "type": "integer"
+    },
+    "source": {
+      "description": "Metadados sobre a origem dos dados.",
+      "type": "object",
+      "properties": {
+        "provaPdf": { "type": "string" },
+        "gabaritoPdf": { "type": "string" }
+      },
+      "required": ["provaPdf", "gabaritoPdf"]
+    },
+    "generatedAt": {
+      "description": "Timestamp de quando o arquivo foi gerado.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "questions": {
+      "description": "A lista de questões extraídas e enriquecidas.",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/question"
+      }
+    }
+  },
+  "required": ["year", "source", "generatedAt", "questions"],
+  "definitions": {
+    "question": {
+      "description": "Representa uma única questão da prova.",
+      "type": "object",
+      "properties": {
+        "id": {
+          "description": "ID único e estável da questão (ex: fuvest-2019-q12).",
+          "type": "string",
+          "pattern": "^fuvest-\\\\d{4}-q\\\\d+$"
+        },
+        "year": { "type": "integer" },
+        "number": { "type": "integer" },
+        "stem": {
+          "description": "O enunciado da questão.",
+          "type": "string"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "key": { "enum": ["A", "B", "C", "D", "E"] },
+              "text": { "type": "string" }
+            },
+            "required": ["key", "text"]
+          },
+          "minItems": 5,
+          "maxItems": 5
+        },
+        "answer": {
+          "type": "object",
+          "properties": {
+            "correct": { "enum": ["A", "B", "C", "D", "E"] }
+          },
+          "required": ["correct"]
+        },
+        "assets": {
+          "type": "object",
+          "properties": {
+            "questionImage": { "type": ["string", "null"] }
+          }
+        },
+        "explanation": {
+          "type": "object",
+          "properties": {
+            "theory": { "type": "string" },
+            "steps": { "type": "array", "items": { "type": "string" } },
+            "distractors": {
+              "type": "object",
+              "properties": {
+                "A": { "type": "string" },
+                "B": { "type": "string" },
+                "C": { "type": "string" },
+                "D": { "type": "string" },
+                "E": { "type": "string" }
+              }
+            },
+            "finalSummary": { "type": "string" }
+          },
+          "required": ["theory", "steps", "distractors", "finalSummary"]
+        },
+        "tags": {
+          "type": "object",
+          "properties": {
+            "subjects": { "type": "array", "items": { "type": "string" } },
+            "topics": { "type": "array", "items": { "type": "string" } }
+          }
+        }
+      },
+      "required": ["id", "year", "number", "stem", "options", "answer", "explanation"]
+    }
+  }
+}
