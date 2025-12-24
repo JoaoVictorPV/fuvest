@@ -93,6 +93,37 @@ export function Questoes() {
     });
   };
 
+  const handleSkipToAnswer = () => {
+    if (isSubmitted) return;
+
+    setIsSubmitted(true);
+    const currentQ = questions[currentIndex];
+
+    // Atualiza Stats (conta como tentativa errada/"pulo")
+    const today = new Date().toISOString().split('T')[0];
+    let newStreak = stats.streak;
+
+    if (stats.lastDate !== today) {
+      if (stats.lastDate === new Date(Date.now() - 86400000).toISOString().split('T')[0]) {
+        newStreak += 1;
+      } else {
+        newStreak = 1;
+      }
+    }
+
+    const updatedWrongQuestions = [...new Set([...stats.wrongQuestions, currentQ.id])];
+
+    setStats({
+      ...stats,
+      xp: stats.xp + 1,
+      streak: newStreak,
+      lastDate: today,
+      totalAnswered: stats.totalAnswered + 1,
+      correctCount: stats.correctCount,
+      wrongQuestions: updatedWrongQuestions
+    });
+  };
+
   const nextQuestion = () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(currentIndex + 1);
@@ -238,15 +269,25 @@ export function Questoes() {
               </div>
 
               {/* Botão de Ação */}
-              <div className="mt-12 flex justify-end">
+              <div className="mt-12 flex flex-col md:flex-row md:items-center gap-3 justify-end">
                 {!isSubmitted ? (
-                  <button
-                    onClick={handleSubmit}
-                    disabled={!selectedOption}
-                    className="w-full md:w-auto bg-slate-900 text-white px-12 py-4 rounded-2xl font-black text-lg hover:bg-black disabled:opacity-30 disabled:cursor-not-allowed transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-1 active:translate-y-0"
-                  >
-                    Confirmar Resposta
-                  </button>
+                  <>
+                    <button
+                      onClick={handleSkipToAnswer}
+                      className="w-full md:w-auto bg-slate-100 text-slate-900 px-8 py-4 rounded-2xl font-black text-lg hover:bg-slate-200 transition-all duration-300 border border-slate-200"
+                      title="Pula a questão e mostra a resposta/explicação"
+                    >
+                      Ir para Resposta
+                    </button>
+
+                    <button
+                      onClick={handleSubmit}
+                      disabled={!selectedOption}
+                      className="w-full md:w-auto bg-slate-900 text-white px-12 py-4 rounded-2xl font-black text-lg hover:bg-black disabled:opacity-30 disabled:cursor-not-allowed transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-1 active:translate-y-0"
+                    >
+                      Confirmar Resposta
+                    </button>
+                  </>
                 ) : (
                   <button
                     onClick={nextQuestion}
