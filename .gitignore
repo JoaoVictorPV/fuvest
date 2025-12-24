@@ -101,6 +101,11 @@ dist
 # FuseBox cache
 .fusebox/
 
+# Questões pipeline (local cache/out)
+tools/questions/cache/
+tools/questions/out/
+tools/questions/.venv/
+
 # DynamoDB Local files
 .dynamodb/
 
