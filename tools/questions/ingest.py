@@ -45,18 +45,157 @@ def get_gemini_vision_model():
 
     genai.configure(api_key=GEMINI_API_KEY)
 
-    MODEL_ID = None
-    for m in genai.list_models():
-        if 'generateContent' in m.supported_generation_methods and "gemini-2.0-flash-exp-image-generation" in m.name:
-            MODEL_ID = m.name
+    # IMPORTANTE:
+    # Para extração/visão (OCR + bboxes) queremos um modelo multimodal forte.
+    # Evitamos modelos de image-generation.
+    preferred = [
+        "gemini-2.5-flash",
+        "gemini-2.0-flash",
+        "gemini-1.5-flash",
+    ]
+
+    models = [m for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+    model_id = None
+    for pref in preferred:
+        for m in models:
+            name = (m.name or "")
+            if pref in name and "image-generation" not in name and "lite" not in name:
+                model_id = name
+                break
+        if model_id:
             break
 
-    if not MODEL_ID:
-        raise RuntimeError("Modelo Gemini compatível não encontrado.")
+    if not model_id:
+        raise RuntimeError("Modelo Gemini (vision) compatível não encontrado.")
 
-    print(f"[OK] Usando modelo: {MODEL_ID}")
-    gemini_vision_model = genai.GenerativeModel(MODEL_ID)
+    print(f"[OK] Usando modelo (vision): {model_id}")
+    gemini_vision_model = genai.GenerativeModel(model_id)
     return gemini_vision_model
+
+
+def _is_garbled_text(text: str) -> bool:
+    """Heurística para detectar texto 'corrompido' vindo de PDFs com camada ruim."""
+    t = (text or "").strip()
+    if not t:
+        return True
+
+    # muitos caracteres estranhos e baixa proporção de letras
+    letters = sum(ch.isalpha() for ch in t)
+    ratio = letters / max(1, len(t))
+    weird = sum(ch in "'&$%{}[]\\" for ch in t)
+
+    if (len(t) > 40 and ratio < 0.25) or weird > 10:
+        return True
+
+    return False
+
+
+def _normalize_spaces(s: str) -> str:
+    s = (s or "").replace("\u00a0", " ")
+    s = re.sub(r"\s+", " ", s)
+    return s.strip()
+
+
+def extract_questions_from_page_image(image_path: str, year: int):
+    """Extração multimodal (bboxes + stem + opções) por página.
+
+    Usado como fallback (ou modo principal) quando o PDF é escaneado ou a camada de texto
+    está corrompida (ex: 2021).
+
+    Cache: tools/questions/cache/<ano>/vision_pages/<sha256>.json
+    """
+    with open(image_path, "rb") as f:
+        img_bytes = f.read()
+    cache_key = hashlib.sha256(img_bytes).hexdigest()
+    cache_dir = os.path.join(CACHE_DIR, str(year), "vision_pages")
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_file = os.path.join(cache_dir, f"{cache_key}.json")
+
+    if os.path.exists(cache_file):
+        with open(cache_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+
+    model = get_gemini_vision_model()
+    image = Image.open(image_path)
+
+    prompt = """Você vai ler uma página de prova da Fuvest (múltipla escolha) e extrair as questões.
+
+Regras obrigatórias:
+1) A página pode ter duas colunas. Respeite a ordem: coluna esquerda de cima para baixo, depois coluna direita.
+2) Ignore cabeçalho, rodapés, paginação, logos e textos fora das questões.
+3) Para CADA questão, retorne:
+   - number (1..90)
+   - bbox em PIXELS: x,y,w,h (recorte deve conter enunciado + alternativas + figuras da questão)
+   - stem (enunciado) em texto (pode incluir quebras de linha)
+   - options: A..E com text. Se uma alternativa for só imagem/símbolo, escreva "(Veja a imagem da questão)".
+4) Retorne SOMENTE JSON estrito e válido.
+
+Schema:
+{
+  "page": number,
+  "questions": [
+    {
+      "number": number,
+      "stem": string,
+      "options": [{"key":"A","text":string}, {"key":"B","text":string}, {"key":"C","text":string}, {"key":"D","text":string}, {"key":"E","text":string}],
+      "bbox": {"x": number, "y": number, "w": number, "h": number}
+    }
+  ]
+}
+"""
+
+    resp = model.generate_content(
+        [prompt, image],
+        generation_config={"response_mime_type": "application/json"},
+    )
+
+    # Alguns modelos podem bloquear a resposta por motivo de copyright.
+    # Nesses casos, retornamos vazio e seguimos com pipeline determinístico.
+    try:
+        data = json.loads(resp.text)
+    except Exception as e:
+        print(f"\n[WARN] Vision extraction falhou (provável bloqueio/sem resposta): {e}", flush=True)
+        return {"page": None, "questions": []}
+
+    # normalização leve
+    qs = data.get("questions") or []
+    for q in qs:
+        q["stem"] = _normalize_spaces(q.get("stem", ""))
+        opts = q.get("options") or []
+        for o in opts:
+            o["text"] = _normalize_spaces(o.get("text", ""))
+
+    with open(cache_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    return data
+
+
+def _auto_trim_whitespace(img: Image.Image, pad: int = 10):
+    """Recorta automaticamente bordas quase-brancas para melhorar enquadramento.
+
+    - Converte para escala de cinza
+    - Considera como 'conteúdo' pixels mais escuros que um limiar
+    - Faz bounding box do conteúdo e aplica padding
+    """
+    try:
+        gray = img.convert("L")
+        # binariza: conteúdo = pixels escuros
+        bw = gray.point(lambda p: 255 if p < 245 else 0)
+        bbox = bw.getbbox()
+        if not bbox:
+            return img
+
+        x0, y0, x1, y1 = bbox
+        x0 = max(0, x0 - pad)
+        y0 = max(0, y0 - pad)
+        x1 = min(img.width, x1 + pad)
+        y1 = min(img.height, y1 + pad)
+        if x1 <= x0 or y1 <= y0:
+            return img
+        return img.crop((x0, y0, x1, y1))
+    except Exception:
+        return img
 
 
 def get_gemini_text_model():
@@ -405,7 +544,11 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
         stem = " ".join([t for (_, t) in lines]).strip()
         if len(stem) < 20:
             return None, None
-        options = [{"key": k, "text": ""} for k in ["A", "B", "C", "D", "E"]]
+
+        # Mesmo quando não conseguimos segmentar as alternativas em texto,
+        # mantemos placeholders para o aluno usar o recorte (PNG).
+        options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+        stem = re.sub(r"\s+", " ", stem.replace("\u00a0", " ")).strip()
         return stem, options
 
     # stem = tudo antes da primeira alternativa
@@ -576,6 +719,9 @@ def crop_assets(questions, year, page_image_paths, bbox_index=None, padding=15):
                 h = min(img_h - y, bbox['h'] + (padding * 2))
                 
                 cropped_img = img.crop((x, y, x + w, y + h))
+                # aperta bordas brancas (melhora muito o enquadramento quando o bbox
+                # determinístico pega coluna inteira)
+                cropped_img = _auto_trim_whitespace(cropped_img, pad=12)
                 
                 asset_dir = os.path.join(ASSETS_DIR, str(year), f"q{q_num:02d}")
                 os.makedirs(asset_dir, exist_ok=True)
@@ -705,21 +851,36 @@ def main():
     if not page_images: sys.exit(1)
 
     # BBoxes determinísticos via PDF (pixels), para corrigir recortes trocados/cortados.
-    # Se não acharmos bbox para alguma questão, caímos no bbox da IA (quando existir).
+    # Se o PDF tiver camada de texto corrompida (ex: 2021), faremos fallback multimodal.
     print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
     rect_index = build_question_rect_index(pdf_path, dpi=200)
 
-    # Extração de texto determinística (sem IA) usando clip do PDF.
+    # Extração primária: determinística (sem IA) usando clip do PDF.
+    # IMPORTANTE (robustez/definitivo):
+    # - Para provas (pYY.pdf), NÃO tentamos OCR via Gemini por risco de bloqueio/copyright.
+    # - Quando o texto do PDF estiver corrompido (ex: Fuvest 2021), substituímos por
+    #   placeholders e garantimos que o aluno consiga resolver pela IMAGEM recortada.
     doc = fitz.open(pdf_path)
     all_questions = []
+    garbled_count = 0
+
     for qnum in sorted(rect_index.keys()):
         info = rect_index[qnum]
         stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
         if stem is None or options is None:
-            # Não abandona: mantém 100% das questões no JSON.
-            # O aluno pode ler pelo recorte (PNG) e responder.
             stem = "(Veja a imagem da questão)"
             options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+
+        # sanitização forte: se o texto estiver corrompido, não exibimos no frontend.
+        if _is_garbled_text(stem):
+            garbled_count += 1
+            stem = "(Veja a imagem da questão)"
+            options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+
+        # garante que nunca existam alternativas vazias
+        for opt in options:
+            if not (opt.get("text") or "").strip():
+                opt["text"] = "(Veja a imagem da questão)"
 
         all_questions.append({
             "number": qnum,
@@ -728,13 +889,31 @@ def main():
             "stem": stem,
             "options": options,
         })
+
     doc.close()
 
+    print(f"\n[CHECK] Garbled stems: {garbled_count}/90. (não usamos vision/OCR de prova)", flush=True)
+
+    # Recorte sempre determinístico (com auto-trim pós-recorte).
     questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
     
     gabarito_path = os.path.join(PROVAS_DIR, f"g{str(args.year)[-2:]}.pdf")
     gabarito = extract_gabarito(gabarito_path) if os.path.exists(gabarito_path) else {}
     
+    # Se já existe dataset anterior, preserva campos enriquecidos (explanation/tags) quando existirem.
+    prev_by_id = {}
+    prev_path = os.path.join(DATA_DIR, f"fuvest-{args.year}.json")
+    if os.path.exists(prev_path):
+        try:
+            with open(prev_path, "r", encoding="utf-8") as f:
+                prev = json.load(f)
+            for pq in prev.get("questions", []) or []:
+                pid = pq.get("id")
+                if pid:
+                    prev_by_id[pid] = pq
+        except Exception:
+            prev_by_id = {}
+
     final_questions = []
     for q in questions_with_assets:
         num = q.get('number')
@@ -754,6 +933,15 @@ def main():
             "distractors": {"A": "", "B": "", "C": "", "D": "", "E": ""},
             "finalSummary": ""
         }
+
+        # preserva enrich anterior se existir
+        prev_q = prev_by_id.get(q['id'])
+        if prev_q:
+            prev_exp = (prev_q.get('explanation') or {})
+            if (prev_exp.get('theory') or "").strip() and prev_exp.get('theory') != 'Pendente':
+                q['explanation'] = prev_exp
+            if prev_q.get('tags'):
+                q['tags'] = prev_q.get('tags')
         q['assets'] = {"questionImage": q.pop('asset_path', None)}
         final_questions.append(q)
         

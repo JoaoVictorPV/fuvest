@@ -9,11 +9,12 @@
   "pipeline_step_by_step": [
     {
       "step": 1,
-      "name": "Ingestão Multimodal (Multimodal Ingestion)",
+      "name": "Ingestão Determinística (Fonte de Verdade = PDF + Recorte)",
       "technical_details": {
-        "engine": "Python + PyMuPDF + Gemini 2.0 Vision",
-        "process": "Converte páginas de PDF para PNG a 200 DPI. Cada imagem é processada pela IA para detecção de blocos de texto e figuras (Bounding Boxes).",
-        "scaling_strategy": "Adicione novos PDFs em /provas seguindo o padrão pXX.pdf e rode 'python ingest.py --year 20XX'. O sistema detectará automaticamente se a página já foi processada via cache local."
+        "engine": "Python + PyMuPDF + Pillow",
+        "process": "1) Renderiza as páginas do PDF (200 DPI) para PNG. 2) Detecta o início das questões de forma determinística via camada de texto do PDF (PyMuPDF words). 3) Gera bboxes e recorta cada questão em PNG. 4) Extrai texto (stem/opções) apenas quando a camada do PDF é confiável; caso contrário, usa placeholders e o aluno lê pela imagem.",
+        "robustness_note": "Evita OCR/IA em páginas de prova para não depender de APIs e para evitar bloqueios (ex: copyright). A IA fica reservada apenas para OCR do gabarito quando o gXX.pdf for escaneado.",
+        "scaling_strategy": "Adicione novos PDFs em /provas seguindo o padrão pYY.pdf/gYY.pdf e rode 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year YYYY'."
       }
     },
     {
@@ -21,7 +22,7 @@
       "name": "Recorte Inteligente de Assets",
       "technical_details": {
         "engine": "Python + Pillow",
-        "process": "Utiliza as coordenadas x,y,w,h retornadas pela IA para recortar a área exata da questão na imagem da página original.",
+        "process": "Usa bboxes determinísticos (coluna inteira entre inícios de questão) e aplica um pós-processamento de auto-trim (remoção de bordas brancas) para melhorar o enquadramento e evitar cortes inadequados.",
         "storage": "Salva em public/assets/questions/YYYY/qNN/image.png. Isso preserva fórmulas complexas e gráficos que seriam perdidos em uma extração apenas de texto."
       }
     },
@@ -36,15 +37,17 @@
     }
   ],
   "frontend_mechanics": {
-    "data_loading": "Usa Fetch API para carregar o arquivo JSON do ano selecionado. Filtra questões 'Pendente' para garantir que o usuário só veja conteúdo enriquecido.",
+    "data_loading": "Usa Fetch API para carregar o arquivo JSON do ano selecionado. O frontend deve tolerar questões com texto placeholder e permitir que o usuário responda olhando o recorte PNG.",
     "persistence": "Implementa o hook useLocalStorage para salvar XP, Streaks e o SRS (Spaced Repetition System) simples via array de 'wrongQuestions'.",
     "ui_philosophy": "Layout em colunas adaptativo. O lado esquerdo foca na questão e o direito na explicação pós-submit, minimizando a carga cognitiva."
   },
   "how_to_scale_adding_new_questions": {
     "instruction_01": "Coloque a Prova (p26.pdf) e o Gabarito (g26.pdf) na pasta '/provas'.",
     "instruction_02": "Abra o terminal na pasta 'tools/questions'.",
-    "instruction_03": "Rode: '.venv\\Scripts\\python ingest.py --year 2026'. Isso gera o JSON base e as imagens.",
+    "instruction_03": "Rode: 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026'. Isso gera o JSON base e as imagens.",
     "instruction_04": "Rode: '.venv\\Scripts\\python enrich.py --year 2026'. Isso gera as explicações via IA.",
-    "instruction_05": "O novo ano aparecerá automaticamente no seletor do site (adicione a opção no <select> de Questoes.jsx)."
+    "instruction_05": "O novo ano aparecerá automaticamente no seletor do site (adicione a opção no <select> de Questoes.jsx).",
+    "instruction_06": "Se o texto do enunciado sair corrompido (ex: Fuvest 2021), isso é esperado: o dataset vai manter placeholders e a questão deve ser resolvida pela imagem. O importante é a imagem estar bem recortada e o gabarito estar correto.",
+    "instruction_07": "Se você alterar apenas a lógica de recorte, use '--recrop-only' para regerar as imagens sem recomputar todo o dataset: 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026 --recrop-only'."
   }
 }

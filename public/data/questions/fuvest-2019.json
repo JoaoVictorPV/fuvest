@@ -4,7 +4,7 @@
     "provaPdf": "p19.pdf",
     "gabaritoPdf": "g19.pdf"
   },
-  "generatedAt": "2025-12-24T08:35:06.401133",
+  "generatedAt": "2025-12-25T10:10:47.771229",
   "questions": [
     {
       "number": 1,
@@ -598,23 +598,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -2072,23 +2072,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -2130,23 +2130,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -2361,21 +2361,21 @@
         "x": 0,
         "y": 106,
         "w": 848,
-        "h": 2232
+        "h": 242
       },
-      "stem": "O gráfico a seguir indica a temperatura de ebulição de bromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia carbônica. 9 F 18,998 17 Cl 35,453 35 Br 79,904 53 I 126,904 Considerando as propriedades periódicas dos halogênios, a alternativa que descreve adequadamente o comportamento expresso no gráfico de temperaturas de ebulição versus tamanho de cadeia carbônica para CnH2n+1F ( ) e CnH2n+1I (•) é:",
+      "stem": "O gráfico a seguir indica a temperatura de ebulição de bromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia carbônica. 9",
       "options": [
         {
           "key": "A",
-          "text": "(D)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "(E)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Note e adote: P.E. = ponto de ebulição V"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
@@ -2724,23 +2724,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -3090,23 +3090,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -3265,23 +3265,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
@@ -3318,7 +3318,7 @@
         "x": 804,
         "y": 106,
         "w": 849,
-        "h": 1269
+        "h": 914
       },
       "stem": "Examine o cartum. ITURRUSGARAI, Adão. A vida como ela yeah. Folha de S. Paulo, ago.2018. O efeito de humor que se obtém no cartum decorre, principalmente,",
       "options": [
@@ -3340,7 +3340,7 @@
         },
         {
           "key": "E",
-          "text": "do emprego de linguagem popular. TEXTO PARA AS QUESTÕES 58 E 59 Mito, na acepção aqui empregada, não significa mentira, falsidade ou mistificação. Tomo de empréstimo a formulação de Hans Blumenberg do mito político como um processo contínuo de trabalho de uma narrativa que responde a uma necessidade prática de uma sociedade em determinado 5 período. Narrativa simbólica que é, o mito político coloca em suspenso o problema da verdade. Seu discurso não pretende ter validade factual, mas também não pode ser percebido como mentira (do contrário, não seria mito). O mito político confere um sentido às circunstâncias que envolvem os indivíduos: ao 10 fazê‐los ver sua condição presente como parte de uma história em curso, ajuda a compreender e suportar o mundo em que vivem. ENGELKE, Antonio. O anjo redentor. Piauí, ago. 2018, ed. 143, p. 24. 58"
+          "text": "do emprego de linguagem popular. TEXTO PARA AS QUESTÕES 58 E 59 Mito, na acepção aqui empregada, não significa mentira, falsidade ou mistificação. Tomo de empréstimo a formulação de Hans Blumenberg do mito político como um processo contínuo de trabalho de uma narrativa que responde a uma necessidade prática de uma sociedade em determinado 5"
         }
       ],
       "answer": {
@@ -3498,23 +3498,23 @@
       "options": [
         {
           "key": "A",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "(Veja a imagem da questão)"
         }
       ],
       "answer": {
