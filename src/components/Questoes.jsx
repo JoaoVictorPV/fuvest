@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { useLocalStorage } from '../hooks/useLocalStorage';
-import { CheckCircle2, ChevronRight, RotateCcw, HelpCircle, Trophy, X, ChevronLeft } from 'lucide-react';
+import { CheckCircle2, ChevronRight, RotateCcw, HelpCircle, Trophy, X, ChevronLeft, FileText } from 'lucide-react';
 
 function ImageModal({ src, title, onClose }) {
   if (!src) return null;
@@ -30,6 +30,74 @@ function ImageModal({ src, title, onClose }) {
   );
 }
 
+function PageModal({ year, page, onClose }) {
+  const [currentPage, setCurrentPage] = useState(page);
+  const [imgSrc, setImgSrc] = useState(null);
+
+  useEffect(() => {
+    // Garante formato 2 dígitos: "05", "12"
+    const pStr = String(currentPage).padStart(2, '0');
+    setImgSrc(`/assets/pages/${year}/page_${pStr}.png`);
+  }, [year, currentPage]);
+
+  if (!year || !page) return null;
+
+  const handlePrev = () => setCurrentPage(p => Math.max(1, p - 1));
+  const handleNext = () => setCurrentPage(p => p + 1); // sem limite hard, se falhar o img mostra erro/vazio
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-in fade-in duration-200">
+      <div className="relative w-full h-full max-w-5xl max-h-[95vh] bg-white rounded-2xl shadow-2xl overflow-hidden flex flex-col">
+        {/* Header */}
+        <div className="flex items-center justify-between px-4 py-3 border-b border-slate-100 bg-slate-50 shrink-0">
+          <div className="flex items-center gap-4">
+            <p className="text-sm font-bold text-slate-700">
+              Prova {year} - Página {currentPage}
+            </p>
+            <div className="flex gap-2">
+              <button 
+                onClick={handlePrev} 
+                disabled={currentPage <= 1}
+                className="p-1.5 rounded-lg border bg-white hover:bg-slate-50 disabled:opacity-50"
+                title="Página Anterior"
+              >
+                <ChevronLeft size={16} />
+              </button>
+              <button 
+                onClick={handleNext}
+                className="p-1.5 rounded-lg border bg-white hover:bg-slate-50"
+                title="Próxima Página"
+              >
+                <ChevronRight size={16} />
+              </button>
+            </div>
+          </div>
+          <button
+            onClick={onClose}
+            className="p-2 rounded-full bg-white hover:bg-slate-100 border border-slate-200 text-slate-600"
+            title="Fechar"
+          >
+            <X size={18} />
+          </button>
+        </div>
+
+        {/* Content */}
+        <div className="flex-1 bg-slate-100 overflow-auto flex items-center justify-center p-4">
+          <img
+            src={imgSrc}
+            alt={`Página ${currentPage}`}
+            className="max-w-full max-h-full object-contain shadow-lg bg-white"
+            onError={(e) => {
+              e.target.onerror = null; 
+              // e.target.src = '/assets/questions/holder.png'; // opcional
+            }}
+          />
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export function Questoes() {
   const [selectedYear, setSelectedYear] = useState(2019);
   const [questions, setQuestions] = useState([]);
@@ -39,6 +107,7 @@ export function Questoes() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [imageModalSrc, setImageModalSrc] = useState(null);
+  const [pageModalOpen, setPageModalOpen] = useState(false);
   const [goToNumber, setGoToNumber] = useState('');
 
   const questionNumbers = useMemo(() => {
@@ -210,6 +279,14 @@ export function Questoes() {
         title={imageModalSrc ? `Fuvest ${selectedYear} - Questão ${currentQ.number}` : ''}
         onClose={() => setImageModalSrc(null)}
       />
+
+      {pageModalOpen && (
+        <PageModal 
+          year={selectedYear} 
+          page={currentQ.page || 1} 
+          onClose={() => setPageModalOpen(false)} 
+        />
+      )}
       
       {/* Header com Stats (simples por ano) */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
@@ -266,6 +343,15 @@ export function Questoes() {
                   <span className="bg-slate-100 text-slate-600 text-[10px] font-bold px-2.5 py-1 rounded-md uppercase">
                     Questão {currentQ.number}
                   </span>
+                  
+                  {/* Botão Ver Página Inteira */}
+                  <button 
+                    onClick={() => setPageModalOpen(true)}
+                    className="p-1 text-slate-400 hover:text-crimson-600 hover:bg-crimson-50 rounded-md transition-colors"
+                    title="Ver página original da prova"
+                  >
+                    <FileText size={16} />
+                  </button>
                 </div>
                 <span className="text-slate-400 text-xs font-bold tabular-nums">{currentIndex + 1} / {questions.length}</span>
               </div>
