@@ -1,53 +1,106 @@
 {
   "project": "Sanfran 2027 - Sistema de Questões Escalonável",
-  "engineer_note": "A arquitetura foi desenhada para desacoplar o processamento pesado da execução em produção, garantindo performance e custo fixo próximo de zero.",
+  "version": "2.0.0",
+  "last_updated": "2025-12-25",
+  "engineer_note": "A arquitetura foi desenhada para desacoplar o processamento pesado (ETL/IA) da execução em produção (Frontend Estático), garantindo performance, custo fixo próximo de zero e robustez contra falhas de API.",
   "architecture_principles": {
-    "separation_of_concerns": "Divisão clara entre Extração (ingest.py), Enriquecimento (enrich.py) e Apresentação (Questoes.jsx).",
-    "idempotency": "Uso extensivo de cache baseado em hashing (SHA-256) para evitar reprocessamento e gastos desnecessários de API.",
-    "static_first": "O frontend consome exclusivamente JSONs e PNGs estáticos, eliminando a necessidade de um backend complexo e banco de dados real no MVP."
+    "separation_of_concerns": "Divisão clara entre Extração (ingest.py), Enriquecimento (enrich.py), Auditoria (audit_crops.py) e Apresentação (Questoes.jsx).",
+    "idempotency": "Uso extensivo de cache local e hashing (SHA-256) para evitar reprocessamento e gastos desnecessários de API.",
+    "static_first": "O frontend consome exclusivamente JSONs e PNGs estáticos, eliminando a necessidade de um backend complexo e banco de dados real no MVP.",
+    "deterministic_fallback": "O sistema prioriza métodos determinísticos (extração via PyMuPDF) e usa IA (Gemini Vision) apenas como fallback ou para enriquecimento pedagógico."
   },
-  "pipeline_step_by_step": [
-    {
-      "step": 1,
-      "name": "Ingestão Determinística (Fonte de Verdade = PDF + Recorte)",
-      "technical_details": {
-        "engine": "Python + PyMuPDF + Pillow",
-        "process": "1) Renderiza as páginas do PDF (200 DPI) para PNG. 2) Detecta o início das questões de forma determinística via camada de texto do PDF (PyMuPDF words). 3) Gera bboxes e recorta cada questão em PNG. 4) Extrai texto (stem/opções) apenas quando a camada do PDF é confiável; caso contrário, usa placeholders e o aluno lê pela imagem.",
-        "robustness_note": "Evita OCR/IA em páginas de prova para não depender de APIs e para evitar bloqueios (ex: copyright). A IA fica reservada apenas para OCR do gabarito quando o gXX.pdf for escaneado.",
-        "scaling_strategy": "Adicione novos PDFs em /provas seguindo o padrão pYY.pdf/gYY.pdf e rode 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year YYYY'."
-      }
+  "pipeline_workflow_detailed": {
+    "step_01_preparation": {
+      "title": "Preparação dos Arquivos Fonte",
+      "description": "Obtenção e organização dos PDFs brutos das provas e gabaritos.",
+      "instructions": [
+        "Obtenha o PDF da Prova (ex: 'p24.pdf') e do Gabarito (ex: 'g24.pdf') no site oficial da Fuvest ou Acervo.",
+        "Renomeie os arquivos seguindo estritamente o padrão: 'pYY.pdf' e 'gYY.pdf' (onde YY são os dois últimos dígitos do ano).",
+        "Mova os arquivos para a pasta raiz '/provas' do projeto.",
+        "Certifique-se de que o PDF da prova seja pesquisável (camada de texto) para melhor precisão. Se for escaneado (imagem), o sistema usará fallback visual, mas a precisão do texto das alternativas pode cair."
+      ]
     },
-    {
-      "step": 2,
-      "name": "Recorte Inteligente de Assets",
-      "technical_details": {
-        "engine": "Python + Pillow",
-        "process": "Usa bboxes determinísticos (coluna inteira entre inícios de questão) e aplica um pós-processamento de auto-trim (remoção de bordas brancas) para melhorar o enquadramento e evitar cortes inadequados.",
-        "storage": "Salva em public/assets/questions/YYYY/qNN/image.png. Isso preserva fórmulas complexas e gráficos que seriam perdidos em uma extração apenas de texto."
-      }
+    "step_02_ingestion": {
+      "title": "Ingestão e Processamento (ETL)",
+      "script": "tools/questions/ingest.py",
+      "command": "python tools/questions/ingest.py --year 20YY",
+      "process_details": [
+        "1. Renderização: O script converte todas as páginas do PDF em imagens PNG de alta resolução (200 DPI) para pasta temporária.",
+        "2. Indexação de Questões: Varre o PDF em busca de marcadores numéricos (1, 2, 3...) para identificar onde começa e termina cada questão.",
+        "3. Recorte Inteligente (Smart Cropping):",
+        "   - Calcula as coordenadas (bbox) de cada questão.",
+        "   - Recorta a imagem da questão da página original.",
+        "   - Aplica 'Auto-Trim' para remover bordas brancas excessivas e centralizar o conteúdo.",
+        "4. Extração de Texto (OCR/PDF Parsing):",
+        "   - Tenta extrair o texto do Enunciado (stem) e das Alternativas (A-E) diretamente da camada de texto do PDF.",
+        "   - Sanitização: Remove textos de apoio ('Note e adote', 'Texto para as questões...') que possam ter vazado para as alternativas.",
+        "   - Detecta alternativas não-textuais (fórmulas, gráficos) e substitui o texto por '(Veja a imagem da questão)'.",
+        "5. Anexação de Referências:",
+        "   - Identifica blocos de texto de apoio (ex: 'Texto para as questões 10 a 12' ou 'Texto III').",
+        "   - Anexa esses textos automaticamente ao enunciado da questão.",
+        "   - Gera uma 'Imagem Composta' vertical: [Texto de Apoio] + [Imagem da Questão], garantindo que o aluno sempre tenha o contexto para resolver.",
+        "6. Processamento do Gabarito:",
+        "   - Lê o arquivo 'gYY.pdf'.",
+        "   - Usa Regex para extrair as respostas (1-A, 2-B...).",
+        "   - Se o PDF do gabarito for imagem, aciona automaticamente o Gemini Vision para fazer OCR."
+      ],
+      "outputs": [
+        "public/data/questions/fuvest-20YY.json (Dataset estruturado)",
+        "public/assets/questions/20YY/qXX/image.png (Recortes das questões)",
+        "public/assets/pages/20YY/page_XX.png (Páginas completas para o modo 'Ver Página')"
+      ]
     },
-    {
-      "step": 3,
-      "name": "Enriquecimento via Agente Pedagógico",
-      "technical_details": {
-        "engine": "Python + Gemini 2.0 Flash (Text-only)",
-        "process": "Transforma o JSON bruto em um objeto pedagógico com: teoria do assunto, resolução passo a passo e análise técnica de por que cada distrator (alternativas incorretas) está errado.",
-        "scaling_note": "Este passo é o mais intensivo em tokens. O uso de 'application/json' mime-type garante que a saída da IA seja perfeitamente parseável sem erros de sintaxe."
-      }
+    "step_03_audit": {
+      "title": "Auditoria de Qualidade (Quality Assurance)",
+      "script": "tools/questions/audit_crops.py",
+      "command": "python tools/questions/audit_crops.py --year 20YY",
+      "description": "Gera um relatório para garantir que os recortes e textos estão perfeitos.",
+      "metrics_analyzed": [
+        "White Ratio: Detecta imagens que ficaram quase totalmente brancas (erro de recorte).",
+        "Content Ratio: Verifica se a imagem tem conteúdo útil suficiente.",
+        "Dimensions: Alerta sobre imagens muito pequenas ou com proporções estranhas.",
+        "Missing Assets: Confirma se todas as 90 questões têm suas respectivas imagens."
+      ],
+      "actions": [
+        "Analise o arquivo gerado 'tools/questions/out/audit_crops_20YY.csv' (pode abrir no Excel).",
+        "Filtre pela coluna 'flag_white' = TRUE ou 'missing' = TRUE.",
+        "Se houver erros, ajuste os parâmetros de recorte no 'ingest.py' ou verifique se o PDF de origem não está corrompido."
+      ]
+    },
+    "step_04_enrichment": {
+      "title": "Enriquecimento Pedagógico (AI Agent)",
+      "script": "tools/questions/enrich.py",
+      "command": "python tools/questions/enrich.py --year 20YY",
+      "description": "Usa Inteligência Artificial (Gemini 2.0 Flash) para atuar como um professor particular.",
+      "ai_tasks": [
+        "Contexto Teórico: Gera uma explicação conceitual sobre o tema da questão.",
+        "Passo a Passo: Cria uma resolução lógica numerada.",
+        "Análise de Distratores: Explica detalhadamente por que cada alternativa errada (A, B, D, E) está incorreta.",
+        "Classificação: Adiciona tags de Matéria (ex: História) e Tópico (ex: Era Vargas)."
+      ],
+      "scaling_note": "Este passo consome tokens da API. O script possui cache inteligente: se você rodar novamente, ele só processa as questões que ainda estão 'Pendente', economizando custos."
+    },
+    "step_05_frontend_integration": {
+      "title": "Integração e Publicação",
+      "file": "src/components/Questoes.jsx",
+      "instructions": [
+        "Abra o arquivo 'src/components/Questoes.jsx'.",
+        "Localize o elemento <select> que lista os anos.",
+        "Adicione uma nova opção: <option value={20YY}>Fuvest 20YY</option>.",
+        "No hook 'useLocalStorage' (estado inicial 'stats'), adicione a chave para o novo ano: \"20YY\": { correct: 0, wrong: 0, answered: 0 }.",
+        "Teste a aplicação localmente ('npm run dev') navegando pelas questões do novo ano.",
+        "Verifique se o botão 'Ver Página' abre o modal com a página correta da prova."
+      ]
     }
-  ],
-  "frontend_mechanics": {
-    "data_loading": "Usa Fetch API para carregar o arquivo JSON do ano selecionado. O frontend deve tolerar questões com texto placeholder e permitir que o usuário responda olhando o recorte PNG.",
-    "persistence": "Implementa o hook useLocalStorage para salvar XP, Streaks e o SRS (Spaced Repetition System) simples via array de 'wrongQuestions'.",
-    "ui_philosophy": "Layout em colunas adaptativo. O lado esquerdo foca na questão e o direito na explicação pós-submit, minimizando a carga cognitiva."
   },
-  "how_to_scale_adding_new_questions": {
-    "instruction_01": "Coloque a Prova (p26.pdf) e o Gabarito (g26.pdf) na pasta '/provas'.",
-    "instruction_02": "Abra o terminal na pasta 'tools/questions'.",
-    "instruction_03": "Rode: 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026'. Isso gera o JSON base e as imagens.",
-    "instruction_04": "Rode: '.venv\\Scripts\\python enrich.py --year 2026'. Isso gera as explicações via IA.",
-    "instruction_05": "O novo ano aparecerá automaticamente no seletor do site (adicione a opção no <select> de Questoes.jsx).",
-    "instruction_06": "Se o texto do enunciado sair corrompido (ex: Fuvest 2021), isso é esperado: o dataset vai manter placeholders e a questão deve ser resolvida pela imagem. O importante é a imagem estar bem recortada e o gabarito estar correto.",
-    "instruction_07": "Se você alterar apenas a lógica de recorte, use '--recrop-only' para regerar as imagens sem recomputar todo o dataset: 'tools\\questions\\.venv\\Scripts\\python tools/questions/ingest.py --year 2026 --recrop-only'."
+  "maintenance_guide": {
+    "cleaning_cache": "Se precisar refazer tudo do zero para um ano, apague a pasta 'tools/questions/cache/20YY' e rode o ingest novamente.",
+    "updating_prompts": "Para melhorar a qualidade das explicações da IA, edite o prompt no arquivo 'tools/questions/enrich.py'.",
+    "backup": "O repositório contém apenas os JSONs e códigos. As imagens (assets) são geradas localmente. Recomenda-se commitar os JSONs e Assets gerados para o Git para que o site funcione em produção (Vercel/Netlify)."
+  },
+  "troubleshooting": {
+    "garbled_text": "Se o texto das questões sair cheio de símbolos estranhos, o PDF original tem uma codificação ruim. O sistema detecta isso e usa automaticamente o placeholder '(Veja a imagem da questão)', forçando o uso do recorte visual.",
+    "missing_images": "Se faltarem imagens, verifique se a pasta 'public/assets/questions/20YY' foi criada. Rode o ingest com '--recrop-only' para tentar regerar apenas as imagens sem processar o texto novamente.",
+    "api_errors": "Se o script de enriquecimento falhar (erro 429 ou 500 do Gemini), aguarde 1 minuto e rode novamente. O script retomará de onde parou graças ao cache."
   }
 }
