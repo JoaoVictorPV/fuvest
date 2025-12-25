@@ -178,5 +178,127 @@ export const quotes = [
     { "quote": "Sabemos o que somos, mas não sabemos o que podemos ser.", "author": "William Shakespeare" },
     { "quote": "O amor não vê com os olhos, mas com a mente; por isso, é alado, e cego, e tão potente.", "author": "William Shakespeare" },
     { "quote": "A arte de viver é simplesmente a arte de conviver... simplesmente, disse eu? Mas como é difícil!", "author": "Mário Quintana" },
-    { "quote": "O segredo não é correr atrás das borboletas... é cuidar do jardim para que elas venham até você.", "author": "Mário Quintana" }
+    { "quote": "O segredo não é correr atrás das borboletas... é cuidar do jardim para que elas venham até você.", "author": "Mário Quintana" },
+
+    { "quote": "O homem não é nada além do que a educação faz dele.", "author": "Immanuel Kant" }
+    ,{ "quote": "A liberdade é a possibilidade do isolamento.", "author": "Fernando Pessoa" }
+    ,{ "quote": "Não seremos nunca uma coisa só: somos uma multidão.", "author": "Fernando Pessoa" }
+    ,{ "quote": "Para viajar basta existir.", "author": "Fernando Pessoa" }
+    ,{ "quote": "Para entender, eu me destruí.", "author": "Clarice Lispector" }
+    ,{ "quote": "O essencial é invisível aos olhos.", "author": "Antoine de Saint-Exupéry" }
+    ,{ "quote": "Tu te tornas eternamente responsável por aquilo que cativas.", "author": "Antoine de Saint-Exupéry" }
+    ,{ "quote": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.", "author": "Oscar Wilde" }
+    ,{ "quote": "Seja você mesmo; todos os outros já existem.", "author": "Oscar Wilde" }
+    ,{ "quote": "O perigo de uma meia-verdade é que você pode ter dito exatamente a metade errada.", "author": "G. K. Chesterton" }
+    ,{ "quote": "A educação é a forma mais poderosa de revolução.", "author": "Nísia Floresta" }
+    ,{ "quote": "A paciência é companheira da sabedoria.", "author": "Santo Agostinho" }
+    ,{ "quote": "A medida do amor é amar sem medida.", "author": "Santo Agostinho" }
+    ,{ "quote": "Crê para compreender.", "author": "Santo Agostinho" }
+    ,{ "quote": "A esperança tem duas filhas: a indignação e a coragem.", "author": "Santo Agostinho" }
+    ,{ "quote": "Dai-me castidade e continência, mas não agora.", "author": "Santo Agostinho" }
+    ,{ "quote": "O tempo é o presente do passado, o presente do presente e o presente do futuro.", "author": "Santo Agostinho" }
+    ,{ "quote": "A felicidade é continuar a desejar o que se possui.", "author": "Santo Agostinho" }
+    ,{ "quote": "A soberba faz os anjos demônios.", "author": "Santo Agostinho" }
+    ,{ "quote": "Deus prefere a humildade à ostentação.", "author": "Santo Agostinho" }
+    ,{ "quote": "Quem lê, escreve; quem escreve, pensa.", "author": "José Saramago" }
+    ,{ "quote": "Dentro de nós há uma coisa que não tem nome, essa coisa é o que somos.", "author": "José Saramago" }
+    ,{ "quote": "A derrota tem algo positivo: nunca é definitiva. A vitória tem algo negativo: nunca é definitiva.", "author": "José Saramago" }
+    ,{ "quote": "A pressa é inimiga da perfeição.", "author": "Provérbio" }
+    ,{ "quote": "Quem tem paciência, tem tudo.", "author": "Provérbio" }
+    ,{ "quote": "A verdade é filha do tempo.", "author": "Miguel de Cervantes" }
+    ,{ "quote": "A caneta é a língua da mente.", "author": "Miguel de Cervantes" }
+    ,{ "quote": "A esperança é uma boa coisa, talvez a melhor de todas.", "author": "Stephen King" }
+    ,{ "quote": "O caráter é o destino.", "author": "Heráclito" }
+    ,{ "quote": "Nada é permanente exceto a mudança.", "author": "Heráclito" }
+    ,{ "quote": "Se queres a paz, prepara-te para a guerra.", "author": "Vegetius" }
+    ,{ "quote": "A coragem é a primeira das qualidades humanas.", "author": "Aristóteles" }
+    ,{ "quote": "Nós somos o que repetidamente fazemos.", "author": "Aristóteles" }
+    ,{ "quote": "A amizade é uma alma habitando dois corpos.", "author": "Aristóteles" }
+    ,{ "quote": "A excelência não é um ato, mas um hábito.", "author": "Aristóteles" }
+    ,{ "quote": "Conhecer a si mesmo é o começo de toda sabedoria.", "author": "Aristóteles" }
+    ,{ "quote": "A injustiça mais intolerável é a injustiça legal.", "author": "Cícero" }
+    ,{ "quote": "A lei suprema é a salvação do povo.", "author": "Cícero" }
+    ,{ "quote": "A autoridade sem sabedoria é como um machado sem fio.", "author": "Provérbio" }
+    ,{ "quote": "O hábito é uma segunda natureza.", "author": "Cícero" }
+    ,{ "quote": "A história é testemunha dos tempos.", "author": "Cícero" }
+    ,{ "quote": "O justo é o que é conveniente ao mais forte.", "author": "Trasímaco" }
+    ,{ "quote": "A simplicidade é o último grau de sofisticação.", "author": "Leonardo da Vinci" }
+    ,{ "quote": "A experiência nunca erra; só erram os seus juízos.", "author": "Leonardo da Vinci" }
+    ,{ "quote": "A ciência é o capitão, e a prática, os soldados.", "author": "Leonardo da Vinci" }
+    ,{ "quote": "A persistência é o caminho do êxito.", "author": "Charles Chaplin" }
+    ,{ "quote": "Nada é mais enganoso do que um fato óbvio.", "author": "Arthur Conan Doyle" }
+    ,{ "quote": "A verdade é rara, e por isso preciosa.", "author": "Emily Dickinson" }
+    ,{ "quote": "A alma deveria sempre estar entreaberta.", "author": "Emily Dickinson" }
+    ,{ "quote": "A disciplina é a ponte entre metas e realizações.", "author": "Jim Rohn" }
+    ,{ "quote": "O que você faz fala tão alto que não consigo ouvir o que você diz.", "author": "Ralph Waldo Emerson" }
+    ,{ "quote": "Não siga por onde o caminho pode levar. Vá por onde não há caminho e deixe uma trilha.", "author": "Ralph Waldo Emerson" }
+    ,{ "quote": "A confiança em si mesmo é o primeiro segredo do sucesso.", "author": "Ralph Waldo Emerson" }
+    ,{ "quote": "A vida é curta demais para ser pequena.", "author": "Benjamin Disraeli" }
+    ,{ "quote": "A coragem é resistência ao medo, domínio do medo.", "author": "Mark Twain" }
+    ,{ "quote": "Os dois dias mais importantes da sua vida são o dia em que você nasce e o dia em que descobre por quê.", "author": "Mark Twain" }
+    ,{ "quote": "A história não se repete, mas rima.", "author": "Mark Twain" }
+    ,{ "quote": "Não é a espécie mais forte que sobrevive, mas a que melhor se adapta.", "author": "Charles Darwin" }
+    ,{ "quote": "A ignorância gera confiança mais frequentemente do que o conhecimento.", "author": "Charles Darwin" }
+    ,{ "quote": "Tudo o que é humano me interessa.", "author": "Terêncio" }
+    ,{ "quote": "Quem tem um porquê enfrenta quase qualquer como.", "author": "Viktor Frankl" }
+    ,{ "quote": "Quando não podemos mais mudar uma situação, somos desafiados a mudar a nós mesmos.", "author": "Viktor Frankl" }
+    ,{ "quote": "A verdade é que a gente não faz filhos. Só faz o layout.", "author": "Millôr Fernandes" }
+    ,{ "quote": "O Brasil tem um enorme passado pela frente.", "author": "Millôr Fernandes" }
+    ,{ "quote": "A democracia é a pior forma de governo, exceto todas as outras.", "author": "Winston Churchill" }
+    ,{ "quote": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.", "author": "Winston Churchill" }
+    ,{ "quote": "Se você está atravessando o inferno, continue.", "author": "Winston Churchill" }
+    ,{ "quote": "Tudo o que fazemos é uma semente para o futuro.", "author": "Chico Xavier" }
+    ,{ "quote": "A caridade é um exercício espiritual.", "author": "Chico Xavier" }
+    ,{ "quote": "A consciência é a luz da inteligência.", "author": "Chico Xavier" }
+    ,{ "quote": "A educação é a base de uma nação.", "author": "Rui Barbosa" }
+    ,{ "quote": "Justiça atrasada não é justiça, senão injustiça qualificada.", "author": "Rui Barbosa" }
+    ,{ "quote": "As leis se torcem como vimes quando se faz delas um instrumento de facção.", "author": "Rui Barbosa" }
+    ,{ "quote": "O direito, sem a força, é impotente; a força, sem o direito, é tirânica.", "author": "Blaise Pascal" }
+    ,{ "quote": "O coração tem razões que a própria razão desconhece.", "author": "Blaise Pascal" }
+    ,{ "quote": "O silêncio eterno desses espaços infinitos me apavora.", "author": "Blaise Pascal" }
+    ,{ "quote": "A pressa é o maior obstáculo para a virtude.", "author": "Baruch Spinoza" }
+    ,{ "quote": "A paz não é ausência de guerra: é uma virtude.", "author": "Baruch Spinoza" }
+    ,{ "quote": "Não rir, não chorar, não odiar, mas compreender.", "author": "Baruch Spinoza" }
+    ,{ "quote": "A liberdade é o reconhecimento da necessidade.", "author": "Baruch Spinoza" }
+    ,{ "quote": "A mente humana é capaz de tudo.", "author": "Thomas Hobbes" }
+    ,{ "quote": "O homem é o lobo do homem.", "author": "Thomas Hobbes" }
+    ,{ "quote": "A vida é solitária, pobre, sórdida, embrutecida e curta.", "author": "Thomas Hobbes" }
+    ,{ "quote": "A paz é o intervalo entre duas guerras.", "author": "Jean Giraudoux" }
+    ,{ "quote": "Não há vento favorável para quem não sabe onde vai.", "author": "Sêneca" }
+    ,{ "quote": "A sorte é o que acontece quando a preparação encontra a oportunidade.", "author": "Sêneca" }
+    ,{ "quote": "Apressa-te a viver e pensa que cada dia é uma vida.", "author": "Sêneca" }
+    ,{ "quote": "Nenhum homem é livre se não é senhor de si mesmo.", "author": "Epicteto" }
+    ,{ "quote": "Não são as coisas que nos perturbam, mas a opinião que temos delas.", "author": "Epicteto" }
+    ,{ "quote": "A riqueza consiste muito mais no desfrutar do que no possuir.", "author": "Aristóteles" }
+    ,{ "quote": "A justiça é a constante e perpétua vontade de dar a cada um o que é seu.", "author": "Ulpiano" }
+    ,{ "quote": "A lei é dura, mas é lei.", "author": "Provérbio" }
+    ,{ "quote": "A dúvida é um dos nomes da inteligência.", "author": "Jorge Luis Borges" }
+    ,{ "quote": "O destino não faz visitas em vão.", "author": "Jorge Luis Borges" }
+    ,{ "quote": "A leitura é uma forma de felicidade.", "author": "Jorge Luis Borges" }
+    ,{ "quote": "O tempo é a substância de que sou feito.", "author": "Jorge Luis Borges" }
+    ,{ "quote": "A coragem é a graça sob pressão.", "author": "Ernest Hemingway" }
+    ,{ "quote": "O mundo quebra a todos, e depois muitos ficam fortes nos lugares quebrados.", "author": "Ernest Hemingway" }
+    ,{ "quote": "O homem não está feito para a derrota.", "author": "Ernest Hemingway" }
+    ,{ "quote": "A verdade é que a vida é um exercício de atenção.", "author": "Simone Weil" }
+    ,{ "quote": "A atenção, tomada em seu grau mais alto, é a mesma coisa que a oração.", "author": "Simone Weil" }
+    ,{ "quote": "A justiça é o amor em ação.", "author": "Simone Weil" }
+    ,{ "quote": "O dever é aquilo que a razão exige.", "author": "Simone Weil" }
+    ,{ "quote": "A esperança é a mais útil das coisas.", "author": "Padre Antônio Vieira" }
+    ,{ "quote": "O tempo é o melhor intérprete.", "author": "Padre Antônio Vieira" }
+    ,{ "quote": "Não há maior desgraça que a de ter pouco e desejar muito.", "author": "Padre Antônio Vieira" }
+    ,{ "quote": "A palavra é prata, o silêncio é ouro.", "author": "Provérbio" }
+    ,{ "quote": "O bem que se faz em qualquer lugar é um bem que se faz a toda a humanidade.", "author": "Rosa Parks" }
+    ,{ "quote": "A verdade não tem hora marcada.", "author": "Lima Barreto" }
+    ,{ "quote": "A vida é o que fazemos dela.", "author": "Fernando Pessoa" }
+    ,{ "quote": "A coragem não é ausência de medo, mas decisão de que algo é mais importante que o medo.", "author": "Ambrose Redmoon" }
+    ,{ "quote": "Tudo o que não é eterno é eternamente inútil.", "author": "C. S. Lewis" }
+    ,{ "quote": "A integridade é fazer a coisa certa, mesmo quando ninguém está vendo.", "author": "C. S. Lewis" }
+    ,{ "quote": "A humildade não é pensar menos de si, mas pensar menos em si.", "author": "C. S. Lewis" }
+    ,{ "quote": "A alma se cura ao estar com crianças.", "author": "Fiódor Dostoiévski" }
+    ,{ "quote": "O homem é infeliz porque não sabe que é feliz.", "author": "Fiódor Dostoiévski" }
+    ,{ "quote": "A beleza salvará o mundo.", "author": "Fiódor Dostoiévski" }
+    ,{ "quote": "A vida é um combate que nos torna fortes.", "author": "Cecília Meireles" }
+    ,{ "quote": "Aprendi com as primaveras a me deixar cortar e a voltar sempre inteira.", "author": "Cecília Meireles" }
+    ,{ "quote": "Liberdade é uma palavra que o sonho humano alimenta.", "author": "Cecília Meireles" }
+    ,{ "quote": "A verdade é uma espécie de erro que não pode ser refutado.", "author": "Friedrich Nietzsche" }
 ]

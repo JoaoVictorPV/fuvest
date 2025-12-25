@@ -123,3 +123,9 @@ tools/questions/**/*.pyc
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Build output
+dist/
+
+# debug/outputs locais
+q*_debug_out.txt

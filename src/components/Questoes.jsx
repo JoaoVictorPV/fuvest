@@ -1,6 +1,34 @@
 import React, { useState, useEffect } from 'react';
 import { useLocalStorage } from '../hooks/useLocalStorage';
-import { CheckCircle2, XCircle, ChevronRight, RotateCcw, HelpCircle, Trophy, Flame, BarChart3 } from 'lucide-react';
+import { CheckCircle2, ChevronRight, RotateCcw, HelpCircle, Trophy, X } from 'lucide-react';
+
+function ImageModal({ src, title, onClose }) {
+  if (!src) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-in fade-in duration-200">
+      <div className="relative w-full h-full max-w-6xl max-h-[90vh] bg-white rounded-2xl shadow-2xl overflow-hidden">
+        <div className="flex items-center justify-between px-4 py-3 border-b border-slate-100 bg-slate-50">
+          <p className="text-sm font-bold text-slate-700 truncate pr-4">{title || 'Imagem da questão'}</p>
+          <button
+            onClick={onClose}
+            className="p-2 rounded-full bg-white hover:bg-slate-100 border border-slate-200 text-slate-600"
+            title="Fechar"
+          >
+            <X size={18} />
+          </button>
+        </div>
+        <div className="w-full h-[calc(90vh-52px)] bg-white flex items-center justify-center p-4">
+          <img
+            src={src}
+            alt={title || 'Imagem da questão'}
+            className="max-w-full max-h-full object-contain"
+          />
+        </div>
+      </div>
+    </div>
+  );
+}
 
 export function Questoes() {
   const [selectedYear, setSelectedYear] = useState(2019);
@@ -10,16 +38,30 @@ export function Questoes() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [imageModalSrc, setImageModalSrc] = useState(null);
 
-  // Progresso do Usuário (Stats e SRS)
+  // Progresso do Usuário (simples, por ano)
   const [stats, setStats] = useLocalStorage('sanfran-questoes-stats', {
-    xp: 0,
-    streak: 0,
-    lastDate: null,
-    totalAnswered: 0,
-    correctCount: 0,
-    wrongQuestions: [] // Lógica de SRS simples: guarda IDs das que errou
+    perYear: {
+      "2019": { correct: 0, wrong: 0, answered: 0 },
+      "2021": { correct: 0, wrong: 0, answered: 0 },
+      "2022": { correct: 0, wrong: 0, answered: 0 }
+    }
   });
+
+  // Migração leve (caso exista stats antigo com xp/streak/etc)
+  useEffect(() => {
+    if (stats && stats.perYear) return;
+
+    setStats({
+      perYear: {
+        "2019": { correct: 0, wrong: 0, answered: 0 },
+        "2021": { correct: 0, wrong: 0, answered: 0 },
+        "2022": { correct: 0, wrong: 0, answered: 0 }
+      }
+    });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   // Carrega as questões quando o ano muda
   useEffect(() => {
@@ -67,61 +109,41 @@ export function Questoes() {
     const currentQ = questions[currentIndex];
     const isCorrect = selectedOption === currentQ.answer.correct;
 
-    // Atualiza Stats (Gamificação e SRS)
-    const today = new Date().toISOString().split('T')[0];
-    let newStreak = stats.streak;
-    
-    if (stats.lastDate !== today) {
-        if (stats.lastDate === new Date(Date.now() - 86400000).toISOString().split('T')[0]) {
-            newStreak += 1;
-        } else {
-            newStreak = 1;
-        }
-    }
-
-    const updatedWrongQuestions = isCorrect 
-        ? stats.wrongQuestions.filter(id => id !== currentQ.id) 
-        : [...new Set([...stats.wrongQuestions, currentQ.id])];
-
-    setStats({
+    const y = String(selectedYear);
+    const current = (stats?.perYear && stats.perYear[y]) || { correct: 0, wrong: 0, answered: 0 };
+    const next = {
       ...stats,
-      xp: stats.xp + (isCorrect ? 10 : 2),
-      streak: newStreak,
-      lastDate: today,
-      totalAnswered: stats.totalAnswered + 1,
-      correctCount: stats.correctCount + (isCorrect ? 1 : 0),
-      wrongQuestions: updatedWrongQuestions
-    });
+      perYear: {
+        ...(stats?.perYear || {}),
+        [y]: {
+          answered: (current.answered || 0) + 1,
+          correct: (current.correct || 0) + (isCorrect ? 1 : 0),
+          wrong: (current.wrong || 0) + (isCorrect ? 0 : 1),
+        }
+      }
+    };
+
+    setStats(next);
   };
 
   const handleSkipToAnswer = () => {
     if (isSubmitted) return;
 
     setIsSubmitted(true);
-    const currentQ = questions[currentIndex];
 
-    // Atualiza Stats (conta como tentativa errada/"pulo")
-    const today = new Date().toISOString().split('T')[0];
-    let newStreak = stats.streak;
-
-    if (stats.lastDate !== today) {
-      if (stats.lastDate === new Date(Date.now() - 86400000).toISOString().split('T')[0]) {
-        newStreak += 1;
-      } else {
-        newStreak = 1;
-      }
-    }
-
-    const updatedWrongQuestions = [...new Set([...stats.wrongQuestions, currentQ.id])];
-
+    // Conta como erro (pulo)
+    const y = String(selectedYear);
+    const current = (stats?.perYear && stats.perYear[y]) || { correct: 0, wrong: 0, answered: 0 };
     setStats({
       ...stats,
-      xp: stats.xp + 1,
-      streak: newStreak,
-      lastDate: today,
-      totalAnswered: stats.totalAnswered + 1,
-      correctCount: stats.correctCount,
-      wrongQuestions: updatedWrongQuestions
+      perYear: {
+        ...(stats?.perYear || {}),
+        [y]: {
+          answered: (current.answered || 0) + 1,
+          correct: (current.correct || 0),
+          wrong: (current.wrong || 0) + 1,
+        }
+      }
     });
   };
 
@@ -148,34 +170,37 @@ export function Questoes() {
   const steps = Array.isArray(explanation.steps) ? explanation.steps : [];
   const distractors = explanation.distractors || {};
   const isCorrect = selectedOption === currentQ.answer.correct;
-  const accuracy = stats.totalAnswered > 0 ? Math.round((stats.correctCount / stats.totalAnswered) * 100) : 0;
+
+  const yearStats = (stats?.perYear && stats.perYear[String(selectedYear)]) || { correct: 0, wrong: 0, answered: 0 };
 
   return (
     <div className="p-8 max-w-5xl mx-auto pb-20 animate-in fade-in duration-500">
+      <ImageModal
+        src={imageModalSrc}
+        title={imageModalSrc ? `Fuvest ${selectedYear} - Questão ${currentQ.number}` : ''}
+        onClose={() => setImageModalSrc(null)}
+      />
       
-      {/* Header com Stats Avançados */}
+      {/* Header com Stats (simples por ano) */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
-        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex items-center space-x-4">
-          <div className="bg-amber-100 p-3 rounded-xl text-amber-600"><Trophy size={24} /></div>
-          <div>
-            <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Pontuação</p>
-            <p className="text-xl font-black text-slate-800">{stats.xp} XP</p>
-          </div>
+        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100">
+          <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Acertos</p>
+          <p className="text-2xl font-black text-emerald-700 tabular-nums">{yearStats.correct}</p>
+          <p className="text-xs text-slate-400 mt-1">Fuvest {selectedYear}</p>
         </div>
-        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex items-center space-x-4">
-          <div className="bg-orange-100 p-3 rounded-xl text-orange-600"><Flame size={24} /></div>
-          <div>
-            <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Sequência</p>
-            <p className="text-xl font-black text-slate-800">{stats.streak} dias</p>
-          </div>
+
+        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100">
+          <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Erros</p>
+          <p className="text-2xl font-black text-red-700 tabular-nums">{yearStats.wrong}</p>
+          <p className="text-xs text-slate-400 mt-1">Inclui “Ir para Resposta”</p>
         </div>
-        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex items-center space-x-4">
-          <div className="bg-emerald-100 p-3 rounded-xl text-emerald-600"><BarChart3 size={24} /></div>
-          <div>
-            <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Precisão</p>
-            <p className="text-xl font-black text-slate-800">{accuracy}%</p>
-          </div>
+
+        <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100">
+          <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">Respondidas</p>
+          <p className="text-2xl font-black text-slate-800 tabular-nums">{yearStats.answered}</p>
+          <p className="text-xs text-slate-400 mt-1">Neste ano</p>
         </div>
+
         <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100">
           <p className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Ano da Prova</p>
           <select 
@@ -184,8 +209,8 @@ export function Questoes() {
             className="w-full bg-slate-50 border border-slate-200 rounded-lg px-3 py-1 text-sm font-bold focus:ring-2 focus:ring-crimson-500 outline-none cursor-pointer"
           >
             <option value={2019}>Fuvest 2019</option>
-            <option value={2020}>Fuvest 2020</option>
             <option value={2021}>Fuvest 2021</option>
+            <option value={2022}>Fuvest 2022</option>
           </select>
         </div>
       </div>
@@ -228,7 +253,8 @@ export function Questoes() {
                   <img 
                     src={currentQ.assets.questionImage} 
                     alt={`Questão ${currentQ.number}`}
-                    className="max-h-[500px] object-contain rounded-lg shadow-sm group-hover:scale-[1.01] transition-transform duration-500"
+                    className="max-h-[500px] object-contain rounded-lg shadow-sm group-hover:scale-[1.01] transition-transform duration-500 cursor-zoom-in"
+                    onClick={() => setImageModalSrc(currentQ.assets.questionImage)}
                   />
                 </div>
               )}

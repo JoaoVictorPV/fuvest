@@ -142,7 +142,8 @@ def _detect_question_markers_from_pdf_page(page: fitz.Page):
     mid_x = page_w / 2.0
 
     # margem mais relaxada (questões às vezes vêm mais indentadas)
-    margin_pt = 240
+    # 2021+ tende a vir mais "pra dentro"; então deixamos bem permissivo.
+    margin_pt = 520
 
     num_re = re.compile(r"^(\d{1,2})(?:[\.)])?$")
 
@@ -174,7 +175,8 @@ def _detect_question_markers_from_pdf_page(page: fitz.Page):
         x1 = max(t[2] for t in items_sorted)
         y1 = max(t[3] for t in items_sorted)
 
-        # checagem de margem (coluna)
+        # checagem de margem (coluna) - permissiva para não perder questões.
+        # Ainda assim evita capturar números no meio da coluna.
         if x0 < mid_x:
             if x0 > margin_pt:
                 continue
@@ -714,8 +716,10 @@ def main():
         info = rect_index[qnum]
         stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
         if stem is None or options is None:
-            # abandona questão se não extrair texto mínimo confiável
-            continue
+            # Não abandona: mantém 100% das questões no JSON.
+            # O aluno pode ler pelo recorte (PNG) e responder.
+            stem = "(Veja a imagem da questão)"
+            options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
 
         all_questions.append({
             "number": qnum,

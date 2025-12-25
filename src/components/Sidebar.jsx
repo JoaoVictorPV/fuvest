@@ -13,7 +13,7 @@ export function Sidebar({ activeTab, setActiveTab }) {
   return (
     <aside className="fixed left-0 top-0 h-screen w-64 bg-slate-900 text-white flex flex-col shadow-xl z-20">
       <div className="p-6 border-b border-slate-800">
-        <h1 className="font-serif text-xl font-bold text-crimson-400">Projeto Sanfran 2027</h1>
+        <h1 className="font-serif text-xl font-bold text-crimson-400">Projeto de Estudo</h1>
         <p className="text-xs text-slate-400 mt-1">Foco: Direito USP</p>
       </div>
 
