@@ -59,31 +59,49 @@ function BookModal({ book, onClose, status, onStatusChange }) {
           </button>
         </div>
 
-        <div className="p-6 border-b border-slate-100 bg-slate-50 flex items-center space-x-4 overflow-x-auto">
-          <select 
-            value={status} 
-            onChange={(e) => onStatusChange(e.target.value)}
-            className="px-3 py-2 rounded-lg border border-slate-300 text-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-crimson-500"
-          >
-            <option value="unread">Não Lido</option>
-            <option value="reading">Lendo</option>
-            <option value="read">Lido</option>
-            <option value="summarized">Resumido</option>
-          </select>
-          <div className="flex space-x-1">
-            {visibleTabs.map(tab => (
-              <button
-                key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
-                className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                  activeTab === tab.id 
-                    ? 'bg-crimson-600 text-white shadow-sm' 
-                    : 'text-slate-600 hover:bg-slate-200'
-                }`}
-              >
-                {tab.label}
-              </button>
-            ))}
+        <div className="p-6 border-b border-slate-100 bg-slate-50">
+          <div className="flex flex-col gap-4">
+            {/* Linha 1: Status (Lido/Não lido) bem separado das abas de conteúdo */}
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+              <div className="flex items-center gap-3">
+                <div className="text-xs font-black uppercase tracking-widest text-slate-500">
+                  Status
+                </div>
+
+                <select
+                  value={status}
+                  onChange={(e) => onStatusChange(e.target.value)}
+                  className="px-3 py-2 rounded-xl border border-slate-300 bg-white text-slate-800 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-crimson-500 shadow-sm"
+                >
+                  <option value="unread">Não Lido</option>
+                  <option value="reading">Lendo</option>
+                  <option value="read">Lido</option>
+                  <option value="summarized">Resumido</option>
+                </select>
+              </div>
+
+              <p className="text-xs text-slate-500">
+                Selecione uma aba abaixo para estudar por blocos (sem rolagem horizontal).
+              </p>
+            </div>
+
+            {/* Linha 2: Abas de conteúdo (wrap, sem scroll) */}
+            <div className="flex flex-wrap gap-2">
+              {visibleTabs.map(tab => (
+                <button
+                  key={tab.id}
+                  onClick={() => setActiveTab(tab.id)}
+                  className={clsx(
+                    "px-4 py-2 rounded-xl text-sm font-bold transition-all border",
+                    activeTab === tab.id
+                      ? "bg-crimson-600 text-white border-crimson-600 shadow-sm"
+                      : "bg-white text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300"
+                  )}
+                >
+                  {tab.label}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
 

@@ -39,6 +39,7 @@ export function Questoes() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [imageModalSrc, setImageModalSrc] = useState(null);
+  const [goToNumber, setGoToNumber] = useState('');
 
   // Progresso do Usuário (simples, por ano)
   const [stats, setStats] = useLocalStorage('sanfran-questoes-stats', {
@@ -95,6 +96,20 @@ export function Questoes() {
   const resetState = () => {
     setSelectedOption(null);
     setIsSubmitted(false);
+  };
+
+  const goToQuestionByNumber = (n) => {
+    const target = Number(n);
+    if (!Number.isFinite(target) || target <= 0) return;
+
+    // procura pelo número da questão dentro da lista atual (já embaralhada)
+    const idx = questions.findIndex(q => Number(q?.number) === target);
+    if (idx < 0) {
+      // se não encontrar, não faz nada (mantém discreto)
+      return;
+    }
+    setCurrentIndex(idx);
+    resetState();
   };
 
   const handleOptionSelect = (key) => {
@@ -302,6 +317,35 @@ export function Questoes() {
               <div className="mt-12 flex flex-col md:flex-row md:items-center gap-3 justify-end">
                 {!isSubmitted ? (
                   <>
+                    {/* Navegação direta por número (discreta) */}
+                    <div className="w-full md:w-auto md:mr-auto">
+                      <div className="flex items-center gap-2">
+                        <input
+                          value={goToNumber}
+                          onChange={(e) => setGoToNumber(e.target.value.replace(/[^0-9]/g, ''))}
+                          onKeyDown={(e) => {
+                            if (e.key === 'Enter') {
+                              goToQuestionByNumber(goToNumber);
+                            }
+                          }}
+                          inputMode="numeric"
+                          placeholder="Ir p/ questão..."
+                          className="w-36 px-3 py-3 rounded-2xl border border-slate-200 bg-white text-sm font-bold text-slate-700 focus:outline-none focus:ring-2 focus:ring-crimson-500"
+                          title="Ir para uma questão específica (por número)"
+                        />
+                        <button
+                          onClick={() => goToQuestionByNumber(goToNumber)}
+                          className="px-3 py-3 rounded-2xl border border-slate-200 bg-slate-50 text-sm font-black text-slate-700 hover:bg-slate-100"
+                          title="Ir"
+                        >
+                          Ir
+                        </button>
+                      </div>
+                      <p className="mt-1 text-[10px] text-slate-400">
+                        Dica: digite 1–90 e aperte Enter.
+                      </p>
+                    </div>
+
                     <button
                       onClick={handleSkipToAnswer}
                       className="w-full md:w-auto bg-slate-100 text-slate-900 px-8 py-4 rounded-2xl font-black text-lg hover:bg-slate-200 transition-all duration-300 border border-slate-200"
