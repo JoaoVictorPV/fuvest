@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useLocalStorage } from '../hooks/useLocalStorage';
-import { CheckCircle2, ChevronRight, RotateCcw, HelpCircle, Trophy, X } from 'lucide-react';
+import { CheckCircle2, ChevronRight, RotateCcw, HelpCircle, Trophy, X, ChevronLeft } from 'lucide-react';
 
 function ImageModal({ src, title, onClose }) {
   if (!src) return null;
@@ -40,6 +40,14 @@ export function Questoes() {
   const [error, setError] = useState(null);
   const [imageModalSrc, setImageModalSrc] = useState(null);
   const [goToNumber, setGoToNumber] = useState('');
+
+  const questionNumbers = useMemo(() => {
+    const nums = (questions || [])
+      .map(q => Number(q?.number))
+      .filter(n => Number.isFinite(n) && n > 0)
+      .sort((a, b) => a - b);
+    return Array.from(new Set(nums));
+  }, [questions]);
 
   // Progresso do Usuário (simples, por ano)
   const [stats, setStats] = useLocalStorage('sanfran-questoes-stats', {
@@ -165,6 +173,13 @@ export function Questoes() {
   const nextQuestion = () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(currentIndex + 1);
+      resetState();
+    }
+  };
+
+  const prevQuestion = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
       resetState();
     }
   };
@@ -320,30 +335,42 @@ export function Questoes() {
                     {/* Navegação direta por número (discreta) */}
                     <div className="w-full md:w-auto md:mr-auto">
                       <div className="flex items-center gap-2">
-                        <input
-                          value={goToNumber}
-                          onChange={(e) => setGoToNumber(e.target.value.replace(/[^0-9]/g, ''))}
-                          onKeyDown={(e) => {
-                            if (e.key === 'Enter') {
-                              goToQuestionByNumber(goToNumber);
-                            }
-                          }}
-                          inputMode="numeric"
-                          placeholder="Ir p/ questão..."
-                          className="w-36 px-3 py-3 rounded-2xl border border-slate-200 bg-white text-sm font-bold text-slate-700 focus:outline-none focus:ring-2 focus:ring-crimson-500"
-                          title="Ir para uma questão específica (por número)"
-                        />
                         <button
-                          onClick={() => goToQuestionByNumber(goToNumber)}
-                          className="px-3 py-3 rounded-2xl border border-slate-200 bg-slate-50 text-sm font-black text-slate-700 hover:bg-slate-100"
-                          title="Ir"
+                          onClick={prevQuestion}
+                          disabled={currentIndex === 0}
+                          className="p-3 rounded-2xl border border-slate-200 bg-white text-slate-600 hover:bg-slate-50 disabled:opacity-30 disabled:cursor-not-allowed"
+                          title="Questão anterior"
                         >
-                          Ir
+                          <ChevronLeft size={18} />
+                        </button>
+
+                        <select
+                          value={goToNumber}
+                          onChange={(e) => {
+                            setGoToNumber(e.target.value);
+                            // muda imediatamente ao selecionar
+                            goToQuestionByNumber(e.target.value);
+                          }}
+                          className="w-28 px-3 py-3 rounded-2xl border border-slate-200 bg-white text-sm font-black text-slate-700 focus:outline-none focus:ring-2 focus:ring-crimson-500"
+                          title="Ir para uma questão específica"
+                        >
+                          <option value="">Ir p/...</option>
+                          {questionNumbers.map((n) => (
+                            <option key={n} value={String(n)}>
+                              {n}
+                            </option>
+                          ))}
+                        </select>
+
+                        <button
+                          onClick={nextQuestion}
+                          disabled={currentIndex >= questions.length - 1}
+                          className="p-3 rounded-2xl border border-slate-200 bg-white text-slate-600 hover:bg-slate-50 disabled:opacity-30 disabled:cursor-not-allowed"
+                          title="Próxima questão"
+                        >
+                          <ChevronRight size={18} />
                         </button>
                       </div>
-                      <p className="mt-1 text-[10px] text-slate-400">
-                        Dica: digite 1–90 e aperte Enter.
-                      </p>
                     </div>
 
                     <button

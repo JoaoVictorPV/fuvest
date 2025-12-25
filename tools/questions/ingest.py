@@ -96,6 +96,200 @@ def _normalize_spaces(s: str) -> str:
     return s.strip()
 
 
+def _looks_like_non_textual_option(text: str) -> bool:
+    """Heurística para quando a alternativa é essencialmente figura/fórmula.
+
+    Casos típicos:
+    - Notação matemática que vira caracteres quebrados
+    - Alternativa capturada como "(D)" / "50" / número solto
+    - Texto com proporção muito baixa de letras
+    """
+    t = _normalize_spaces(text)
+    if not t:
+        return True
+
+    # apenas letra/parenteses
+    if re.fullmatch(r"\(?[A-E]\)?", t):
+        return True
+
+    # apenas número curto (ex: "50")
+    if re.fullmatch(r"\d{1,3}", t):
+        return True
+
+    letters = sum(ch.isalpha() for ch in t)
+    ratio = letters / max(1, len(t))
+    # muitos símbolos matemáticos ou comparações
+    sym = sum(ch in "=<>∪∩±×÷*/^_" for ch in t)
+
+    if (len(t) > 12 and ratio < 0.35) or sym >= 3:
+        return True
+
+    # "Note e adote" é conteúdo de apoio (não alternativa)
+    if "note e adote" in t.lower():
+        return True
+
+    return False
+
+
+def _sanitize_option_text(text: str) -> str:
+    """Normaliza/limpa texto de alternativa.
+
+    Se o texto for ruim (equação/figura/caixa de aviso), devolve um placeholder único.
+    """
+    t = _normalize_spaces(text)
+
+    # corta "vazamentos" de blocos de referência ou avisos que às vezes
+    # entram no texto das alternativas.
+    for marker in ["TEXTO PARA AS QUEST", "TEXTO PARA AS QUESTÕES", "NOTE E ADOTE"]:
+        idx = t.upper().find(marker)
+        if idx >= 0:
+            t = t[:idx].strip()
+            break
+
+    if _looks_like_non_textual_option(t):
+        return "(Veja a imagem da questão)"
+
+    # remove lixo comum do fim: número de próxima questão (ex: "... 43")
+    t = re.sub(r"\s+\d{1,2}$", "", t).strip()
+    if not t:
+        return "(Veja a imagem da questão)"
+    return t
+
+
+def _parse_question_targets_from_text(text: str):
+    """Extrai números de questões a partir de textos do tipo:
+    - "TEXTO PARA AS QUESTÕES 58 E 59"
+    - "TEXTO PARA AS QUESTÕES DE 45 A 47"
+
+    Retorna lista de ints.
+    """
+    t = _normalize_spaces(text).upper()
+    nums = [int(n) for n in re.findall(r"\b(\d{1,2})\b", t)]
+    if not nums:
+        return []
+
+    # padrão com "DE X A Y"
+    m = re.search(r"\bDE\s+(\d{1,2})\s+A\s+(\d{1,2})\b", t)
+    if m:
+        a, b = int(m.group(1)), int(m.group(2))
+        if 1 <= a <= 90 and 1 <= b <= 90 and a <= b:
+            return list(range(a, b + 1))
+
+    # se tiver 2+ números, usa os números (ex: "58 e 59")
+    nums = [n for n in nums if 1 <= n <= 90]
+    # remove duplicados preservando ordem
+    seen = set()
+    out = []
+    for n in nums:
+        if n not in seen:
+            seen.add(n)
+            out.append(n)
+    return out
+
+
+def _extract_reference_blocks(doc: fitz.Document, dpi: int = 200):
+    """Extrai blocos de referência que valem para múltiplas questões.
+
+    Suporta:
+    - "TEXTO PARA AS QUESTÕES ..." (mapeado por número de questão)
+    - "TEXTO I/II/III/..." (mapeado por rótulo)
+
+    Retorno:
+      (by_qnum, by_label)
+      by_qnum: {qnum: [ {"page":int, "rect_pt":[x0,y0,x1,y1], "bbox_px":{x,y,w,h}, "title":str, "text":str} ]}
+      by_label: {"III": {"page":..., "rect_pt":..., "bbox_px":..., "title":..., "text":...}}
+    """
+    scale = dpi / 72.0
+    by_qnum = {}
+    by_label = {}
+
+    for i in range(len(doc)):
+        page = doc.load_page(i)
+        rect = page.rect
+        page_w = rect.width
+        page_h = rect.height
+        mid_x = page_w / 2.0
+
+        markers = _detect_question_markers_from_pdf_page(page)
+        # transforma em y0 por coluna
+        col_markers = []
+        for qnum, bbox in markers:
+            x0, y0, *_ = bbox
+            col = 0 if x0 < mid_x else 1
+            col_markers.append((col, qnum, y0))
+
+        blocks = page.get_text("blocks") or []
+        for b in blocks:
+            x0, y0, x1, y1, txt = b[0], b[1], b[2], b[3], b[4]
+            if not txt:
+                continue
+            t = _normalize_spaces(txt)
+            t_up = t.upper()
+
+            # --- Range: "TEXTO PARA AS QUESTÕES" ---
+            if "TEXTO PARA AS QUEST" in t_up:
+                targets = _parse_question_targets_from_text(t_up)
+                if not targets:
+                    continue
+
+                col = 0 if x0 < mid_x else 1
+                col_x0, col_x1 = (0, mid_x) if col == 0 else (mid_x, page_w)
+                # fim = próximo marcador abaixo no mesmo col
+                y_end = page_h
+                for c, qn, my0 in col_markers:
+                    if c == col and my0 > y0 and my0 < y_end:
+                        y_end = my0
+
+                rect_pt = [col_x0, y0, col_x1, y_end]
+                bbox_px = {
+                    "x": int(rect_pt[0] * scale),
+                    "y": int(rect_pt[1] * scale),
+                    "w": max(1, int((rect_pt[2] - rect_pt[0]) * scale)),
+                    "h": max(1, int((rect_pt[3] - rect_pt[1]) * scale)),
+                }
+                text_full = _normalize_spaces(page.get_text("text", clip=fitz.Rect(*rect_pt)))
+                title = _normalize_spaces(t.split("\n")[0])
+                ref_obj = {
+                    "page": i + 1,
+                    "rect_pt": rect_pt,
+                    "bbox_px": bbox_px,
+                    "title": title,
+                    "text": text_full,
+                }
+                for qn in targets:
+                    by_qnum.setdefault(qn, []).append(ref_obj)
+                continue
+
+            # --- Named: "TEXTO I/II/III" ---
+            m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", t_up)
+            if m and "TEXTO PARA" not in t_up:
+                label = m.group(1)
+                col = 0 if x0 < mid_x else 1
+                col_x0, col_x1 = (0, mid_x) if col == 0 else (mid_x, page_w)
+                y_end = page_h
+                # encerra no próximo marcador de questão (ou outro TEXTO) abaixo
+                for c, qn, my0 in col_markers:
+                    if c == col and my0 > y0 and my0 < y_end:
+                        y_end = my0
+                rect_pt = [col_x0, y0, col_x1, y_end]
+                bbox_px = {
+                    "x": int(rect_pt[0] * scale),
+                    "y": int(rect_pt[1] * scale),
+                    "w": max(1, int((rect_pt[2] - rect_pt[0]) * scale)),
+                    "h": max(1, int((rect_pt[3] - rect_pt[1]) * scale)),
+                }
+                text_full = _normalize_spaces(page.get_text("text", clip=fitz.Rect(*rect_pt)))
+                by_label[label] = {
+                    "page": i + 1,
+                    "rect_pt": rect_pt,
+                    "bbox_px": bbox_px,
+                    "title": f"TEXTO {label}",
+                    "text": text_full,
+                }
+
+    return by_qnum, by_label
+
+
 def extract_questions_from_page_image(image_path: str, year: int):
     """Extração multimodal (bboxes + stem + opções) por página.
 
@@ -523,6 +717,14 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
     if not lines:
         return None, None
 
+    # Heurística de layout:
+    # a coluna pode conter elementos "laterais" (ex: caixa cinza "Note e adote")
+    # que não devem entrar na extração de alternativas. Como as alternativas
+    # quase sempre começam alinhadas à esquerda, usamos a menor x0 como referência.
+    base_x0 = min(x for (x, _) in lines)
+    opt_x_max = base_x0 + 60
+    cont_x_max = base_x0 + 85
+
     # detecta alternativas pelas primeiras palavras da linha
     # aceita: "A", "A)", "A.", "(A)", "A-" etc
     opt_head_re = re.compile(r"^\(?([A-E])\)?\s*$")
@@ -530,6 +732,10 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
 
     opt_lines = []  # (idx_line, key, text_after)
     for i, (x0, txt) in enumerate(lines):
+        # ignora candidatos "muito à direita" (ex: caixas laterais)
+        if x0 > opt_x_max:
+            continue
+
         m = opt_inline_re.match(txt)
         if m:
             opt_lines.append((i, m.group(1), (m.group(2) or "").strip()))
@@ -567,10 +773,12 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
 
         # se a primeira linha era só "A", tentamos pegar o texto da(s) próxima(s) linha(s)
         for j in range(line_i + 1, end):
-            chunk.append(lines[j][1])
+            # ignora conteúdo fora do alinhamento (ex: "Note e adote" lateral)
+            if lines[j][0] <= cont_x_max:
+                chunk.append(lines[j][1])
 
         text = " ".join([c for c in chunk if c]).strip()
-        options_by_key[key] = text
+        options_by_key[key] = _sanitize_option_text(text)
 
     # validação: idealmente A..E e pelo menos 4 preenchidas.
     # Porém, para garantir 100% das questões no JSON sem quebrar o app,
@@ -584,7 +792,7 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
     # limpeza simples de espaços estranhos (NBSP etc)
     stem = re.sub(r"\s+", " ", stem.replace("\u00a0", " ")).strip()
     for opt in options:
-        opt["text"] = re.sub(r"\s+", " ", opt["text"].replace("\u00a0", " ")).strip()
+        opt["text"] = _sanitize_option_text(opt.get("text", ""))
 
     return stem, options
 
@@ -736,6 +944,123 @@ def crop_assets(questions, year, page_image_paths, bbox_index=None, padding=15):
             
     return questions
 
+
+def _dedupe_refs(refs):
+    seen = set()
+    out = []
+    for r in refs or []:
+        key = (
+            str(r.get("title") or ""),
+            int(r.get("page") or 0),
+            tuple(r.get("rect_pt") or []),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
+def _apply_refs_to_stem(stem: str, refs):
+    refs = _dedupe_refs(refs)
+    if not refs:
+        return stem
+
+    blocks = []
+    for r in refs:
+        title = _normalize_spaces(r.get("title") or "").strip()
+        text = _normalize_spaces(r.get("text") or "").strip()
+        if not text:
+            continue
+        if title:
+            blocks.append(f"{title}\n{text}")
+        else:
+            blocks.append(text)
+
+    if not blocks:
+        return stem
+
+    prefix = "\n\n".join(blocks)
+    return f"{prefix}\n\n{stem}" if stem else prefix
+
+
+def _crop_reference_image(page_image_paths, ref_obj, padding_px: int = 14):
+    """Recorta o bloco de referência a partir da imagem da página (renderizada)."""
+    page_idx = int(ref_obj.get("page", 0)) - 1
+    bbox = ref_obj.get("bbox_px") or {}
+    if page_idx < 0 or page_idx >= len(page_image_paths):
+        return None
+    if not all(k in bbox for k in ["x", "y", "w", "h"]):
+        return None
+
+    try:
+        with Image.open(page_image_paths[page_idx]) as img:
+            img_w, img_h = img.size
+            x = max(0, int(bbox["x"]) - padding_px)
+            y = max(0, int(bbox["y"]) - padding_px)
+            w = min(img_w - x, int(bbox["w"]) + (padding_px * 2))
+            h = min(img_h - y, int(bbox["h"]) + (padding_px * 2))
+            cropped = img.crop((x, y, x + w, y + h))
+            return _auto_trim_whitespace(cropped, pad=12)
+    except Exception:
+        return None
+
+
+def _combine_images_vertical(images, gap: int = 16, bg=(255, 255, 255)):
+    imgs = [im for im in (images or []) if im is not None]
+    if not imgs:
+        return None
+    w = max(im.width for im in imgs)
+    h = sum(im.height for im in imgs) + gap * (len(imgs) - 1)
+    canvas = Image.new("RGB", (w, h), bg)
+    y = 0
+    for im in imgs:
+        x = (w - im.width) // 2
+        canvas.paste(im, (x, y))
+        y += im.height + gap
+    return canvas
+
+
+def apply_reference_assets(questions, year: int, page_image_paths):
+    """Se a questão tiver refs, cria um PNG composto (refs + questão) e sobrescreve o asset."""
+    for q in questions:
+        refs = q.get("_references") or []
+        refs = _dedupe_refs(refs)
+        if not refs:
+            continue
+
+        asset_url = q.get("asset_path") or q.get("assets", {}).get("questionImage")
+        if not asset_url:
+            continue
+
+        # caminho local do asset atual
+        local_path = os.path.join(PROJECT_ROOT, "public", asset_url.lstrip("/"))
+        if not os.path.exists(local_path):
+            continue
+
+        try:
+            with Image.open(local_path) as base_img:
+                base_img = base_img.convert("RGB")
+                ref_imgs = []
+                for r in refs:
+                    ri = _crop_reference_image(page_image_paths, r)
+                    if ri is not None:
+                        ref_imgs.append(ri.convert("RGB"))
+
+                if not ref_imgs:
+                    continue
+
+                composed = _combine_images_vertical([*ref_imgs, base_img], gap=18)
+                if composed is None:
+                    continue
+
+                composed = _auto_trim_whitespace(composed, pad=10)
+                composed.save(local_path, "PNG")
+        except Exception as e:
+            print(f"[WARN] Falha ao compor imagem com refs (Q{q.get('number')}): {e}", flush=True)
+
+    return questions
+
 def extract_gabarito(gabarito_pdf_path):
     """Extrai gabarito de gXX.pdf.
 
@@ -861,6 +1186,17 @@ def main():
     # - Quando o texto do PDF estiver corrompido (ex: Fuvest 2021), substituímos por
     #   placeholders e garantimos que o aluno consiga resolver pela IMAGEM recortada.
     doc = fitz.open(pdf_path)
+
+    # --- Blocos de referência (texto base para múltiplas questões) ---
+    # Ex:
+    # - "TEXTO PARA AS QUESTÕES 58 E 59" (range)
+    # - "TEXTO III" (rótulo)
+    # O objetivo é garantir que nenhuma questão fique "sem o texto".
+    try:
+        refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
+    except Exception as e:
+        print(f"[WARN] Falha ao extrair blocos de referência: {e}", flush=True)
+        refs_by_qnum, refs_by_label = {}, {}
     all_questions = []
     garbled_count = 0
 
@@ -882,12 +1218,28 @@ def main():
             if not (opt.get("text") or "").strip():
                 opt["text"] = "(Veja a imagem da questão)"
 
+        # --- Aplica referências ao enunciado + marca para compor asset ---
+        refs = []
+        refs.extend(refs_by_qnum.get(qnum, []) or [])
+
+        # Caso "Texto III" mencionado no enunciado: tenta anexar o bloco correspondente.
+        # Ex: "No texto III, ..."
+        m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", (stem or "").upper())
+        if m:
+            label = m.group(1)
+            if label in refs_by_label:
+                refs.append(refs_by_label[label])
+
+        if refs:
+            stem = _apply_refs_to_stem(stem, refs)
+
         all_questions.append({
             "number": qnum,
             "page": info["page"],
             "bbox": info["bbox"],
             "stem": stem,
             "options": options,
+            "_references": refs,
         })
 
     doc.close()
@@ -896,6 +1248,12 @@ def main():
 
     # Recorte sempre determinístico (com auto-trim pós-recorte).
     questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
+
+    # Se existirem blocos de referência para a questão, compomos um PNG:
+    # [referência 1]
+    # [referência 2]
+    # [questão]
+    questions_with_assets = apply_reference_assets(questions_with_assets, args.year, page_images)
     
     gabarito_path = os.path.join(PROVAS_DIR, f"g{str(args.year)[-2:]}.pdf")
     gabarito = extract_gabarito(gabarito_path) if os.path.exists(gabarito_path) else {}
@@ -942,6 +1300,10 @@ def main():
                 q['explanation'] = prev_exp
             if prev_q.get('tags'):
                 q['tags'] = prev_q.get('tags')
+        # remove metadata interna (não faz parte do schema público)
+        if "_references" in q:
+            q.pop("_references", None)
+
         q['assets'] = {"questionImage": q.pop('asset_path', None)}
         final_questions.append(q)
         
