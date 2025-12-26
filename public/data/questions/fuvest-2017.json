@@ -4,7 +4,7 @@
     "provaPdf": "p17.pdf",
     "gabaritoPdf": "g17.pdf"
   },
-  "generatedAt": "2025-12-25T23:07:40.593415",
+  "generatedAt": "2025-12-25T23:19:24.190082",
   "questions": [
     {
       "number": 1,
@@ -451,16 +451,22 @@
       "id": "fuvest-2017-q08",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto aborda a complexa questão da tradução literária, focando na distinção entre uma fidelidade mecânica e uma fidelidade interpretativa ou 'criativa'. No campo da teoria da tradução, há um debate fundamental sobre como um tradutor deve abordar uma obra: reproduzindo-se palavra por palavra (tradução literal) ou recriando-a de forma a capturar seu espírito, estilo e peculiaridades, mesmo que isso demande desvios da forma original (tradução adaptada, livre ou interpretativa). O autor do texto, Boris Schnaiderman, um renomado tradutor de Dostoiévski, posiciona-se claramente a favor da segunda abordagem. Ele argumenta que o tradutor deve 'penetrar nas peculiaridades da linguagem primeira', utilizando sua 'criatividade orientada pelo original' para, paradoxalmente, 'afastar-se do texto para ficar mais próximo deste'. Essa perspectiva sugere que a verdadeira fidelidade não reside na mera reprodução exata da superfície textual, mas na capacidade de apreender e transmitir a essência da obra, o que pode, inclusive, exigir 'transgredir sem receio, quando necessário, as normas do “escrever bem”' da língua-alvo.",
+        "steps": [
+          "1. **Compreensão do Enunciado**: O enunciado apresenta um texto de Boris Schnaiderman sobre a tradução literária de Dostoiévski. O cerne da discussão é a melhor abordagem para traduzir uma obra complexa, como a de Dostoiévski.",
+          "2. **Identificação da Tese do Autor**: O autor claramente se opõe à 'fidelidade mecânica, frase por frase'. Em vez disso, ele propõe que o tradutor deve 'penetrar nas peculiaridades da linguagem primeira', aplicar-se com afinco e usar sua 'criatividade orientada pelo original'.",
+          "3. **Análise do Paradoxo Central**: A frase 'afastar-se do texto para ficar mais próximo deste' é crucial. Ela indica que a verdadeira fidelidade não é literal, mas sim uma busca pela essência, que pode exigir uma 'transgressão' das normas superficiais ou de estilo na língua de chegada ('transgredindo sem receio, quando necessário, as normas do “escrever bem”').",
+          "4. **Síntese da Abordagem Proposta**: A tradução ideal, segundo o texto, é aquela que, embora criativa e interpretativa, é profundamente orientada pelo original e busca uma 'boa margem de fidelidade' através da apreensão de sua essência e não de sua forma rígida. A 'transgressão' é apresentada como um meio para um fim: alcançar uma fidelidade mais profunda.",
+          "5. **Inferência da Alternativa Correta (B)**: Como as opções textuais não foram fornecidas, inferimos que a alternativa correta (B) deve sintetizar a ideia de que a tradução literária eficaz requer uma abordagem criativa e interpretativa que, embora orientada pelo original, afasta-se da literalidade quando necessário para capturar a verdadeira essência e o espírito do texto, permitindo até mesmo desvios das normas estilísticas da língua-alvo para atingir essa fidelidade mais profunda."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa estaria incorreta se defendesse uma abordagem de tradução que prioriza a fidelidade mecânica ou a transposição palavra por palavra. O texto explicitamente rejeita a 'fidelidade mecânica, frase por frase', argumentando que ela é insuficiente para capturar as 'peculiaridades da linguagem primeira' e alcançar uma verdadeira proximidade com o original. A ideia de que um tradutor deve se afastar do texto para ficar mais próximo dele contradiz a noção de uma tradução meramente literal.",
+          "B": "Esta é a alternativa correta. Presume-se que a opção B articule a tese central do texto: a tradução literária de qualidade exige uma abordagem criativa e interpretativa, profundamente orientada pelo texto original, que permita ao tradutor 'afastar-se do texto para ficar mais próximo deste'. Isso implica a capacidade de transgredir normas formais ou estilísticas da língua de chegada ('transgredindo sem receio, quando necessário, as normas do “escrever bem”') para melhor transmitir a essência, o estilo e o impacto do original, buscando uma 'boa margem de fidelidade' que transcende a literalidade.",
+          "C": "Esta alternativa estaria errada se sugerisse que a criatividade do tradutor deve ter primazia absoluta sobre o texto original, levando a uma adaptação livre que negligencie a orientação do original. O texto enfatiza que a criatividade deve ser 'orientada pelo original', ou seja, não é um voo livre do tradutor, mas uma ferramenta para atingir a fidelidade ao texto-fonte de forma mais profunda.",
+          "D": "Esta alternativa seria incorreta se afirmasse que o principal objetivo do tradutor é sempre seguir rigorosamente as normas gramaticais e estilísticas da língua de destino. O texto explicitamente advoga a possibilidade de 'transgredir sem receio, quando necessário, as normas do “escrever bem”' em prol de uma fidelidade mais autêntica e profunda ao original. A fluência na língua de chegada é importante, mas não deve ser um impedimento para a captura da essência do texto-fonte.",
+          "E": "Esta alternativa estaria incorreta se apresentasse a tradução literária como uma tarefa inerentemente impossível ou fadada à perda inevitável, sem reconhecer a metodologia que o texto propõe para alcançar a 'boa margem de fidelidade'. O texto não discute a inviabilidade da tradução, mas sim a complexidade e a necessidade de uma abordagem específica e sofisticada para que ela seja bem-sucedida, justamente superando as limitações da mera literalidade."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão aborda a visão de Boris Schnaiderman sobre a tradução literária, que defende uma 'fidelidade criativa' – um paradoxo em que o tradutor se afasta da literalidade para se aproximar da essência do texto original, mesmo que isso implique transgredir normas para garantir a verdadeira ressonância da obra."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q08/image.png"
@@ -504,16 +510,21 @@
       "id": "fuvest-2017-q09",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto de Boris Schnaiderman aborda a complexa arte da tradução literária, com um foco particular na obra de Dostoiévski. A principal tese defendida é que a verdadeira fidelidade a um texto original não se alcança por meio de uma transposição literal ou 'mecânica', frase por frase. Pelo contrário, o tradutor deve se aprofundar nas peculiaridades da linguagem original, utilizando sua criatividade para uma interpretação que, paradoxalmente, pode exigir um 'afastamento' do texto para se aproximar de sua essência. Schnaiderman sugere que o original deve ser tratado como um 'conjunto de blocos a serem transpostos' e que o tradutor não deve hesitar em 'transgredir sem receio, quando necessário, as normas do “escrever bem”' para preservar o espírito e o estilo do autor original na língua de chegada. Isso sublinha uma visão da tradução como um ato de recriação e não apenas de reprodução, valorizando a interpretação e a sensibilidade do tradutor acima da literalidade rígida.",
+        "steps": [
+          "**1. Compreender a essência do texto-base:** Analisar o trecho de Boris Schnaiderman para identificar sua argumentação principal sobre a tradução. O autor defende uma abordagem não-literal, que prioriza a criatividade e a interpretação do tradutor para capturar a essência da obra original, mesmo que isso signifique 'afastar-se' da fidelidade mecânica ou 'transgredir' normas estabelecidas.",
+          "**2. Identificar os conceitos-chave:** Destacar termos e ideias centrais como 'fidelidade mecânica', 'criatividade orientada pelo original', 'paradoxo de afastar-se do texto para ficar mais próximo', 'conjunto de blocos a serem transpostos' e 'transgredir sem receio as normas do “escrever bem”'.",
+          "**3. Relacionar o texto com as implicações da tradução:** Entender que o texto sugere uma flexibilidade e uma profunda imersão do tradutor na obra, valorizando o espírito sobre a letra. A tradução é vista como um processo dinâmico e interpretativo.",
+          "**4. Atenção à ausência de informações:** **ATENÇÃO ALUNO!** É fundamental notar que, para resolver esta questão (e as questões 7 e 8, se forem do mesmo tipo), é indispensável ter acesso ao enunciado da pergunta e ao conteúdo das alternativas (A-E). As informações fornecidas neste JSON sobre as opções são 'Veja a imagem da questão', o que significa que o texto exato da pergunta e das alternativas está faltando. Sem elas, a análise específica da resposta 'A' e dos distratores é impossível. Os passos listados acima são gerais para a compreensão do texto, mas não levam à solução da questão específica sem o seu enunciado."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'A' é indicada como a correta. Embora não tenhamos o conteúdo explícito da alternativa 'A', podemos inferir, com base no texto de Schnaiderman, que ela provavelmente reforça a ideia de que uma tradução eficaz de uma obra complexa exige que o tradutor vá além da fidelidade estrita ao texto, empregando criatividade e interpretação para capturar o espírito e as peculiaridades da linguagem do autor original, mesmo que isso implique em certa 'transgressão' da forma. Uma resposta correta estaria alinhada com a valorização da compreensão profunda e da reinterpretação para alcançar uma fidelidade maior.",
+          "B": "Devido à ausência do enunciado da questão e do conteúdo da alternativa 'B', não é possível fornecer uma explicação precisa. No entanto, uma alternativa 'B' incorreta, em questões baseadas neste texto, geralmente apresentaria uma visão de tradução excessivamente literal, que desconsidera a necessidade de criatividade, interpretação ou a possibilidade de 'transgressão' das normas de 'bom escrever' para manter a essência do original. Poderia, por exemplo, defender a tradução palavra por palavra como a única forma de fidelidade.",
+          "C": "Sem o enunciado da questão e o conteúdo da alternativa 'C', não é possível explicar detalhadamente por que ela estaria incorreta. Uma alternativa 'C' errada poderia, por exemplo, contradizer a ideia do 'paradoxo de afastar-se do texto para ficar mais próximo', sugerindo que qualquer afastamento do original resulta em infidelidade, ou que o tradutor deve sempre priorizar as normas da língua de chegada, mesmo que isso comprometa o estilo do autor original.",
+          "D": "Sem o enunciado da questão e o conteúdo da alternativa 'D', não é possível explicar precisamente por que ela estaria incorreta. Uma alternativa 'D' incorreta poderia focar em aspectos secundários da tradução ou interpretar erroneamente a noção de 'conjunto de blocos a serem transpostos', talvez sugerindo uma fragmentação sem coesão ou uma liberdade excessiva que desconsidera a 'criatividade orientada pelo original'.",
+          "E": "Sem o enunciado da questão e o conteúdo da alternativa 'E', não é possível explicar precisamente por que ela estaria incorreta. Uma alternativa 'E' errada poderia distorcer a ideia de 'transgredir sem receio', sugerindo uma licença para o tradutor inventar ou alterar o sentido do original, ou, inversamente, poderia argumentar que tais transgressões são sempre inaceitáveis, contrariando a tese de Schnaiderman sobre a necessidade de adaptabilidade em busca da fidelidade profunda."
         },
-        "finalSummary": ""
+        "finalSummary": "O texto de Schnaiderman argumenta que a verdadeira fidelidade na tradução de obras complexas como a de Dostoiévski reside na criatividade e interpretação do tradutor, que pode exigir um afastamento da literalidade para se aproximar da essência do original. A análise completa da questão é impossível devido à ausência do seu enunciado e das alternativas textuais."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q09/image.png"
@@ -557,16 +568,21 @@
       "id": "fuvest-2017-q10",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver questões de interpretação textual baseadas em excertos literários, como o trecho do 'CAPÍTULO LIII' fornecido, é fundamental mobilizar conhecimentos de Análise Textual e Literária. Isso inclui: \n1.  **Compreensão de Texto**: Capacidade de extrair informações explícitas e implícitas, identificar o tema central e as ideias secundárias.\n2.  **Análise de Discurso e Estilo**: Observar a linguagem utilizada (formal, informal, figurada), a voz narrativa (em primeira ou terceira pessoa, onisciente, observador), as características dos personagens (psicologia, motivações) e os recursos estilísticos (metáforas, comparações, ironia).\n3.  **Contexto Histórico-Literário**: Reconhecer o autor e a obra (no caso, a menção a Virgília e 'meia dobra' sugere 'Memórias Póstumas de Brás Cubas' de Machado de Assis), o que ativa o conhecimento sobre o movimento literário (Realismo brasileiro), suas características (crítica social, ironia, análise psicológica) e o panorama da época.\n\nSem o enunciado completo da questão e o conteúdo das alternativas, a teoria específica a ser aplicada (se é sobre o narrador, sobre Virgília, sobre a metáfora das plantas, ou sobre o estilo machadiano) não pode ser determinada com precisão. O trecho em si aborda a concentração de Virgília no narrador e uma reflexão sobre a rapidez do crescimento de algumas 'plantas', possivelmente uma metáfora para sentimentos ou acontecimentos.",
+        "steps": [
+          "1.  **Leitura Atenta do Texto-Base**: O primeiro passo para qualquer questão de interpretação é ler cuidadosamente o trecho fornecido. No texto, observa-se a descrição de Virgília 'concentrada em mim, nos meus olhos, na minha vida, no meu pensamento', seguida de uma comparação com 'umas plantas que nascem e crescem depressa'. A atenção deve estar no que é dito sobre Virgília e na implicação dessa comparação.",
+          "2.  **Compreensão do Enunciado da Questão**: Este é um passo crucial que, infelizmente, não pode ser executado, pois o enunciado completo da questão 10 está ausente ('Veja a imagem da questão'). Sem o comando da questão, é impossível saber qual aspecto específico do texto deve ser analisado ou qual tipo de resposta é esperado (interpretação direta, inferência, análise estilística, etc.).",
+          "3.  **Análise Crítica das Alternativas**: Com o enunciado e o texto-base compreendidos, a próxima etapa seria analisar cada alternativa (A, B, C, D, E) individualmente. Para a alternativa correta (B), deveríamos verificar se ela responde de forma precisa e completa ao que foi pedido, se é coerente com as informações do texto e se não apresenta distorções ou extrapolações. Para as alternativas incorretas, deveríamos identificar os motivos de seu erro (informação falsa, interpretação equivocada, distorção do sentido, extrapolação, etc.). Contudo, sem o conteúdo das alternativas, esta etapa é inviável.",
+          "4.  **Seleção da Resposta Correta (B)**: A alternativa 'B' foi indicada como a correta. Em uma situação completa, teríamos que justificar por que essa alternativa é a que melhor se adequa ao enunciado e ao texto, demonstrando sua validade e a invalidade das demais. A ausência do conteúdo textual de 'B' impede essa justificativa detalhada."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'A' não pode ser analisada ou explicada como distratora, pois o seu conteúdo textual não foi fornecido ('Veja a imagem da questão'). Em geral, distratores buscam confundir o aluno apresentando informações parcialmente corretas, generalizações indevidas ou interpretações que, embora plausíveis à primeira vista, não se sustentam em uma análise mais aprofundada do texto ou do comando da questão.",
+          "B": "A alternativa 'B' é a resposta correta da questão. No entanto, sem o seu conteúdo textual, não é possível detalhar os argumentos que a tornam a escolha certa. Tipicamente, a alternativa correta em questões de literatura articula de forma precisa e fiel a uma interpretação do texto, uma característica do estilo, uma inferência lógica ou a identificação de um elemento solicitado pelo enunciado, sempre com respaldo no trecho apresentado.",
+          "C": "O conteúdo textual da alternativa 'C' está ausente ('Veja a imagem da questão'), impossibilitando qualquer análise sobre o porquê de ela ser uma alternativa incorreta. As alternativas erradas em vestibulares frequentemente incluem erros de interpretação, informações que não estão no texto, ou inferências que não podem ser comprovadas a partir do excerto fornecido.",
+          "D": "Sem o conteúdo textual da alternativa 'D' ('Veja a imagem da questão'), é impossível determinar os motivos de sua incorreção. As alternativas distratoras podem apresentar conceitos que contradizem o texto, que extrapolam as informações contidas nele, ou que se referem a aspectos irrelevantes ou secundários que não respondem à questão central.",
+          "E": "A alternativa 'E' não pode ser analisada como incorreta, pois seu conteúdo textual não foi fornecido ('Veja a imagem da questão'). Um distrator comum seria uma alternativa que distorce o sentido original do trecho, ou que, embora use palavras do texto, as combina de forma a gerar uma ideia diferente da pretendida pelo autor ou pelo narrador."
         },
-        "finalSummary": ""
+        "finalSummary": "Apesar da impossibilidade de uma análise específica devido à ausência do enunciado e das alternativas, a resolução de questões de interpretação literária exige uma leitura crítica do texto, a compreensão exata do comando da questão e a avaliação rigorosa de cada opção, fundamentando a escolha da resposta correta no trecho fornecido."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q10/image.png"
@@ -610,16 +626,21 @@
       "id": "fuvest-2017-q11",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Em questões de interpretação textual que envolvem a análise de estilo, ritmo ou tom narrativo, é fundamental atentar para as figuras de linguagem, as escolhas vocabulares e a construção sintática do período. O narrador, ao descrever uma situação, pode utilizar metáforas e comparações para transmitir não apenas o fato em si, mas também a intensidade, a duração ou a forma como esse fato se manifesta. No caso específico de Machado de Assis, a precisão na escolha de palavras e a profundidade das analogias são traços marcantes, exigindo do leitor uma análise atenta para captar as sutilezas da mensagem. A metáfora vegetal, por exemplo, pode evocar ideias de crescimento, vitalidade, mas também de espontaneidade e, por vezes, incontrolabilidade.",
+        "steps": [
+          "1. **Identificação do \"último período do texto\"**: O enunciado pede para focarmos no ritmo que o narrador imprime ao relato de seus amores no \"último período do texto\". O trecho fornecido é: \"Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa; d d l\". O último período é: \"Há umas plantas que nascem e crescem depressa; d d l\".",
+          "2. **Análise da metáfora e do ritmo**: Neste período, o narrador utiliza a metáfora de \"plantas que nascem e crescem depressa\" para descrever algo (implicita e contextualmente, a paixão ou o desenvolvimento do relacionamento com Virgília). O termo \"depressa\" e a própria imagem de crescimento rápido e desimpedido (reforçada pela interrupção abrupta 'd d l', que sugere continuidade e falta de controle) denotam um ritmo de intensidade, velocidade, espontaneidade e ausência de restrições ou freios. O \"d d l\" pode ser interpretado como um recurso que mimetiza a rápida expansão ou uma interrupção que acentua a ideia de algo que não se pode conter.",
+          "3. **Avaliação das alternativas**: Com base na análise do ritmo (rapidez, intensidade, falta de controle), devemos comparar cada alternativa, que representa uma citação de outras partes do texto maior (referenciadas pelas linhas L. XX-YY, não fornecidas em seu contexto completo, mas tomadas aqui como expressões prontas para análise).",
+          "4. **Conexão com a alternativa correta**: A alternativa que melhor capta a essência de \"nascem e crescem depressa\" é aquela que denota a mesma ausência de controle e a mesma intensidade. \"Paixão sem freio\" (alternativa D) expressa exatamente essa ideia de um sentimento avassalador, que se desenvolve rapidamente e sem restrições."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa “prólogo de uma vida de delícias” (L. 13 14) sugere um início promissor e prazeroso. Embora possa descrever o contexto do amor, não foca no *ritmo* de desenvolvimento rápido e incontrolável que a metáfora das plantas \"que nascem e crescem depressa\" evoca. É uma descrição do tipo de início, não da sua velocidade ou intensidade.",
+          "B": "A alternativa “prazeres que rematavam em dor” (L. 14 15) descreve o resultado ou a consequência dos prazeres, ou seja, um desfecho doloroso. O foco está na dualidade prazer-dor e no final da experiência, e não no *ritmo* com que a paixão se desenvolveu ou na sua intensidade durante o crescimento, conforme sugerido pelo último período.",
+          "C": "A alternativa “hipocrisia paciente e sistemática” (L. 16) apresenta um ritmo completamente oposto ao que o narrador imprime. \"Paciente\" e \"sistemática\" implicam lentidão, cálculo e controle, o que contradiz diretamente a ideia de algo que \"nasce e cresce depressa\" e sem freios.",
+          "D": "A alternativa “paixão sem freio” (L. 17) é a que melhor se alinha com o ritmo descrito no último período. A expressão \"sem freio\" denota a ausência de controle, a intensidade e a rapidez de desenvolvimento, características perfeitamente compatíveis com a imagem das plantas que \"nascem e crescem depressa\" e que se expandem de forma desimpedida. Esta opção captura a essência da metáfora utilizada pelo narrador.",
+          "E": "A alternativa “o livro daquele prólogo” (L. 21 22) faz referência à continuação ou à totalidade da história, após o seu início (prólogo). No entanto, não expressa o *ritmo* ou a *intensidade* do desenvolvimento da paixão em si, mas sim a sua progressão narrativa ou o volume da experiência, sem especificar a forma como essa progressão se deu em termos de velocidade ou controle."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a interpretação do ritmo narrativo expresso por uma metáfora vegetal, onde o crescimento rápido e desimpedido das plantas simboliza a intensidade e a ausência de controle da paixão, diretamente correspondendo à ideia de uma 'paixão sem freio'."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q11/image.png"
@@ -663,16 +684,22 @@
       "id": "fuvest-2017-q12",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Figuras de linguagem são recursos estilísticos empregados para tornar a expressão mais rica, vívida e impactante. No estudo da literatura e para vestibulares como a Fuvest, é crucial dominar o reconhecimento e a diferenciação entre elas. Abaixo, as definições das figuras apresentadas nas alternativas, essenciais para a resolução desta questão:\n\n*   **Alegoria:** Conforme a própria alternativa C define, é uma 'sequência de metáforas logicamente ordenadas'. Em termos mais amplos, a alegoria representa ideias abstratas por meio de personagens, ações, eventos ou objetos concretos, formando um sentido conotativo mais profundo e estendido. Ela opera como uma narrativa ou descrição que possui um significado literal, mas que também aponta para um significado simbólico subjacente.\n*   **Metonímia:** Consiste na substituição de um termo por outro, com base em uma relação de contiguidade ou proximidade, como o autor pela obra ('li Clarice Lispector'), a parte pelo todo ('cem cabeças de gado'), ou o continente pelo conteúdo ('bebeu um copo').\n*   **Hipérbole:** Caracteriza-se pelo exagero intencional de uma ideia ou expressão, com o objetivo de intensificar o sentido e a emoção ('estou morrendo de fome').\n*   **Sinestesia:** É a figura que associa diferentes sentidos humanos (visão, audição, tato, olfato, paladar) em uma única expressão, gerando sensações combinadas ('cheiro doce', 'silêncio gritante').\n*   **Prosopopeia (ou Personificação):** Atribui características e ações humanas (sentimentos, fala, comportamentos) a seres inanimados, animais ou conceitos abstratos ('o vento uivava', 'a lua me observava').",
+        "steps": [
+          "Leia atentamente o trecho fornecido: 'Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa;'.",
+          "Analise a estrutura do trecho. A primeira parte descreve a intensa e total absorção de Virgília pelo narrador. A segunda parte, introduzida por 'Há', faz uma observação aparentemente genérica sobre a natureza ('umas plantas que nascem e crescem depressa;').",
+          "Identifique a relação entre essas duas partes. A observação sobre as plantas não é uma digressão aleatória; ela serve como uma *comparação implícita* para a rapidez e a intensidade com que a atenção ou os sentimentos de Virgília pelo narrador se desenvolvem ou se estabelecem. O crescimento rápido das plantas funciona como um símbolo ou uma metáfora para a vivacidade do sentimento ou da situação descrita.",
+          "Compare essa construção textual com as definições das figuras de linguagem oferecidas nas alternativas. Perceba que a comparação não é um exagero pontual (hipérbole), nem uma atribuição de características humanas a plantas (prosopopeia), nem uma fusão de sentidos (sinestesia), nem uma troca de termos por contiguidade (metonímia).",
+          "A comparação que se estabelece, ao usar o fenômeno do crescimento das plantas para simbolizar a intensidade e a rapidez do envolvimento de Virgília, age como uma metáfora estendida. Quando metáforas são 'logicamente ordenadas' para construir um sentido simbólico mais amplo e abstrato (como a natureza avassaladora de um sentimento), estamos diante de uma alegoria. Mesmo em um trecho curto, a sugestão de um paralelismo simbólico estendido é clara, tornando a alegoria o recurso predominante."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A metonímia envolve a substituição de um termo por outro com base em uma relação de proximidade ou contiguidade. O trecho não apresenta esse tipo de substituição. A frase sobre as plantas não substitui um elemento da concentração de Virgília, mas serve para ilustrar metaforicamente sua natureza, não por contiguidade, mas por analogia.",
+          "B": "A hipérbole é a figura do exagero intencional. Embora a concentração de Virgília seja descrita como muito intensa ('toda ela estava concentrada em mim...'), a frase sobre as plantas ('Há umas plantas que nascem e crescem depressa;') não é um exagero. Pelo contrário, ela introduz uma comparação simbólica, não uma intensificação por meio do exagero. Assim, a hipérbole não é o recurso predominante.",
+          "C": "Correto. O texto emprega a alegoria ao utilizar a imagem das 'plantas que nascem e crescem depressa' para simbolizar a rapidez e a intensidade da concentração ou dos sentimentos de Virgília pelo narrador. Essa comparação não é apenas uma metáfora isolada; ela estabelece um paralelismo simbólico que se estende para além do sentido literal, conectando o fenômeno natural ao estado psicológico. A própria definição oferecida na alternativa ('sequência de metáforas logicamente ordenadas') se alinha perfeitamente com a forma como o autor usa o crescimento das plantas como um símbolo para a vivacidade e o desenvolvimento do que Virgília sente, construindo um sentido figurado mais profundo e contínuo.",
+          "D": "A sinestesia é a figura que mistura diferentes sentidos em uma única expressão (ex: 'cores quentes', 'som doce'). O trecho não combina sensações de diferentes sentidos humanos. A descrição da concentração de Virgília e a comparação com as plantas não envolvem essa fusão sensorial.",
+          "E": "A prosopopeia (ou personificação) atribui características humanas a seres inanimados ou animais. No trecho, as plantas são descritas apenas em sua capacidade natural de 'nascer e crescer depressa', sem que lhes sejam atribuídos sentimentos, pensamentos, falas ou outras ações tipicamente humanas. Portanto, não há personificação neste caso."
         },
-        "finalSummary": ""
+        "finalSummary": "O trecho estabelece uma alegoria ao usar a metáfora das 'plantas que nascem e crescem depressa' para simbolizar a rapidez e intensidade do envolvimento emocional de Virgília, conectando logicamente um fenômeno natural a um estado psicológico e construindo um sentido simbólico estendido."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q12/image.png"
@@ -716,16 +743,21 @@
       "id": "fuvest-2017-q13",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A obra 'Vidas Secas', de Graciliano Ramos, publicada em 1938, é um marco do modernismo brasileiro e da literatura regionalista. Ela retrata a dura realidade dos retirantes nordestinos, como Fabiano e sua família, que vivem à margem da sociedade, explorados e oprimidos pelas condições climáticas, pelos latifundiários e pelo Estado. A revolta de Fabiano, descrita no texto, é um sentimento individual, contido e genérico, que representa a insatisfação social latente dos trabalhadores rurais do Nordeste. A questão busca identificar um movimento social posterior à publicação do livro que canalizou essa revolta em uma expressão coletiva, militante e organizada, com foco nas causas sociais e econômicas que afligiam esses camponeses.",
+        "steps": [
+          "Analise o trecho de 'Vidas Secas': Observe que Fabiano sente uma raiva contida e genérica, dirigida a elementos que representam a opressão (campina seca, patrão, soldados, agentes da prefeitura). Essa raiva é uma manifestação individual da injustiça social.",
+          "Compreenda o cerne da pergunta: A questão pede um movimento que transformou essa revolta individual em uma 'expressão coletiva militante e organizada', especificamente 'em época posterior à publicação de Vidas secas' (1938).",
+          "Avalie as opções com base na cronologia e no caráter dos movimentos: Cada alternativa apresenta um movimento ou figura histórica brasileira. É crucial identificar o período de atuação e a natureza (religiosa, militar, camponesa, etc.) de cada um para verificar se corresponde aos critérios de tempo ('posterior a 1938') e tipo de organização ('coletiva militante e organizada' com foco em questões agrárias/sociais).",
+          "Identifique o movimento que se encaixa: As Ligas Camponesas surgiram e ganharam força no Nordeste nas décadas de 1950 e 1960, após a publicação de 'Vidas Secas', e tinham como objetivo a luta pela reforma agrária e pelos direitos dos trabalhadores rurais, canalizando as tensões sociais descritas na obra."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "O movimento carismático de Juazeiro do Norte, liderado pelo Padre Cícero, teve seu apogeu no final do século XIX e início do século XX. Embora mobilizasse grandes massas populares no Nordeste, seu caráter era predominantemente religioso e político-local, e sua relevância como movimento de organização camponesa militante para a reforma agrária era limitada, além de ser anterior ou contemporâneo ao período retratado em 'Vidas Secas', não posterior à sua publicação.",
+          "B": "As Ligas Camponesas, sob a liderança de Francisco Julião, ganharam proeminência a partir da segunda metade da década de 1950 e início dos anos 1960, no Nordeste do Brasil. Este movimento se organizou para lutar pela reforma agrária, melhores condições de vida e trabalho para os camponeses, transformando a revolta individual em uma ação coletiva, militante e estruturada. Sua atuação é, portanto, posterior à publicação de 'Vidas Secas' (1938) e representa a canalização das frustrações sociais dos Fabianos em um movimento organizado.",
+          "C": "O Cangaço, liderado por Virgulino Ferreira da Silva (Lampião), atuou principalmente entre as décadas de 1920 e 1930. Embora os cangaceiros fossem figuras de contestação à ordem estabelecida e, para alguns, símbolos de resistência, o cangaço era essencialmente um fenômeno de banditismo social, sem um programa político ou uma organização militante e coletiva voltada para as reivindicações camponesas, além de ser cronologicamente anterior ou contemporâneo à publicação do livro, não posterior.",
+          "D": "O movimento messiânico de Canudos, conduzido por Antônio Conselheiro, ocorreu no final do século XIX (1893-1897). Foi um movimento de cunho religioso-popular que contestava a República e a miséria, mas é significativamente anterior à publicação de 'Vidas Secas' e não se enquadra na exigência de um movimento 'posterior' ao livro.",
+          "E": "A Coluna Prestes foi um movimento militar-político de tenentistas que percorreu o interior do Brasil entre 1925 e 1927. Embora tivesse ideais de reforma política e social e tenha tido contato com populações rurais, não era uma 'expressão coletiva militante e organizada' especificamente de camponeses em busca de terra ou direitos agrários no Nordeste e, crucialmente, é anterior à publicação de 'Vidas Secas'."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a compreensão da cronologia dos movimentos sociais brasileiros e a capacidade de relacionar a crítica social de uma obra literária a uma organização coletiva que a representou historicamente."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q13/image.png"
@@ -769,16 +801,21 @@
       "id": "fuvest-2017-q14",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o romance 'Mayombe', de Pepetela, que se insere no contexto da literatura africana de língua portuguesa pós-independência. A obra narra a experiência de um grupo de guerrilheiros do MPLA (Movimento Popular de Libertação de Angola) na floresta de Mayombe durante a luta pela independência de Angola. Os temas centrais do livro são a guerra, a luta armada, os dilemas ideológicos, as relações humanas complexas dentro do movimento revolucionário e a relação do homem com a natureza. Um dos personagens mais marcantes é o Comandante Sem Medo, que personifica as contradições e os conflitos internos da revolução: a necessidade de sacrifício individual em prol do coletivo, a valorização da camaradagem versus as diferenças pessoais, o peso da liderança e a reflexão sobre o futuro do país e da própria identidade dos combatentes.",
+        "steps": [
+          "1. Compreenda o contexto da questão: O enunciado pede a interpretação dos paralelos estabelecidos entre aspectos da natureza e da vida humana dentro do romance 'Mayombe'. Isso exige conhecimento da obra, seus personagens e temas principais.",
+          "2. Relembre os temas centrais de 'Mayombe': A obra de Pepetela é rica em discussões sobre o indivíduo e o coletivo, a liderança, a luta armada e a própria identidade dos revolucionários. A natureza (a floresta de Mayombe) não é apenas um cenário, mas frequentemente serve como metáfora ou espelho para as tensões humanas.",
+          "3. Analise o dilema do Comandante Sem Medo: Ele é um personagem complexo, constantemente dividido entre suas reflexões pessoais, sua valorização do indivíduo e a exigência de engajamento total em um projeto coletivamente definido pela revolução. Essa tensão é um dos eixos narrativos mais importantes do livro.",
+          "4. Avalie as opções dadas (A, B e C, cujos textos são fornecidos no próprio 'stem' da questão) e, por exclusão e por conformidade com o conhecimento da obra, identifique a alternativa que melhor se encaixa na interpretação proposta. Como as alternativas D e E não tiveram seus textos integralmente fornecidos, a análise se restringe às três primeiras."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. O Comandante Sem Medo é a figura central que encarna o dilema entre a individualidade (seus pensamentos, dúvidas, angústias) e a exigência de submissão aos ideais e ao projeto coletivo da revolução. Os paralelos com a natureza frequentemente espelham ou amplificam essa tensão interna, mostrando como o ambiente selvagem e imponente da floresta pode ser um cenário para a reflexão sobre a própria condição humana e revolucionária. A natureza, com sua imponência e leis próprias, pode ser vista como um 'terreno' para a manifestação e o confronto dessas dualidades existenciais e políticas.",
+          "B": "Esta alternativa sugere uma 'dificuldade de aceder ao plano do raciocínio abstrato, típica da atitude pragmática do militante revolucionário'. Embora haja pragmatismo na guerrilha, o romance de Pepetela é marcado justamente por intensas reflexões filosóficas e debates ideológicos entre os militantes, inclusive sobre o futuro de Angola, a natureza da revolução e o papel de cada um. Os personagens não se limitam a uma atitude meramente pragmática; há muita abstração e idealismo envolvidos. Portanto, essa caracterização é imprecisa em relação ao retrato dos guerrilheiros de Mayombe e não reflete adequadamente os paralelos com a natureza.",
+          "C": "Esta opção propõe uma 'figuração da harmonia que reina no mundo natural, em contraste com as dissensões que caracterizam as relações humanas, notadamente nas zonas urbanizadas'. Embora a natureza possa evocar uma certa 'ordem' ou 'harmonia', o contraste no livro não é simplisticamente com as 'zonas urbanizadas'. A floresta de Mayombe é o cenário principal, onde as dissensões humanas ocorrem intensamente. O foco não é na oposição cidade-natureza, mas nas complexas relações e nos conflitos ideológicos e pessoais dentro do próprio acampamento guerrilheiro, muitas vezes espelhados ou contrastados com a dureza e a indiferença da natureza, que é mais um palco de sobrevivência do que de pura harmonia. Além disso, a ideia de uma 'harmonia' reinante na natureza é uma visão romantizada que não se alinha totalmente com a representação muitas vezes hostil e indiferente do ambiente em 'Mayombe'.",
+          "D": "O texto completo da alternativa D não foi fornecido na questão. Portanto, não é possível analisar e justificar por que estaria errada. Contudo, em questões de literatura como esta, uma alternativa incorreta geralmente distorce um tema, um personagem ou um evento da obra, ou propõe uma interpretação que não encontra respaldo no texto.",
+          "E": "O texto completo da alternativa E não foi fornecido na questão. Portanto, não é possível analisar e justificar por que estaria errada. Assim como na alternativa D, uma opção incorreta provavelmente apresentaria uma leitura equivocada ou uma generalização inadequada sobre a obra 'Mayombe'."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a compreensão aprofundada de 'Mayombe' e a identificação do dilema existencial do Comandante Sem Medo, que articula a tensão entre o indivíduo e o coletivo, sendo os paralelos com a natureza um espelho dessa complexidade."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q14/image.png"
@@ -822,16 +859,23 @@
       "id": "fuvest-2017-q15",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O trecho apresentado é rico em figuras de linguagem e descrições que exploram a dualidade e a complexidade da condição humana. Para questões que envolvem interpretação de texto como esta, é fundamental identificar os principais núcleos semânticos e as relações de sentido estabelecidas entre eles. Neste caso, o texto descreve uma vida marcada por contradições extremas (prazeres que viram dor, aflições que viram alegria), pela hipocrisia como 'freio' de uma paixão 'sem freio', e por um ciclo de agitações e remorsos que se repetem. A capacidade de perceber antíteses, paradoxos e a natureza cíclica e ambivalente da vida retratada é crucial.",
+        "steps": [
+          "Leia atentamente o trecho, focando nas palavras-chave e nas relações de contraste e oposição.",
+          "Identifique os pares de ideias opostas: 'delícias' e 'terrores/remorsos', 'prazeres que rematavam em dor', 'aflições que desabrochavam em alegria'. Perceba que a vida é descrita como um amálgama desses extremos.",
+          "Analise a função da 'hipocrisia paciente e sistemática' como 'único freio de uma paixão sem freio', notando a tensão entre controle (hipocrisia) e descontrole (paixão).",
+          "Observe a metáfora da 'hora que pagava à farta e de sobra' sendo 'engolida' por 'outra hora' que deixa 'à tona as agitações e o resto'. Isso indica um ciclo de altos e baixos, onde os momentos positivos são efêmeros e substituídos por um estado de agitação e sofrimento persistente.",
+          "Sintetize a característica predominante da vida descrita: é uma vida de intensa ambivalência, contradição e instabilidade emocional, onde os extremos se sucedem e se anulam, mantendo um estado de inquietação.",
+          "Como as opções da questão não foram fornecidas no enunciado, a análise das alternativas (passo final) deve ser feita buscando aquela que melhor resume ou interpreta essa natureza ambivalente, contraditória e cíclica da vida. A alternativa correta (D) provavelmente abordaria essa complexidade de forma precisa."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A estaria incorreta se sugerisse uma vida de estabilidade, de felicidade ininterrupta ou de sofrimento contínuo, pois o texto evidencia uma constante alternância e mistura de sentimentos opostos. A descrição do trecho é de uma vida marcada pela inconstância e pela fusão de extremos.",
+          "B": "A alternativa B seria inadequada se restringisse a descrição da vida a um único aspecto, como apenas a 'hipocrisia' ou apenas a 'paixão', sem considerar a interação complexa entre eles e os demais elementos (prazeres, dores, agitações, remorsos). O trecho claramente apresenta uma visão multifacetada e contraditória.",
+          "C": "A alternativa C estaria errada se interpretasse o 'freio' da hipocrisia como uma solução efetiva ou um controle absoluto sobre a paixão. O texto indica que a paixão é 'sem freio' e que a hipocrisia é o 'único freio' em um contexto de agitações e desesperos, sugerindo que esse controle é tênue e a vida permanece caótica e contraditória. Além disso, se sugerisse uma progressão linear de sentimentos, ignoraria o ciclo de 'engolir' momentos.",
+          "D": "Assumindo que a alternativa D seja a correta, ela provavelmente descreve a vida retratada no excerto como um amálgama de extremos opostos, uma existência marcada pela dualidade, pela inconstância emocional e por um ciclo incessante de sentimentos contraditórios que se sucedem e se anulam. A vida é 'hipócrita' e 'apaixonada', com 'prazeres que rematavam em dor' e 'aflições que desabrochavam em alegria', culminando em um padrão cíclico onde a 'agitação' e os 'restos' prevalecem. A alternativa D, portanto, seria a que melhor capta essa natureza paradoxal e instável.",
+          "E": "A alternativa E estaria incorreta se propusesse uma interpretação simplista ou moralista da vida descrita, ignorando a profundidade das contradições e a ambivalência dos sentimentos. Por exemplo, se afirmasse que a hipocrisia é puramente negativa ou que a paixão é sempre destrutiva, sem reconhecer a complexidade e a interdependência desses elementos na construção da identidade e da experiência de vida do indivíduo no texto."
         },
-        "finalSummary": ""
+        "finalSummary": "O trecho descreve uma vida de intensa dualidade e contradição, onde emoções opostas se sucedem em um ciclo incessante de instabilidade e agitação."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q15/image.png"
@@ -875,16 +919,20 @@
       "id": "fuvest-2017-q16",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o tema dos biomas e sua distribuição geográfica, com foco nas florestas pluviais tropicais. Essas florestas, como a da região de Mayombe em Angola e a Floresta Amazônica no Brasil, são características de baixas latitudes (próximas ao Equador), onde prevalecem climas quentes e úmidos, com chuvas abundantes e bem distribuídas ao longo do ano. Essa combinação de fatores climáticos favorece o desenvolvimento de uma vegetação exuberante, densa e com grande variedade de espécies, incluindo árvores de grande porte. O conceito de zonas climáticas e a correspondência entre condições climáticas e tipos de vegetação são fundamentais para resolver a questão.",
+        "steps": [
+          "1. **Analise as características da região de Mayombe:** O enunciado descreve Mayombe como uma região montanhosa em Angola, com floresta pluvial densa, rica em árvores de grande porte, e localizada em baixa latitude (4°40’S). Essas características apontam para um clima equatorial ou tropical úmido.",
+          "2. **Relacione as características de Mayombe com o bioma correspondente:** A descrição se encaixa perfeitamente nas características de uma floresta tropical pluvial (ou equatorial), um bioma de alta biodiversidade e biomassa, típico de regiões intertropicais com elevada pluviosidade e temperaturas.",
+          "3. **Avalie cada alternativa comparando-a com as informações e o conhecimento geográfico:** Analise se cada afirmação é coerente com a distribuição global das florestas pluviais, as características climáticas e vegetacionais do Brasil na mesma faixa latitudinal, e a geografia geral do continente africano."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta porque as florestas pluviais (equatoriais) não predominam na maior parte do continente africano. Embora a África abrigue a segunda maior floresta tropical do mundo (Bacia do Congo), a maior parte do continente é dominada por biomas como savanas, desertos (Saara ao norte, Kalahari e Namibe ao sul) e estepes. As florestas pluviais estão concentradas na região equatorial, na faixa costeira ocidental e na bacia do Congo, não circundando a maior parte das áreas de savana e deserto.",
+          "B": "Esta alternativa apresenta duas afirmações incorretas. Primeiro, florestas pluviais ocorrem, sim, em áreas montanhosas em diversas partes do mundo tropical, sendo frequentemente chamadas de florestas de montanha ou florestas nebulosas (como nas encostas dos Andes, no Sudeste Asiático, em outras regiões da África). Segundo, afirmar que 'esse tipo de floresta não ocorre em outras áreas do mundo' é um erro crasso, pois as florestas pluviais são um dos biomas mais vastos e importantes, presentes na América do Sul (Amazônia), América Central, Sudeste Asiático, e outras partes da África, tanto em relevos planos quanto em encostas montanhosas.",
+          "C": "Esta é a alternativa correta. A latitude de 4°40’S é uma baixa latitude, próxima ao Equador. No Brasil, nessa mesma faixa latitudinal (especialmente entre 0° e 10°S), encontra-se a Floresta Amazônica, que é o maior exemplo de floresta pluvial tropical do mundo. A Floresta Amazônica é caracterizada por ser densa, rica em árvores de grande porte e com grande biodiversidade, exatamente como descrito para Mayombe. Portanto, a vegetação é, de fato, muito semelhante devido às condições climáticas e geográficas análogas.",
+          "D": "Esta alternativa está incorreta. Na faixa latitudinal de 4°40’S no Brasil, localiza-se a Floresta Amazônica, uma região de baixas altitudes (em sua maior parte), clima equatorial úmido e vegetação densa. Não há regiões áridas ou de altas altitudes predominantes nessa faixa no Brasil. Regiões áridas no Brasil (como o Sertão Nordestino) estão em latitudes um pouco mais elevadas e são caracterizadas pela Caatinga, não por altas altitudes e ervas rasteiras predominantes.",
+          "E": "Esta alternativa é falsa em várias de suas afirmações. Primeiro, florestas pluviais tropicais não ocorrem 'só no hemisfério sul'. Elas são encontradas tanto no Hemisfério Sul (Amazônia, bacia do Congo) quanto no Hemisfério Norte (partes da América Central, Sudeste Asiático, África Ocidental). Segundo, o regime de chuvas e as altas temperaturas são características das zonas tropicais e equatoriais como um todo, não exclusivas do Hemisfério Sul. Terceiro, afirmar que 'ocupam todo tipo de relevo' é uma generalização incorreta; embora possam ocorrer em áreas montanhosas, sua distribuição é limitada por fatores como altitude extrema e outras variações climáticas e pedológicas que podem impedir seu desenvolvimento pleno ou modificar sua estrutura."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre a distribuição das florestas pluviais tropicais, evidenciando a semelhança vegetacional entre regiões de diferentes continentes localizadas na mesma faixa latitudinal e sob condições climáticas análogas de calor e umidade."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q16/image.png"
@@ -928,16 +976,21 @@
       "id": "fuvest-2017-q17",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Barroco é um estilo artístico que floresceu na Europa entre os séculos XVII e XVIII, especialmente impulsionado pela Contrarreforma Católica. Em um período de incertezas e conflitos religiosos, a Igreja Católica buscou reafirmar sua fé e poder, utilizando a arte como uma ferramenta poderosa para tocar os fiéis. A arquitetura, em particular a de igrejas, tornou-se um palco grandioso para a manifestação dessa estética. As características principais incluem: \n\n1.  **Integração das Artes:** A fusão de arquitetura, escultura e pintura (e até mesmo música e elementos teatrais) para criar um ambiente cenográfico e imersivo.\n2.  **Dramatismo e Emoção:** A busca por surpreender, comover e maravilhar o observador, utilizando contrastes de luz e sombra, movimento, volumes exagerados e expressividade.\n3.  **Grandiosidade e Opulência:** A ostentação de riqueza e poder, com o uso de materiais nobres, ornamentação profusa e proporções monumentais, tudo para celebrar a glória divina e a preeminência da Igreja.\n4.  **Ilusionismo:** A criação de efeitos visuais que expandem o espaço e geram uma sensação de infinito, muitas vezes através de afrescos no teto que parecem romper a estrutura. \n\nO objetivo era envolver o fiel de maneira total, assaltando seus sentidos e direcionando-o para a fé, reforçando a autoridade e o esplendor da instituição eclesiástica.",
+        "steps": [
+          "**Análise da afirmação I:** A afirmação \"Unem se, no edifício, diferentes artes, para assaltar de uma vez os sentidos, de modo que o público não possa escapar\" descreve com precisão uma característica fundamental do Barroco. A fusão de arquitetura, escultura e pintura (conhecida como 'arte total' ou 'Gesamtkunstwerk' em alemão) era uma estratégia deliberada para criar uma experiência sensorial e emocional avassaladora, envolvendo o espectador de forma inescapável na narrativa religiosa e no esplendor divino. Portanto, a afirmação I é correta.",
+          "**Análise da afirmação II:** A afirmação \"O arquiteto procurava surpreender o observador, suscitando nele uma reação forte de maravilhamento\" também é uma descrição exata do intento barroco. O 'maravilhamento' era um sentimento-chave que se buscava evocar. Através de formas dinâmicas, jogos de luz e sombra, contrastes dramáticos e efeitos ilusionistas (como o trompe l'oeil), os arquitetos e artistas barrocos visavam chocar e impressionar, instigando uma profunda admiração e reverência nos fiéis. Portanto, a afirmação II é correta.",
+          "**Análise da afirmação III:** A afirmação \"A arquitetura e a ornamentação dos templos deviam encenar, entre outras coisas, a preeminência da Igreja\" reflete o papel político e doutrinário do Barroco, especialmente no contexto da Contrarreforma. A monumentalidade, a riqueza dos materiais, a profusão decorativa e as grandiosas representações visavam celebrar a glória da fé e a autoridade da Igreja Católica, projetando sua preeminência e poder sobre o mundo terreno e espiritual. A igreja barroca era, de fato, um palco para essa encenação. Portanto, a afirmação III é correta.",
+          "**Conexão com a questão:** Como todas as três afirmações (I, II e III) são intrinsecamente características da arquitetura e da estética do Barroco, e considerando que a questão pede para analisar como um poema de Drummond registra reações ao que se encontra registrado nessas afirmações, a alternativa correta deve ser aquela que engloba todas elas. Embora o poema de Drummond e as alternativas completas não estejam disponíveis nesta versão da questão (indicadas como 'Veja a imagem da questão'), a análise das afirmações isoladas nos permite concluir que todas são válidas para o contexto barroco. Assim, se o poema de Drummond, conforme indicado pela alternativa correta 'E', reflete essas reações, ele deve abordar a totalidade da experiência barroca, que inclui a fusão das artes, o maravilhamento e a celebração da preeminência da Igreja."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa estaria incorreta porque, embora a afirmação I seja uma característica do Barroco, o estilo abrange também as outras dimensões expressas nas afirmações II e III. Reduzir a experiência barroca apenas à fusão das artes (I) seria uma visão incompleta.",
+          "B": "Esta alternativa estaria incorreta porque, embora a afirmação II seja uma característica marcante do Barroco (o maravilhamento), o estilo não se limita a ela. A fusão das artes (I) e a encenação da preeminência da Igreja (III) são igualmente cruciais para a compreensão da estética barroca.",
+          "C": "Esta alternativa estaria incorreta porque, apesar das afirmações II (maravilhamento) e III (preeminência da Igreja) serem corretas e importantes para o Barroco, ela omite a afirmação I (união das artes), que é fundamental para a criação da experiência totalizante e imersiva proposta pelo estilo.",
+          "D": "Esta alternativa estaria incorreta porque, embora as afirmações I (união das artes) e III (preeminência da Igreja) sejam corretas e essenciais para o Barroco, ela ignora a afirmação II (maravilhamento), que é central para a forma como o estilo buscava impactar emocionalmente o observador e o fiel.",
+          "E": "Esta alternativa é a correta. Todas as três afirmações (I, II e III) descrevem aspectos fundamentais e interligados da arquitetura e da estética barroca. A união das artes (I) é o meio pelo qual se busca surpreender e maravilhar (II) o observador, tudo com o propósito maior de encenar e celebrar a preeminência da Igreja (III). Portanto, a experiência plena do Barroco engloba todos esses elementos."
         },
-        "finalSummary": ""
+        "finalSummary": "A arquitetura barroca buscava uma experiência totalizante e multissensorial, integrando diversas artes para surpreender e maravilhar o observador, ao mesmo tempo em que encenava o poder e a preeminência da Igreja Católica."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q17/image.png"
@@ -981,16 +1034,21 @@
       "id": "fuvest-2017-q18",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Modernismo Brasileiro, em sua primeira fase (aproximadamente de 1922 a 1930), foi um movimento de ruptura e busca por uma identidade nacional autêntica. Seus principais 'valores' e características incluíram:\n\n1.  **Nacionalismo Crítico e Revalorização Cultural**: Buscava-se uma cultura genuinamente brasileira, livre da submissão a modelos europeus. Isso implicava em olhar para as raízes do país, valorizando sua história, folclore, arte popular, arte colonial (como o Barroco) e manifestações indígenas e africanas. O passado brasileiro era visto como fonte de inspiração e matéria-prima para a construção de uma nova estética.\n2.  **Linguagem Inovadora**: Ruptura com a gramática tradicional e o academicismo. Preferência pelo verso livre, pela linguagem coloquial e oral, pela incorporação de neologismos, gírias e regionalismos, aproximando a literatura da fala do povo brasileiro.\n3.  **Antiacademicismo e Anti-parnasianismo**: Crítica às formas rígidas, ao purismo da linguagem e à artificialidade estética do Parnasianismo e do Simbolismo.\n4.  **Uso do Humor, da Ironia e do Cotidiano**: A abordagem de temas do dia a dia e a crítica social eram frequentemente temperadas com humor e ironia.\n5.  **Antropofagia Cultural**: Proposta de 'degustar' a cultura estrangeira e 'digeri-la' para produzir algo original e autenticamente brasileiro, sem mimetismo.\n\nA questão solicita a identificação de um aspecto do poema que manifesta a persistência de um desses valores modernistas da década de 1920. É fundamental ter em mente que o Modernismo não foi um bloco monolítico, mas apresentou diversas vertentes e ênfases, todas, no entanto, gravitando em torno da construção de uma identidade nacional.",
+        "steps": [
+          "**1. Compreensão do Enunciado**: O enunciado pede para identificar um 'valor' do Modernismo da década de 1920 que se manifesta em um poema não apresentado. O foco é na 'persistência' de um valor modernista. Isso significa que a alternativa correta deve descrever uma característica que era fundamental para a primeira fase do Modernismo.",
+          "**2. Relembrar os Valores do Modernismo (1ª Fase)**: Mentalize ou revise as principais bandeiras e características do Modernismo de 1922, como a busca pela identidade nacional, a revalorização do passado e da cultura brasileira, a liberdade formal, o uso da linguagem coloquial, o antiacademicismo e a antropofagia.",
+          "**3. Análise das Alternativas (Inferidas)**: Como as opções não foram fornecidas no texto e são indicadas como 'Veja a imagem da questão', vamos inferir suas prováveis formulações com base no gabarito e no contexto do vestibular Fuvest, que frequentemente explora esses temas. Assumimos que a alternativa 'D' corresponde a 'interesse pelo passado da arte no Brasil' e as demais a suas formulações mais comuns. Em seguida, avaliamos quão bem cada inferência se alinha com os valores modernistas e qual delas representa o valor mais forte ou central exigido pela questão.",
+          "**4. Comparação e Escolha da Melhor Alternativa**: Compare as alternativas entre si e com os princípios modernistas. Algumas alternativas podem ser características do movimento, mas talvez não representem um 'valor' tão central ou persistente quanto outras, ou podem ser mais específicas do que o valor mais abrangente que a questão busca."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa (provavelmente) 'destaque dado às características regionais' representa, de fato, um aspecto presente no Modernismo, que buscou explorar as particularidades culturais e geográficas do Brasil. No entanto, o regionalismo era frequentemente um meio para se chegar a uma compreensão mais ampla da identidade nacional. Embora seja uma característica modernista, a valorização do 'passado da arte no Brasil' (alternativa D) representa uma busca mais profunda e programática por alicerces para uma cultura e estética genuinamente brasileiras, indo além de um mero destaque geográfico para uma reavaliação histórica e cultural. Se o poema se concentrasse apenas em um 'destaque' regional sem aprofundar essa busca por raízes, a alternativa D seria mais abrangente e fundamental.",
+          "B": "A alternativa (provavelmente) 'uso da variante oral popular da linguagem' é, sem dúvida, um traço marcante e inovador do Modernismo de 1920, que buscou romper com o formalismo e a gramática normativa para se aproximar da fala do povo brasileiro. É um 'valor' no sentido da liberdade formal e da autenticidade linguística. Contudo, a alternativa D ('interesse pelo passado da arte no Brasil') aborda a dimensão do *conteúdo* e da *fonte de inspiração* para a construção de uma identidade artística. Ambas são importantes, mas o 'interesse pelo passado da arte' era essencial para definir *o que* era brasileiro artisticamente, enquanto a variante oral popular definia *como* expressá-lo. A reavaliação do passado cultural e artístico era um projeto mais amplo de fundação de uma nova estética nacional.",
+          "C": "A alternativa (provavelmente) 'elogio do sincretismo religioso' não é um 'valor' central e universalmente afirmado pelo Modernismo de 1920 como um todo, embora o sincretismo possa aparecer como tema em obras específicas que exploram a diversidade cultural brasileira (como em 'Macunaíma', de Mário de Andrade, que dialoga com diversas matrizes culturais e religiosas). Não representa, contudo, um dos pilares ou uma bandeira programática do movimento da mesma forma que a busca pela identidade nacional ou a revalorização do passado cultural.",
+          "D": "A alternativa (provavelmente) 'interesse pelo passado da arte no Brasil' está **correta**. Este é um dos pilares fundamentais do Modernismo da década de 1920. Os modernistas buscavam uma identidade cultural e artística autenticamente brasileira, e para isso era essencial olhar para dentro, para o próprio passado do país. Isso envolvia a reavaliação e valorização de manifestações artísticas brasileiras que haviam sido, até então, subvalorizadas ou ignoradas em favor de modelos europeus, como a arte colonial (Barroco mineiro), as artes populares, indígenas e africanas. Figuras como Mário de Andrade, com suas pesquisas sobre folclore, música e arte brasileira, exemplificam perfeitamente essa busca por fontes nacionais para a criação de uma nova estética.",
+          "E": "A alternativa (provavelmente) 'delineamento do poema em feitio de oração' descreve uma escolha estilística ou formal muito específica. Embora o Modernismo tenha promovido a liberdade formal e a ruptura com padrões rígidos, a elaboração de poemas 'em feitio de oração' não constitui um 'valor' central ou uma diretriz programática do movimento como um todo. É uma particularidade que pode aparecer em algumas obras, mas não representa um dos fundamentos do Modernismo da década de 1920."
         },
-        "finalSummary": ""
+        "finalSummary": "O Modernismo da década de 1920, em sua busca por uma identidade nacional, revalorizou profundamente o passado cultural e artístico brasileiro como alicerce para uma nova estética e uma expressão genuinamente nacional."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q18/image.png"
@@ -1034,16 +1092,22 @@
       "id": "fuvest-2017-q19",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a interpretação de um texto científico-jornalístico que descreve um experimento sobre o comportamento de plantas. Para resolvê-la, é fundamental a leitura atenta do excerto, a identificação da metodologia experimental e, principalmente, a compreensão das conclusões que os pesquisadores tiraram a partir dos resultados observados. O foco é discernir as informações explícitas e implícitas do texto, evitando extrapolações ou a inclusão de conceitos não mencionados.",
+        "steps": [
+          "Leia cuidadosamente o texto para identificar o tema central e o objetivo do experimento com as plantas de ervilha.",
+          "Analise o delineamento experimental: as plantas tiveram suas raízes divididas entre dois vasos, um com níveis constantes de nutrientes e outro com níveis variáveis, mas com a mesma média de nutrientes.",
+          "Observe os resultados do experimento: quando os níveis de nutrientes eram baixos, as plantas preferiam o vaso imprevisível; quando os nutrientes eram abundantes, preferiam o vaso constante.",
+          "Interprete a conclusão principal que pode ser extraída desses resultados. As escolhas das plantas variaram de acordo com as condições ambientais (disponibilidade de nutrientes).",
+          "Avalie cada alternativa, comparando-a rigorosamente com as informações fornecidas no texto para verificar sua validade como conclusão do experimento."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa distorce uma informação inicial do texto. O texto menciona que as plantas 'remember when you touch them', mas não elabora sobre 'gestos humanos agressivos' nem sobre qualquer experimento relacionado a essa interação humana. O foco do experimento descrito está na tomada de decisão em relação aos nutrientes.",
+          "B": "Esta alternativa contradiz diretamente a primeira frase do texto, que afirma que as plantas tomam decisões 'all without brains or complex nervous systems'.",
+          "C": "O experimento descrito no texto focou na variação dos 'níveis de nutrientes' no solo, e não na 'umidade do solo' ou na 'tolerância à umidade'. Portanto, essa conclusão não pode ser tirada do experimento relatado.",
+          "D": "Esta é a alternativa correta. O texto descreve claramente que as plantas de ervilha 'preferiram' o vaso imprevisível quando os nutrientes eram baixos e o vaso constante quando os nutrientes eram abundantes. Isso demonstra uma 'capacidade de escolhas adaptativas conforme o meio' (neste caso, a disponibilidade de nutrientes), um comportamento flexível em resposta às condições ambientais.",
+          "E": "O texto não faz menção ao 'processo de florescimento' nem descreve o comportamento das plantas nesse contexto. O experimento se concentra na distribuição das raízes em resposta à disponibilidade de nutrientes. Além disso, a ideia de 'comportamento previsível' não captura a nuance das 'decisões de risco' e da adaptação às condições variáveis que o texto enfatiza."
         },
-        "finalSummary": ""
+        "finalSummary": "As plantas de ervilha demonstraram um comportamento complexo e adaptativo, modificando suas 'escolhas' sobre onde desenvolver raízes em resposta direta e estratégica às diferentes condições de disponibilidade de nutrientes no ambiente."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q19/image.png"
@@ -1087,16 +1151,22 @@
       "id": "fuvest-2017-q20",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O fragmento da questão remete a 'Memórias Póstumas de Brás Cubas', de Machado de Assis, uma obra seminal do Realismo brasileiro. Nela, o narrador-personagem, Brás Cubas, narra sua vida 'depois de morto' (defunto autor), o que lhe confere uma perspectiva cínica, desiludida e irônica sobre os fatos, as pessoas e, principalmente, sobre si mesmo. Um dos pilares da obra é a exploração do tédio existencial, do 'fastio' e da 'saciedade' que se seguem a qualquer entusiasmo ou conquista, inclusive no campo amoroso. O 'verme' da melancolia e da desilusão corrói as vontades e os projetos de Brás Cubas, transformando sua trajetória em um ciclo de animação efêmera e enfado inevitável. Os amores com Virgília, sua principal paixão adúltera, são um exemplo cabal dessa dinâmica, ilustrando como o fervor inicial se dissipa na rotina e no desencanto.",
+        "steps": [
+          "1. **Análise do Trecho**: Leia cuidadosamente o fragmento que descreve o 'livro' dos amores de Brás Cubas e Virgília. Observe a linguagem metafórica utilizada para expressar a natureza efêmera e cíclica desses amores: 'sobra', 'agonia', 'enfado', 'agitações', 'resto do resto', e, crucialmente, 'o fastio e a saciedade'.",
+          "2. **Identificação de Conceitos-Chave**: A expressão 'o fastio e a saciedade' é central. Ela condensa a ideia de que o entusiasmo e a paixão iniciais são sempre seguidos por uma sensação de exaustão, tédio e completa satisfação que leva ao desinteresse.",
+          "3. **Contextualização na Obra**: Conecte essa descrição dos amores de Brás Cubas com o contexto mais amplo de 'Memórias Póstumas de Brás Cubas'. Lembre-se que o 'fastio' (tédio, aborrecimento) e a 'saciedade' (excesso, satisfação plena) são temas recorrentes na trajetória do protagonista. A vida de Brás Cubas é marcada por um ciclo de efêmeros momentos de animação, seguidos por uma volta ao tédio e à inércia, sem que nada realmente o preencha de forma duradoura.",
+          "4. **Aplicação aos Amores com Virgília**: Avalie como essa dinâmica se aplica especificamente ao relacionamento com Virgília. Apesar de ser um amor proibido e intenso, o trecho indica que ele também segue a mesma lógica de início fervoroso e posterior esvaziamento, culminando no 'fastio e a saciedade', demonstrando que nem mesmo a paixão mais ardente escapa à regra geral de sua vida.",
+          "5. **Inferência da Alternativa Correta**: Considerando que a alternativa correta é a B e sem ter o texto exato das alternativas (que aparecem como '(Veja a imagem da questão)'), infere-se que a opção B deve descrever essa sequência típica de entusiasmo e enfado, que é uma marca da vida e da perspectiva de Brás Cubas no romance, conforme o trecho e o contexto geral da obra."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "O texto da alternativa A não está disponível ('(Veja a imagem da questão)'). No entanto, uma alternativa incorreta comum para questões sobre Machado de Assis seria desviar para o Naturalismo, sugerindo que a relação amorosa demonstra uma tese naturalista (fundamento biológico). Embora o Realismo/Naturalismo compartilhe o rigor científico e a observação social, Machado se distingue pelo aprofundamento psicológico e pela ironia, não se limitando a determinismos biológicos brutos.",
+          "B": "O texto da alternativa B não está disponível ('(Veja a imagem da questão)'). Contudo, sabendo que é a alternativa correta, ela provavelmente afirma que o 'livro' dos amores de Brás Cubas e Virgília configura uma 'versão mais intensa e prolongada da típica sequência de animação e enfado, característica da trajetória de Brás Cubas'. Esta interpretação é plenamente suportada pelo trecho que menciona 'agitações' e, em seguida, 'o fastio e a saciedade', encapsulando a dinâmica de efêmero entusiasmo seguido pelo tédio e desilusão, central na personalidade do protagonista e na filosofia pessimista da obra.",
+          "C": "O texto da alternativa C não está disponível ('(Veja a imagem da questão)'). Uma alternativa incorreta poderia, por exemplo, associar a obra a uma mera 'incorporação, ao romance realista, dos triângulos amorosos, cuja criação se dera durante o período romântico'. Embora haja um triângulo amoroso (Brás, Virgília e Lobo Neves), a obra de Machado não apenas 'incorpora' elementos românticos, mas os reelabora com uma perspectiva realista, crítica e desprovida do sentimentalismo idealizador do Romantismo, focando na análise psicológica e nas convenções sociais.",
+          "D": "O texto da alternativa D não está disponível ('(Veja a imagem da questão)'). Uma alternativa incorreta poderia, por exemplo, focar exclusivamente na 'manifestação da liberdade que a condição de defunto autor dava a Brás Cubas, permitindo-lhe tratar de assuntos proibidos em sua época'. Embora a condição de 'defunto autor' realmente confira uma notável liberdade narrativa e temática, a questão pede o que o 'livro' dos amores 'configura' no contexto da obra, ou seja, qual seu significado temático e simbólico, e não apenas o recurso formal que o viabiliza. A liberdade narrativa é um meio para expor essa desilusão, não o fim em si da descrição do amor.",
+          "E": "O texto da alternativa E não está disponível ('(Veja a imagem da questão)'). Uma alternativa incorreta poderia, por exemplo, sugerir que o trecho é uma 'crítica à devassidão que grassava entre as famílias da elite do Império, em particular, na Corte'. Embora o romance de Machado de Assis critique a hipocrisia social e a moral da elite carioca, a descrição dos amores de Brás e Virgília no trecho dado foca mais na experiência interna do protagonista ('fastio e saciedade') e na inevitabilidade do desencanto, do que numa crítica moral explícita da sociedade. A crítica social é um pano de fundo, mas o foco do trecho é a psicologia de Brás."
         },
-        "finalSummary": ""
+        "finalSummary": "O 'livro' dos amores de Brás Cubas e Virgília, conforme o trecho, sintetiza a essência da experiência vital do protagonista, marcada pela transitoriedade do entusiasmo e pela inevitável chegada do 'fastio e da saciedade', um tema central da filosofia pessimista em 'Memórias Póstumas de Brás Cubas'."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q20/image.png"
@@ -1140,16 +1210,22 @@
       "id": "fuvest-2017-q21",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão avalia a capacidade de leitura e interpretação de textos científicos, especificamente a extração de informações pontuais e a compreensão de resultados experimentais. É fundamental identificar as condições específicas mencionadas no enunciado e correlacioná-las com os achados descritos no texto. A precisão na leitura de termos como 'condições adversas' e 'níveis de nutrientes' é crucial para evitar equívocos.",
+        "steps": [
+          "Leia atentamente o enunciado da questão para identificar o que está sendo solicitado. A pergunta foca nas condições 'adversas' e qual tipo de vaso as plantas priorizaram.",
+          "Localize no texto a parte que descreve as 'condições adversas'. O texto afirma: 'When nutrient levels were low...' (Quando os níveis de nutrientes eram baixos...). Esta frase corresponde às 'condições adversas' ou 'condições pobres' mencionadas no início do parágrafo ('when conditions are sufficiently poor').",
+          "Identifique o comportamento das plantas nessas condições. O texto continua: 'When nutrient levels were low, the plants laid more roots in the unpredictable pot.' (Quando os níveis de nutrientes eram baixos, as plantas desenvolveram mais raízes no vaso imprevisível).",
+          "Correlacione 'unpredictable pot' com as alternativas. A palavra 'unpredictable' significa 'imprevisível' ou 'variável'.",
+          "Verifique qual alternativa corresponde a 'variável'. A alternativa (E) 'variáveis' é a que melhor se alinha com a informação extraída do texto para as condições adversas."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'abundantes' está incorreta porque o texto descreve que os níveis de nutrientes eram 'baixos' ('low') ou 'pobres' ('poor') nas condições adversas. Quando os nutrientes eram abundantes, as plantas agiam de forma diferente, preferindo o vaso com níveis 'constantes', não variáveis.",
+          "B": "A alternativa 'estáveis' (ou 'constantes') está incorreta. O texto afirma que as plantas escolheram o vaso com níveis 'constantes' ('always had the same amount') quando os nutrientes eram 'abundantes' ('abundant'), ou seja, em condições favoráveis, e não em condições adversas (níveis baixos).",
+          "C": "A alternativa 'básicos' está incorreta porque o texto não utiliza o termo 'básicos' para descrever os níveis de nutrientes ou as condições dos vasos. A terminologia empregada é 'constantes' ou 'variáveis', e os níveis são 'baixos' ou 'abundantes'.",
+          "D": "A alternativa 'ideais' está incorreta. O texto não menciona 'níveis ideais' de nutrientes. Além disso, a escolha por um vaso 'variável' em condições adversas sugere uma estratégia de risco em um cenário subótimo, não necessariamente a busca por condições ideais.",
+          "E": "Esta é a alternativa correta. O texto afirma explicitamente que 'When nutrient levels were low [condições adversas], the plants laid more roots in the unpredictable pot.' (Quando os níveis de nutrientes eram baixos, as plantas desenvolveram mais raízes no vaso imprevisível). 'Unpredictable' (imprevisível) é sinônimo de 'variáveis'. Portanto, em condições adversas, as plantas priorizaram o crescimento de raízes nos vasos que apresentavam níveis de nutrientes variáveis."
         },
-        "finalSummary": ""
+        "finalSummary": "Em condições adversas (baixa disponibilidade de nutrientes), as plantas demonstraram uma estratégia de risco, priorizando vasos com níveis de nutrientes variáveis, conforme explicitamente descrito no texto."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q21/image.png"
@@ -1193,16 +1269,20 @@
       "id": "fuvest-2017-q22",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão avalia a capacidade de compreensão leitora e de identificação de informações explícitas em um texto. Em provas de vestibular como a Fuvest, é crucial distinguir resultados diretos da pesquisa, inferências e informações não mencionadas. O foco deve ser na fidelidade ao texto-base, sem adicionar conhecimentos externos ou interpretações não suportadas pelas evidências apresentadas.",
+        "steps": [
+          "1. Leia o enunciado da questão com atenção para identificar o que está sendo solicitado: um 'resultado parcial da pesquisa' conforme o texto.",
+          "2. Faça uma leitura ativa do texto, sublinhando ou destacando as partes que descrevem os achados, observações ou conclusões do estudo de Lauren Sherman.",
+          "3. Analise cada alternativa, comparando-a rigorosamente com as informações explícitas no texto. Descarte as alternativas que apresentem informações ausentes, contraditórias ou que sejam inferências não fundamentadas no que foi lido."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa afirma que 'fotos com imagens neutras provocaram menor impacto do que as que retratavam comportamento perigoso'. O texto menciona que o estudo utilizou tanto imagens neutras (comida e amigos) quanto imagens de comportamentos de risco (beber, fumar, uso de drogas). Contudo, o texto não compara explicitamente o 'impacto' provocado por esses dois tipos de imagens em termos de atividade cerebral ou da probabilidade de serem 'curtidas'. O principal achado em relação à atividade cerebral foi que ela aumentava com o número de 'likes' que a foto já tinha, independentemente do seu conteúdo (neutro ou de risco), não sendo possível extrair essa comparação direta do texto.",
+          "B": "Esta é a alternativa correta. O texto afirma explicitamente: 'The participants were more likely themselves to “like” photos already depicted as having been “liked” a lot than they were photos depicted with fewer previous “likes”' (Os participantes eram mais propensos a 'curtir' fotos que já haviam sido 'curtidas' muitas vezes do que fotos com menos 'curtidas' anteriores). Isso corresponde exatamente ao que é expresso na alternativa.",
+          "C": "A alternativa sugere que 'os adolescentes demonstraram certo desconforto, quando solicitados a avaliar fotos produzidas por eles próprios'. O texto menciona que os participantes visualizaram tanto suas próprias fotos do Instagram quanto fotos supostamente de outros adolescentes. No entanto, em nenhum momento há menção a qualquer tipo de 'desconforto' demonstrado pelos participantes. Essa informação não está presente no texto.",
+          "D": "Esta alternativa afirma que 'as tarefas propostas aos participantes apresentaram limitações, por terem foco exclusivo na rede Instagram'. Embora o estudo de fato tenha tido foco na rede Instagram (participantes com contas no Instagram, uso do botão 'like', etc.), o texto não discute ou aponta essa exclusividade como uma 'limitação' das tarefas propostas ou da pesquisa. Essa é uma interpretação externa ou uma conclusão que não pode ser extraída do texto fornecido.",
+          "E": "A alternativa indica que 'a metodologia adotada no experimento confirmou conclusões de estudos anteriores sobre redes sociais'. O texto descreve detalhadamente a metodologia do estudo (uso de fMRI, apresentação de fotos com diferentes números de 'likes') e seus resultados. Contudo, não há nenhuma menção ou comparação com 'estudos anteriores sobre redes sociais', nem afirmação de que os achados confirmam ou refutam pesquisas prévias. Essa informação está ausente no texto."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de encontrar informações explícitas no texto, exigindo que o aluno selecione o resultado da pesquisa que é diretamente afirmado, sem inferências ou adição de detalhes não presentes."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q22/image.png"
@@ -1246,16 +1326,22 @@
       "id": "fuvest-2017-q23",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A ressonância magnética funcional (fMRI) é uma técnica de neuroimagem que permite observar a atividade cerebral indiretamente, detectando mudanças no fluxo sanguíneo e na oxigenação. No estudo descrito, ela foi utilizada para monitorar o cérebro de adolescentes enquanto visualizavam fotos em redes sociais. O *nucleus accumbens* é uma estrutura subcortical, parte do sistema límbico, que desempenha um papel central no sistema de recompensa mesolímbico. Este sistema é crucial para a motivação, o prazer, o reforço de comportamentos e a formação de hábitos, sendo ativado por estímulos que geram satisfação ou são percebidos como recompensadores, sejam eles fisiológicos (como comida e água) ou sociais (como reconhecimento e aprovação, exemplificado pelos 'likes' nas redes sociais).",
+        "steps": [
+          "**1. Compreender o objetivo da questão:** A questão solicita a identificação do sistema cerebral ao qual a região mais ativa (o *nucleus accumbens*) corresponde, de acordo com o texto.",
+          "**2. Localizar a informação relevante no texto:** O parágrafo-base afirma que \"Dr. Sherman found that activity in the nucleus accumbens, a hub of reward circuitry in the brain, increased with the number of 'likes' that a photo had.\"",
+          "**3. Interpretar o termo-chave:** A frase \"a hub of reward circuitry in the brain\" é a chave para a resolução. \"Reward circuitry\" (circuito de recompensa) descreve a função do *nucleus accumbens* no contexto do estudo.",
+          "**4. Correlacionar com as alternativas:** Traduzindo \"reward circuitry\" para o português, obtemos \"circuito de recompensa\". Entre as opções fornecidas, a alternativa \"c) recompensa\" é a que melhor e mais diretamente se alinha a essa descrição.",
+          "**5. Verificar as demais alternativas:** Analisar as outras opções para confirmar que não se encaixam na descrição dada pelo texto."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'memória recente' está incorreta. O texto não associa a ativação do *nucleus accumbens* especificamente com processos de memória recente, mas sim com o processamento de recompensas. Embora o cérebro esteja constantemente formando e recuperando memórias, o aumento de atividade nessa área, nesse contexto, foi ligado ao sistema de recompensa, não à memória.",
+          "B": "A alternativa 'defesa' está incorreta. O sistema de defesa cerebral envolve outras regiões (como a amígdala e o hipotálamo), que são ativadas em situações de perigo ou ameaça. O cenário de 'likes' em redes sociais e a ativação do *nucleus accumbens* estão relacionados ao prazer e reforço positivo, não a uma resposta de defesa.",
+          "C": "A alternativa 'recompensa' está correta. O texto afirma explicitamente que o *nucleus accumbens* é \"a hub of reward circuitry in the brain\" (um centro do circuito de recompensa no cérebro). A sua ativação com o aumento de 'likes' demonstra seu papel no processamento de estímulos que geram prazer e reforçam comportamentos, característicos do sistema de recompensa.",
+          "D": "A alternativa 'repetição' está incorreta. Embora a ativação do sistema de recompensa possa *levar* à repetição de comportamentos (como curtir mais fotos para sentir a satisfação), o texto identifica o *nucleus accumbens* como parte de um *circuito de recompensa*, e não como um sistema de repetição em si. A repetição é uma consequência comportamental da recompensa, não a função primária do sistema descrito.",
+          "E": "A alternativa 'inibição' está incorreta. A inibição refere-se à supressão ou contenção de um comportamento ou resposta. O estudo mostrou um *aumento* na atividade cerebral (ativação) em resposta aos 'likes', indicando reforço e estímulo, o que é o oposto da inibição."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão é de interpretação textual direta, na qual o *nucleus accumbens* é explicitamente descrito como um \"hub of reward circuitry\" (centro do circuito de recompensa), o que o associa diretamente ao sistema de recompensa cerebral."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q23/image.png"
@@ -1299,16 +1385,21 @@
       "id": "fuvest-2017-q24",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão aborda o conhecimento sobre uma das mais importantes obras da literatura medieval europeia. Embora a questão original dependa da análise de uma imagem de manuscrito medieval (não fornecida), as alternativas textuais são suficientemente descritivas para permitir a identificação da obra. O período medieval na Europa Ocidental foi rico em produções literárias, muitas delas ligadas à temática da cavalaria, do cristianismo e de lendas locais. Entre essas, destacam-se os romances arturianos, um ciclo de lendas sobre o Rei Arthur e os Cavaleiros da Távola Redonda, que evoluiu ao longo de séculos e em diversas línguas, incorporando elementos celtas pré-cristãos e ideais cristãos de cavalaria, culminando na busca pelo Santo Graal.",
+        "steps": [
+          "1. **Analise o enunciado e as opções, mesmo sem a imagem:** O enunciado indica que a imagem integra o manuscrito de uma obra notável da 'cultura medieval'. As alternativas descrevem diferentes tipos de obras medievais (fábula, poema, cordel, peça teatral, romance) e suas características.",
+          "2. **Identifique a obra descrita na alternativa correta (B):** A alternativa B descreve um 'Poema inacabado que narra a viagem de formação de um cavaleiro e a busca do cálice sagrado; sua composição mistura elementos pagãos e cristãos'. Esta descrição se encaixa perfeitamente no ciclo arturiano e na saga do Santo Graal. Muitos dos romances arturianos, como as obras de Chrétien de Troyes ou o vasto ciclo do Lancelote-Graal, podem ser considerados 'poemas' ou romances em verso/prosa, frequentemente com múltiplas versões e continuações, o que lhes confere um caráter de 'inacabado' ou em constante desenvolvimento. A jornada de formação (Bildungsroman cavalheiresco), a busca pelo Graal e a fusão de elementos celtas (pagãos) com a moral cristã são marcas registradas dessa tradição literária.",
+          "3. **Exclua as alternativas incorretas pela sua imprecisão ou incorreção histórica/cultural:** Compare as descrições das outras alternativas com o conhecimento sobre a literatura medieval para identificar suas falhas.",
+          "4. **Confirme a escolha:** A alternativa B é a única que apresenta uma caracterização precisa e multifacetada de uma das mais renomadas obras da cultura medieval, o ciclo arturiano da busca pelo Santo Graal."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa descreve uma 'fábula', gênero literário que geralmente envolve animais falantes e uma moral explícita, o que não se alinha com os romances de cavalaria. Embora os romances arturianos contivessem aventura e amor romântico, a afirmação de que 'enuncia o ideal eclesiástico' e 'simbolizou o espírito das cruzadas' de forma tão central e direta não é a caracterização mais precisa ou abrangente da obra, que possui uma complexa relação com a Igreja e com as motivações das cruzadas.",
+          "B": "Esta é a alternativa correta. A descrição 'Poema inacabado que narra a viagem de formação de um cavaleiro e a busca do cálice sagrado; sua composição mistura elementos pagãos e cristãos' é a caracterização mais precisa do ciclo arturiano, especialmente as lendas do Santo Graal. O caráter 'inacabado' pode se referir à sua natureza cíclica e à existência de múltiplas versões e continuações ao longo do tempo. A mescla de elementos celtas (pagãos) e a moralidade cristã é uma das características definidoras desses romances, que exploram a jornada de heróis como Perceval e Galahad em busca de redenção e do Graal.",
+          "C": "A menção a 'cordel' é um anacronismo e um erro de gênero. Cordel é uma forma literária popular brasileira e portuguesa que surgiu em séculos posteriores. Além disso, a afirmação de que foi 'divulgado para a conversão de fiéis durante a expansão do Cristianismo pelo Oriente' está historicamente incorreta; os romances arturianos surgiram e se desenvolveram na Europa Ocidental e não tinham essa finalidade missionária no Oriente.",
+          "D": "A descrição 'Peça teatral' está incorreta; os romances arturianos são obras narrativas (em prosa ou verso), não peças para palco. Embora Arthur seja um símbolo da Grã-Bretanha, a ideia de 'fortalecer o espírito nacionalista da Inglaterra' é um anacronismo para o período medieval, e muitos dos primeiros romances arturianos são de origem francesa. A figura de Arthur, embora idealizada, não é sempre retratada como um 'governante invencível', dada a tragédia da queda de Camelot.",
+          "E": "Embora os romances arturianos condensem vários textos e idealizem a aristocracia e a cavalaria, a afirmação de que foram 'empregado pela Igreja para encorajar a aristocracia a assumir uma função idealizada na luta contra os inimigos de Deus' simplifica e generaliza demais a complexa relação entre a literatura secular e a Igreja na Idade Média. A Igreja muitas vezes via com desconfiança alguns aspectos da literatura cavalheiresca (como o amor cortês), e sua influência era mais indireta do que um 'emprego' direto para um propósito tão específico de propaganda de guerra religiosa. A descrição da alternativa B é mais fundamental e abrangente sobre a natureza da obra."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre as características intrínsecas e definidoras dos romances arturianos medievais, em particular a saga do Santo Graal, que se destacam pela jornada do cavaleiro, a mescla de elementos pagãos e cristãos, e seu caráter de obra em constante reinterpretação."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q24/image.png"
@@ -1352,16 +1443,21 @@
       "id": "fuvest-2017-q25",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Na Grécia Clássica (séculos V e IV a.C.), a vida política e social estava intrinsecamente centrada na *pólis* (cidade-estado). Os conceitos de ética (*ethos*) e justiça (*dikē*) não eram meramente abstratos ou individuais, mas sim virtudes cívicas fundamentais, diretamente ligadas ao bom funcionamento da comunidade e à participação do cidadão. A cidadania era um privilégio exclusivo, geralmente restrito a homens adultos nascidos de pais cidadãos, e implicava deveres e direitos dentro da estrutura da *pólis*. A *aretê* (virtude ou excelência) de um cidadão era frequentemente medida pela sua capacidade de viver em conformidade com as leis, os costumes e as convenções estabelecidas pela sua cidade. Filósofos como Platão e Aristóteles dedicaram grande parte de suas obras à exploração da ética individual e da justiça na *pólis*, vendo-as como pilares para a 'vida boa' (*eudaimonia*) e para o bem-estar coletivo.",
+        "steps": [
+          "**1. Compreender o Contexto da Grécia Clássica:** A questão aborda ética e justiça em um período e local específicos onde a *pólis* era o núcleo da vida política e social. É crucial lembrar que a cidadania era restrita e os valores cívicos eram primordiais.",
+          "**2. Analisar a Relação entre Ética, Justiça e Cidadania:** Na Grécia Clássica, a ética e a justiça não eram conceitos separáveis da vida em comunidade. Ser ético e justo significava, em grande parte, ser um bom cidadão, cumprindo as normas e expectativas da *pólis*.",
+          "**3. Avaliar as Alternativas em Relação ao Conhecimento Histórico:** Verifique cada opção à luz dos conhecimentos sobre a filosofia política, a organização social e as instituições da Grécia Clássica, como a natureza da cidadania, o papel da lei e dos costumes.",
+          "**4. Identificar a Alternativa Mais Precisa:** Selecione a opção que melhor descreve a interdependência entre ética, justiça e a observância das normas estabelecidas pela *pólis*, que era central para a experiência do cidadão grego."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. Na Grécia Clássica, a ética e a justiça eram conceitos profundamente enraizados na vida cívica. Ser virtuoso e justo implicava em um comportamento que respeitava e se alinhava com as leis (*nomoi*), os costumes (*ethos*) e as convenções instituídas pela *pólis*. A identidade do cidadão estava ligada à sua participação e obediência a essas normas, que garantiam a ordem e a harmonia da cidade-estado. A virtude cívica era, portanto, uma manifestação prática da ética e da justiça.",
+          "B": "Esta alternativa está incorreta. A cidadania na Grécia Clássica, particularmente em Atenas, era altamente exclusiva. Direitos políticos e o pleno acesso às prerrogativas associadas à ética e à justiça política eram limitados aos cidadãos (homens adultos, nascidos de pais cidadãos). Comerciantes, estrangeiros (metecos) e escravos não eram considerados cidadãos e não possuíam os mesmos direitos ou participação política, embora tivessem certos direitos legais e sociais limitados, não se enquadravam plenamente na definição de ética e justiça cívica aplicada aos cidadãos.",
+          "C": "Esta alternativa está incorreta. Embora houvesse considerações éticas e de justiça nas relações entre as *póleis*, a principal ênfase do pensamento grego sobre esses temas estava na organização interna da cidade e na conduta dos seus cidadãos. Além disso, a ideia de que princípios fundamentais como ética e justiça seriam 'suspensos temporariamente' após uma declaração de guerra não é universalmente verdadeira para o pensamento grego. Embora a realidade da guerra fosse brutal e muitas vezes pragmática (vide o Diálogo dos Melianos de Tucídides), os debates filosóficos sobre a justiça na guerra e entre as cidades persistiam, e a suspensão completa desses princípios não era uma norma aceita sem questionamento.",
+          "D": "Esta alternativa está incorreta. Embora legisladores como Solon e Clístenes tenham introduzido reformas significativas que visavam a uma maior racionalização das leis e a critérios mais equitativos de distribuição de poder, não é correto afirmar que ética e justiça foram 'introduzidas' para *reduzir* o poder religioso. A religião e o sagrado eram componentes integrais da vida na *pólis* e frequentemente estavam interligados com o sistema legal e os costumes. As reformas legislativas buscavam mais codificar, tornar as leis acessíveis e moderar o poder aristocrático ou tirânico, do que criar uma oposição direta e reduzir o poder religioso, que continuou a desempenhar um papel vital.",
+          "E": "Esta alternativa está incorreta. A importância da ética e da justiça é uma marca distintiva do pensamento grego muito antes do período helenístico (que se inicia após a morte de Alexandre, o Grande, em 323 a.C.). Desde o período Arcaico (com poetas como Hesíodo) e, de forma central, durante todo o período Clássico, filósofos como Sócrates, Platão e Aristóteles fizeram da ética e da justiça temas centrais de suas investigações. A sugestão de que esses conceitos só ganharam importância no helenismo, e ainda mais, que incorporaram 'elementos da cultura romana' nessa época, é historicamente imprecisa e anacrônica, já que a forte influência romana viria apenas mais tarde, após a conquista da Grécia."
         },
-        "finalSummary": ""
+        "finalSummary": "Na Grécia Clássica, a ética e a justiça eram virtudes cívicas inseparáveis da vida na *pólis*, manifestando-se na adesão dos cidadãos às leis, costumes e convenções da cidade-estado."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q25/image.png"
@@ -1405,16 +1501,22 @@
       "id": "fuvest-2017-q26",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A passagem de Macbeth citada no enunciado, \"Ouso tudo o que é próprio de um homem; quem ousa fazer mais do que isso não o é\", encapsula a essência do Humanismo Renascentista: a valorização da capacidade humana, da razão e da individualidade. O Humanismo foi um movimento intelectual que emergiu no Renascimento, período de transição entre a Idade Média e a Idade Moderna, que se estendeu aproximadamente do século XIV ao XVI. Caracterizou-se pela retomada dos valores e ideais da Antiguidade Clássica (greco-romana), o antropocentrismo (o homem como centro do universo, em oposição ao teocentrismo medieval), o racionalismo, o individualismo e o espírito crítico. Essa nova mentalidade impulsionou o avanço em diversas áreas do conhecimento, incluindo as artes, as ciências e a filosofia, muitas vezes entrando em conflito com os dogmas e as instituições tradicionais da Igreja Católica.",
+        "steps": [
+          "1. **Compreender o Contexto da Questão:** A questão estabelece uma conexão entre a audácia do personagem Macbeth, de Shakespeare, e a \"audácia da experiência renascentista\", pedindo para identificar uma afirmação correta sobre a cultura humanista. Isso direciona a análise para as características centrais do Renascimento e do Humanismo.",
+          "2. **Analisar as Características do Humanismo:** Lembre-se que o Humanismo valorizou o homem, a razão, a observação e a busca pelo conhecimento, muitas vezes desafiando as tradições e dogmas medievais.",
+          "3. **Avaliar Cada Alternativa:** Examine cada uma das opções à luz dos princípios do Humanismo e do contexto histórico do Renascimento. Verifique se cada afirmação é coerente com os fatos e interpretações consolidadas sobre o período.",
+          "4. **Identificar a Alternativa Correta:** A alternativa que melhor descreve um aspecto verdadeiro e impactante da cultura humanista, especialmente em relação ao rompimento com o passado, será a resposta.",
+          "5. **Justificar a Correção de C:** A alternativa 'C' afirma que a observação da natureza, experimentos e pesquisa empírica contribuíram para o rompimento de alguns dogmas da Igreja. Isso está diretamente ligado ao surgimento do pensamento científico no Renascimento (precursor da Revolução Científica), que questionou explicações puramente dogmáticas e teocêntricas, como o geocentrismo."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'a' afirma que o mecenato evitou constrangimentos, prisão e tortura. Embora o mecenato (apoio financeiro a artistas e cientistas por parte de indivíduos ricos, como os Médici, ou instituições) tenha sido fundamental para o florescimento cultural do Renascimento e oferecido alguma proteção, ele não garantiu imunidade completa. Casos como o de Giordano Bruno, queimado na fogueira por suas ideias heréticas, e o processo de Galileu Galilei pela Inquisição, demonstram que a Igreja e outras autoridades ainda exerciam grande poder e podiam punir aqueles cujas ideias contradiziam os dogmas estabelecidos. Portanto, a afirmação de que 'evitou' completamente é incorreta.",
+          "B": "A alternativa 'b' sugere que a presença majoritária de temáticas religiosas nas artes plásticas demonstrava dificuldades de assimilar as conquistas científicas. Isso é impreciso. De fato, temas religiosos permaneceram muito presentes na arte renascentista, mas frequentemente incorporavam as novas conquistas científicas, como o uso da perspectiva, a anatomia humana mais precisa e a representação realista da natureza. Artistas como Leonardo da Vinci e Michelangelo conciliavam a fé com o estudo empírico do corpo humano e do mundo, mostrando uma integração, e não uma dificuldade de assimilação.",
+          "C": "A alternativa 'c' está correta. A ênfase humanista na observação, no experimento e na pesquisa empírica foi um pilar fundamental para o desenvolvimento do pensamento científico. Essa abordagem contrastava com a tradição escolástica medieval, que priorizava a dedução lógica a partir de textos sagrados e de Aristóteles. Ao observar a natureza e realizar experimentos, pensadores renascentistas e pré-científicos (como Copérnico, Kepler e, posteriormente, Galileu) começaram a questionar e refutar dogmas da Igreja, como o geocentrismo (a Terra como centro do universo), que era uma verdade inquestionável até então.",
+          "D": "A alternativa 'd' afirma que a reflexão dedutiva e o cálculo matemático se limitaram à pesquisa teórica no Renascimento e só seriam aplicados na Revolução Científica do século XVII. Isso é falso. O Renascimento já apresentava uma aplicação prática intensa da matemática e da dedução em áreas como a arquitetura (perspectiva, proporções), engenharia (máquinas de guerra, projetos de fortificações de Leonardo da Vinci), cartografia e navegação. Essas aplicações foram cruciais e demonstraram que o cálculo e a reflexão não estavam restritos ao campo teórico, sendo a base para os avanços posteriores do século XVII.",
+          "E": "A alternativa 'e' sugere que a avidez de conhecimento e de poder favoreceu a renovação das universidades. Embora houvesse uma 'avidez de conhecimento' e valorização da 'cultura letrada' (especialmente clássica), as universidades, em sua maioria, permaneceram instituições conservadoras e ligadas à escolástica medieval durante o Renascimento. Muitos humanistas e cientistas de vanguarda preferiam se reunir em academias ou círculos intelectuais independentes, fora da estrutura universitária tradicional. A verdadeira e profunda renovação das universidades para incorporar o novo saber científico ocorreria mais tardiamente, ou foi um processo lento e gradual, não uma característica majoritária daquele momento inicial do Renascimento em relação à vanguarda do pensamento."
         },
-        "finalSummary": ""
+        "finalSummary": "A cultura humanista do Renascimento, ao valorizar a razão e a observação empírica, foi crucial para o surgimento do pensamento científico e o subsequente questionamento de dogmas religiosos, marcando uma transição fundamental para a era moderna."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q26/image.png"
@@ -1458,16 +1560,23 @@
       "id": "fuvest-2017-q27",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Os ensaios sediciosos do final do século XVIII na América Portuguesa, notadamente a Inconfidência Mineira (1789) e a Conjuração Baiana (1798), representam um ponto de inflexão nas revoltas coloniais. Diferentemente das sedições anteriores (como a Revolta de Beckman, a Guerra dos Emboabas, a Guerra dos Mascates ou a Revolta de Vila Rica), que geralmente se focavam em contestações a aspectos pontuais do sistema colonial (monopólios comerciais, impostos específicos, abusos de autoridades, disputas por terras ou minas), os movimentos do final do século XVIII começaram a apresentar um caráter emancipacionista. Influenciados pelas ideias iluministas, pela Independência dos Estados Unidos e, no caso da Bahia, pela Revolução Francesa, esses movimentos passaram a projetar a possibilidade de ruptura com a metrópole e a formação de repúblicas independentes, marcando uma transição de revoltas 'internas' ao sistema para movimentos 'anticoloniais' no sentido mais pleno.",
+        "steps": [
+          "Identificar os movimentos mencionados no texto e suas respectivas datas: Os ensaios sediciosos do final do século XVIII referem-se principalmente à Inconfidência Mineira (1789) e à Conjuração Baiana (1798).",
+          "Analisar as principais características e objetivos da Inconfidência Mineira (1789): Movimento elitista, motivado por questões fiscais (derrama, quinto) e pela insatisfação com o controle metropolitano. Tinha como objetivo a independência da capitania de Minas Gerais e a instauração de uma república.",
+          "Analisar as principais características e objetivos da Conjuração Baiana (1798): Movimento popular, com forte participação de camadas mais baixas da sociedade, mulatos, negros e escravos. Influenciado pelos ideais da Revolução Francesa, defendia a independência, o fim da escravidão, a igualdade social e racial, e a formação de uma república na Bahia.",
+          "Comparar os objetivos desses dois movimentos com as características gerais das revoltas coloniais anteriores ao final do século XVIII. As revoltas anteriores (como Beckman, Emboabas, Mascates, Vila Rica) não tinham um projeto de ruptura política total com Portugal, mas sim de correção de injustiças ou de defesa de interesses específicos dentro da colônia.",
+          "Avaliar cada alternativa com base nesse conhecimento, buscando a que melhor descreve corretamente os movimentos de 1789 e 1798 e os diferencia das sedições anteriores.",
+          "Confirmar que a alternativa E está de acordo com as informações históricas sobre o caráter emancipacionista desses dois movimentos e sua distinção das revoltas precedentes."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Incorreta. Embora a Conjuração Baiana (1798) tivesse entre seus ideais o fim da escravidão, e consequentemente do tráfico, a Inconfidência Mineira (1789) não possuía um \"claro propósito de abolir o tráfico transatlântico de escravos\". Muitos inconfidentes eram proprietários de escravos e a questão abolicionista não era central em seus planos de independência, o que invalida a afirmação para ambos os movimentos.",
+          "B": "Incorreta. A Revolta de Beckman (Maranhão, 1684) de fato teve como alvo o monopólio da Companhia Geral de Comércio do Estado do Maranhão e Grão-Pará. No entanto, a Conjuração Baiana (1798) não teve como alvo principal uma \"companhia exclusiva de comércio que operava na Bahia\" da mesma forma. As queixas da Conjuração Baiana eram muito mais amplas, envolvendo a insatisfação com os altos impostos, a carestia, a discriminação social e a busca por liberdade e igualdade, não se limitando a um monopólio comercial específico.",
+          "C": "Incorreta. A Guerra dos Mascates (1710-1711) foi um conflito de interesses entre senhores de engenho de Olinda e comerciantes de Recife, sem qualquer relação com a França revolucionária (que só existiria a partir de 1789) ou busca de apoio externo. Além disso, embora houvesse influência dos ideais franceses na Conjuração Baiana e inspiração na Revolução Americana para a Inconfidência, a afirmação de que \"esperavam contar com o suporte da França revolucionária\" como um elemento central e garantido é uma generalização forte e não totalmente precisa para ambos os contextos.",
+          "D": "Incorreta. A Guerra dos Emboabas (1708-1709) foi um conflito entre os paulistas (descobridores das minas) e os emboabas (forasteiros, principalmente de Portugal e de outras regiões do Brasil), que disputavam o controle das jazidas de ouro. A Inconfidência Mineira (1789), por outro lado, foi um movimento de elite (proprietários, clérigos, militares, intelectuais) já estabelecida em Minas Gerais, insatisfeita com a política fiscal metropolitana, e não uma oposição entre \"mineradores recém-chegados\" e \"empresários há muito estabelecidos\" na região. As dinâmicas dos dois movimentos eram fundamentalmente distintas.",
+          "E": "Correta. Tanto a Inconfidência Mineira (1789) quanto a Conjuração Baiana (1798) se destacam das revoltas coloniais anteriores por seu caráter explicitamente separatista e republicano. Seus líderes e participantes visavam à ruptura definitiva com a metrópole portuguesa e à instauração de governos próprios (repúblicas). Essa perspectiva de independência política era um traço novo e distintivo em relação a motins e revoltas pré-século XVIII, que buscavam principalmente reformas ou a eliminação de abusos pontuais dentro do sistema colonial."
         },
-        "finalSummary": ""
+        "finalSummary": "Os movimentos de 1789 (Inconfidência Mineira) e 1798 (Conjuração Baiana) marcaram uma nova fase nas revoltas coloniais brasileiras, distinguindo-se das anteriores pela projeção de um rompimento definitivo com Portugal e pela busca de independência política."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q27/image.png"
@@ -1511,16 +1620,26 @@
       "id": "fuvest-2017-q28",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "No início da Idade Moderna (séculos XV e XVI), as rotas comerciais que conectavam a Europa ao Oriente (especialmente a Ásia) eram de vital importância econômica. Essas rotas, como a Rota da Seda e as Rotas das Especiarias, passavam por vastas regiões do Oriente Médio, as quais, após a expansão do Império Otomano (que culminou com a tomada de Constantinopla em 1453), passaram a estar sob seu controle ou influência direta. O Império Otomano, ao se posicionar como intermediário nessas trocas, passou a controlar o fluxo de mercadorias, impor taxas e, em muitos casos, monopolizar o acesso a produtos valiosos como especiarias, seda e porcelana. Essa situação gerou um grande incentivo para as potências europeias da época, como Portugal e Espanha, buscarem rotas marítimas alternativas para o Oriente, contornando a intermediação otomana e, assim, o alto custo e a dependência dos produtos orientais. Este período é conhecido como as Grandes Navegações ou a Expansão Marítima Europeia.",
+        "steps": [
+          "**1. Analisar o contexto histórico:** A questão aborda as rotas comerciais eurasianas no 'início da Idade Moderna' e a influência do 'Império Otomano'. Este período é marcado pela ascensão do Império Otomano e, simultaneamente, pela busca europeia por novas rotas comerciais.",
+          "**2. Compreender a posição do Império Otomano:** O Império Otomano controlava estrategicamente as rotas terrestres e marítimas que tradicionalmente conectavam a Europa ao Oriente. Isso lhes dava poder de intermediação sobre o comércio de especiarias e outros bens de luxo.",
+          "**3. Avaliar as consequências dessa intermediação:** O controle otomano significava que os produtos orientais chegavam à Europa com custos elevados, devido às taxas e à margem de lucro dos intermediários. Isso motivou os europeus a procurar formas de acesso direto.",
+          "**4. Analisar cada alternativa com base nesse conhecimento:**",
+          "**a) China, com baixo grau de desenvolvimento político e econômico, era exportadora de produtos primários para a Europa.** Esta afirmação é historicamente incorreta. A China, nesse período, era uma das civilizações mais desenvolvidas do mundo, com uma economia avançada e exportadora de produtos manufaturados de alto valor (seda, porcelana, chá).",
+          "**b) a Índia era uma economia fracamente vinculada ao comércio a longa distância, em vista da pouca demanda por seus produtos.** Esta afirmação é falsa. A Índia era um epicentro do comércio de especiarias, têxteis e pedras preciosas, altamente integrada às rotas comerciais de longa distância e com enorme demanda europeia por seus produtos.",
+          "**c) a Europa, a despeito do poder otomano, exercia domínio incontestável sobre o conjunto das atividades comerciais eurasianas.** Esta afirmação está incorreta. No início da Idade Moderna, a Europa estava *buscando* esse domínio. O poder otomano sobre as rotas tradicionais era considerável, e foi justamente esse poder que impulsionou os europeus a buscar alternativas, mostrando que o domínio europeu não era, de forma alguma, incontestável.",
+          "**d) a África Ocidental se encontrava em posição subordinada ao poderio otomano, funcionando como sua principal fonte de escravos.** Esta afirmação é historicamente imprecisa. As principais rotas comerciais da África Ocidental eram transaarianas ou, mais tarde, atlânticas. O Império Otomano obtinha escravos de outras regiões (como os Balcãs, Cáucaso e Norte da África), e a África Ocidental não estava subordinada a ele como sua principal fonte.",
+          "**e) o Império Otomano, ao intermediar as trocas a longa distância, forçou os europeus a buscar rotas alternativas de acesso ao Oriente.** Esta afirmação é correta. O controle otomano sobre as rotas tradicionais e a imposição de taxas foram um dos principais fatores que impulsionaram as Grandes Navegações, ou seja, a busca por rotas marítimas diretas para o Oriente, contornando a África."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A China, nesse período (início da Idade Moderna), era uma das civilizações mais avançadas do mundo, com um alto grau de desenvolvimento político e econômico. Era uma grande exportadora de produtos manufaturados de alto valor, como seda, porcelana, chá e especiarias, não apenas produtos primários. Essa alternativa contradiz os fatos históricos sobre o Império Chinês.",
+          "B": "A Índia era um dos principais polos do comércio de longa distância, especialmente de especiarias (pimenta, cravo, noz-moscada), algodão e tecidos finos, que tinham uma demanda enorme na Europa. Sua economia era intrinsecamente ligada e fortalecida por essas redes comerciais, sendo um destino cobiçado pelos exploradores europeus. A afirmação de que era fracamente vinculada e com pouca demanda é totalmente oposta à realidade histórica.",
+          "C": "No início da Idade Moderna, os europeus estavam justamente no processo de *buscar* um maior controle e domínio sobre as rotas comerciais eurasianas. O Império Otomano, pelo contrário, exercia um poder considerável sobre as rotas terrestres e marítimas do Mediterrâneo oriental e do Oriente Médio, sendo um obstáculo para o acesso europeu direto ao Oriente. O domínio europeu não era incontestável; a busca por rotas alternativas é a prova disso.",
+          "D": "A África Ocidental tinha suas próprias redes comerciais, notadamente as rotas transaarianas. As rotas de escravos que a conectavam principalmente eram para o tráfico atlântico (para as Américas) e, em menor grau, o transaariano para o Norte da África. O Império Otomano não controlava a África Ocidental e sua principal fonte de escravos não era essa região, mas sim o Leste Europeu, o Cáucaso e partes do Norte da África. Esta alternativa mistura e distorce as relações de poder e as rotas comerciais da época.",
+          "E": "Esta alternativa está correta. A expansão e o controle do Império Otomano sobre as rotas comerciais terrestres e marítimas tradicionais para o Oriente (Mediterrâneo Oriental, Oriente Médio) foram um dos principais catalisadores para as Grandes Navegações. A imposição de taxas e a intermediação otomana encareciam os produtos orientais na Europa, incentivando Portugal e Espanha a buscarem rotas marítimas diretas para as Índias, contornando a África, a fim de acessar as fontes de produtos sem a dependência dos otomanos e dos mercadores venezianos."
         },
-        "finalSummary": ""
+        "finalSummary": "O controle estratégico do Império Otomano sobre as rotas comerciais tradicionais entre Europa e Oriente foi um fator decisivo que impulsionou as potências europeias a inaugurar a Era das Grandes Navegações em busca de rotas marítimas diretas para as riquezas orientais."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q28/image.png"
@@ -1564,16 +1683,23 @@
       "id": "fuvest-2017-q29",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda os níveis per capita de industrialização em diferentes países entre 1750 e 1913, com o Reino Unido em 1900 servindo como base 100. Este é um tema central para a compreensão das Revoluções Industriais e suas consequências na distribuição do poder econômico global. O período em questão abrange a Primeira Revolução Industrial (centrada no Reino Unido, com inovações em têxteis e energia a vapor) e a Segunda Revolução Industrial (caracterizada por avanços em siderurgia, química e eletricidade, onde países como Alemanha e EUA ganharam proeminência). A métrica 'per capita' é crucial para avaliar o desenvolvimento industrial em relação à população de cada país, permitindo comparações mais justas do poder produtivo. A análise da tabela permite identificar ritmos distintos de industrialização, destacando o crescimento tardio, mas acelerado, de algumas nações em comparação com os pioneiros.",
+        "steps": [
+          "Devido à ausência da imagem completa da questão, que conteria a tabela completa e as alternativas A-E, os passos a seguir são genéricos para a resolução de questões desse tipo, focando na metodologia de análise de dados históricos:",
+          "1. **Compreensão do Contexto:** Primeiramente, identifique o período histórico (1750-1913) e o indicador em análise (níveis per capita de industrialização, com base no Reino Unido 1900=100). Isso estabelece o cenário das Revoluções Industriais e as comparações de desenvolvimento.",
+          "2. **Análise Detalhada da Tabela:** Examine cuidadosamente todos os dados apresentados na tabela (que, no entanto, está faltando no enunciado fornecido). Observe a evolução dos níveis de industrialização para cada país ao longo do tempo. Note, por exemplo, o crescimento da Alemanha de 8 (1750) para 85 (1913), com um salto significativo de 15 (1860) para 85 (1913), indicando um período de forte industrialização na Segunda Revolução Industrial.",
+          "3. **Comparação e Identificação de Tendências:** Compare os dados entre os diferentes países e entre os diversos períodos. Procure por padrões de crescimento (rápido, lento, estagnado), momentos de aceleração ou desaceleração, e eventuais convergências ou divergências nos níveis de industrialização. Verifique quais países lideram em cada fase e quais se tornam potências emergentes.",
+          "4. **Leitura Crítica das Alternativas:** Avalie cada alternativa (A-E) em relação aos dados apresentados na tabela e ao seu conhecimento de história econômica do período. Verifique a precisão das afirmações, a adequação das comparações e a correção das inferências causais. Cuidado com anacronismos, generalizações excessivas ou interpretações que não são estritamente suportadas pelos dados.",
+          "5. **Identificação da Alternativa Correta:** A alternativa correta será aquela que apresenta uma afirmação factual, uma interpretação coerente ou uma inferência válida, integralmente apoiada pelos dados da tabela e em conformidade com o rigor histórico."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Não é possível analisar o distrator 'A' de forma específica, pois o conteúdo da alternativa 'A' e a tabela completa da questão não foram fornecidos. Em questões de interpretação de tabelas históricas, alternativas incorretas frequentemente envolvem leituras equivocadas dos dados numéricos, inversão de tendências (ex: afirmar declínio onde houve crescimento), ou comparações entre países que contradizem as evidências apresentadas.",
+          "B": "Não é possível analisar o distrator 'B' de forma específica, pois o conteúdo da alternativa 'B' e a tabela completa da questão não foram fornecidos. Alternativas incorretas podem apresentar generalizações históricas que, embora pareçam plausíveis, não são totalmente suportadas pelos dados específicos da tabela ou por uma análise detalhada do contexto histórico do período.",
+          "C": "A alternativa 'C' é a resposta correta, conforme indicado no gabarito. No entanto, sem o conteúdo textual da alternativa 'C' e a tabela completa, não é possível explicar precisamente por que ela está correta. Presume-se que a alternativa 'C' faça uma afirmação precisa e contextualizada sobre os padrões de industrialização observados na tabela, alinhando-se com as tendências históricas do período, como o crescimento industrial tardio e acelerado de países como a Alemanha, ou a manutenção da liderança de outro país no início do período.",
+          "D": "Não é possível analisar o distrator 'D' de forma específica, pois o conteúdo da alternativa 'D' e a tabela completa da questão não foram fornecidos. Distratores eficazes podem misturar informações corretas com incorretas, ou focar em aspectos secundários da tabela que não são o cerne da questão, levando o aluno a uma conclusão errônea por desatenção ou falta de análise crítica.",
+          "E": "Não é possível analisar o distrator 'E' de forma específica, pois o conteúdo da alternativa 'E' e a tabela completa da questão não foram fornecidos. Muitas vezes, um distrator 'E' pode apresentar uma interpretação que, à primeira vista, parece razoável, mas que falha em um exame mais atento da consistência dos dados ou do rigor das relações de causa e efeito históricas apresentadas."
         },
-        "finalSummary": ""
+        "finalSummary": "Esta questão avalia a capacidade de interpretar dados quantitativos sobre industrialização e de os contextualizar em eventos e processos históricos globais, como as Revoluções Industriais e a ascensão de novas potências econômicas, exigindo rigor na análise das informações apresentadas e na correlação com o conhecimento histórico."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q29/image.png"
@@ -1617,16 +1743,21 @@
       "id": "fuvest-2017-q30",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A última década do Império (aproximadamente entre 1879 e 1889) foi um período de intensas crises e transformações no Brasil. Diversas reformas foram propostas e implementadas, muitas delas visando a modernização do Estado e a contenção das crescentes pressões sociais e políticas. Entre as principais questões que se manifestaram nesse período, destacam-se a Questão Abolicionista, a Questão Militar e a Questão Religiosa, além das pressões por maior federalismo e pela republicanização. No campo político-eleitoral, houve a percepção da necessidade de mudanças no sistema, que culminaram em reformas com impactos significativos na participação popular.",
+        "steps": [
+          "1. **Compreensão do período:** A questão aborda as mudanças ocorridas na última década do Império (1870-1889), com ênfase nos anos 1880s, um período de grande instabilidade política e social no Brasil.",
+          "2. **Análise do conceito de 'reforma':** O enunciado utiliza o termo 'reforma' no contexto das discussões de Emília Viotti da Costa, que analisa a 'era da reforma' como um período de tentativas de modernização e ajuste do Estado imperial diante das novas realidades econômicas e sociais, nem sempre com os resultados esperados ou amplamente democráticos.",
+          "3. **Avaliação das alternativas à luz dos fatos históricos:** Cada alternativa deve ser examinada para verificar sua veracidade e relevância no contexto da última década do Império, considerando se a mudança descrita pode ser caracterizada como uma 'reforma' e qual foi seu impacto.",
+          "4. **Identificação da Lei Saraiva (1881):** A alternativa correta (A) refere-se à reforma eleitoral. A principal reforma eleitoral desse período foi a Lei Saraiva, de 1881, que de fato instituiu o voto direto, mas, ao mesmo tempo, impôs o critério de alfabetização, excluindo a vasta maioria da população e reduzindo drasticamente o número de eleitores. Essa medida é um exemplo claro de uma 'reforma' que, embora aparentemente modernizadora, teve um impacto restritivo na participação política e se alinha com a ideia de compromisso com as mudanças, mas de forma controlada pelas elites."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa (A) está correta porque descreve precisamente a Lei Saraiva de 1881. Esta lei, embora tenha sido uma reforma eleitoral significativa ao instituir o voto direto para os cargos eletivos, também impôs uma restrição fundamental ao excluir os analfabetos. Naquela época, a grande maioria da população brasileira era analfabeta, o que resultou em uma redução drástica do número de eleitores. Essa reforma é um marco da última década do Império, mostrando uma tentativa de modernização política que, paradoxalmente, aprofundou a exclusão e a concentração do poder nas mãos das elites letradas.",
+          "B": "A alternativa (B) é incorreta. A Questão Religiosa, que envolveu o conflito entre o Império e a Igreja Católica, ocorreu principalmente na década de 1870 (com seu auge entre 1872 e 1875), e não na 'última década' do Império, que se refere mais especificamente aos anos 1880s. Além disso, o ultramontanismo era uma política do papado que buscava maior centralização e autoridade da Igreja, e sua adoção não significou que o Império 'ganharia suporte internacional'; pelo contrário, a Questão Religiosa gerou desgaste interno e não foi uma 'reforma' que visava um ganho de suporte, mas sim uma crise de autoridade.",
+          "C": "A alternativa (C) é incorreta. Embora as demandas por maior autonomia provincial e municipal (federativas) e por uma reforma fiscal fossem crescentes na última década do Império, não houve uma 'incorporação integral' dessas demandas. O sistema fiscal imperial permaneceu centralizado e essa falta de autonomia foi uma das grandes queixas dos movimentos republicanos e federalistas, o que contribuiu para o enfraquecimento do regime, e não uma reforma bem-sucedida de compromisso.",
+          "D": "A alternativa (D) é incorreta. O sistema de patronato e a influência pessoal nas nomeações e carreiras públicas eram características arraigadas do Império e não foram rompidos nessa década. Embora houvesse um debate sobre a modernização administrativa, a adoção de um sistema unificado de concursos públicos para preenchimento de cargos de forma generalizada e que rompesse com o patronato é uma característica mais associada ao período republicano e à gradual profissionalização da burocracia, não uma reforma consolidada na última década do Império.",
+          "E": "A alternativa (E) é incorreta. A Questão Militar, que se intensificou a partir de meados da década de 1880, de fato aumentou o envolvimento e a politização do Exército, culminando em seu protagonismo na Proclamação da República. No entanto, essa participação não se deu por uma 'reforma' que 'abriu espaço' de forma institucionalizada e desejada pelo governo imperial para o alto comando atuar na gestão interna. Pelo contrário, foi um processo de desgaste e confrontação, onde o Exército se insurgiu contra as políticas imperiais, representando uma crise de autoridade do Império, e não uma reforma que lhe concedesse formalmente tal protagonismo."
         },
-        "finalSummary": ""
+        "finalSummary": "A Lei Saraiva de 1881, ao instituir o voto direto mas excluir os analfabetos, representou a mais significativa reforma eleitoral da última década do Império, evidenciando uma modernização restritiva que concentrou o poder político nas mãos das elites."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q30/image.png"

@@ -4,7 +4,7 @@
     "provaPdf": "p15.pdf",
     "gabaritoPdf": "g15.pdf"
   },
-  "generatedAt": "2025-12-25T23:07:15.130424",
+  "generatedAt": "2025-12-25T23:19:01.405929",
   "questions": [
     {
       "number": 1,
@@ -681,16 +681,21 @@
       "id": "fuvest-2015-q12",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A motorização de um país é um indicador crucial para o planejamento urbano e dos transportes. Conforme o enunciado, ela é determinada pela relação entre o número de habitantes e o número de autoveículos. É fundamental compreender que existe uma relação inversa: **quanto menor a relação habitantes/autoveículos, maior a motorização do país**. Isso significa que um país com poucos habitantes por veículo (ou seja, muitos veículos para sua população) é considerado altamente motorizado. Fatores como desenvolvimento econômico, renda per capita, disponibilidade e qualidade do transporte público, cultura do uso do automóvel, infraestrutura viária e políticas de financiamento de veículos influenciam diretamente esse indicador.",
+        "steps": [
+          "**1. Compreender o indicador de motorização:** O enunciado é explícito: 'quanto menor essa relação [habitantes/autoveículos], maior a motorização de um país'. Isso é a chave para interpretar o gráfico. Se o gráfico mostra um valor baixo para a relação, significa alta motorização; se mostra um valor alto, significa baixa motorização.",
+          "**2. Analisar o gráfico cuidadosamente:** Como o gráfico não está disponível na sua questão, a explicação será baseada na inferência do seu conteúdo a partir da alternativa correta. Em uma prova real, este passo envolveria a leitura atenta dos eixos, títulos, legendas e dos valores apresentados para cada país ou grupo de países ao longo do tempo (se for um gráfico temporal).",
+          "**3. Avaliar a alternativa C (correta) à luz do gráfico e dos conhecimentos geográficos:** A alternativa C afirma que a motorização 'manteve-se alta nos Estados Unidos, no Japão e na França, apesar da reconhecida qualidade do transporte público desses países'. Para que essa afirmativa seja correta, o gráfico precisaria mostrar uma relação habitantes/autoveículos consistentemente baixa para esses três países. Além disso, é um fato geográfico e social conhecido que Estados Unidos, Japão e França são nações desenvolvidas com alto poder aquisitivo, cultura do automóvel consolidada (especialmente nos EUA) e, sim, bons sistemas de transporte público, mas que não impedem a alta taxa de motorização individual. A persistência da alta motorização, mesmo com transporte público eficiente, é uma característica complexa de sociedades desenvolvidas, muitas vezes ligada à dispersão urbana, status social do carro e comodidade.",
+          "**4. Avaliar as alternativas incorretas (A, B, D, E) por exclusão e contradição com o gráfico (inferido) e o conhecimento geral:** As demais alternativas contêm informações que, ou contradizem o que o gráfico implicitamente mostra (dada a resposta C), ou apresentam uma correlação inadequada, ou uma generalização que não se aplica aos dados do gráfico. Cada uma será analisada na seção 'distractores'."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A afirmação 'aumentou, discretamente, na Alemanha, graças à estabilidade econômica do país' estaria incorreta se o gráfico não mostrasse esse aumento discreto, ou se a motorização na Alemanha já fosse muito alta e estável, com pouca margem para 'aumento discreto' que se destacasse no contexto. Embora a Alemanha seja um país de economia estável e alta motorização, a dinâmica temporal descrita pode não corresponder aos dados específicos do gráfico. Desenvolvimentos econômicos levam a um aumento de motorização até um certo ponto de saturação, onde ela tende a estabilizar.",
+          "B": "A alternativa 'diminuiu, sensivelmente, no Brasil, em função das altas taxas de juros para o financiamento de autoveículos' seria falsa se o gráfico indicasse o contrário, ou seja, um aumento da motorização no Brasil no período analisado. Historicamente, o Brasil tem buscado expandir sua frota de veículos, e, mesmo com períodos de juros altos, a tendência de aumento da motorização, impulsionada pelo crescimento da renda e da classe média em certos períodos, pode ter predominado sobre os efeitos de juros no curto prazo, ou a diminuição não foi 'sensível' o suficiente para ser a afirmação correta. A correlação entre juros e venda de carros é real, mas o impacto na *motorização total* de um país ao longo do tempo (que é o que o gráfico geralmente mostra) pode ser mais complexo.",
+          "C": "Esta é a alternativa correta. O gráfico, para sustentar essa afirmação, deve indicar que a relação habitantes/autoveículos nos Estados Unidos, Japão e França se manteve em patamares baixos, significando alta motorização. O complemento da frase ('apesar da reconhecida qualidade do transporte público') é uma observação pertinente sobre esses países, onde a conveniência e o status do carro, juntamente com a dispersão urbana (especialmente nos EUA), frequentemente superam o uso do transporte público, mantendo a motorização individual elevada.",
+          "D": "A afirmação de que a motorização 'diminuiu na Argentina e na Coreia do Sul, em decorrência da recessão econômica que atingiu esses países' estaria errada se o gráfico não mostrasse essa diminuição ou se a recessão não fosse o fator dominante para a motorização no período retratado. A Argentina de fato possui um histórico de recessões econômicas que podem afetar o poder de compra e, consequentemente, a motorização. A Coreia do Sul, por outro lado, é um país desenvolvido com forte indústria automobilística e geralmente alta motorização, e uma eventual 'diminuição' precisaria ser muito específica no tempo e na causa. É possível que o gráfico mostre estabilidade ou até aumento, tornando a alternativa incorreta.",
+          "E": "A alternativa 'manteve-se baixa na Itália, apesar de fortes investimentos na indústria automobilística' seria incorreta se o gráfico mostrasse uma motorização *alta* na Itália. A Itália é um país desenvolvido, membro do G7, com uma das maiores frotas de veículos per capita da Europa e uma indústria automobilística robusta (Fiat, Ferrari, Lamborghini, etc.). Embora algumas cidades italianas tenham centros históricos com restrições ao tráfego e um bom transporte público, a motorização *geral* do país dificilmente seria classificada como 'baixa' em comparação com outros países europeus ou globais."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a interpretação correta do indicador de motorização (relação inversa entre habitantes/veículos e nível de motorização) e a integração dessa leitura do gráfico (inferida) com conhecimentos geográficos e socioeconômicos sobre os países mencionados."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q12/image.png"
@@ -734,16 +739,23 @@
       "id": "fuvest-2015-q13",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda um tema central na geografia e história contemporâneas: a comparação entre os padrões migratórios do século XIX e os atuais. Para resolvê-la, é fundamental conhecer as características distintivas de cada período:\n\n**Migrações do Século XIX:**\n*   **Principais fluxos:** Predominantemente da Europa para as Américas (especialmente Estados Unidos, Canadá, Brasil, Argentina) e Oceania (Austrália, Nova Zelândia).\n*   **Causas:** Fatores de repulsão (pobreza, fome, perseguições religiosas/políticas, guerras na Europa) e fatores de atração (terras disponíveis, industrialização, busca por trabalho, oportunidades econômicas).\n*   **Natureza:** Majoritariamente migração de povoamento, muitas vezes com caráter permanente, visando estabelecer uma nova vida no país de destino.\n*   **Perfil dos migrantes:** Predominantemente europeus, buscando mão de obra ou terras agrícolas.\n\n**Migrações Contemporâneas (a partir do final do século XX e início do XXI):**\n*   **Principais fluxos:** Mais diversificados, com destaque para a migração Sul-Norte (países em desenvolvimento para países desenvolvidos), mas também Sul-Sul (entre países em desenvolvimento). Há um aumento dos fluxos intra-regionais (ex: dentro da África, da Ásia, da América Latina).\n*   **Causas:** Fatores econômicos (busca por emprego, melhores salários, fuga da pobreza), conflitos armados, perseguições, desastres ambientais, fatores sociais e políticos. A globalização e a facilidade de transporte também influenciam.\n*   **Natureza:** Além da migração de povoamento, há um aumento da migração temporária, sazonal, e de trabalhadores qualificados. Crescimento da migração forçada (refugiados e deslocados internos).\n*   **Papel das Remessas:** As remessas (dinheiro enviado por migrantes para seus países de origem) tornaram-se um componente econômico extremamente significativo para muitos países em desenvolvimento, superando, em alguns casos, o valor da Ajuda Oficial ao Desenvolvimento (AOD) e do Investimento Estrangeiro Direto (IED).\n*   **Perfil dos migrantes:** Mais diversificado em termos de origem (África, Ásia, América Latina, Leste Europeu) e com maior participação feminina.",
+        "steps": [
+          "A questão solicita a comparação entre a migração atual e a do século XIX. Dado que o enunciado e as alternativas estão truncados no JSON fornecido, faremos a análise com base nos fragmentos disponíveis e no conhecimento histórico-geográfico geral sobre o tema.",
+          "Identifique as características gerais das migrações do século XIX, como as rotas predominantes (Europa para as Américas), os principais motivadores (pobreza, busca por terras e emprego na industrialização) e a natureza do deslocamento (povoamento).",
+          "Identifique as características gerais das migrações contemporâneas, como a diversificação de origens e destinos (Sul-Norte, Sul-Sul, intra-regional), a importância das remessas, os diferentes tipos de migração (trabalho, forçada, temporária) e os motivadores (econômicos, conflitos, ambientais).",
+          "Analise cada alternativa, mesmo que truncada, verificando qual delas apresenta uma comparação correta e uma característica distintiva da migração contemporânea em relação ao século XIX, que seja factualmente precisa.",
+          "A alternativa B, ao mencionar as 'remessas enviadas por migrantes', aponta para uma característica marcante da migração contemporânea, que se diferencia significativamente do século XIX, onde esse fenômeno não tinha a mesma escala e impacto econômico global."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A, em seu fragmento 'Até o século XIX, as nações norteͲamericanas destacaramͲ encontramͲse entre as principais receptoras desses fluxos, so', está parcialmente correta em relação ao século XIX, pois as nações norte-americanas (especialmente os EUA) foram grandes receptoras de imigrantes. No entanto, o erro geralmente ocorre na segunda parte da frase (que está truncada), ao comparar com o cenário atual, ou ao não destacar uma *diferença* fundamental, mas sim uma continuidade ou uma meia-verdade que não é o ponto central da comparação solicitada.",
+          "B": "A alternativa B, embora truncada ('Diferentemente do que ocorreu no século XIX, os recursos remessas enviadas por migrantes originários de nações pobr sustentar suas famílias no país de origem, além de represent'), é a correta. O ponto-chave aqui é a menção das 'remessas enviadas por migrantes'. As remessas são um fenômeno econômico e social que ganhou enorme escala e importância global nas migrações contemporâneas, sendo um diferencial marcante em relação às migrações do século XIX. Naquele período, embora houvesse apoio financeiro entre famílias, o volume e a organização das remessas não se comparavam ao cenário atual, onde representam uma fatia significativa do PIB de muitos países de origem, sustentando famílias e impulsionando economias.",
+          "C": "A alternativa C, em seu fragmento 'Países europeus, como Irlanda, Itália, Grécia e Espanha, fo continuam a figurar, hoje em dia, dentre os países com maio', provavelmente contém um erro de generalização ou de anacronismo. Países como Irlanda, Itália, Grécia e Espanha foram, de fato, grandes emissores de migrantes no século XIX e boa parte do século XX. No entanto, hoje em dia, muitos deles se tornaram também importantes receptores de migrantes (ex: Espanha, Itália) ou experimentam fluxos mais complexos. A afirmação de que 'continuam a figurar [...] dentre os países com maior [emissão]' pode ser imprecisa para o contexto atual desses países, especialmente se comparado a outras regiões do mundo com fluxos migratórios em ascensão, ou pode haver uma inversão de papel de emissor para receptor.",
+          "D": "A alternativa D, em seu fragmento 'No século XIX, a emissão e a recepção de migrantes concen restringeͲse à América do Sul e a recepção tem alcance globa', apresenta um erro claro na segunda parte da comparação. A migração do século XIX foi, de fato, concentrada em termos de origem (Europa) e destino (Américas). No entanto, a afirmação de que a emissão de migrantes 'restringe-se à América do Sul' no contexto contemporâneo é factualmente incorreta. A emissão de migrantes hoje é um fenômeno global, vindo de diversas regiões como África, Ásia, Leste Europeu, além da América Latina. A parte 'a recepção tem alcance global' para hoje está correta, mas a restrição da emissão para a América do Sul invalida a alternativa.",
+          "E": "A alternativa E, em seu fragmento 'O movimento migratório do continente africano para a Ás importante crescimento decorrente de políticas de coope socioeconômico africano, especialmente para Angola e África', pode apresentar um erro de causa-e-efeito ou de foco. Embora existam fluxos migratórios entre a África e a Ásia, e a cooperação socioeconômica seja relevante, a afirmação de um 'importante crescimento' *decorrente especificamente* de 'políticas de cooperação socioeconômico africano, especialmente para Angola e África' pode ser uma generalização imprecisa. As migrações africanas para a Ásia são complexas, muitas vezes impulsionadas por oportunidades de trabalho (ex: Golfo Pérsico), e não necessariamente por políticas de cooperação focadas apenas em Angola e África do Sul (que são nações mais desenvolvidas no continente, mas não os únicos ou principais emissores para a Ásia). O trecho parece focar em um aspecto muito específico ou distorcido das migrações africanas globais.",
+          "F": ""
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre as principais características que diferenciam os fluxos migratórios do século XIX e os contemporâneos, destacando a relevância das remessas como um fenômeno econômico e social distintivo na atualidade."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q13/image.png"
@@ -787,16 +799,21 @@
       "id": "fuvest-2015-q14",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o grupo extremista Boko Haram, um tema recorrente em vestibulares que exigem conhecimento sobre geopolítica e conflitos contemporâneos. Para resolvê-la, é fundamental compreender a origem, a ideologia e a área de atuação desse grupo. O Boko Haram, cujo nome significa 'a educação ocidental é pecaminosa' na língua haussa, é conhecido por sua interpretação radical do islamismo e por combater a influência ocidental na Nigéria. Sua ascensão está ligada a um contexto de pobreza, desigualdade social e fragilidade estatal, especialmente na região norte da Nigéria, historicamente marginalizada. A menção aos 'colonizadores britânicos' no texto é uma pista crucial para identificar o país, uma vez que a Nigéria foi uma colônia britânica.",
+        "steps": [
+          "Analise o enunciado, buscando as informações-chave sobre o Boko Haram: sua origem como seita, a ideologia (islã radical, crítica a valores ocidentais e à educação ocidental), o significado do seu nome em haussa e a referência aos 'colonizadores britânicos'.",
+          "Com base na menção aos 'colonizadores britânicos', infira que o país em questão provavelmente foi uma colônia britânica. A língua haussa é predominante no Norte da Nigéria e em outras partes da África Ocidental, o que reforça a localização.",
+          "Avalie as alternativas, eliminando aquelas que apresentam localizações geográficas ou características que não se alinham com as informações do texto ou com o conhecimento geral sobre o Boko Haram. Por exemplo, descarte alternativas que mencionem Iraque, Emirados Árabes, Líbia ou Etiópia, pois são geograficamente incorretas para a atuação central do Boko Haram.",
+          "Confirme a alternativa que melhor se encaixa com todas as informações: a Nigéria como palco de atuação, o extremismo muçulmano e a realidade de pobreza na região norte, que é um fator de radicalização, conforme o contexto implícito e explícito do enunciado."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta. O Boko Haram não é uma dissidência da Al-Qaeda no Iraque. Embora tenha estabelecido alianças com grupos terroristas globais (como o Estado Islâmico, em certo período), sua origem é local na Nigéria, e sua atuação principal sempre foi nesse país e em nações vizinhas. A menção ao Iraque e a Saddam Hussein desvia o foco geográfico e histórico da questão.",
+          "B": "Esta alternativa está incorreta. O Boko Haram não atua nos Emirados Árabes Unidos. Os Emirados Árabes são um conjunto de nações ricas do Golfo Pérsico, geograficamente muito distantes da África Ocidental e com um contexto sociopolítico e econômico completamente diferente da Nigéria. A atuação do grupo está concentrada na África Subsaariana.",
+          "C": "Esta alternativa está incorreta. O Boko Haram atua na Nigéria e países vizinhos, não no Sul da Líbia. Embora o Boko Haram seja um grupo sunita extremista, a questão da oposição 'franca' aos xiitas não é o principal motor ou foco de sua atuação, dado o contexto religioso da Nigéria, onde a população xiita é minoritária e não representa seu principal alvo. Além disso, a localização geográfica está errada.",
+          "D": "Esta alternativa está correta. O Boko Haram é, de fato, um grupo muçulmano extremista (pregando um islã radical e rigoroso, como mencionado no texto) que atua predominantemente no Norte da Nigéria. Essa região é historicamente marcada por altos índices de pobreza e desigualdade social, fatores que contribuem para a vulnerabilidade da população à retórica radical do grupo, que culpa os 'valores ocidentais' pelos males do país, como explícito no enunciado. A Nigéria foi uma colônia britânica, o que justifica a menção a 'colonizadores britânicos'.",
+          "E": "Esta alternativa está incorreta. O Boko Haram não é da Etiópia, nem está ligado ao regime político dos tuaregues. Os tuaregues são um povo berbere nômade do Saara e Sahel (presentes em países como Mali, Níger, Argélia, Líbia e Burkina Faso), não na Etiópia. A Etiópia tem uma maioria cristã e um contexto religioso e étnico distinto, não correspondendo ao perfil descrito."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre o grupo Boko Haram, exigindo a identificação correta de sua localização geográfica (Norte da Nigéria) e seu caráter (grupo muçulmano extremista), com base em pistas do texto como 'colonizadores britânicos' e a língua haussa."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q14/image.png"
@@ -840,16 +857,20 @@
       "id": "fuvest-2015-q15",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda uma crítica central à modernidade e ao desenvolvimento capitalista, frequentemente discutida na filosofia, sociologia e geografia. O texto explora a noção de 'racionalidade instrumental', um conceito associado a pensadores da Escola de Frankfurt (como Max Horkheimer e Theodor Adorno). Essa racionalidade é caracterizada por seu foco na eficiência e na maximização de meios para atingir fins, desconsiderando as consequências éticas, sociais ou ecológicas. No contexto do excerto, a racionalidade instrumental, aliada à tecnociência e à busca por produtividade, impõe uma lógica de 'dominação da natureza' que ignora os ritmos e processos naturais, gerando problemas ambientais como o efeito estufa e o lixo, que são vistos como manifestações contraditórias dessa mesma lógica.",
+        "steps": [
+          "**1. Compreensão do Contexto e Conceitos-Chave:** O texto estabelece uma conexão direta entre 'racionalidade instrumental e sua tecnociência', o 'objetivo de aumentar a produtividade' e as 'manifestações contraditórias' do 'efeito estufa e o lixo'. A ideia central é que a busca pela produtividade no sistema capitalista ('concorrência e acumulação de capital') submete os 'tempos de cada ente' (a natureza) a essa lógica.",
+          "**2. Análise da Relação Causa-Consequência:** Observe que o aumento da produtividade é apresentado como a *causa* de problemas ambientais, não como sua solução. O texto afirma que 'esqueceu-se de que todo trabalho dissipa energia sob forma de calor (efeito estufa) e que a desagregação da matéria, ao longo do tempo, torna-a irreversível (lixo)', indicando que esses são resultados indesejados e 'esquecidos' da busca por produtividade.",
+          "**3. Avaliação das Alternativas com Base no Texto:** Cada alternativa deve ser confrontada com as afirmações explícitas ou implícitas do excerto. Busque por correspondências diretas ou contradições claras. Por exemplo, se uma alternativa afirma que algo foi superado, verifique se o texto apresenta essa superação ou, ao contrário, o problema como persistente."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Incorreta. O texto argumenta que o 'aumento da produtividade' é a *origem* dos problemas do efeito estufa e do lixo, pois leva à submissão dos tempos naturais aos interesses de acumulação. Portanto, não é um meio para 'vencer' ou 'superar' esses problemas, mas sim uma de suas causas, segundo o autor.",
+          "B": "Incorreta. O excerto afirma que 'o lixo' é uma das 'manifestações mais contraditórias da vontade de dominação da natureza posta em prática pela racionalidade instrumental e sua tecnociência'. Isso significa que a racionalidade instrumental e a tecnociência *contribuem para o problema* do lixo e sua irreversibilidade, e não que a humanidade o 'superou' por meio delas. A lógica do texto é crítica, não celebratória de uma superação.",
+          "C": "Incorreta. O texto afirma explicitamente o oposto: 'Com o objetivo de aumentar a produtividade, que na prática significa **submeter os tempos de cada ente** [...] **a um tempo da concorrência e da acumulação de capital**'. Isso demonstra que os tempos da natureza são subordinados aos tempos do capital, e não o inverso.",
+          "D": "Incorreta. O texto conecta a busca pela produtividade e a acumulação de capital à geração de lixo, afirmando que 'a desagregação da matéria, ao longo do tempo, torna-a irreversível (lixo)'. A aceleração do tempo de acumulação de capital, portanto, está ligada à *criação* de algo irreversível, e não à sua eliminação. Não há nenhuma sugestão de que a aceleração permita eliminar a irreversibilidade do lixo; pelo contrário, essa é uma consequência negativa da priorização dos tempos capitalistas.",
+          "E": "Correta. A alternativa reproduz fielmente a ideia central do trecho: 'Com o objetivo de aumentar a produtividade, que na prática significa **submeter os tempos de cada ente, seja ele mineral, vegetal ou animal, a um tempo da concorrência e da acumulação de capital**'. Isso ilustra como a lógica econômica capitalista impõe seus próprios ritmos e demandas aos elementos naturais, desrespeitando seus tempos próprios e gerando consequências como o efeito estufa e o lixo."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a interpretação da crítica do autor sobre como a busca capitalista pela produtividade e acumulação de capital impõe seus tempos e lógicas à natureza, resultando em problemas ambientais como o efeito estufa e o lixo."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q15/image.png"
@@ -893,16 +914,22 @@
       "id": "fuvest-2015-q16",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A teoria da Tectônica de Placas é um dos pilares da geologia moderna, explicando a dinâmica da litosfera terrestre. Ela postula que a camada mais externa da Terra é dividida em grandes blocos rígidos (placas tectônicas) que se movem lentamente sobre o manto superior. Os limites entre essas placas podem ser de três tipos principais: divergentes (onde as placas se afastam), convergentes (onde as placas colidem) e transformantes (onde as placas deslizam lateralmente uma em relação à outra). A Dorsal Mesoatlântica é um exemplo clássico de limite divergente, onde ocorre a ascensão de magma, formação de nova crosta oceânica (processo conhecido como \"expansão do assoalho oceânico\") e o afastamento gradual dos continentes adjacentes.",
+        "steps": [
+          "**Análise da afirmação I:** \"Segundo a teoria da tectônica de placas, os continentes africano e americano continuam se afastando um do outro.\" A Dorsal Mesoatlântica é uma feição geológica que representa um limite de placa divergente. Nesse tipo de limite, há a criação de nova crosta oceânica a partir do manto, o que empurra as placas tectônicas adjacentes para longe uma da outra. No caso do Oceano Atlântico, as placas Sul-Americana e Africana (e suas contrapartes no hemisfério norte) estão se afastando, resultando na expansão contínua do oceano. Portanto, a afirmação I está correta.",
+          "**Análise da afirmação II:** \"A presença de rochas mais jovens próximas à Dorsal Atlântica comparada à de rochas mais antigas, em locais mais distantes, é um indicativo da existência de limites entre placas tectônicas divergentes no assoalho oceânico.\" Um dos principais argumentos a favor da expansão do assoalho oceânico é a datação das rochas oceânicas. As rochas formadas na Dorsal Mesoatlântica são as mais jovens, pois são continuamente criadas pela solidificação do magma. À medida que as placas se afastam, essas rochas se movem lateralmente para longe da dorsal, tornando-se progressivamente mais antigas em direção aos continentes. Essa distribuição simétrica da idade das rochas é uma evidência crucial de um limite divergente. Portanto, a afirmação II está correta.",
+          "**Análise da afirmação III:** \"Semelhanças entre rochas e fósseis encontrados nos continentes que, hoje, estão separados pelo Oceano Atlântico são consideradas evidências de que um dia esses continentes estiveram unidos.\" Essa foi uma das evidências originais apresentadas por Alfred Wegener para sua teoria da Deriva Continental, que serviu de base para a Teoria da Tectônica de Placas. A ocorrência de espécies fósseis idênticas e de tipos de rochas e estruturas geológicas compatíveis em continentes hoje separados por vastos oceanos (como a África e a América do Sul) sugere fortemente que essas massas de terra estiveram conectadas no passado, formando um supercontinente (Pangeia). Portanto, a afirmação III está correta.",
+          "**Análise da afirmação IV:** \"A formação da cadeia montanhosa Dorsal Atlântica resultou de um choque entre as placas tectônicas norteͲ americana e africana.\" A Dorsal Atlântica, embora seja uma elevação topográfica no assoalho oceânico, não é uma \"cadeia montanhosa\" no sentido de ser formada por um \"choque\" (colisão) entre placas tectônicas. Cadeias montanhosas orogenéticas, como os Andes ou o Himalaia, resultam de limites convergentes, onde as placas colidem e há compressão. A Dorsal Atlântica é um limite divergente, onde as placas se separam e o magma ascende, formando um rift valley central e um relevo elevado devido à injeção de material novo e ao aquecimento da crosta. Portanto, a afirmação IV está incorreta, pois descreve um processo de colisão em vez de separação.",
+          "**Conclusão:** As afirmações I, II e III estão corretas, enquanto a afirmação IV está incorreta. Assim, a alternativa que contém apenas as afirmações corretas é a letra A."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está correta. Ela inclui as afirmações I, II e III, que foram avaliadas como verdadeiras, e exclui a afirmação IV, que é falsa. As afirmações corretas abordam aspectos fundamentais dos limites divergentes, como o afastamento dos continentes, a idade das rochas e as evidências de união continental prévia.",
+          "B": "Esta alternativa está incorreta porque inclui a afirmação IV (\"A formação da cadeia montanhosa Dorsal Atlântica resultou de um choque entre as placas tectônicas norteͲ americana e africana\"), que é falsa. A Dorsal Atlântica é um limite divergente, formado pela separação das placas, não por uma colisão.",
+          "C": "Esta alternativa está incorreta porque inclui a afirmação IV (falsa) e não inclui a afirmação I (\"Segundo a teoria da tectônica de placas, os continentes africano e americano continuam se afastando um do outro\"), que é verdadeira. O afastamento dos continentes é uma característica essencial dos limites divergentes do Atlântico.",
+          "D": "Esta alternativa está incorreta porque inclui a afirmação IV (falsa) e não inclui a afirmação II (\"A presença de rochas mais jovens próximas à Dorsal Atlântica comparada à de rochas mais antigas, em locais mais distantes, é um indicativo da existência de limites entre placas tectônicas divergentes no assoalho oceânico\"), que é verdadeira. A datação das rochas oceânicas é uma evidência crucial da expansão do assoalho oceânico.",
+          "E": "Esta alternativa está incorreta porque afirma que todas as quatro sentenças estão corretas, o que não é verdade. A afirmação IV é falsa, pois a Dorsal Atlântica é formada por um processo de divergência, e não de colisão, de placas tectônicas."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre os processos e evidências associados aos limites de placas tectônicas divergentes, exemplificados pela Dorsal Mesoatlântica, sendo crucial distinguir a formação por afastamento de placas da formação por colisão."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q16/image.png"
@@ -946,16 +973,21 @@
       "id": "fuvest-2015-q17",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Plano Diretor Estratégico é um instrumento fundamental da política urbana municipal, previsto na Constituição Federal (art. 182) e regulamentado pelo Estatuto da Cidade (Lei nº 10.257/2001). Ele estabelece as regras para o uso e ocupação do solo, as políticas de desenvolvimento urbano e a gestão da cidade. Seus objetivos visam, em geral, promover cidades mais justas, sustentáveis e funcionais, combatendo desigualdades, melhorando a mobilidade e garantindo o acesso a infraestrutura e serviços. Um conceito chave é o adensamento construtivo e populacional em áreas bem servidas por transporte público, buscando otimizar a infraestrutura existente e reduzir os deslocamentos pendulares (casa-trabalho-casa). Outro ponto relevante é a promoção da função social da propriedade e a oferta de habitação de interesse social em locais estratégicos, além da descentralização de serviços e empregos para áreas periféricas.",
+        "steps": [
+          "**1. Compreenda os objetivos do Plano Diretor de SP apresentados:** Analise cada um dos três objetivos mencionados no enunciado: 1) promover melhor aproveitamento do solo e aumento de densidade (construtiva, demográfica, habitacional e de atividades urbanas) perto do transporte público; 2) incrementar comércio, serviços e emprego em áreas pobres da periferia; 3) ampliar a oferta de habitações de interesse social perto do transporte público.",
+          "**2. Identifique o objetivo comum/sintético dessas medidas:** Observe que todos os objetivos buscam rearranjar a ocupação urbana de modo a aproximar diferentes funções da cidade – moradia, trabalho e serviços – seja concentrando-as perto do transporte público ou descentralizando-as para a periferia. O intuito é reduzir a necessidade de longos deslocamentos e promover maior mix de usos nas diferentes regiões.",
+          "**3. Avalie cada alternativa à luz dos objetivos identificados:** Compare cada uma das opções (A, B, C, D, E) com o que foi extraído dos objetivos do Plano Diretor.",
+          "**4. Selecione a alternativa que melhor sintetiza a intenção do Plano:** A alternativa correta deve ser aquela que engloba ou reflete de forma mais abrangente a finalidade de todas as medidas propostas pelo Plano Diretor."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. As medidas descritas visam claramente a uma maior integração e proximidade entre as diversas funções urbanas. O aumento da densidade perto do transporte coletivo busca aproximar moradia, trabalho (atividades urbanas) e serviços. O incremento de comércio, serviços e emprego na periferia visa levar essas funções para mais perto da moradia de quem vive nessas áreas. A ampliação de habitações de interesse social perto do transporte também contribui para aproximar moradia de oportunidades e serviços. Assim, o objetivo maior é estimular uma cidade mais compacta e policêntrica, com menos deslocamentos.",
+          "B": "Esta alternativa está incorreta. O primeiro objetivo do Plano Diretor mencionado é \"promover melhor aproveitamento do solo... com aumento na densidade construtiva\", o que geralmente se traduz em verticalização, especialmente em áreas próximas a eixos de transporte. Inibir a verticalização seria contraditório a esse objetivo de adensamento.",
+          "C": "Esta alternativa está incorreta. O primeiro objetivo do Plano Diretor afirma explicitamente a intenção de promover o \"aumento na densidade demográfica\" nas proximidades do sistema estrutural de transporte coletivo, e não a sua redução. Isso busca otimizar a infraestrutura de transporte e serviços existentes.",
+          "D": "Esta alternativa está incorreta. O segundo objetivo do Plano Diretor é justamente \"incrementar a oferta de comércios, serviços e emprego em áreas pobres da periferia\". Comércio e serviços pertencem ao setor terciário. Portanto, a intenção é exatamente o oposto de \"coibir a distribuição espacial do setor terciário\" nessas áreas, mas sim fomentá-lo.",
+          "E": "Esta alternativa está incorreta. O terceiro objetivo do Plano Diretor é \"ampliar a oferta de habitações de interesse social nas proximidades do sistema estrutural de transporte coletivo\". Isso significa diversificar os locais de oferta de HIS, incluindo áreas bem localizadas e com infraestrutura, e não restringir sua concentração apenas às áreas periféricas. A medida busca combater a segregação socioespacial e garantir acesso à cidade formal para populações de baixa renda."
         },
-        "finalSummary": ""
+        "finalSummary": "As medidas do Plano Diretor de SP buscam criar uma cidade mais equilibrada e funcional, promovendo a aproximação entre moradia, trabalho e serviços para melhorar a qualidade de vida e reduzir a necessidade de grandes deslocamentos."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q17/image.png"
@@ -999,16 +1031,20 @@
       "id": "fuvest-2015-q18",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver questões que envolvem análise de mapas e conhecimentos geográficos, como esta sobre a produção de leite no Brasil, é fundamental dominar a leitura e interpretação de dados cartográficos, bem como possuir um bom conhecimento da geografia agrária brasileira. A pecuária leiteira no Brasil apresenta características regionais distintas, influenciadas por fatores como clima, relevo, acesso a mercados, tecnologias de produção e infraestrutura. Historicamente, a região Sudeste e Sul concentram a maior parte da produção, mas há tendências de expansão para outras áreas. O crescimento do consumo interno é um dos principais impulsionadores do setor agrícola e pecuário no país, gerando aumento tanto na quantidade produzida quanto no número de rebanhos.",
+        "steps": [
+          "**Análise dos Mapas (Hipótese):** Inicialmente, seria necessário observar atentamente os mapas de produção de leite fornecidos. Deveríamos identificar as áreas de maior concentração e menor produção, bem como as tendências de crescimento ou retração em diferentes regiões ao longo do tempo (se os mapas mostrassem períodos diferentes). Prestar atenção à intensidade das cores ou tamanhos dos símbolos, bem como às legendas, seria crucial para entender a distribuição geográfica da produção e do número de rebanhos. *Como os mapas não foram fornecidos, esta etapa é descrita hipoteticamente.*",
+          "**Confronto com as Alternativas:** Com base na análise visual dos mapas (hipoteticamente) e nos conhecimentos gerais sobre a geografia da pecuária leiteira no Brasil, cada alternativa deve ser avaliada individualmente quanto à sua coerência e veracidade. Verificar se as afirmações sobre crescimento regional, causas de expansão ou consolidação de hegemonias estão de acordo com os dados apresentados e com a realidade brasileira.",
+          "**Avaliação da Plausibilidade:** Além dos dados visuais, é importante usar o conhecimento de contexto. Perguntar-se: 'Faz sentido que a região X tenha crescido por Y motivo?' ou 'É correto que Z região seja a mais produtiva pelo motivo W?'. Tendências macroeconômicas, como o crescimento do consumo interno, são fatores importantes a serem considerados para o setor agrícola em geral."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa sugere que o crescimento no Nordeste ocorreu devido à 'substituição das plantas mais secas'. Embora possa haver esforços para adaptar a produção de leite em regiões mais secas do Nordeste, essa justificativa específica e generalizada para um 'crescimento' significativo da região como um todo é questionável. O desenvolvimento da pecuária leiteira no Nordeste envolve mais a adaptação de raças, melhoramento genético e tecnologias de irrigação e forrageamento, e não apenas uma 'substituição de plantas'. Sem os mapas, é difícil confirmar o *grau* de crescimento, mas a justificativa é frágil para um processo de grande escala.",
+          "B": "Avanço para os estados do Norte e Centro-Oeste na pecuária é uma realidade, mas a afirmação de que atingiu as 'regiões mais secas' do Norte e Centro-Oeste para a produção de leite é imprecisa. A pecuária leiteira, de forma geral, demanda pastagens e fontes de água mais consistentes. Embora haja expansão, não é caracterizada por se dar em 'regiões mais secas' de forma predominante, especialmente no Norte, onde a floresta é predominante em boa parte do território. Além disso, o Centro-Oeste é mais conhecido pela pecuária de corte extensiva.",
+          "C": "Minas Gerais é, de fato, o maior produtor de leite do Brasil. Contudo, afirmar que a 'hegemonia' se consolidou 'graças à alta produtividade dos rebanhos no Vale do Jequitinhonha' é geograficamente incorreto. O Vale do Jequitinhonha é uma região historicamente menos desenvolvida e com características climáticas que dificultam a alta produtividade leiteira em larga escala. As principais bacias leiteiras de Minas Gerais estão em outras regiões, como o Sul de Minas, Zona da Mata, Triângulo Mineiro e Alto Paranaíba. Esta alternativa usa um detalhe específico para induzir ao erro, ao associar uma área de menor expressão produtiva com a hegemonia estadual.",
+          "D": "Esta é a alternativa correta. O setor leiteiro no Brasil tem mostrado um crescimento contínuo, tanto em quantidade produzida (litros de leite) quanto no número de animais no rebanho, impulsionado, em grande parte, pelo aumento do consumo interno. Com o crescimento demográfico e a melhoria da renda (em diversos períodos), a demanda por produtos lácteos cresce, estimulando a produção e a modernização do setor para atender a esse mercado. Esta é uma tendência geral da agropecuária brasileira, que os mapas provavelmente ilustrariam com áreas de intensificação e/ou expansão da produção.",
+          "E": "A afirmação de que a produção de leite 'abarcou todo o território nacional, excetuando-se os estados com maiores unidades de conservação' é uma generalização excessiva e imprecisa. Embora a produção leiteira seja difundida, ela não 'abarca todo o território' de forma homogênea ou economicamente significativa em todas as áreas. Existem vastas regiões com condições ambientais (como florestas densas, áreas muito áridas) ou infraestruturais inadequadas para a produção de leite em escala comercial. A exclusão apenas de 'estados com maiores unidades de conservação' não é o único fator limitante da distribuição da pecuária leiteira, e mesmo dentro desses estados pode haver produção."
         },
-        "finalSummary": ""
+        "finalSummary": "A expansão da produção de leite no Brasil reflete uma tendência geral de crescimento impulsionado pela demanda do mercado interno, que é o principal motor do agronegócio nacional."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q18/image.png"
@@ -1052,16 +1088,22 @@
       "id": "fuvest-2015-q19",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto aborda a relevância das populações tradicionais e seu papel fundamental na conservação ambiental, utilizando o exemplo do quilombola Francisco Sales Coutinho Mandira e sua comunidade. O cerne da discussão gira em torno do conceito de 'Reserva Extrativista' (RESEX), que permite a convivência harmoniosa entre o ser humano e a natureza. As RESEXs são unidades de conservação de uso sustentável que visam proteger tanto a biodiversidade quanto a cultura e o modo de vida das populações tradicionais extrativistas que vivem na área. Elas pressupõem a organização comunitária para o 'uso racional dos recursos naturais', ou seja, o manejo planejado e sustentável, que garante a subsistência das comunidades sem comprometer os ecossistemas para as gerações futuras. O reconhecimento internacional de casos como o de Mandira reforça a eficácia desse modelo e a importância do conhecimento tradicional na busca por soluções para o desenvolvimento sustentável.",
+        "steps": [
+          "**1. Compreenda o Contexto Narrativo:** Identifique o protagonista (Francisco Sales Coutinho Mandira), sua origem (quilombola), o local de sua atuação (manguezal do Quilombo Mandira) e o problema inicial (tentou sair da lama, mas voltou).",
+          "**2. Identifique a Ação Principal e seu Resultado:** Perceba que a ação central de Mandira foi organizar os quilombolas para o 'uso racional dos recursos naturais'. O resultado dessa ação foi o reconhecimento internacional e a possibilidade de conhecer outros países.",
+          "**3. Conecte a Ação ao Conceito Teórico:** O texto explicitamente liga a 'mudança' e a atuação de Mandira à divulgação do conceito de 'reserva extrativista' a partir de 1993. Entenda o que é uma RESEX: local onde 'populações tradicionais continuam retirando seu sustento da natureza, mas de forma planejada'.",
+          "**4. Sintetize a Mensagem Central:** A ideia principal do texto é que as populações tradicionais, com sua organização e manejo planejado dos recursos (muitas vezes em parceria com pesquisas e órgãos governamentais), são agentes cruciais na conservação ambiental e no desenvolvimento sustentável, exemplificadas pelas Reservas Extrativistas.",
+          "**5. Avalie as Alternativas (com a devida ressalva):** Sem o texto das alternativas, a etapa final seria escolher aquela que melhor articula a capacidade das comunidades tradicionais de promover o desenvolvimento sustentável e a conservação por meio do manejo racional, conforme o modelo das reservas extrativistas."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "As alternativas da questão não foram fornecidas no formato textual, estando indicadas como '(Veja a imagem da questão)'. Assim, a análise das alternativas incorretas (A, B, D, E) será baseada em tipos comuns de erros em questões sobre este tema na Fuvest. Uma alternativa A incorreta poderia, por exemplo, sugerir que a ação de Francisco Sales Coutinho Mandira foi isolada e sem impacto significativo, ou que o reconhecimento internacional foi apenas simbólico e não ligado a práticas efetivas de conservação, contrariando o texto.",
+          "B": "Uma alternativa B errada poderia deturpar o conceito de Reserva Extrativista, afirmando que elas são áreas de proteção integral onde a presença humana é proibida, ou que o sustento das populações extrativistas é incompatível com a conservação ambiental. Tais afirmações contradiriam diretamente a definição de RESEX e o exemplo de Mandira, que enfatizam o 'uso planejado' e a permanência das populações.",
+          "C": "A alternativa C, sendo a correta, *provavelmente* destaca o papel protagonista das comunidades tradicionais na gestão sustentável dos recursos naturais e na conservação ambiental, como ilustrado pelo quilombola Mandira e pelo conceito de reserva extrativista. Ela deve reforçar que a organização comunitária e o conhecimento local, aliados ao planejamento e, por vezes, ao apoio técnico, são elementos-chave para o desenvolvimento sustentável e para o reconhecimento de práticas de conservação que integram o ser humano à natureza.",
+          "D": "Uma alternativa D incorreta poderia focar excessivamente na dificuldade de conciliar o desenvolvimento econômico com a preservação ambiental em áreas de populações tradicionais, desconsiderando o sucesso do modelo de Reserva Extrativista apresentado no texto. Ou ainda, poderia atribuir o sucesso de Mandira exclusivamente à intervenção externa (pesquisadores/órgãos do governo), minimizando o protagonismo e a organização dos próprios quilombolas.",
+          "E": "Uma alternativa E errada poderia generalizar o caso de Mandira como um evento isolado e não representativo, sugerindo que a maioria das comunidades tradicionais não consegue gerir seus recursos de forma sustentável, ou que o modelo de RESEX é inviável em larga escala. Poderia também focar em aspectos irrelevantes ou em um detalhe menor do texto, desviando a atenção da mensagem principal sobre o uso racional dos recursos e o papel das comunidades tradicionais na conservação."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão reforça o modelo da Reserva Extrativista como um exemplo bem-sucedido de desenvolvimento sustentável, onde populações tradicionais, como os quilombolas, são protagonistas na conservação ambiental através do uso racional e planejado de seus recursos naturais."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q19/image.png"
@@ -1105,16 +1147,21 @@
       "id": "fuvest-2015-q20",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "As paisagens litorâneas brasileiras são extremamente diversas, moldadas por processos geológicos, climáticos e biológicos ao longo de milhões de anos. Entre as formas de relevo mais dinâmicas e emblemáticas do litoral, destacam-se as dunas. As dunas são elevações ou montículos de areia formados pela ação do vento (ação eólica), que transporta e deposita grãos de areia. Sua formação depende da disponibilidade de sedimentos arenosos, ventos constantes com direção predominante e, frequentemente, da ausência ou escassez de cobertura vegetal, que de outra forma fixaria a areia. Devido à natureza fluida da areia e à persistência do vento, as dunas são paisagens em constante movimento e transformação, migrando e alterando seu formato ao longo do tempo. No Brasil, as dunas são encontradas não apenas em extensos trechos do litoral (especialmente no Nordeste), mas também em algumas áreas do interior, como nos Lençóis Maranhenses, que são dunas costeiras interiorizadas, ou em bolsões de areia em vales fluviais secos.",
+        "steps": [
+          "**1. Interpretação das Imagens (Implícita):** Embora as imagens não estejam disponíveis para a análise direta, as opções descrevem diferentes tipos de paisagens costeiras. A alternativa correta (B) se refere a formações decorrentes de ação eólica, o que nos permite inferir que as imagens se referem a dunas.",
+          "**2. Análise da Alternativa Correta (B):** A alternativa B descreve com precisão as características das dunas: são formações resultantes da ação eólica (vento), modificam-se constantemente (devido ao transporte de areia pelo vento) e estão presentes tanto no litoral quanto em algumas áreas do interior do Brasil (como os Lençóis Maranhenses).",
+          "**3. Avaliação das Alternativas Incorretas:** Cada uma das outras alternativas apresenta informações geográficas ou geomorfológicas incorretas ou que não se aplicam às dunas, conforme detalhado na seção 'distractors'."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta. Derramamentos vulcânicos em eras geológicas recentes não são uma característica predominante do litoral brasileiro, especialmente no Sudeste, que é tectonicamente estável. As formações rochosas vulcânicas no Brasil são antigas e não formam o tipo de paisagem dinâmica e arenosa que as dunas representam.",
+          "B": "Esta é a alternativa correta. As dunas são, de fato, formações resultantes da ação eólica (vento), que transporta e deposita areia. Devido à sua natureza arenosa e à influência contínua do vento, elas estão em constante modificação. Sua ocorrência é comum no litoral brasileiro (como nas praias do Nordeste) e também em algumas áreas do interior, como os famosos Lençóis Maranhenses, que são um complexo de dunas interiorizadas.",
+          "C": "Esta alternativa está incorreta por diversos motivos. Primeiro, o coqueiro (Cocos nucifera) é uma espécie de origem asiática, mas que se adaptou e se tornou emblemática do litoral nordestino do Brasil, e não da região Sul. Na região Sul, a vegetação de restinga e dunas tem outras espécies nativas. Além disso, a paisagem de dunas não é definida pela presença ou ausência de coqueiros como sua característica principal, e sua associação com o Sul está errada.",
+          "D": "Esta alternativa está incorreta. Um 'morro-testemunho' é uma forma de relevo residual que resulta da erosão diferencial de uma antiga superfície tabular (como um planalto ou chapada), deixando para trás elevações isoladas com topo plano. Não são dunas. Dunas são formas de relevo construídas pela deposição de areia pelo vento, e não são tabulares nem morros rochosos residuais. A descrição não se aplica às dunas.",
+          "E": "Esta alternativa está incorreta. As dunas resultam da deposição de partículas de areia pela ação do vento (ação eólica), e não da erosão de partículas argilosas pela ação das ondas do mar. A erosão de partículas argilosas pelas ondas pode formar, por exemplo, falésias de barreiras sedimentares ou praias com sedimentos mais finos, mas não dunas. Além disso, a afirmação de que estão ausentes apenas da região Norte é imprecisa; dunas ocorrem em diversas partes do litoral brasileiro, incluindo a região Norte (como no litoral do Maranhão, que faz parte da Amazônia Legal, mas não é ausente).",
+          "Não Aplicável": "Não aplicável, pois todas as opções foram analisadas."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre as dunas, destacando seu processo de formação (ação eólica), sua dinâmica constante de modificação e sua ocorrência tanto no litoral quanto em áreas específicas do interior do Brasil."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q20/image.png"
@@ -1158,16 +1205,20 @@
       "id": "fuvest-2015-q21",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A crise hídrica em grandes centros urbanos, como a Região Metropolitana de São Paulo, é um fenômeno multifacetado, raramente explicável por uma única causa. Ela resulta da complexa interação entre fatores naturais e antrópicos (humanos). Os **fatores naturais** incluem variações climáticas, como regimes de chuva, períodos de seca prolongada e taxas de evaporação, que afetam diretamente a disponibilidade de água nos mananciais e reservatórios. Os **fatores antrópicos** abrangem o crescimento populacional, o aumento da demanda por consumo de água (residencial, industrial, agrícola), a poluição dos recursos hídricos, o desmatamento de áreas de recarga e, crucialmente, a **gestão e o planejamento** do uso da água por parte dos órgãos governamentais. Essa gestão envolve decisões sobre infraestrutura de captação e distribuição, tarifação, campanhas de conscientização, políticas de reuso e controle de perdas no sistema. A questão busca identificar a *natureza* dessa crise, ou seja, as categorias primárias que a definem.",
+        "steps": [
+          "1. **Interpretar o Enunciado:** O texto-base descreve a crise hídrica do Sistema Cantareira em 2014, ressaltando sua gravidade em comparação com a seca de 1953. A pergunta solicita a identificação da *natureza* da situação, implicando que devemos buscar as principais dimensões que caracterizam o problema.",
+          "2. **Analisar a Alternativa Correta (E):** A alternativa (E) sugere as naturezas 'ecológica e política'. A dimensão **ecológica** é diretamente evidenciada pela menção à 'seca atual' no enunciado, que é um fenômeno natural/climático essencial para a reposição de água nos ecossistemas e reservatórios. A dimensão **política** é justificada pela necessidade de 'planejamento governamental sobre o uso desse recurso', que é a essência da gestão de um bem público como a água em uma região densamente povoada. A combinação desses dois aspectos – a dependência de fatores naturais para a reposição e a necessidade de gestão humana para o uso – descreve de forma precisa e abrangente a complexidade da crise hídrica.",
+          "3. **Avaliar as Alternativas Incorretas:** Verificar por que as outras opções não se encaixam, identificando imprecisões factuais, lógicas ou um foco em aspectos secundários ou incorretos da crise."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa é incorreta porque a afirmação sobre a 'importação de água de outros estados, assim como de países do Cone Sul' não corresponde à realidade da crise hídrica da Região Metropolitana de São Paulo em 2014. Embora existam debates e projetos de transposição de bacias hidrográficas dentro do Brasil (e.g., do Rio Paraíba do Sul para o Sistema Cantareira), a importação de água em larga escala de outros países da América do Sul nunca foi uma solução implementada ou uma característica central dessa crise específica. Portanto, o argumento factual que embasa o caráter 'geopolítico' está incorreto.",
+          "B": "A crise hídrica, de fato, possui aspectos sociais e demográficos. Contudo, a justificativa apresentada nesta alternativa é imprecisa. Não houve, na década que antecedeu a 2014, 'políticas públicas de incentivo às migrações' para a RMSP que tivessem como consequência principal a ocupação desordenada de áreas destinadas a represas e reservatórios, de forma a *causar* a crise hídrica naquele momento. O crescimento demográfico da RMSP é um processo histórico complexo, e a ocupação de mananciais é um problema antigo, mas não decorre de 'incentivo às migrações' recentes.",
+          "C": "Embora a dimensão climática seja relevante (a 'seca' é um fator climático), a sequência de eventos descrita nesta alternativa é cientificamente incorreta e não se aplica à natureza da crise hídrica. Altas temperaturas, por si só, não causam diretamente chuva ácida; esta é resultado da emissão de poluentes atmosféricos (óxidos de enxofre e nitrogênio). A laterização dos solos, por sua vez, é um processo pedológico (relativo aos solos) de longo prazo, característico de climas tropicais úmidos, e não uma consequência direta e rápida de altas temperaturas ou chuvas ácidas que explicaria a escassez de água em reservatórios no curto prazo da crise de 2014.",
+          "D": "A crise hídrica certamente tem dimensões econômicas e jurídicas, e o desmatamento de áreas de nascente e matas ciliares é um problema grave que afeta a quantidade e qualidade da água. No entanto, afirmar que a natureza da crise é causada pela 'flexibilidade da legislação vigente em relação a desmatamentos em áreas de nascente para implantação de atividades industriais e agrícolas' é uma simplificação e pode ser imprecisa quanto à causa principal da crise de 2014. A legislação ambiental brasileira (como o Código Florestal) prevê áreas de proteção permanente (APPs) para nascentes e rios, embora a fiscalização e o cumprimento sejam desafios. Atribuir a crise primariamente à 'flexibilidade' da lei para *novas* implantações como a natureza central do problema, em vez da combinação de seca e gestão, é uma abordagem menos completa.",
+          "E": "Esta é a alternativa correta. A crise é de natureza **ecológica** porque a reposição de água nos reservatórios do Sistema Cantareira depende fundamentalmente de fatores naturais, como o regime de chuvas e a saúde dos ecossistemas que compõem a bacia hidrográfica (mencionado no texto como 'seca'). É também de natureza **política** porque a gestão desse recurso vital para a população metropolitana requer planejamento, investimentos e decisões governamentais sobre o uso, distribuição, conservação e desenvolvimento de infraestruturas, como apontado pela necessidade de técnicos dos governos estadual e federal."
         },
-        "finalSummary": ""
+        "finalSummary": "A crise hídrica do Sistema Cantareira, como muitas questões ambientais complexas, é uma síntese de fatores **ecológicos** (relacionados ao ambiente natural e ao ciclo da água, como a seca) e **políticos** (relacionados à gestão, planejamento e tomada de decisões governamentais sobre o uso desse recurso vital)."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q21/image.png"
@@ -1211,16 +1262,21 @@
       "id": "fuvest-2015-q22",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A obra de Carlos Drummond de Andrade é vasta e multifacetada, abordando temas como a vida urbana, a solidão, o amor, a passagem do tempo, a crítica social e existencial. Frequentemente, seus poemas revelam uma perspicácia aguçada sobre a condição humana, a alienação na metrópole e a dificuldade de expressar sentimentos autênticos em um mundo cada vez mais impessoal. Para resolver questões que relacionam textos poéticos a imagens, é fundamental desenvolver a capacidade de interpretar visualmente a mensagem central da figura e, em seguida, identificar o trecho poético que melhor se alinha a essa interpretação temática ou emocional. No caso específico de Drummond, é comum encontrar uma ironia sutil ou uma melancolia reflexiva sobre a modernidade e seus impactos na subjetividade.",
+        "steps": [
+          "1. **Analisar a Figura (IMAGEM AUSENTE)**: O primeiro passo seria examinar cuidadosamente a figura fornecida na questão para identificar sua principal mensagem, tema, atmosfera, elementos visuais e qualquer simbologia presente. Isso envolve observar cores, formas, personagens (se houver), cenário e a emoção geral transmitida pela imagem. **Importante**: Sem a figura, não podemos realizar esta análise crucial. A explicação a seguir baseia-se na premissa de que a imagem evoca temas alinhados com a alternativa correta.",
+          "2. **Interpretar os Versos de Cada Alternativa**: Ler e compreender o significado e o tom de cada conjunto de versos de Carlos Drummond de Andrade. Cada alternativa apresenta uma pequena amostra da poesia do autor, e é necessário captar a essência da mensagem que cada uma delas transmite.",
+          "3. **Relacionar os Versos à Mensagem da Figura**: Comparar a mensagem interpretada da figura com o significado de cada verso. O objetivo é encontrar a alternativa cujos versos 'traduzem' ou expressam de forma mais adequada a ideia central, o sentimento ou a crítica social/existencial presente na imagem. Deve haver uma ressonância temática ou emocional clara entre a figura e os versos.",
+          "4. **Selecionar a Alternativa Mais Adequada**: Escolher a alternativa que estabelece a conexão mais forte e pertinente com a figura. A alternativa correta será aquela que capta a essência da imagem com a maior precisão poética e conceitual."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Os versos 'Stop. A vida parou ou foi o automóvel?' evocam uma reflexão sobre a paralisação, seja ela física (trânsito, engarrafamento) ou existencial (um momento de pausa na rotina da vida moderna). Eles remetem à urbanização e à velocidade que se choca com a inércia. Se a imagem retratasse, por exemplo, um engarrafamento caótico ou uma cena de inatividade em meio ao dinamismo urbano, esta alternativa poderia ser relevante. No entanto, se a figura trata de repressão emocional, como sugere a alternativa D, estes versos não seriam a tradução mais adequada.",
+          "B": "Os versos 'As casas espiam os homens que correm atrás de mulheres. A tarde talvez fosse azul, não houvesse tantos desejos.' sugerem voyeurismo, a efemeridade dos desejos humanos, a desilusão e talvez uma crítica à hipocrisia social ou à perseguição de anseios vazios na vida urbana. Se a imagem abordasse a vigilância social, a futilidade dos desejos ou a melancolia de um cenário onde a beleza é ofuscada pela busca incessante, esta alternativa seria pertinente. Contudo, dado que 'D' é a correta, o foco da imagem deve ser outro.",
+          "C": "A alternativa C, 'Um silvo breve. Atenção, siga. Dois silvos breves: Pare. Um silvo breve à noite: Acenda a lanterna. Um silvo longo: Diminua a marcha. Um silvo longo e breve: Motoristas a postos.', é peculiar por se apresentar como uma lista de instruções ou regulamentos de trânsito. Embora se relacione com a vida urbana e a ordem imposta, ela carece da profundidade poética e da reflexão existencial características de Drummond que as outras alternativas oferecem. É um texto muito literal e pragmático, sendo improvável que uma figura complexa que exigisse versos de Drummond fosse traduzida por um manual de regras. Portanto, mesmo em um contexto urbano, seria uma escolha menos 'poética' e interpretativa.",
+          "D": "Os versos 'proibido passear sentimentos ternos ou nesse museu do pardo indiferente' são a alternativa correta. Eles sugerem um ambiente onde a expressão de emoções sinceras e ternas é proibida, inadequada ou simplesmente sufocada. A expressão 'museu do pardo indiferente' evoca um lugar monótono, sem cor (pardo), onde a frieza e a apatia ('indiferente') são a norma. Este trecho é uma poderosa crítica à desumanização, à burocratização da vida, ou a espaços sociais que reprimem a espontaneidade e a afetividade humana. Se a figura retrata, por exemplo, um cenário urbano frio, uma arquitetura opressora, pessoas distantes e sem expressão, ou qualquer representação visual da repressão emocional e da indiferença social, esses versos seriam a tradução mais fiel e impactante da sua mensagem principal.",
+          "E": "Os versos 'Sim, meu coração é muito pequeno. Só agora vejo que nele não cabem os homens. Os homens estão cá fora, estão na rua.' expressam uma reflexão sobre a pequenez do indivíduo diante da vastidão da humanidade e da complexidade do mundo externo. Há um sentimento de inadequação do eu lírico para acolher toda a experiência humana ou um reconhecimento de sua própria limitação afetiva ou compreensiva. Se a imagem abordasse a solidão do indivíduo na multidão, a indiferença do coletivo para com o singular, ou a dificuldade de conexão humana em grande escala, esta alternativa seria forte. Contudo, o foco na 'proibição' de sentimentos e na 'indiferença' do ambiente (alternativa D) parece ser mais específico e alinhado com o que a questão provavelmente pedia, dado que é a resposta correta."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exigia a interpretação da mensagem principal de uma figura (que não foi fornecida) e sua correlação com a profundidade temática dos versos de Carlos Drummond de Andrade, sendo a alternativa correta (D) aquela que aponta para a repressão dos sentimentos e a indiferença em um ambiente desumanizado."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q22/image.png"
@@ -1264,16 +1320,22 @@
       "id": "fuvest-2015-q23",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão avalia a capacidade de **interpretação textual** e **compreensão de leitura**. O objetivo é identificar qual das alternativas expressa uma ideia que está explicitamente ou implicitamente presente no texto-base. Geralmente, isso envolve reconhecer o argumento principal do autor, os pontos de vista apresentados e a relação entre as diferentes partes do texto. A alternativa correta não deve distorcer a informação original, adicionar dados novos ou fazer inferências que não sejam claramente suportadas pelo conteúdo lido. Embora o texto-base original não esteja disponível nesta explicação, a análise das alternativas se baseia em princípios gerais de recepção textual e interpretação, conforme o tipo de questão da Fuvest.",
+        "steps": [
+          "**1. Leitura Atenta do Texto-Base:** (Este passo é crucial, mas o texto original não foi fornecido para esta explicação.) O primeiro passo seria ler o texto com foco na compreensão das ideias centrais, dos argumentos desenvolvidos e dos detalhes relevantes. É útil sublinhar ou anotar passagens que pareçam importantes para o autor.",
+          "**2. Identificação das Ideias Essenciais:** Após a leitura, o aluno deve ser capaz de identificar as principais ideias ou teses que o autor defende, bem como os exemplos ou justificativas que ele utiliza.",
+          "**3. Análise Crítica das Alternativas:** Cada alternativa (A, B, C, D, E) deve ser comparada cuidadosamente com as ideias identificadas no texto. Avalie se a alternativa reitera, resume ou parafraseia uma ideia do texto sem alterá-la ou sem atribuir ao texto uma ideia que não está lá.",
+          "**4. Eliminação das Distratoras:** Descarte as alternativas que apresentem informações ausentes no texto, que o contradigam, que extrapolem o que foi dito ou que representem uma interpretação equivocada das ideias apresentadas. Fique atento a advérbios e adjetivos (como 'somente', 'primordialmente', 'sempre', 'meramente') que podem restringir ou ampliar o sentido de uma afirmação, tornando-a falsa se o texto não for tão absoluto ou restritivo.",
+          "**5. Confirmação da Alternativa Correta:** A alternativa que traduz de forma mais fiel e precisa uma ideia presente no texto, sem distorções ou generalizações indevidas, será a resposta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'O efeito de um livro sobre o leitor é condicionado pela quantidade de informações que o texto veicula' é um distrator porque foca na 'quantidade de informações'. Embora o conteúdo seja relevante, raramente o efeito ou a qualidade de um livro são condicionados *apenas* pela quantidade. O texto provavelmente aborda aspectos mais qualitativos, contextuais ou de interpretação, e não uma métrica quantitativa. Sem o texto, é plausível que essa seja uma simplificação excessiva ou um foco inadequado em um detalhe que não é a ideia central.",
+          "B": "A alternativa 'A recepção de um livro pode ser influenciada pela situação vivida pelo leitor' é a correta. Esta afirmação está alinhada com a Teoria da Recepção, que postula que o significado e o impacto de uma obra literária não são fixos, mas são construídos na interação entre o texto e o leitor, sendo este último influenciado por suas experiências de vida, seu contexto social, cultural e emocional. Se o texto discute como um livro pode ser interpretado de maneiras diferentes por pessoas em fases distintas da vida, ou como a leitura é uma experiência subjetiva e dinâmica, esta opção capta perfeitamente essa ideia. Ela sugere que a leitura não é um ato passivo, mas uma interação ativa moldada pela individualidade do leitor e seu momento.",
+          "C": "A alternativa 'A verdadeira erudição não dispensa a leitura dos bons manuais escolares' desvia o foco da discussão. Enquanto manuais escolares são importantes para a formação acadêmica, a questão (e a alternativa correta) tratam da *recepção* e *influência* de um livro sobre o leitor em um sentido mais amplo, não especificamente sobre a 'erudição' ou o uso de 'manuais escolares'. É provável que essa ideia não seja a principal ou sequer seja abordada no texto-base, servindo como um distrator que introduz um tema tangencial.",
+          "D": "A alternativa 'A leitura de um livro a qual tem finalidades meramente práticas prejudica a assimilação do conhecimento' apresenta uma ideia com um tom crítico e potencialmente moralista sobre a leitura com 'finalidades meramente práticas'. Para ser correta, o texto deveria expressar explicitamente essa visão negativa. É mais comum que textos sobre leitura valorizem diversas finalidades (prazer, informação, estudo, etc.) sem hierarquias tão rígidas ou juízos de valor tão fortes. É um distrator que pode tentar o aluno a concordar com uma ideia de senso comum que não necessariamente está no texto.",
+          "E": "A alternativa 'O reconhecimento do valor de um livro depende, primordialmente, dos sentimentos pessoais do leitor' é um distrator sutilmente diferente da alternativa B. Enquanto 'sentimentos pessoais' são parte da 'situação vivida pelo leitor', o termo 'primordialmente' (ou seja, principalmente, acima de tudo) pode tornar essa afirmação muito restritiva. A 'situação vivida' é um conceito mais abrangente, incluindo experiências, conhecimentos prévios, contexto social, etc., e não apenas os sentimentos. Se o texto enfatizasse uma gama mais ampla de fatores, focar *primordialmente* nos sentimentos seria uma redução ou uma generalização incorreta da ideia apresentada."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a identificação de uma paráfrase fiel de uma ideia central do texto, sendo a alternativa correta aquela que reflete a perspectiva de que a experiência de leitura e a recepção de uma obra são intrinsecamente moldadas pelo contexto e pelas vivências pessoais do leitor."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q23/image.png"
@@ -1317,16 +1379,22 @@
       "id": "fuvest-2015-q24",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Caro(a) aluno(a), esta questão avalia sua capacidade de identificar recursos estilísticos em um texto. Recursos estilísticos, também conhecidos como figuras de linguagem ou figuras de estilo, são formas de usar a linguagem para criar efeitos específicos, seja de sentido, sonoridade, ordem ou construção. Eles são ferramentas que o autor emprega para tornar o texto mais expressivo, persuasivo, didático ou original.\n\nPara resolver questões como esta, é fundamental ter clareza sobre:\n1.  **Variedades Linguísticas:** A língua portuguesa possui diversas variedades (culta, coloquial/oral, regional, gírias, etc.). A combinação intencional de diferentes variedades em um mesmo texto pode ser um recurso estilístico que busca aproximar o leitor, quebrar a formalidade, ou criar um contraste. A variedade culta refere-se ao padrão normativo e formal, enquanto a língua oral é mais espontânea e informal.\n2.  **Estruturas Sintáticas:** A repetição de estruturas sintáticas (paralelismo sintático) é um recurso que pode enfatizar ideias, criar ritmo, facilitar a compreensão e até mesmo ter uma função didática, tornando o discurso mais claro e marcante.\n3.  **Vocabulário:** O uso de vocabulário corrente (comum, acessível) é frequentemente associado a textos com intenção didática, pois facilita a compreensão por um público mais amplo.\n4.  **Jargão Científico:** É o vocabulário técnico e especializado de uma área do conhecimento. Seu uso predominante restringe o público e confere um tom formal e técnico ao texto.\n5.  **Intertextualidade:** É a relação explícita ou implícita de um texto com outros textos, podendo ser citações, alusões, paródias, entre outros. A exploração intensiva da intertextualidade pressupõe um leitor que conheça as referências.",
+        "steps": [
+          "1.  **Compreenda a Limitação:** Primeiramente, é crucial notar que o \"texto I\" ao qual a questão se refere não foi fornecido. Isso significa que a análise dos recursos estilísticos deve ser feita com base apenas na inferência da alternativa correta (C) e no conhecimento teórico sobre cada recurso mencionado. Em uma situação de prova real, você teria o texto para analisar diretamente.",
+          "2.  **Analise a Afirmação I:** A afirmação diz: \"a combinação da variedade culta da língua escrita, que nele é predominante, com expressões mais comuns na língua oral\". Pense se é possível um texto ser predominantemente culto e, ao mesmo tempo, incorporar expressões orais. Sim, é um recurso estilístico comum para aproximar o leitor, dar um tom mais pessoal ou até mesmo humorístico, sem perder a formalidade geral.",
+          "3.  **Analise a Afirmação II:** A afirmação diz: \"a repetição de estruturas sintáticas, associada ao emprego de vocabulário corrente, com feição didática\". Pense se a repetição de estruturas (paralelismo) e o uso de vocabulário simples podem ter um efeito didático. Sim, a clareza e a facilidade de memorização são aumentadas por esses recursos, o que é ideal para a transmissão de conhecimento ou para tornar uma argumentação mais impactante e compreensível.",
+          "4.  **Analise a Afirmação III:** A afirmação diz: \"o emprego dominante do jargão científico, associado à exploração intensiva da intertextualidade\". Pense nas características de um texto que emprega *dominantemente* jargão científico e *intensivamente* intertextualidade. Geralmente, esses textos são muito formais, técnicos e direcionados a um público especializado. Essa característica é, via de regra, oposta à combinação de variedade culta com oral (I) e ao uso de vocabulário corrente (II).",
+          "5.  **Considere a Alternativa Correta Fornecida (C):** Como a resposta correta é 'C', que corresponde a \"I e II\", inferimos que o \"texto I\" (mesmo não estando disponível) apresentava, de fato, a combinação da variedade culta com a oral (I) e a repetição de estruturas sintáticas com vocabulário corrente para um efeito didático (II). Consequentemente, a afirmação III não se aplicaria ao texto."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'a' (apenas I) estaria incorreta porque, se a alternativa 'C' (I e II) é a correta, significa que o texto apresentava *ambos* os recursos (I e II). Portanto, afirmar que apenas I está correto seria uma visão incompleta dos recursos estilísticos do texto.",
+          "B": "A alternativa 'b' (apenas II) estaria incorreta pelo mesmo motivo da alternativa 'a'. Se a alternativa 'C' (I e II) é a correta, o texto também utilizava o recurso estilístico descrito em I. Ignorar I e considerar apenas II seria uma análise parcial do texto.",
+          "C": "A alternativa 'c' (I e II) é a resposta correta. Assumindo que o 'texto I' (não fornecido na questão) de fato possuía esses recursos, a combinação da variedade culta com expressões orais (I) e a repetição sintática com vocabulário corrente para fins didáticos (II) são recursos estilísticos plausíveis e frequentemente encontrados em textos que buscam um equilíbrio entre formalidade e acessibilidade ou que visam a clareza e a memorização. As duas afirmações se complementam e descrevem estratégias linguísticas que podem coexistir em um mesmo texto para enriquecer sua expressividade e eficácia comunicativa.",
+          "D": "A alternativa 'd' (apenas III) estaria incorreta porque, se C é a resposta correta, a afirmação III não se aplica ao texto. O emprego *dominante* de jargão científico e a exploração *intensiva* da intertextualidade geralmente caracterizam textos de perfil muito diferente daqueles que combinam variedade culta com oral e usam vocabulário corrente didaticamente. É muito provável que um texto com as características de I e II não tivesse III como seu principal recurso estilístico.",
+          "E": "A alternativa 'e' (I e III) estaria incorreta porque, embora incluísse a afirmação I (que inferimos ser correta), ela incorretamente inclui a afirmação III. Como explicado, as características de III são geralmente dissonantes das de I e II. Se o texto de fato utilizasse os recursos de I e II, seria improvável que também tivesse um emprego *dominante* de jargão científico e exploração *intensiva* de intertextualidade, tornando a combinação 'I e III' inválida."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade do aluno de identificar recursos estilísticos, como a combinação de variedades linguísticas e a repetição sintática com vocabulário acessível para efeito didático, em contraste com o uso dominante de jargão científico e intertextualidade."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q24/image.png"
@@ -1370,16 +1438,21 @@
       "id": "fuvest-2015-q25",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão aborda tópicos cruciais da gramática normativa da língua portuguesa, especificamente a concordância verbal e o uso adequado dos pronomes pessoais. Para resolvê-la, é fundamental compreender: \n\n1.  **Concordância Verbal com Sujeito Posposto:** Mesmo quando o sujeito aparece depois do verbo (ordem inversa), o verbo deve concordar em número e pessoa com ele. É preciso identificar corretamente o núcleo do sujeito.\n2.  **Concordância Verbal com Sujeitos Coletivos:** Quando o sujeito é um substantivo coletivo (ex: 'casal', 'grupo', 'bando') seguido por um especificador no plural (ex: 'de velhinhos', 'de alunos', 'de pássaros'), a concordância verbal é dupla. O verbo pode concordar com o coletivo (no singular) ou com o especificador plural (no plural). Ambas as formas são consideradas corretas pela norma culta.\n3.  **Uso dos Pronomes Pessoais:** Os pronomes pessoais retos (eu, tu, ele, nós, vós, eles) exercem predominantemente a função de sujeito da oração. Os pronomes pessoais oblíquos átonos (me, te, o, a, lhe, nos, vos, os, as, lhes) e tônicos (mim, ti, ele, ela, nós, vós, eles, elas) exercem funções de objeto (direto ou indireto) ou complemento nominal. É considerado um desvio da norma culta o uso de pronomes retos com função de objeto, como em 'vi eles' (o correto seria 'os vi' ou 'vi a eles').",
+        "steps": [
+          "**Análise da Afirmação I:** O trecho é 'alcançou o capanga um casal de velhinhos'. Para identificar o sujeito, perguntamos 'Quem alcançou?'. A resposta é 'um casal de velhinhos'. O verbo 'alcançou' está no singular, concordando com o núcleo do sujeito 'casal' (singular). 'O capanga' é o objeto direto (quem foi alcançado). Portanto, o sujeito ('um casal de velhinhos') está posposto, mas é perfeitamente identificável. A afirmação I está **CORRETA**.",
+          "**Análise da Afirmação II:** O trecho é 'que seguiam diante dele o mesmo caminho'. O pronome relativo 'que' retoma o antecedente 'um casal de velhinhos' (referente ao sujeito da afirmação I). 'Casal' é um substantivo coletivo e 'velhinhos' é o termo especificador no plural. A regra de concordância verbal para coletivos seguidos de especificador no plural permite duas construções: o verbo pode concordar com o coletivo (singular: 'que seguia') ou com o especificador plural (plural: 'que seguiam'). Como o texto original usa 'seguiam' (plural), concordando com 'velhinhos', a afirmação questiona se poderia estar no singular ('seguia') sem prejuízo. Pela regra de dupla concordância com coletivos, sim, 'seguia' também estaria correto. A afirmação II está **CORRETA**.",
+          "**Análise da Afirmação III:** O trecho é 'que destinavam eles uns cinquenta mil-réis'. Neste caso, 'eles' funciona como sujeito da oração, reiterando o sujeito da ação de 'destinar'. A construção é uma ênfase ou reforço do sujeito, comum em certos estilos literários ou falas. O exemplo fornecido, 'Você tem visto eles por aí?', ilustra um uso informal (e não normativo) do pronome reto 'eles' em função de objeto direto ('visto *a eles* / *os* visto'). Na frase do texto, 'eles' *é* o sujeito, mesmo estando posposto ao verbo. Assim, o uso de 'eles' no texto não é um caso de pronome reto com função de objeto, como no exemplo. Portanto, a afirmação de que se trata do 'mesmo' uso informal está incorreta. A afirmação III está **INCORRETA**.",
+          "**Conclusão:** As afirmações I e II estão corretas, enquanto a afirmação III está incorreta. Isso corresponde à alternativa D."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A sugere que apenas a afirmação I está correta. No entanto, como demonstrado na análise, a afirmação II também está correta devido à regra de concordância verbal com substantivos coletivos, que permite a flexão do verbo tanto com o coletivo (singular) quanto com o termo especificador (plural).",
+          "B": "A alternativa B indica que somente a afirmação II está correta. Esta opção está incorreta porque a afirmação I, que trata do sujeito posposto, é gramaticalmente correta e identificável no trecho dado.",
+          "C": "A alternativa C afirma que apenas a afirmação III está correta. Esta opção está errada porque a afirmação III faz uma comparação inadequada. O pronome 'eles' no texto exerce a função de sujeito, enquanto o exemplo ('Você tem visto eles por aí?') demonstra um uso informal de pronome pessoal reto em função de objeto, que é uma falha de regência pronominal. Os casos não são análogos quanto à informalidade apontada.",
+          "D": "Esta é a alternativa correta. As análises das afirmações I e II confirmam que ambas são gramaticalmente válidas e suas observações estão de acordo com as normas da língua portuguesa, enquanto a afirmação III apresenta uma interpretação incorreta do uso do pronome.",
+          "E": "A alternativa E sugere que as três afirmações estão corretas. Esta opção está incorreta porque a afirmação III confunde a função sintática do pronome 'eles' no texto com o uso informal de pronomes retos como objetos, o que não se aplica ao contexto da frase analisada."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de identificar sujeitos pospostos e a aplicação de regras de concordância verbal com coletivos, além de distinguir corretamente a função sintática (sujeito vs. objeto) de pronomes pessoais retos em diferentes contextos."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q25/image.png"
@@ -1423,16 +1496,22 @@
       "id": "fuvest-2015-q26",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A palavra \"mal\" na língua portuguesa possui diversas funções e significados, o que a torna um ponto frequente de avaliação em exames como a Fuvest. É crucial distinguir entre suas funções como advérbio de modo e como conjunção temporal.\n\n1.  **\"Mal\" como Advérbio de Modo:** Neste caso, \"mal\" é o antônimo de \"bem\" e modifica um verbo, um adjetivo ou outro advérbio, indicando a maneira como algo é feito ou o estado de algo. Exemplos: \"Ele canta mal\" (modo de cantar), \"Sinto-me mal\" (estado). Embora possa ter uma conotação negativa, sua função primária é descrever o *modo*.\n\n2.  **\"Mal\" como Conjunção Temporal:** Nesta função, \"mal\" atua como um conector que introduz uma oração subordinada adverbial temporal, indicando uma ação que ocorre *imediatamente* após outra. Nesses casos, pode ser substituído por expressões como \"assim que\", \"logo que\", \"apenas\", \"no momento em que\". Exemplo: \"Mal chegou, começou a chover\" (assim que chegou). Sua função é estabelecer uma relação de *tempo* entre os eventos.\n\nPara resolver a questão, devemos analisar o contexto em que a palavra \"mal\" está inserida para identificar qual de suas funções se aplica.",
+        "steps": [
+          "**1. Identificar a palavra e o contexto:** A questão foca na palavra \"mal\" no trecho \"mal seus olhos descobriram entre os utensílios a enxada\".",
+          "**2. Analisar a função sintática de \"mal\" na frase:** Observe que \"mal\" está antecedendo uma oração (\"seus olhos descobriram entre os utensílios a enxada\"). Isso sugere uma função conectiva, ligando essa ação a algo que ocorreu (ou que ocorrerá) na oração principal (não fornecida, mas implícita no contexto maior do texto original).",
+          "**3. Testar substituições por sinônimos:**\n    *   Podemos substituir \"mal\" por \"assim que\" ou \"logo que\"? \"Assim que seus olhos descobriram entre os utensílios a enxada...\" ou \"Logo que seus olhos descobriram entre os utensílios a enxada...\". Ambas as substituições fazem sentido e indicam uma relação de tempo, ou seja, a descoberta da enxada marca o início de algo ou um ponto específico no tempo.",
+          "**4. Descartar outras funções:**\n    *   Poderia ser um advérbio de modo (oposto de 'bem')? \"Seus olhos descobriram mal a enxada\" não faz sentido no contexto de uma descoberta visual; não se descobre algo 'mal' no sentido de 'de forma ruim', mas sim 'imediatamente' ou 'dificilmente'. A frase não indica uma falha na qualidade da descoberta, mas sim o momento dela.\n    *   Poderia ser negação, intensidade ou qualidade? Não há indicações semânticas para essas funções aqui.",
+          "**5. Concluir a ideia expressa:** A substituição por \"assim que\" ou \"logo que\" confirma que \"mal\" está introduzindo uma oração que exprime uma circunstância de tempo, especificamente a imediaticidade da ação."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'tempo' está correta porque, no contexto da frase \"mal seus olhos descobriram entre os utensílios a enxada\", a palavra \"mal\" funciona como uma conjunção temporal. Ela estabelece uma relação de imediaticidade, significando \"assim que\", \"logo que\" ou \"apenas\". A descoberta da enxada pelos olhos marca um ponto no tempo, indicando que a ação principal (que estaria em outra parte do texto) ocorreu *no momento em que* ou *logo após* a enxada ser vista.",
+          "B": "A alternativa 'qualidade' está incorreta. A ideia de qualidade geralmente é expressa por adjetivos (bom, ruim, belo) ou por advérbios que descrevem características (bem, mal, mas com foco no *como* algo é intrinsecamente). Embora \"mal\" possa, em outros contextos, referir-se a uma má qualidade de ação (ex: \"Ele trabalha mal\"), aqui não descreve a qualidade da ação de 'descobrir', mas sim o momento em que essa descoberta ocorreu. A frase não implica que a descoberta foi de má qualidade, mas sim que ela foi imediata.",
+          "C": "A alternativa 'intensidade' está incorreta. A intensidade é geralmente expressa por advérbios como \"muito\", \"pouco\", \"demais\", que indicam o grau de uma característica ou ação. A palavra \"mal\" no trecho não serve para quantificar ou dar magnitude à descoberta; ela não indica o quão intensamente os olhos descobriram a enxada, mas sim *quando* a descobriram.",
+          "D": "A alternativa 'modo' está incorreta. Embora \"mal\" possa ser um advérbio de modo (o antônimo de \"bem\", indicando *como* uma ação é realizada, ex: \"Ele canta mal\"), esse não é o seu papel aqui. Substituir \"mal\" por \"de forma ruim\" ou \"malmente\" na frase (\"seus olhos descobriram de forma ruim a enxada\") torna a construção sem sentido. A frase não descreve a maneira deficiente pela qual os olhos descobriram a enxada, mas sim a rápida sucessão de eventos.",
+          "E": "A alternativa 'negação' está incorreta. A negação é expressa por palavras como \"não\", \"nunca\", \"jamais\". Embora \"mal\" possa ter uma conotação negativa em certos contextos (ex: \"mal-estar\"), ele não funciona como um negador na estrutura gramatical apresentada. A frase não está negando que os olhos descobriram a enxada; pelo contrário, está afirmando que essa descoberta ocorreu, e está delimitando o *tempo* dessa ocorrência."
         },
-        "finalSummary": ""
+        "finalSummary": "No trecho, a palavra \"mal\" atua como uma conjunção temporal, equivalente a \"assim que\" ou \"logo que\", indicando a imediaticidade da ação de descobrir a enxada."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q26/image.png"
@@ -1476,16 +1555,26 @@
       "id": "fuvest-2015-q27",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A literatura brasileira é rica na representação de tipos sociais que espelham as dinâmicas de poder e as relações sociais de suas épocas. A figura do 'capanga' ou 'valentão' é um arquétipo presente em diversas obras, caracterizando-se por ser um indivíduo que impõe sua vontade ou a de terceiros através da força física, da intimidação e, por vezes, da violência. Esses personagens atuam como guardiões informais de territórios, protetores de figuras poderosas ou simplesmente indivíduos que se destacam pela sua capacidade de brigar e controlar os espaços públicos ou semipúblicos. Para resolver a questão, é fundamental conhecer as principais características de personagens marcantes da nossa literatura e suas respectivas funções sociais dentro das obras.",
+        "steps": [
+          "1. **Compreender o termo 'capanga'**: O narrador classifica Jão Fera como 'capanga'. Um capanga é, essencialmente, um jagunço urbano ou rural, um indivíduo que age como protetor, segurança ou executor de ordens, utilizando a força e a intimidação. Suas práticas envolvem a demonstração de poder físico e a resolução de conflitos por meios violentos ou de ameaça.",
+          "2. **Analisar as características das personagens apresentadas nas alternativas**: É preciso resgatar as memórias sobre cada personagem citada e suas ações dentro de suas respectivas obras literárias.",
+          "3. **Comparar as práticas de Jão Fera com as de cada personagem**: ao comparar as ações de Jão Fera (um 'capanga', que subentende o uso da força e intimidação) com as personagens das alternativas, procuramos a semelhança mais forte.",
+          "   *   **A) valentão Chico-Juca, nas Memórias de um sargento de milícias**: Chico-Juca é o arquetípico 'valentão' do romance de Manuel Antônio de Almeida. Ele é uma figura que domina as ruas da cidade, participa de brigas, impõe respeito e serve como um exemplo claro de força e intimidação social, muitas vezes associado a um 'capanga' informal.",
+          "   *   **B) malandro Prudêncio, nas Memórias póstumas de Brás Cubas**: Prudêncio, de Machado de Assis, é um ex-escravo que se torna vendedor de doces e, posteriormente, um 'valentão' que agride a esposa, além de ter atuado como 'capanga' de Brás Cubas. No entanto, a descrição como 'malandro' na alternativa pode ser imprecisa para seu papel de 'valentão' puro.",
+          "   *   **C) arrivista Miranda, em O cortiço**: Miranda, de Aluísio Azevedo, é um comerciante português que representa o 'arrivismo', ou seja, a busca por ascensão social e riqueza através do trabalho e da especulação, e não da força física ou da intimidação.",
+          "   *   **D) agregado Zé Fernandes, em A cidade e as serras**: Zé Fernandes, de Eça de Queirós, é o fiel amigo e 'agregado' de Jacinto. Ele é um intelectual, um confidente e um companheiro, sem qualquer associação com práticas de violência ou intimidação física.",
+          "   *   **E) soldado amarelo, em Vidas secas**: O 'soldado amarelo', de Graciliano Ramos, é um representante da autoridade policial e do poder opressor do Estado. Embora utilize a força, sua atuação é institucional e repressora, diferente da figura de um 'capanga' que age por conta própria ou a serviço de um poder local/particular.",
+          "4. **Identificar a semelhança 'sobretudo'**: Avaliando todas as opções, o 'valentão' Chico-Juca é quem mais se assemelha às práticas de um 'capanga' por sua natureza e papel social de intimidador e brigão urbano, sendo um arquétipo clássico da literatura brasileira."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Correta. Chico-Juca é o protótipo do 'valentão' carioca das 'milícias', um personagem que impõe sua presença e resolve conflitos através da força física e da intimidação, exatamente o perfil de um 'capanga' ou 'executor' informal. Suas ações se encaixam perfeitamente na descrição das práticas de Jão Fera.",
+          "B": "Embora Prudêncio, de 'Memórias póstumas de Brás Cubas', tenha um momento em que age como 'capanga' de Brás Cubas e seja retratado como um 'valentão' abusivo, a alternativa o classifica primariamente como 'malandro'. O 'malandro' tradicional, na literatura, é aquele que vive de expedientes, da astúcia, da malícia, evitando o trabalho formal. Embora Prudêncio desenvolva características de 'valentão', a associação com 'malandro' não é a descrição mais precisa para suas práticas de força e violência no sentido de um 'capanga' clássico, e Chico-Juca é um exemplo mais direto e canônico do 'valentão' puro.",
+          "C": "Miranda, de 'O cortiço', é um 'arrivista', um personagem que busca ascensão social e econômica, competindo com João Romão. Suas ações são pautadas pela ambição, pelo cálculo e pelo desejo de enriquecimento e prestígio, não pela força física ou pela função de 'capanga'.",
+          "D": "Zé Fernandes, de 'A cidade e as serras', é o fiel amigo e companheiro de Jacinto, o 'agregado' que o acompanha em suas experiências na cidade e no campo. Ele é um intelectual, um observador, e suas práticas não têm nenhuma relação com a violência ou com o papel de um 'capanga'.",
+          "E": "O 'soldado amarelo' de 'Vidas secas' é uma figura que representa a opressão e a violência do poder estatal contra os pobres e desfavorecidos. Sua atuação é institucional e desumana, mas ele não é um 'capanga' no sentido de um indivíduo a serviço de um particular ou de um poder local informal, e sim um agente do Estado."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre os arquétipos sociais na literatura brasileira, exigindo a identificação do personagem cujas práticas mais se assemelham à figura do 'capanga' urbano, que usa a força e a intimidação."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q27/image.png"
@@ -1529,16 +1618,21 @@
       "id": "fuvest-2015-q28",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O romance 'Til', de José de Alencar, é uma obra do Romantismo brasileiro que retrata o ambiente rural do interior de São Paulo no século XIX, um período ainda marcado pela escravidão e suas profundas consequências sociais, mesmo para os homens livres. A sociedade brasileira da época, profundamente hierárquica e escravocrata, desenvolveu um forte estigma em relação ao trabalho manual, especialmente o trabalho braçal no campo. Este era predominantemente associado aos escravizados, fazendo com que os homens livres – mesmo os mais pobres – o encarassem como algo degradante, indigno de sua condição. A aversão ao trabalho braçal não era apenas uma questão de preguiça, mas um reflexo de uma estrutura social que via no trabalho manual a marca da escravidão e da subalternidade.",
+        "steps": [
+          "**1. Compreensão do Contexto da Obra:** Entender que 'Til' se passa no Brasil Imperial do século XIX, um período onde a escravidão ainda moldava as relações sociais e o valor atribuído ao trabalho, especialmente o manual.",
+          "**2. Análise do Personagem e da Ação:** A questão foca na 'brusca reação de Jão Fera' ao trabalho braçal (implícito pelo contexto das alternativas e do romance). Jão Fera é um personagem que, embora livre, se insere nesse contexto de homens rurais com percepções sociais específicas.",
+          "**3. Conexão entre Trabalho Braçal e Estigma Social:** Ligar a rejeição ou aversão ao trabalho manual com a herança da escravidão. No Brasil, o trabalho braçal era sinônimo de trabalho escravo, tornando-o socialmente desvalorizado e, muitas vezes, visto como indigno para o homem livre.",
+          "**4. Avaliação das Alternativas:** Analisar qual alternativa melhor explica a reação de Jão Fera dentro desse panorama histórico-social. A alternativa correta deve refletir o estigma do trabalho braçal como uma consequência direta da escravidão."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa sugere que a ambição ou ganância explicaria a reação. Embora esses sentimentos pudessem existir, eles não justificam diretamente uma 'brusca reação' de repulsa ao trabalho braçal em si. A aversão ao trabalho manual para os homens livres pobres estava mais ligada a uma questão de dignidade social e ao estigma da escravidão do que à mera ambição de não trabalhar.",
+          "B": "Não há, no enunciado da questão nem no contexto geral de 'Til', qualquer informação que indique que Jão Fera era membro da Guarda Nacional, tampouco que essa condição o 'interditasse' (proibisse) de trabalhar na lavoura. A Guarda Nacional era composta por cidadãos proprietários ou com certa renda, muitos dos quais eram lavradores. Portanto, essa alternativa é baseada em informações não fornecidas e possivelmente incorretas.",
+          "C": "Embora o preconceito contra indígenas e a atribuição de 'indolência' fossem reais na época, associar a reação de Jão Fera diretamente a essa 'indolência atribuída ao indígena' e à ideia de 'bugre' sem mais contexto do excerto é problemático. A questão central sobre o trabalho braçal em 'Til' é mais fortemente ancorada na legacy da escravidão, que atingia diversas camadas sociais, do que especificamente nesse estereótipo indígena para explicar a aversão geral ao trabalho manual.",
+          "D": "Esta é a alternativa correta. O estigma da escravidão fez com que o trabalho braçal, particularmente o agrícola, fosse associado à condição de escravizado, tornando-o um símbolo de inferioridade social. Para o homem livre, mesmo o mais pobre, realizar esse tipo de trabalho poderia ser visto como um rebaixamento de sua dignidade, explicando uma 'brusca reação' de repulsa ou vergonha.",
+          "E": "A condição de 'homem letrado' era rara no ambiente rural do século XIX e, ademais, Jão Fera é retratado no romance como um personagem rústico e forte, não como um intelectual. A aversão ao labor agrícola por parte de 'homens letrados' existia em outros contextos, mas não se aplica ao perfil de Jão Fera nem ao principal motivo da rejeição ao trabalho braçal na sociedade escravocrata brasileira, que era o estigma da escravidão, e não a educação."
         },
-        "finalSummary": ""
+        "finalSummary": "A 'brusca reação' de Jão Fera ao trabalho braçal, no contexto de 'Til', é explicada pelo profundo estigma social que a escravidão impôs ao labor manual no Brasil do século XIX, fazendo-o ser percebido como indigno para homens livres."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q28/image.png"
@@ -1582,16 +1676,21 @@
       "id": "fuvest-2015-q29",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A fase madura de Machado de Assis, iniciada com 'Memórias Póstumas de Brás Cubas' (1881), marca uma guinada estilística e temática fundamental na literatura brasileira. Caracteriza-se por uma profunda investigação psicológica dos personagens, um olhar crítico e cético sobre a sociedade do Segundo Reinado, a subversão das convenções narrativas do Realismo-Naturalismo e a introdução da metalinguagem e do narrador digressivo. O 'defunto autor' Brás Cubas, por exemplo, não apenas conta sua história, mas também reflete sobre o ato de narrar, sobre seus personagens e sobre a recepção de sua obra, convidando o leitor a uma participação mais ativa na construção do sentido. A análise das relações humanas é sempre atravessada por uma visão desencantada da natureza humana, revelando egoísmos, vaidades e as complexidades dos 'funcionamentos mentais'.",
+        "steps": [
+          "**Análise da afirmação I:** A afirmação 'o realce da argúcia, da capacidade de exame acurado das situações e da firmeza de propósito, ainda quando impliquem malignidade' é um traço marcante da obra machadiana madura. O narrador-personagem, como Brás Cubas, frequentemente demonstra uma inteligência perspicaz para analisar as situações e as motivações alheias (e as próprias), muitas vezes revelando um egoísmo ou uma malícia disfarçada. Sua 'firmeza de propósito' pode ser vista na busca incessante por seus próprios interesses, mesmo que isso signifique manipular ou se aproveitar de outros, características que a crítica literária aponta como centrais na visão machadiana da sociedade e da psicologia humana. A menção ao bilhete de Virgília e às relações adúlteras no excerto subentende a argúcia dos personagens e a análise de suas intenções (malignas ou egoístas).",
+          "**Análise da afirmação II:** A afirmação 'a relevância da observação das relações interpessoais e dos funcionamentos mentais correspondentes' é outro pilar da fase madura de Machado. Sua obra é um estudo aprofundado da complexidade das interações humanas, dos jogos de poder, das paixões, dos ciúmes e das hipocrisias sociais. Os 'funcionamentos mentais' são esmiuçados pelos narradores, que mergulham no inconsciente, nas contradições e nas motivações mais profundas dos indivíduos. O triângulo amoroso e as suspeitas de adultério, como o do contexto do excerto, são terrenos férteis para essa observação minuciosa das relações interpessoais e das reações psicológicas dos envolvidos.",
+          "**Análise da afirmação III:** A afirmação 'a operação consciente dos elementos envolvidos no processo de composição literária: narração, personagens, motivação, trama, intertextualidade, recepção etc.' descreve perfeitamente a metalinguagem ou metaficção, característica inovadora e definidora da fase madura de Machado. Brás Cubas, como 'defunto autor', constantemente interrompe a narrativa para comentar o próprio ato de escrever, dialogar com o leitor, discutir a estrutura do livro, a criação de personagens e suas motivações, a condução da trama, ou seja, todo o processo de composição literária. O enunciado menciona 'um comentário do narrador (cap. CVIII)' após o bilhete, o que sugere um momento de reflexão do próprio narrador sobre sua obra ou os acontecimentos, reforçando a validade desta afirmação.",
+          "**Conclusão:** Todas as três afirmações descrevem aspectos essenciais e distintivos da obra machadiana da fase madura, especialmente evidentes em 'Memórias Póstumas de Brás Cubas'. Portanto, todas as opções (I, II e III) estão corretas."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Incorreta, pois desconsidera a relevância da observação das relações interpessoais e dos funcionamentos mentais (II) e a operação consciente dos elementos da composição literária (III), que são aspectos cruciais da obra machadiana madura.",
+          "B": "Incorreta, pois ignora o realce da argúcia e da firmeza de propósito (I) e a metalinguagem (III), elementos centrais para a compreensão do estilo e da crítica machadiana.",
+          "C": "Incorreta, pois, embora I e II sejam corretas, a alternativa negligencia a metalinguagem (III), que é uma das características mais inovadoras e marcantes da fase madura de Machado de Assis. O narrador de 'Memórias Póstumas' constantemente comenta o próprio ato de narrar.",
+          "D": "Incorreta, pois, embora II e III sejam corretas, a alternativa desconsidera o realce da argúcia e da firmeza de propósito (I), que são fundamentais para a análise psicológica dos personagens e a crítica social machadiana. Personagens agem com cálculo e determinação, muitas vezes com um fundo egoísta.",
+          "E": "Correta. As três afirmações (I, II e III) descrevem características fundamentais e inegáveis da fase madura de Machado de Assis, especialmente patentes em 'Memórias Póstumas de Brás Cubas'. A obra é marcada pela análise profunda da psicologia humana (I e II) e pela inovação narrativa, que inclui a metalinguagem e a reflexão sobre o próprio processo de escrita (III)."
         },
-        "finalSummary": ""
+        "finalSummary": "A fase madura de Machado de Assis é complexa e multifacetada, caracterizada pela profunda análise psicológica, pela crítica social permeada de ceticismo e pela inovadora metalinguagem, que convida o leitor a refletir sobre a própria construção narrativa."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q29/image.png"
@@ -1635,16 +1734,26 @@
       "id": "fuvest-2015-q30",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o conhecimento de figuras de linguagem, que são recursos estilísticos empregados para tornar a linguagem mais expressiva e enfática. Elas são amplamente utilizadas na literatura para enriquecer a narrativa e a construção de sentido. Para resolver esta questão, é fundamental compreender a definição de cada uma das figuras de linguagem apresentadas nas alternativas e identificar qual delas se alinha com a estratégia narrativa descrita no enunciado. Dado que as opções de texto da questão se referem a uma imagem ausente (\"Veja a imagem da questão\"), a explicação se baseará nas definições das figuras retóricas fornecidas no próprio corpo do enunciado e no contexto implícito da referência a 'Virgília', que sugere uma obra de Machado de Assis, autor conhecido pelo uso sofisticado de tais recursos.",
+        "steps": [
+          "1. Entender o objetivo da questão: O enunciado pede para identificar o recurso retórico utilizado pelo narrador ao 'comentar o bilhete de Virgília'. Isso indica uma análise da estratégia do narrador na sua forma de abordar um determinado assunto (o bilhete).",
+          "2. Analisar a definição de cada figura de linguagem oferecida nas alternativas. Embora não tenhamos o trecho exato do texto, as próprias alternativas trazem as definições que devem ser consideradas:",
+          "   - Hipérbato: inversão da ordem das palavras.",
+          "   - Hipérbole: exagero na significação.",
+          "   - Preterição: fingir não querer falar de algo sobre o qual se está falando.",
+          "   - Sinédoque: tomar a parte pelo todo (ou vice-versa).",
+          "   - Eufemismo: suavização de uma ideia desagradável.",
+          "3. Relacionar as definições com a ação de 'comentar o bilhete de Virgília'. No contexto de um narrador (especialmente um machadiano), 'comentar' pode envolver uma série de estratégias. A Preterição, ao 'fingir não querer falar', muitas vezes tem o efeito de chamar ainda mais atenção para o que se finge omitir, gerando ironia, suspense ou ênfase. Por exemplo, um narrador que diz 'Não vou me alongar sobre o conteúdo do bilhete de Virgília, mas...' já está, paradoxalmente, comentando e dando importância ao bilhete.",
+          "4. Concluir que a Preterição é a figura que melhor se encaixa em uma estratégia de 'comentar' de forma indireta, sutil ou irônica, que é um traço marcante da prosa de autores como Machado de Assis. As demais figuras (Hipérbato, Hipérbole, Sinédoque, Eufemismo) referem-se a outros tipos de alterações ou substituições linguísticas, não a essa estratégia de discurso específica."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A Hipérbato é a transposição ou inversão da ordem natural das palavras de uma oração. Embora seja um recurso estilístico comum, ele se refere à estrutura sintática da frase e não diretamente a uma estratégia narrativa para 'comentar' ou não 'comentar' o conteúdo de algo. A pergunta busca uma figura de retórica que descreva a *maneira* como o narrador aborda o bilhete, e não a estrutura interna de suas frases ao fazê-lo.",
+          "B": "A Hipérbole é a ênfase expressiva resultante do exagero da significação linguística. Se o narrador estivesse utilizando hipérbole, ele estaria exagerando diretamente algum aspecto do bilhete ou da situação, mas isso não corresponde à estratégia de 'fingir não querer falar' sobre ele. A hipérbole é um exagero explícito, enquanto a Preterição opera na esfera da simulação da omissão.",
+          "C": "A Preterição é a figura pela qual se finge não querer falar de coisas sobre as quais se está, todavia, falando. Este é o recurso correto, pois o narrador, ao 'comentar o bilhete de Virgília' usando a preterição, estaria introduzindo o assunto (o bilhete) e, em seguida, declarando que não vai discorrer sobre ele, ou que seria desnecessário fazê-lo, mas ao próprio tempo, chamando a atenção para sua existência e importância. Essa é uma técnica sofisticada de discurso que cria suspense, ironia ou realça a relevância do que 'não será dito'.",
+          "D": "A Sinédoque é uma figura que consiste em tomar a parte pelo todo, o todo pela parte; o gênero pela espécie, a espécie pelo gênero; o singular pelo plural, o plural pelo singular etc. É uma figura de linguagem baseada na relação de inclusão ou substituição de termos, e não se aplica a uma estratégia de discurso sobre como o narrador introduz ou 'comenta' um tópico, como o bilhete de Virgília. Não se trata de uma substituição de elementos, mas de uma manobra narrativa.",
+          "E": "O Eufemismo é uma palavra, locução ou acepção mais agradável, empregada em lugar de outra menos agradável ou grosseira. Seu propósito é suavizar uma ideia ou expressão. Não há indicação de que o narrador esteja tentando amenizar algo desagradável ao 'comentar o bilhete de Virgília' de forma a justificar o uso do eufemismo como principal recurso. A preterição não busca suavizar, mas sim manipular a atenção do leitor de forma irônica ou enfática."
         },
-        "finalSummary": ""
+        "finalSummary": "A Preterição é um recurso retórico sofisticado, frequentemente utilizado por narradores perspicazes, que consiste em fingir que se vai omitir um assunto, mas, na verdade, ressaltá-lo de forma irônica ou para gerar expectativa no leitor."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q30/image.png"
@@ -1688,16 +1797,21 @@
       "id": "fuvest-2015-q31",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a identificação de características estilísticas e temáticas que definem uma obra literária específica. Os aspectos mencionados no enunciado – 'concentração e economia de meios expressivos', 'orientação realista e analítica' e 'previsão do papel do leitor na construção do sentido do texto, suprindo o que, neste, é implícito ou lacunar' – são pilares fundamentais para a compreensão da estética de diversos autores. No contexto da literatura brasileira, estas características são particularmente marcantes em obras do Modernismo, especialmente na prosa regionalista e introspectiva da Segunda Geração, que se dedicou a uma análise aprofundada da realidade social e psicológica, muitas vezes utilizando um estilo enxuto e exigindo uma leitura ativa para decodificar as entrelinhas e os silêncios.",
+        "steps": [
+          "1. **Analise os aspectos compositivos do enunciado:** Desmembre as três características fornecidas: a) 'concentração e economia de meios expressivos' refere-se a um estilo conciso, enxuto, sem excessos verbais; b) 'orientação realista e analítica' indica a representação fiel da realidade, com crítica social e aprofundamento psicológico dos personagens ou situações; c) 'previsão do papel do leitor na construção do sentido do texto, suprindo o que, neste, é implícito ou lacunar' aponta para uma narrativa que não entrega tudo de forma explícita, exigindo que o leitor infira significados e preencha vazios.",
+          "2. **Conecte os aspectos aos movimentos literários:** Pense em quais movimentos literários e autores se alinham a essas características. 'Economia de meios' e 'realismo analítico' se contrapõem, em geral, ao Romantismo (que tende à idealização, sentimentalismo e prolixidade) e se aproximam do Realismo/Naturalismo e, mais intensamente, do Modernismo (especialmente a Geração de 30, com seu regionalismo crítico). A 'lacunaridade' e a exigência de inferência do leitor são traços de uma prosa mais contemporânea e psicologicamente complexa.",
+          "3. **Avalie cada alternativa:** Percorra as opções e compare o estilo e o conteúdo das obras e autores com os critérios do enunciado. Elimine as opções que claramente se desviam desses critérios.",
+          "4. **Identifique a obra que se encaixa perfeitamente:** Graciliano Ramos é conhecido por seu estilo 'seco', direto e sem floreios, o que corresponde à 'economia de meios'. Suas obras, como 'Vidas Secas', são profundamente 'realistas e analíticas', abordando a dura realidade do sertão nordestino e a psicologia rudimentar dos personagens. Mais importante, o silêncio, as ações não verbalizadas e a comunicação muitas vezes primária de seus personagens (como Fabiano e Sinhá Vitória) obrigam o leitor a 'suprir o que é implícito ou lacunar', construindo o sentido e a profundidade da obra a partir das entrelinhas. Isso faz de 'Vidas Secas' a escolha perfeita."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Viagens na minha terra, de Almeida Garrett, pertence ao Romantismo português. A obra, embora inovadora, caracteriza-se pela subjetividade, sentimentalismo e um estilo que, apesar de coloquial em muitos momentos, é mais elaborado e menos 'econômico' no sentido de concisão austera que a questão descreve. Sua 'orientação' é mais autobiográfica e ensaística que 'realista e analítica' no sentido de crítica social profunda e observação objetiva da realidade brasileira, e não explora a 'lacunaridade' da mesma forma.",
+          "B": "Memórias de um sargento de milícias, de Manuel Antônio de Almeida, embora seja uma obra de transição do Romantismo para o Realismo e apresente um retrato do Rio de Janeiro da época, possui um estilo leve, picaresco e bem-humorado. Essa leveza e a descrição mais direta dos acontecimentos e tipos sociais não se alinham com a 'concentração e economia de meios expressivos' (no sentido de austeridade) e a 'analítica' profunda da condição humana que a questão sugere, nem com a exigência de preencher lacunas de sentido de forma tão complexa.",
+          "C": "Til, de José de Alencar, é uma obra do Romantismo brasileiro, com foco no regionalismo e na idealização do ambiente e dos personagens. O estilo de Alencar é marcado pela exuberância da linguagem, descrições detalhadas e por vezes grandiloquentes, sentimentalismo e uma narrativa mais linear e explícita. Tais características são opostas à 'concentração e economia de meios expressivos' e à 'orientação realista e analítica' proposta na questão, bem como à exigência de o leitor preencher lacunas de sentido profundas.",
+          "D": "Vidas secas, de Graciliano Ramos, é a alternativa correta. Graciliano Ramos é o autor que melhor personifica todas as características listadas. Sua prosa é reconhecida pela 'concentração e economia de meios expressivos', sendo direta, enxuta e despojada de floreios. A obra é um marco do Realismo social e psicológico do Modernismo brasileiro, apresentando uma 'orientação realista e analítica' da vida no sertão e da condição humana ali. Por fim, o estilo de Graciliano deliberadamente deixa muito 'implícito ou lacunar', exigindo do 'leitor na construção do sentido do texto' uma participação ativa para inferir os sentimentos, pensamentos e as profundas tragédias dos personagens, que muitas vezes não conseguem expressar-se verbalmente.",
+          "E": "Capitães da Areia, de Jorge Amado, embora seja uma importante obra do Modernismo brasileiro com forte apelo social e regionalista (Bahia), o estilo de Jorge Amado é, em geral, mais exuberante, coloquial, detalhista e festivo. Sua linguagem, rica em descrições e em diálogos vívidos, distancia-se da 'concentração e economia de meios expressivos' de Graciliano Ramos. A narrativa de Jorge Amado é mais explícita em suas intenções e emoções, não demandando do leitor o preenchimento de lacunas de sentido de forma tão central e intrínseca à construção dos personagens como em 'Vidas Secas'."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de associar as características de concisão estilística, realismo analítico e a exigência de leitura inferencial a uma obra específica, destacando 'Vidas Secas' de Graciliano Ramos como um exemplo primoroso dessas qualidades literárias."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q31/image.png"
@@ -1741,16 +1855,20 @@
       "id": "fuvest-2015-q32",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A relação de hiperonímia e hiponímia é fundamental para a compreensão da organização lexical e do sentido em um texto. Um **hiperônimo** (do grego *hyper* = 'acima' + *onyma* = 'nome') é um vocábulo de sentido mais genérico, que designa uma categoria ou um conjunto maior de elementos. Em outras palavras, ele \"inclui\" semanticamente outros termos. Já o **hipônimo** (do grego *hypo* = 'abaixo' + *onyma* = 'nome') é um vocábulo de sentido mais específico, que está \"contido\" semanticamente no hiperônimo. Por exemplo, no próprio enunciado da questão, \"planta\" é um hiperônimo, e \"palmeira\", \"trevos\", \"baunilha\" são seus hipônimos, pois são tipos específicos de plantas. Essa relação é contextual e é essencial para a coesão e coerência textual, permitindo a substituição de termos e a retomada de ideias sem repetição.",
+        "steps": [
+          "1. **Compreender o Conceito de Hiperonímia**: A questão define claramente hiperônimo como um vocábulo de sentido mais genérico em relação a outro(s), fornecendo o exemplo \"planta\" (hiperônimo) em relação a \"palmeira\", \"trevos\" e \"baunilha\" (hipônimos). O objetivo é encontrar uma palavra que cumpra o mesmo papel em relação a outros termos presentes no texto original (que não nos foi fornecido na íntegra, apenas as opções literais são dadas no corpo da questão).",
+          "2. **Analisar o Potencial Hiperonímico de Cada Alternativa**: Mesmo sem o texto completo, podemos avaliar o potencial de cada palavra listada nas alternativas para funcionar como um termo genérico que abrangeria outros termos mais específicos do texto. Devemos considerar o tipo de texto que geralmente apresenta exemplos como \"planta\" e seus derivados, que costuma ser descritivo, narrativo ou reflexivo sobre ambientes, experiências ou sentimentos.",
+          "3. **Identificar a Alternativa que Melhor se Encaixa**: Comparar as palavras das alternativas com a definição e o exemplo dado. A alternativa correta será aquela cuja palavra tem a maior probabilidade de atuar como um \"guarda-chuva\" semântico para outros vocábulos do contexto."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A palavra “alma” é um substantivo abstrato que se refere ao princípio vital ou imaterial de um ser. Embora seja um conceito abrangente, dificilmente ela serviria como hiperônimo para um conjunto de palavras diversas que seriam seus hipônimos em um texto típico de vestibular que aborda temas como natureza, percepções ou vivências. Geralmente, \"alma\" seria um hipônimo de termos como \"espírito\", \"essência\" ou \"ser interior\", e não o contrário.",
+          "B": "A alternativa “impressões” é a correta. Em um texto que aborda percepções, sensações, sentimentos, lembranças ou observações (como sugerido pelo exemplo de \"planta\" e elementos naturais), a palavra \"impressões\" funciona como um excelente hiperônimo. Ela pode englobar diversos hipônimos como \"sensações visuais\", \"auditivas\", \"olfativas\", \"táteis\", \"sentimentos\", \"reflexões\" ou \"memórias\", que seriam os elementos mais específicos mencionados no texto. Assim, \"impressões\" é um termo genérico que abarca diferentes tipos de percepções ou impactos recebidos, fazendo-a a opção mais coerente para um hiperônimo neste contexto.",
+          "C": "A palavra “fazenda” é um substantivo concreto que designa uma propriedade rural. Embora possa ter seus próprios hipônimos (e.g., \"curral\", \"lavoura\", \"sede\", \"gado\"), dificilmente ela atuaria como um hiperônimo para um conjunto amplo e variado de palavras do texto que não estivessem diretamente relacionadas a partes ou elementos desse tipo de propriedade. Seu campo semântico é muito específico para ser um hiperônimo de diversas palavras no contexto geral de um texto.",
+          "D": "A palavra “cobra” é um substantivo concreto que se refere a um tipo específico de réptil. Ela é, em si, um hipônimo de \"réptil\" ou \"animal\". Para que \"cobra\" fosse um hiperônimo, o texto teria que listar diferentes *tipos de cobras* (e.g., \"jiboia\", \"cascavel\", \"naja\") como seus hipônimos. No entanto, o exemplo dado no enunciado (\"planta\" para \"palmeira\", \"trevos\", \"baunilha\") indica uma relação mais abrangente e comum, o que não se aplica facilmente a \"cobra\" fora de um contexto herpetológico muito específico.",
+          "E": "A palavra “saudade” é um substantivo abstrato que denota um sentimento específico de melancolia pela ausência de algo ou alguém. Semelhante a \"alma\", é um hipônimo de termos mais genéricos como \"sentimento\", \"emoção\" ou \"afeto\", e não um hiperônimo. É improvável que \"saudade\" englobe semanticamente outros termos mais específicos presentes em um texto, pois ela mesma já é um conceito bastante particularizado no âmbito dos sentimentos."
         },
-        "finalSummary": ""
+        "finalSummary": "A resolução desta questão demonstra que a identificação de hiperônimos e hipônimos depende criticamente da análise do contexto textual e das relações semânticas de inclusão, onde um termo mais genérico (\"impressões\") abrange outros mais específicos."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q32/image.png"
@@ -1794,16 +1912,22 @@
       "id": "fuvest-2015-q33",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda um ponto crucial da história da literatura brasileira: a relação entre o Romantismo e o Naturalismo. Embora sejam movimentos literários programaticamente opostos em termos de estilo, temas e propostas (o Romantismo idealiza, é subjetivo e busca o escapismo; o Naturalismo é objetivo, determinista e foca na crueza da realidade), é fundamental reconhecer que, no contexto brasileiro, ambos compartilharam uma preocupação central: a construção e a compreensão da identidade nacional. O Romantismo, especialmente em suas primeiras gerações, buscou consolidar uma literatura verdadeiramente brasileira, valorizando o indígena, a natureza e as lendas locais. Já o Naturalismo, ao retratar de forma crua e determinista a sociedade brasileira, suas mazelas e seus tipos sociais, também estava engajado em uma forma de 'autodefinição', ainda que por uma perspectiva crítica e científica. A compreensão dessa continuidade é essencial para resolver a questão, mesmo sem o excerto original.",
+        "steps": [
+          "Compreender a proposta da questão: identificar uma linha de continuidade entre o Romantismo e o Naturalismo brasileiros, apesar de suas oposições.",
+          "Relembrar as principais características do Romantismo brasileiro: nacionalismo, indianismo, busca pela autenticidade nacional, sentimentalismo, idealização, subjetividade.",
+          "Relembrar as principais características do Naturalismo brasileiro: cientificismo, determinismo (raça, meio, momento), objetividade (pretensa), foco nas camadas populares e nos instintos, análise social crítica, personagens zoomorfizados.",
+          "Comparar os dois movimentos, buscando um objetivo ou preocupação comum que transcenda suas diferenças estilísticas e temáticas.",
+          "Analisar cada alternativa à luz dessa comparação, verificando qual delas representa essa continuidade subjacente no projeto literário brasileiro de ambos os movimentos."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A 'exaltação patriótica da mistura de raças' não é uma continuidade. Enquanto o Romantismo pode ter tido um viés patriótico geral, a 'mistura de raças' como tema de exaltação é mais complexa. O Naturalismo, por sua vez, analisava a mistura de raças sob a ótica do determinismo social e biológico, não para exaltá-la patrioticamente, mas muitas vezes para discutir os seus resultados sociais e as suas consequências.",
+          "B": "Esta é a alternativa correta. Tanto o Romantismo quanto o Naturalismo, cada um a seu modo, contribuíram para a construção e a problematização da identidade brasileira. O Romantismo, ao criar heróis e cenários nacionais, tentou forjar uma imagem idealizada do Brasil. O Naturalismo, ao retratar as condições sociais, os costumes e os conflitos do país, buscou entender o 'homem brasileiro' e a formação da sociedade de uma maneira mais crítica e 'científica'. Ambos os movimentos, portanto, estavam engajados na 'necessidade de autodefinição nacional', seja pela idealização ou pela análise crítica.",
+          "C": "A 'aversão ao cientificismo' é uma característica que *opõe* os dois movimentos, não os une. O Naturalismo baseia-se fundamentalmente no cientificismo (determinismo, teorias de Darwin, Taine, Comte), aplicando-o à análise social e humana. O Romantismo não tinha essa premissa; sua abordagem era mais ligada ao subjetivo e ao espiritual, não à ciência da época.",
+          "D": "A 'recusa dos modelos literários estrangeiros' não se aplica plenamente a nenhum dos movimentos, e certamente não é uma continuidade. Ambos foram profundamente influenciados por correntes europeias: o Romantismo brasileiro teve forte influência do Romantismo europeu (Byron, Victor Hugo), e o Naturalismo brasileiro seguiu os passos de autores como Émile Zola. Embora buscassem uma expressão nacional, a assimilação e adaptação de modelos estrangeiros era comum.",
+          "E": "A 'idealização das relações amorosas' é uma marca distintiva do Romantismo, que frequentemente retrata o amor de forma platônica, puro e muitas vezes trágico, mas sublime. O Naturalismo, em contraste, tende a desmistificar o amor, abordando as relações de forma mais carnal, instintiva e por vezes patológica, sem a idealização romântica. Portanto, é um ponto de oposição, não de continuidade."
         },
-        "finalSummary": ""
+        "finalSummary": "Apesar das profundas diferenças estilísticas e temáticas, o Romantismo e o Naturalismo brasileiros compartilham a essencial preocupação com a construção e a problematização da identidade nacional, cada um a seu modo contribuindo para a autodefinição do Brasil através da literatura."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q33/image.png"
@@ -1847,16 +1971,21 @@
       "id": "fuvest-2015-q34",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a obra 'O Cortiço', de Aluísio Azevedo, um dos mais importantes romances do Naturalismo brasileiro. O Naturalismo é uma escola literária que, influenciada pelo Positivismo, pelo Determinismo (raça, meio e momento histórico) e pela Biologia, busca retratar a realidade de forma 'científica' e objetiva. No romance, o personagem Jerônimo, um português trabalhador e moralmente rígido, sofre uma profunda transformação ao entrar em contato com o ambiente do cortiço e com a sensualidade da brasileira Rita Baiana, que para o autor representa a 'natureza brasileira'. Essa transformação é um exemplo clássico do determinismo do meio, onde o ambiente tropical e a 'raça' local influenciam e 'animalizam' o indivíduo, levando-o à sensualidade, à indolência e ao abandono de seus valores europeus.",
+        "steps": [
+          "1. **Compreenda o contexto da obra:** Reconheça que a questão se refere a 'O Cortiço' e à figura de Rita Baiana como a representação da 'natureza brasileira' e do ambiente tropical que influencia o personagem Jerônimo.",
+          "2. **Analise a transformação de Jerônimo:** Lembre-se que Jerônimo, inicialmente um homem disciplinado e avesso aos prazeres, é 'tropicalizado' pelo contato com Rita Baiana e o ambiente do cortiço, tornando-se sensual, preguiçoso e desinteressado pelo trabalho.",
+          "3. **Avalie as alternativas à luz do Naturalismo:** Considere como cada citação descreve Rita Baiana e, por extensão, a natureza brasileira, buscando aquela que melhor sintetiza a dualidade da atração e da 'corrupção' moral que essa natureza provoca em Jerônimo, característica do Naturalismo.",
+          "4. **Identifique a alternativa mais completa:** A alternativa correta deve expressar não apenas um aspecto da influência, mas a totalidade da transformação que envolve tanto o prazer irresistível quanto a subsequente 'decadência' dos valores originais de Jerônimo."
+        ],
         "distractors": {
           "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "B": "A descrição “era a palmeira virginal e esquiva que se não torce a nenhuma outra planta” sugere pureza, resistência e independência. Essa imagem contradiz completamente o papel de Rita Baiana como uma força sensual e transformadora que, ao contrário, 'torce' e molda Jerônimo, levando-o a abandonar sua natureza original. Portanto, não representa a influência que a questão busca.",
+          "C": "Esta é a alternativa correta. A frase “era o veneno e era o açúcar gostoso” sintetiza de forma completa e dual a essência da natureza brasileira, representada por Rita Baiana, e sua influência sobre Jerônimo. O 'açúcar gostoso' representa a atração irresistível, a sensualidade e o prazer que seduzem Jerônimo, enquanto o 'veneno' simboliza a 'decadência' moral, o abandono dos valores europeus e a indolência que se seguem a essa entrega. Essa dualidade (atração e corrupção) é central para a transformação naturalista de Jerônimo em 'O Cortiço'.",
+          "D": "A afirmação “era a cobra verde e traiçoeira” descreve um aspecto negativo de perigo e traição. Embora a influência de Rita Baiana possa ser vista como 'perigosa' para os valores de Jerônimo, a ideia de 'traiçoeira' não abrange o lado da sedução e do prazer irresistível que a natureza brasileira, para o Naturalismo, exerce. Foca apenas em uma faceta do impacto, sem a completude da atração e da consequência.",
+          "E": "A comparação “[era] a muriçoca doida, que esvoaçava havia muito tempo em torno do corpo dele” reduz a figura de Rita Baiana e sua influência a algo irritante e trivial, como um inseto. Essa visão diminui a profundidade e a intensidade da transformação de Jerônimo, que é um processo determinante e central na narrativa, e não apenas um incômodo passageiro. Não representa a força avassaladora da natureza naturalista."
         },
-        "finalSummary": ""
+        "finalSummary": "A alternativa correta encapsula a dualidade da natureza brasileira em 'O Cortiço' – atrativa e irresistível ('açúcar gostoso'), mas também 'corruptora' e degradante ('veneno') – refletindo a transformação naturalista de Jerônimo pela influência do meio e da sensualidade."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q34/image.png"
@@ -1900,16 +2029,21 @@
       "id": "fuvest-2015-q35",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Naturalismo, corrente literária que surgiu na segunda metade do século XIX, é uma radicalização do Realismo, buscando aplicar os princípios do método científico à literatura. Influenciado por teorias como o Determinismo (Taine), o Positivismo (Comte) e, fundamentalmente, as ideias evolucionistas de Charles Darwin, o Naturalismo retratava o homem como um produto de sua hereditariedade (raça) e do meio ambiente, agindo por instintos e impulsos biológicos. Os autores naturalistas frequentemente utilizavam a zoomorfização (comparar personagens a animais), o sensorialismo exacerbado (descrição detalhada de sensações) e uma abordagem quase clínica das patologias sociais e dos aspectos mais primitivos da existência humana. A intenção era mostrar as forças biológicas e sociais que determinam o comportamento humano, muitas vezes em cenários de degradação e miséria, com um tom pessimista e fatalista.",
+        "steps": [
+          "Compreenda o cerne da questão: ela pede para identificar qual dos procedimentos listados *NÃO* é característico do Naturalismo literário na exploração intensiva de aspectos biológicos da natureza.",
+          "Revise os principais conceitos e técnicas do Naturalismo. Lembre-se que o movimento buscava uma abordagem 'científica' da realidade, focando na biologia (hereditariedade) e no meio (ambiente) como determinantes do comportamento humano.",
+          "Analise cada alternativa, verificando se o procedimento descrito se alinha com as características do Naturalismo na representação dos aspectos biológicos. Distinga entre a *influência* de uma teoria científica e a *aplicação* de um procedimento literário na narrativa.",
+          "Identifique a alternativa que descreve um processo mais diretamente ligado à teoria biológica em si, e menos a um procedimento de figuração, descrição ou abordagem temática dentro da obra literária naturalista. Essa será a resposta, pois a questão pede o que 'NÃO se encontra'."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa descreve um dos pilares do Naturalismo. A literatura naturalista representa o homem como um ser vivo, condicionado por sua hereditariedade e influenciado constantemente pelo meio ambiente. As ações dos personagens são vistas como reações a esses fatores, o que é central para a visão determinista do movimento.",
+          "B": "A exploração exaustiva dos receptores sensoriais (visão, audição, olfato, paladar, tato) é uma marca do Naturalismo. As descrições são frequentemente detalhadas, visuais e olfativas, buscando retratar a realidade de forma vívida, crua e, por vezes, repulsiva, enfatizando os instintos e as sensações mais primitivas dos personagens. Isso se alinha com a 'exploração intensiva de aspectos biológicos'.",
+          "C": "A figuração de plantas e animais, e a observação de suas interações, são procedimentos comuns no Naturalismo. É frequente a comparação de personagens humanos a animais (zoomorfização), agindo por instintos e pulsões biológicas. A natureza é muitas vezes vista como um espelho ou um pano de fundo que reforça a animalidade e a condição determinada do ser humano.",
+          "D": "O Naturalismo frequentemente aborda temas como a reprodução humana e os instintos sexuais de forma explícita e 'científica', como parte dos processos biológicos que regem a vida. A 'metamorfose em animais' pode ser uma referência indireta a mudanças de comportamento ou condição social dos personagens, ou à própria evolução de espécies, que, embora não seja o foco principal, dialoga com a influência darwinista e a observação da natureza. A ênfase nos processos biológicos primários está de acordo com a proposta naturalista.",
+          "E": "Esta é a alternativa correta porque a 'focalização dos processos de seleção natural como principal força direcionadora do processo evolutivo' é uma descrição direta da teoria de Charles Darwin sobre a evolução das espécies. Embora o Darwinismo tenha sido uma grande *influência filosófica* e *científica* para o Naturalismo, os autores naturalistas não se dedicavam a ilustrar a *mecanismo biológico* da seleção natural *dentro de suas narrativas* como um procedimento literário para o efeito expressivo do texto. Eles exploravam as *consequências* dessa visão biológica (como a hereditariedade e o determinismo ambiental) no comportamento humano e nas patologias sociais, mas não se aprofundavam na explicação ou exemplificação da seleção natural como força evolutiva em si, algo mais pertinente à biologia do que à técnica literária do movimento."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a compreensão do Naturalismo literário e sua distinção entre as influências científicas (como o Darwinismo) e os procedimentos narrativos e temáticos efetivamente empregados nas obras, sendo a focalização da seleção natural um conceito biológico e não uma técnica literária naturalista."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q35/image.png"
@@ -1953,16 +2087,21 @@
       "id": "fuvest-2015-q36",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a interpretação das 'impressões' de um personagem diante de um novo ambiente, um tema recorrente na literatura, especialmente em textos que narram o encontro entre diferentes culturas e geografias (como as cartas dos descobridores ou relatos de viajantes europeus no Brasil). Para compreender as reações e percepções de alguém em um contexto novo e exótico, é fundamental considerar o ponto de partida desse indivíduo – sua bagagem cultural, suas experiências anteriores e o ambiente de onde ele provém. As 'impressões' mais marcantes surgem, via de regra, da percepção de uma ruptura, uma diferença ou um contraste significativo entre o que era familiar e o que agora se apresenta.",
+        "steps": [
+          "1. **Analisar o Enunciado**: O enunciado pede um 'pressuposto' para entender as 'impressões' de Jerônimo diante da natureza brasileira. A palavra 'impressões' sugere que Jerônimo está reagindo a algo novo ou particularmente impactante.",
+          "2. **Contextualizar a Situação**: Se Jerônimo tem 'impressões' notáveis sobre a natureza brasileira, subentende-se que esta natureza apresenta características que se distinguem daquelas que ele estava acostumado em seu local de origem. A natureza brasileira, rica em biodiversidade e com paisagens tropicais, costuma ser descrita como algo singular para quem vem de outras regiões, especialmente da Europa.",
+          "3. **Inferir a Lógica da Alternativa Correta (A)**: Dada a resposta correta ser 'A' e o contexto comum desse tipo de questão, a alternativa 'A' deve apontar para uma diferença ou um choque entre o que Jerônimo conhecia e o que ele agora experimenta. Essa dissonância é a base para suas 'impressões'.",
+          "4. **Raciocinar sobre as Implicações dos Contrastes**: O contraste é o elemento-chave que permite que as impressões de Jerônimo sejam entendidas como algo particular e significativo, não apenas como uma mera observação, mas como uma reação a algo que o tira de sua zona de familiaridade."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa [A] é a correta. Embora o texto exato da alternativa não esteja disponível na solicitação, inferimos que ela estabelece um contraste fundamental entre a experiência prévia de Jerônimo e a natureza brasileira. Para que as 'impressões' de Jerônimo sobre a natureza brasileira sejam significativas e mereçam ser observadas e estudadas, é crucial que ele venha de um contexto cultural e natural diferente. Essa diferença, ou contraste, entre o que ele conhecia e o que ele agora vivencia é o motor das suas reações, espanto, admiração ou estranhamento. A biodiversidade exuberante e as paisagens tropicais seriam, de sua perspectiva, algo novo e impactante, moldando suas 'impressões' a partir da comparação com seu ambiente de origem.",
+          "B": "A alternativa [B] seria incorreta se sugerisse uma continuidade ou semelhança entre as experiências de Jerônimo, afirmando que a diversidade biológica aqui e em seu local de origem são muito semelhantes. Se não houvesse um contraste significativo, suas 'impressões' não seriam de surpresa, novidade ou estranhamento, mas de familiaridade. A ausência de uma diferença notável não explicaria a necessidade de entender suas 'impressões' como algo particular e digno de nota, o que contradiz o propósito de explorar suas 'impressões' sobre a natureza 'brasileira'.",
+          "C": "A alternativa [C] seria incorreta se propusesse apenas uma ampliação de conhecimento da personagem, que já tinha vivência de diversidade biológica 'semelhante'. Embora possa haver uma ampliação de conhecimento, o cerne da questão reside na *qualidade* e na *originalidade* da experiência. Se a vivência anterior já fosse semelhante, a 'ampliação' seria apenas quantitativa ou de detalhe, não gerando as 'impressões' profundas e transformadoras que vêm de um encontro com algo intrinsecamente diferente. A singularidade da natureza brasileira seria subestimada.",
+          "D": "A alternativa [D] seria incorreta se focasse em um 'equívoco na forma como a personagem percebe e vivencia a diversidade biológica local'. Embora um personagem possa ter percepções equivocadas (mal-entendidos), a questão pede um *pressuposto* para entender suas impressões. O pressuposto primário para suas reações não é que ele esteja interpretando algo errado, mas sim que o que ele vê é *realmente diferente* do que ele conhece. O contraste inicial é o que *causa* as impressões, e essas impressões, por sua vez, podem *levar* a interpretações equivocadas, mas o equívoco não é o ponto de partida fundamental para a compreensão de suas 'impressões' de forma geral.",
+          "E": "A alternativa [E] seria incorreta se sugerisse um 'estreitamento na experiência de vida do personagem, que vem de um local com maior diversidade de ambientes e de organismos'. Esta opção inverte a lógica comum das descrições de viajantes europeus no Brasil, que geralmente se deparam com uma biodiversidade e grandiosidade paisagística que superam suas experiências prévias, expandindo seu universo de referência. Um 'estreitamento' de experiência não explicaria a profundidade ou a intensidade das 'impressões' que a natureza brasileira tende a evocar em quem a descobre vindo de um contexto diferente."
         },
-        "finalSummary": ""
+        "finalSummary": "As impressões de um personagem diante de um novo e exuberante ambiente são fundamentalmente moldadas pelo contraste marcante entre sua experiência prévia e a realidade natural recém-vivenciada."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q36/image.png"

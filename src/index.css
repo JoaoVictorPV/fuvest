@@ -2,6 +2,63 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Design System: Pastel Futurista com Brutalismo Pós-Moderno */
+@layer base {
+  :root {
+    /* Paleta Pastel Calmante */
+    --pastel-lavender: #E6E6FA;
+    --pastel-mint: #E0F2E9;
+    --pastel-peach: #FFE5D9;
+    --pastel-sky: #D4E7F5;
+    --pastel-rose: #FFD6E8;
+    
+    /* Gradientes Suaves */
+    --gradient-calm: linear-gradient(135deg, #E6E6FA 0%, #D4E7F5 100%);
+    --gradient-warm: linear-gradient(135deg, #FFE5D9 0%, #FFD6E8 100%);
+    --gradient-fresh: linear-gradient(135deg, #E0F2E9 0%, #D4E7F5 100%);
+  }
+  
+  body {
+    @apply bg-gradient-to-br from-slate-50 via-purple-50 to-blue-50;
+    font-feature-settings: "liga" 1, "calt" 1;
+  }
+}
+
+/* Animações Suaves */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 2s ease-in-out infinite;
+}
+
+/* Glassmorphism */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Sombras Modernas */
+.shadow-brutal {
+  box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.1);
+}
+
+.shadow-soft {
+  box-shadow: 0 20px 60px rgba(139, 92, 246, 0.1);
+}
+
 @layer base {
   body {
     @apply font-sans bg-slate-100 text-slate-800 antialiased;

@@ -322,20 +322,22 @@ def get_gemini_text_model():
     return gemini_text_model
 
 
-def render_pdf_to_images(pdf_path, year, dpi=200):
+def render_pdf_to_images(pdf_path, year, dpi=200, skip_first_page=True):
     image_paths = []
     year_output_dir = os.path.join(OUTPUT_DIR, str(year), "pages")
     os.makedirs(year_output_dir, exist_ok=True)
     print(f"[*] Renderizando paginas de {os.path.basename(pdf_path)}...", flush=True)
     try:
         doc = fitz.open(pdf_path)
-        for page_num in range(len(doc)):
+        start_page = 1 if skip_first_page else 0
+        print(f"[INFO] Pulando primeira página (capa/instruções)." if skip_first_page else "", flush=True)
+        for page_num in range(start_page, len(doc)):
             page = doc.load_page(page_num)
             pix = page.get_pixmap(dpi=dpi)
             output_path = os.path.join(year_output_dir, f"page_{page_num + 1:02d}.png")
             pix.save(output_path)
             image_paths.append(output_path)
-        print(f"[OK] {len(doc)} paginas convertidas.", flush=True)
+        print(f"[OK] {len(doc) - start_page} paginas convertidas.", flush=True)
         doc.close()
         return image_paths
     except Exception as e:
