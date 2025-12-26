@@ -122,6 +122,7 @@ export function Questoes() {
   const [stats, setStats] = useLocalStorage('sanfran-questoes-stats', {
     perYear: {
       "2019": { correct: 0, wrong: 0, answered: 0 },
+      "2020": { correct: 0, wrong: 0, answered: 0 },
       "2021": { correct: 0, wrong: 0, answered: 0 },
       "2022": { correct: 0, wrong: 0, answered: 0 },
       "2023": { correct: 0, wrong: 0, answered: 0 },
@@ -138,6 +139,7 @@ export function Questoes() {
     setStats({
       perYear: {
         "2019": { correct: 0, wrong: 0, answered: 0 },
+        "2020": { correct: 0, wrong: 0, answered: 0 },
         "2021": { correct: 0, wrong: 0, answered: 0 },
         "2022": { correct: 0, wrong: 0, answered: 0 },
         "2023": { correct: 0, wrong: 0, answered: 0 },
@@ -331,6 +333,7 @@ export function Questoes() {
             className="w-full bg-slate-50 border border-slate-200 rounded-lg px-3 py-1 text-sm font-bold focus:ring-2 focus:ring-crimson-500 outline-none cursor-pointer"
           >
             <option value={2019}>Fuvest 2019</option>
+            <option value={2020}>Fuvest 2020</option>
             <option value={2021}>Fuvest 2021</option>
             <option value={2022}>Fuvest 2022</option>
             <option value={2023}>Fuvest 2023</option>

@@ -1,0 +1,4780 @@
+{
+  "year": 2020,
+  "source": {
+    "provaPdf": "p20.pdf",
+    "gabaritoPdf": "g20.pdf"
+  },
+  "generatedAt": "2025-12-25T22:02:35.975058",
+  "questions": [
+    {
+      "number": 1,
+      "page": 2,
+      "bbox": {
+        "x": 0,
+        "y": 103,
+        "w": 848,
+        "h": 1416
+      },
+      "stem": "Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada sweet little rain consiste em uma xícara de café sobre a qual é pendurado um algodão‐doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem. Disponível em https://www.boredpanda.com/. O café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. A adição de café quente inicia o processo descrito, pois",
+      "options": [
+        {
+          "key": "A",
+          "text": "a temperatura do café é suficiente para liquefazer a sacarose do algodão‐doce, fazendo com que este goteje na forma de sacarose líquida."
+        },
+        {
+          "key": "B",
+          "text": "o vapor de água que sai do café quente irá condensar na superfície do algodão‐doce, gotejando na forma de água pura."
+        },
+        {
+          "key": "C",
+          "text": "a sacarose que evapora do café quente condensa na superfície do algodão‐doce e goteja na forma de uma solução de sacarose em água."
+        },
+        {
+          "key": "D",
+          "text": "o vapor de água encontra o algodão‐doce e solubiliza a sacarose, que goteja na forma de uma solução de sacarose em água."
+        },
+        {
+          "key": "E",
+          "text": "o vapor de água encontra o algodão‐doce e vaporiza a sacarose, que goteja na forma de uma solução de sacarose em água."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q01",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q01/image.png"
+      }
+    },
+    {
+      "number": 2,
+      "page": 2,
+      "bbox": {
+        "x": 0,
+        "y": 1475,
+        "w": 848,
+        "h": 863
+      },
+      "stem": "Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,04%."
+        },
+        {
+          "key": "B",
+          "text": "0,062%."
+        },
+        {
+          "key": "C",
+          "text": "4,6%."
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "62%. Densidade da água = 1 g/mL."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q02",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q02/image.png"
+      }
+    },
+    {
+      "number": 3,
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 542
+      },
+      "stem": "Pesquisadores (...) conseguiram controlar reações químicas de um modo inovador. Usaram feixes de laser para promover um esbarrão entre dois átomos e uni‐los, criando uma molécula. Utilizando pinças ópticas (feixes de laser altamente focados capazes de aprisionar objetos microscópicos), os 5",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q03",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q03/image.png"
+      }
+    },
+    {
+      "number": 4,
+      "page": 3,
+      "bbox": {
+        "x": 0,
+        "y": 107,
+        "w": 848,
+        "h": 2231
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.\nTEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years. Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n\nAo se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada. Considerando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa",
+      "options": [
+        {
+          "key": "A",
+          "text": "fica mais quente do que a aquosa, degradando a betanina; o mesmo não é observado com o licopeno, devido à sua cadeia carbônica longa."
+        },
+        {
+          "key": "B",
+          "text": "está mais exposta ao ar, que oxida a betanina; o mesmo não é observado com o licopeno, devido à grande quantidade de duplas ligações."
+        },
+        {
+          "key": "C",
+          "text": "é apolar e a betanina, polar, havendo pouca interação; o mesmo não é observado com o licopeno, que é apolar e irá interagir com o azeite."
+        },
+        {
+          "key": "D",
+          "text": "é apolar e a aquosa, polar, mantendo‐se separadas; o licopeno age como um surfactante misturando as fases, colorindo a oleosa, enquanto a betanina não."
+        },
+        {
+          "key": "E",
+          "text": "tem alta viscosidade, facilitando a difusão do licopeno, composto de menor massa molar; o mesmo não é observado para a betanina, com maior massa."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q04",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q04/image.png"
+      }
+    },
+    {
+      "number": 5,
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 603,
+        "w": 849,
+        "h": 214
+      },
+      "stem": "Utilizando pinças ópticas (feixes de laser altamente focados capazes de aprisionar objetos microscópicos), os 5 pesquisadores empurraram um átomo do elemento químico césio (Cs) contra um átomo de sódio (Na) até que colidissem. Um terceiro laser foi lançado sobre ambos, fornecendo energia extra para criar a molécula NaCs. Na natureza, as moléculas formam‐se a partir da interação de átomos por 10",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q05",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q05/image.png"
+      }
+    },
+    {
+      "number": 6,
+      "page": 3,
+      "bbox": {
+        "x": 804,
+        "y": 1053,
+        "w": 849,
+        "h": 1285
+      },
+      "stem": "Os chamados “remédios homeopáticos” são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais. A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (CH), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema). Alguns desses produtos homeopáticos são pro‐ duzidos com até 200 diluições centesimais sequenciais (200CH). Considerando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12ª diluição (12CH)."
+        },
+        {
+          "key": "B",
+          "text": "24ª diluição (24CH)."
+        },
+        {
+          "key": "C",
+          "text": "51ª diluição (51CH)."
+        },
+        {
+          "key": "D",
+          "text": "99ª diluição (99CH)."
+        },
+        {
+          "key": "E",
+          "text": "200ª diluição (200CH). V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q06",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q06/image.png"
+      }
+    },
+    {
+      "number": 7,
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1013
+      },
+      "stem": "O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do 238U decaiu para a formação de He. Com base nessas informações e em seus conhecimentos, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "O decaimento de um átomo de 238U produz, ao final da série de decaimento, apenas um átomo de He."
+        },
+        {
+          "key": "B",
+          "text": "O decaimento do 238U para 234U gera a mesma quantidade de He que o decaimento do 234U para 230Th."
+        },
+        {
+          "key": "C",
+          "text": "Daqui a 4,5 bilhões de anos, a quantidade de He no planeta Terra será o dobro da atual."
+        },
+        {
+          "key": "D",
+          "text": "O decaimento do 238U para 234U gera a mesma quantidade de He que o decaimento do 214Pb para 214Po."
+        },
+        {
+          "key": "E",
+          "text": "A produção de He ocorre pela sequência de decaimento a partir do 206Pb."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q07",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q07/image.png"
+      }
+    },
+    {
+      "number": 8,
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 1074,
+        "w": 848,
+        "h": 1264
+      },
+      "stem": "Os movimentos das moléculas antes e depois de uma reação química obedecem aos princípios físicos de colisões. Para tanto, cada átomo é representado como um corpo pontual com uma certa massa, ocupando uma posição no espaço e com uma determinada velocidade (representada na forma vetorial). Costumeiramente, os corpos pontuais são representados como esferas com diâmetros proporcionais à massa atômica. As colisões ocorrem conservando a quantidade de movimento. Considerando um referencial no qual as moléculas neutras encontram‐se paradas antes e após a colisão, a alternativa que melhor representa o arranjo de íons e moléculas instantes antes e instantes depois de uma colisão que leva à reação − H3CCl → Cl − F + CH3F + é Antes da colisão Após a colisão Íon Neutro Neutro Íon",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q08",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q08/image.png"
+      }
+    },
+    {
+      "number": 9,
+      "page": 4,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "Quando o nosso corpo é lesionado por uma pancada, logo se cria um hematoma que, ao longo do tempo, muda de cor. Inicialmente, o hematoma torna‐se avermelhado pelo acúmulo de hemoglobina. Em seguida, surge uma coloração azulada, decorrente da perda do O2 ligado ao Fe do grupo heme. Essa coloração torna‐se, então, esverdeada (biliverdina) e, após isso, surge um tom amarelado na pele (bilirrubina). Essa sequência de cores ocorre pela transformação do grupo heme da hemoglobina, como representado a seguir: Com base nas informações e nas representações, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A conversão da biliverdina em bilirrubina ocorre por meio de uma redução."
+        },
+        {
+          "key": "B",
+          "text": "A biliverdina, assim como a hemoglobina, é capaz de transportar O2 para as células do corpo, pois há oxigênio ligado na molécula."
+        },
+        {
+          "key": "C",
+          "text": "As três estruturas apresentadas contêm o grupo funcional amida."
+        },
+        {
+          "key": "D",
+          "text": "A degradação do grupo heme para a formação da biliverdina produz duas cetonas."
+        },
+        {
+          "key": "E",
+          "text": "O grupo heme, a biliverdina e a bilirrubina são isômeros. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q09",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q09/image.png"
+      }
+    },
+    {
+      "number": 10,
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 773,
+        "w": 849,
+        "h": 1565
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.\nTEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years. Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n\nenergia extra para criar a molécula NaCs. Na natureza, as moléculas formam‐se a partir da interação de átomos por 10 acaso. Por suas características químicas, césio e sódio jamais originariam uma molécula espontaneamente. (...) Molécula criada em laboratório. Disponível em http://revistapesquisa.fapesp.br/. Adaptado. Com base nas informações do texto e em seus conhecimentos, é correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "o Cs é um elemento químico radioativo e, devido a essa característica química, a molécula de NaCs não se formaria sem esse modo inovador (L.2), que estabiliza o decaimento."
+        },
+        {
+          "key": "B",
+          "text": "o raio atômico do Na é maior que o do Cs, portanto, a sua energia de ionização também é maior. O esbarrão (L.3) entre os átomos retira um elétron do Na, permitindo a ligação."
+        },
+        {
+          "key": "C",
+          "text": "o terceiro laser (L.8) usado no experimento serviu para retirar um nêutron do Cs, tornando‐o um cátion e possibilitando a reação com o Na."
+        },
+        {
+          "key": "D",
+          "text": "na natureza, com esses elementos se esbarrando por acaso (L.10‐11), a tendência seria formar CsNa, e não NaCs, justificando o caráter inovador do experimento."
+        },
+        {
+          "key": "E",
+          "text": "o Cs e o Na não formariam uma molécula espontaneamente (L.11‐12), uma vez que ambos têm grande tendência a formarem cátions e ligações iônicas. V"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q10",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q10/image.png"
+      }
+    },
+    {
+      "number": 11,
+      "page": 5,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "Em supermercados, é comum encontrar alimentos chamados de liofilizados, como frutas, legumes e carnes. Alimentos liofilizados continuam próprios para consumo após muito tempo, mesmo sem refrigeração. O termo “liofilizado”, nesses alimentos, refere‐se ao processo de congelamento e posterior desidratação por sublimação da água. Para que a sublimação da água ocorra, é necessária uma combinação de condições, como mostra o gráfico de pressão por temperatura, em que as linhas representam transições de fases. Apesar de ser um processo que requer, industrialmente, uso de certa tecnologia, existem evidências de que os povos pré‐ colombianos que viviam nas regiões mais altas dos Andes conseguiam liofilizar alimentos, possibilitando estocá‐los por mais tempo. Assinale a alternativa que explica como ocorria o processo de liofilização natural:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A sublimação da água ocorria devido às baixas temperaturas e à alta pressão atmosférica nas montanhas."
+        },
+        {
+          "key": "B",
+          "text": "Os alimentos, após congelados naturalmente nos períodos frios, eram levados para a parte mais baixa das montanhas, onde a pressão atmosférica era menor, o que possibilitava a sublimação."
+        },
+        {
+          "key": "C",
+          "text": "Os alimentos eram expostos ao sol para aumentar a temperatura, e a baixa pressão atmosférica local favorecia a solidificação."
+        },
+        {
+          "key": "D",
+          "text": "As temperaturas eram baixas o suficiente nos períodos frios para congelar os alimentos, e a baixa pressão atmosférica nas altas montanhas possibilitava a sublimação."
+        },
+        {
+          "key": "E",
+          "text": "Os alimentos, após congelados naturalmente, eram prensados para aumentar a pressão, de forma que a sublimação ocorresse. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q11",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q11/image.png"
+      }
+    },
+    {
+      "number": 12,
+      "page": 6,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1037
+      },
+      "stem": "Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito. Cada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de HCl e NaOH em diversas concentrações. Cada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6. • Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração 10−n mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de 10−1 mol/L; se saísse 6, a solução seria de 10−6 mol/L). • Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por NaOH, totalizando assim 1,0 L de solução. • O estudante deveria observar a cor da solução ao final do experimento. A professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha. Dado amarelo (adição de base) Número tirado nos dados 1 2 3 4 5 6",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q12",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q12/image.png"
+      }
+    },
+    {
+      "number": 13,
+      "page": 6,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 977
+      },
+      "stem": "Carros que saem da cidade A rumo a alguma das cidades turísticas E, F e G fazem caminhos diversos, passando por pelo menos uma das cidades B, C e D, apenas no sentido indicado pelas setas, como mostra a figura. Os números indicados nas setas são as probabilidades, dentre esses carros, de se ir de uma cidade a outra. Nesse cenário, a probabilidade de um carro ir de A a F é",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,120."
+        },
+        {
+          "key": "B",
+          "text": "0,216."
+        },
+        {
+          "key": "C",
+          "text": "0,264."
+        },
+        {
+          "key": "D",
+          "text": "0,336."
+        },
+        {
+          "key": "E",
+          "text": "0,384."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q13",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q13/image.png"
+      }
+    },
+    {
+      "number": 14,
+      "page": 6,
+      "bbox": {
+        "x": 804,
+        "y": 1039,
+        "w": 849,
+        "h": 470
+      },
+      "stem": "Se, em 15 anos, o salário mínimo teve um aumento nominal de 300% e a inflação foi de 100%, é correto afirmar que o aumento real do salário mínimo, nesse período, foi de",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%."
+        },
+        {
+          "key": "B",
+          "text": "100%."
+        },
+        {
+          "key": "C",
+          "text": "150%."
+        },
+        {
+          "key": "D",
+          "text": "200%."
+        },
+        {
+          "key": "E",
+          "text": "250%."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q14",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q14/image.png"
+      }
+    },
+    {
+      "number": 15,
+      "page": 6,
+      "bbox": {
+        "x": 804,
+        "y": 1464,
+        "w": 849,
+        "h": 874
+      },
+      "stem": "O cilindro de papelão central de uma fita crepe tem raio externo de 3 cm. A fita tem espessura de 0,01 cm e dá 100 voltas completas. Considerando que, a cada volta, o raio externo do rolo é aumentado no valor da espessura da fita, o comprimento total da fita é de, aproximadamente,",
+      "options": [
+        {
+          "key": "A",
+          "text": "9,4 m."
+        },
+        {
+          "key": "B",
+          "text": "11,0 m."
+        },
+        {
+          "key": "C",
+          "text": "18,8 m."
+        },
+        {
+          "key": "D",
+          "text": "22,0 m."
+        },
+        {
+          "key": "E",
+          "text": "25,1 m."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q15",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q15/image.png"
+      }
+    },
+    {
+      "number": 16,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 840
+      },
+      "stem": "Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam‐se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada ߠ configuração desse objeto, associa‐se , a medida do menor ângulo interno do paralelogramo. A área da região delimitada ߠ ܣ pelo paralelogramo quando = 90° é . Para que a área da região delimitada pelo paralelogramo seja ܣ ߠ ൗ, o valor de é, necessariamente, igual a 2",
+      "options": [
+        {
+          "key": "A",
+          "text": "15°."
+        },
+        {
+          "key": "B",
+          "text": "22,5°."
+        },
+        {
+          "key": "C",
+          "text": "30°."
+        },
+        {
+          "key": "D",
+          "text": "45°."
+        },
+        {
+          "key": "E",
+          "text": "60°."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q16",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q16/image.png"
+      }
+    },
+    {
+      "number": 17,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 902,
+        "w": 848,
+        "h": 399
+      },
+      "stem": "A menor esfera na qual um paralelepípedo reto‐retângulo de medidas 7 cm × 4 cm × 4 cm está inscrito tem diâmetro de",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 cm."
+        },
+        {
+          "key": "B",
+          "text": "10 cm."
+        },
+        {
+          "key": "C",
+          "text": "11 cm."
+        },
+        {
+          "key": "D",
+          "text": "12 cm."
+        },
+        {
+          "key": "E",
+          "text": "15 cm."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q17",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q17/image.png"
+      }
+    },
+    {
+      "number": 18,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 1257,
+        "w": 848,
+        "h": 497
+      },
+      "stem": "A dona de uma lanchonete observou que, vendendo um combo a R$ 10,00, 200 deles são vendidos por dia, e que, para cada redução de R$ 1,00 nesse preço, ela vende 100 combos a mais. Nessas condições, qual é a máxima arrecadação diária que ela espera obter com a venda desse combo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "R$ 2.000,00"
+        },
+        {
+          "key": "B",
+          "text": "R$ 3.200,00"
+        },
+        {
+          "key": "C",
+          "text": "R$ 3.600,00"
+        },
+        {
+          "key": "D",
+          "text": "R$ 4.000,00"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q18",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q18/image.png"
+      }
+    },
+    {
+      "number": 19,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 1710,
+        "w": 848,
+        "h": 628
+      },
+      "stem": "ܧ ݊ A função de Euler determina, para cada número natural , a ݊ quantidade de números naturais menores do que cujo ݊ máximo divisor comum com é igual a 1. Por exemplo, ܧ (6) = 2 pois os números menores do que 6 com tal ܧ ሺ ݊ ሻ, ݊ propriedade são 1 e 5. Qual o valor máximo de para de 20 a 25?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q19",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q19/image.png"
+      }
+    },
+    {
+      "number": 20,
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 403
+      },
+      "stem": "ݔ ଶെ9 ݔ ൅7 ൌሺ ݔ െ ܽ ሻଷെሺ ݔ െ ܾ ሻଷ, Se para todo número ݔ ܽ ൅ ܾ real , o valor de é",
+      "options": [
+        {
+          "key": "A",
+          "text": "3."
+        },
+        {
+          "key": "B",
+          "text": "5."
+        },
+        {
+          "key": "C",
+          "text": "6."
+        },
+        {
+          "key": "D",
+          "text": "9."
+        },
+        {
+          "key": "E",
+          "text": "12."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q20",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q20/image.png"
+      }
+    },
+    {
+      "number": 21,
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 464,
+        "w": 849,
+        "h": 606
+      },
+      "stem": "Uma agência de turismo vendeu um total de 78 passagens para os destinos: Lisboa, Paris e Roma. Sabe‐se que o número de passagens vendidas para Paris foi o dobro do número de passagens vendidas para os outros dois destinos conjuntamente. Sabe‐se também que, para Roma, foram vendidas duas passagens a mais que a metade das vendidas para Lisboa. Qual foi o total de passagens vendidas, conjuntamente, para Paris e Roma?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q21",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q21/image.png"
+      }
+    },
+    {
+      "number": 22,
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 1026,
+        "w": 849,
+        "h": 1312
+      },
+      "stem": "ሺ ݔ , ݕ ሻ ܨ Um ponto do plano cartesiano pertence ao conjunto ܱܺ ܱܻ se é equidistante dos eixos e e pertence ao círculo de ݔ ଶ൅ ݕ ଶെ2 ݔ െ6 ݕ ൅2 ൌ0. ܨ equação É correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "é um conjunto vazio."
+        },
+        {
+          "key": "B",
+          "text": "tem exatamente 2 pontos, um no primeiro quadrante e outro no segundo quadrante."
+        },
+        {
+          "key": "C",
+          "text": "tem exatamente 2 pontos, ambos no primeiro quadrante."
+        },
+        {
+          "key": "D",
+          "text": "tem exatamente 3 pontos, sendo dois no primeiro quadrante e outro no segundo quadrante."
+        },
+        {
+          "key": "E",
+          "text": "tem exatamente 4 pontos, sendo dois no primeiro quadrante e dois no segundo quadrante. V"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q22",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q22/image.png"
+      }
+    },
+    {
+      "number": 23,
+      "page": 8,
+      "bbox": {
+        "x": 0,
+        "y": 107,
+        "w": 848,
+        "h": 682
+      },
+      "stem": "Uma cidade é dividida em dois Setores: o Setor Sul, com área de 10 km2, e o Setor Norte, com área de 30 km2. Após um final de semana, foram divulgados os seguintes totais pluviométricos: Dia Sul Norte sábado 7 mm 11 mm domingo 9 mm 17 mm É correto afirmar que o total pluviométrico desse final de semana na cidade inteira foi de",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 mm."
+        },
+        {
+          "key": "B",
+          "text": "17 mm."
+        },
+        {
+          "key": "C",
+          "text": "22 mm."
+        },
+        {
+          "key": "D",
+          "text": "25 mm."
+        },
+        {
+          "key": "E",
+          "text": "28 mm."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q23",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q23/image.png"
+      }
+    },
+    {
+      "number": 24,
+      "page": 8,
+      "bbox": {
+        "x": 0,
+        "y": 745,
+        "w": 848,
+        "h": 1593
+      },
+      "stem": "Bill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/. As possíveis soluções, em polegadas (inches, em inglês), para o problema matemático proposto no quadrinho, no caso em ܣ ܤ ܥ que os pontos , e estão em uma mesma reta, são ଵ଴ 10.",
+      "options": [
+        {
+          "key": "A",
+          "text": "e ଷ ଵ଴ 5 10."
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "e ଷ ଵ଴ 5."
+        },
+        {
+          "key": "E",
+          "text": "e ଷ"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q24",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q24/image.png"
+      }
+    },
+    {
+      "number": 25,
+      "page": 8,
+      "bbox": {
+        "x": 804,
+        "y": 1214,
+        "w": 849,
+        "h": 437
+      },
+      "stem": "TEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.”\nTEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.” The Guardian, May, 2019. Adaptado.\n\nConforme o texto, em relação às mulheres, um efeito decorrente do fato de assistentes digitais reforçarem estereótipos de gênero é",
+      "options": [
+        {
+          "key": "A",
+          "text": "a inclusão de uma única voz nos dispositivos."
+        },
+        {
+          "key": "B",
+          "text": "a normalização de formas de assédio sexista."
+        },
+        {
+          "key": "C",
+          "text": "o poder de influência positiva sobre as pessoas."
+        },
+        {
+          "key": "D",
+          "text": "o incremento de vendas e customização de robôs."
+        },
+        {
+          "key": "E",
+          "text": "a busca por formas que reflitam problemas sociais."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q25",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q25/image.png"
+      }
+    },
+    {
+      "number": 26,
+      "page": 8,
+      "bbox": {
+        "x": 804,
+        "y": 1606,
+        "w": 849,
+        "h": 732
+      },
+      "stem": "TEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.”\nTEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.” The Guardian, May, 2019. Adaptado.\n\nSegundo o texto, o título do relatório publicado pela Unesco ‐ “I´d Blush if I Could” ‐, no que diz respeito aos assistentes digitais, indica",
+      "options": [
+        {
+          "key": "A",
+          "text": "resposta padrão para comandos que incluem impropérios."
+        },
+        {
+          "key": "B",
+          "text": "capacidade tecnológica para selecionar temas sensíveis ao grande público."
+        },
+        {
+          "key": "C",
+          "text": "preocupação dos fabricantes de dispositivos eletrônicos com usuários conservadores."
+        },
+        {
+          "key": "D",
+          "text": "perda de controle das formas de interação entre seres humanos e máquinas."
+        },
+        {
+          "key": "E",
+          "text": "necessidade de elaboração de sistemas integrados de reconhecimento de voz. V"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q26",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q26/image.png"
+      }
+    },
+    {
+      "number": 27,
+      "page": 9,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 606
+      },
+      "stem": "TEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.”\nTEXTO PARA AS QUESTÕES DE 25 A 27 Assigning female genders to digital assistants such as Apple’s Siri and Amazon’s Alexa is helping entrench harmful gender biases, according to a UN agency. Research released by Unesco claims that the often submissive and flirty responses offered by the systems to many queries – including outright abusive ones – reinforce ideas of women as subservient. “Because the speech of most voice assistants is female, it sends a signal that women are obliging, docile and eager‐to‐ please helpers, available at the touch of a button or with a blunt voice command like ‘hey’ or ‘OK’”, the report said. “The assistant holds no power of agency beyond what the commander asks of it. It honours commands and responds to queries regardless of their tone or hostility. In many communities, this reinforces commonly held gender biases that women are subservient and tolerant of poor treatment.” The Unesco publication was entitled “I’d Blush if I Could”; a reference to the response Apple’s Siri assistant offers to the phrase: “You’re a slut.” Amazon’s Alexa will respond: “Well, thanks for the feedback.” The paper said such firms were “staffed by overwhelmingly male engineering teams” and have built AI (Artificial Intelligence) systems that “cause their feminised digital assistants to greet verbal abuse with catch‐me‐if‐you‐can flirtation”. Saniye Gülser Corat, Unesco’s director for gender equality, said: “The world needs to pay much closer attention to how, when and whether AI technologies are gendered and, crucially, who is gendering them.” The Guardian, May, 2019. Adaptado.\n\nDe acordo com o texto, na opinião de Saniye Gülser Corat, tecnologias que envolvem Inteligência Artificial, entre outros aspectos,",
+      "options": [
+        {
+          "key": "A",
+          "text": "são desenvolvidas segundo normas prescritas em convenções internacionais."
+        },
+        {
+          "key": "B",
+          "text": "devem ser monitoradas por empresas multinacionais geridas por mulheres."
+        },
+        {
+          "key": "C",
+          "text": "funcionam melhor quando associadas a dispositivos sincronizados em escala mundial."
+        },
+        {
+          "key": "D",
+          "text": "dependem de atualização constante para garantia de desempenho satisfatório."
+        },
+        {
+          "key": "E",
+          "text": "requerem avaliação ampla, quanto à possível presença de elementos tendenciosos em sua concepção."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q27",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q27/image.png"
+      }
+    },
+    {
+      "number": 28,
+      "page": 9,
+      "bbox": {
+        "x": 0,
+        "y": 668,
+        "w": 848,
+        "h": 1670
+      },
+      "stem": "Disponível em https://www.facebook.com/groups/englishmemes/. O efeito de comicidade que se obtém do meme decorre, sobretudo, da",
+      "options": [
+        {
+          "key": "A",
+          "text": "repetição da palavra “never”."
+        },
+        {
+          "key": "B",
+          "text": "ambiguidade gerada pela expressão “buy her flowers”."
+        },
+        {
+          "key": "C",
+          "text": "asserção “your wife says”."
+        },
+        {
+          "key": "D",
+          "text": "contradição presente na frase “To be honest”."
+        },
+        {
+          "key": "E",
+          "text": "pergunta “is that true?”."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q28",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q28/image.png"
+      }
+    },
+    {
+      "number": 29,
+      "page": 9,
+      "bbox": {
+        "x": 804,
+        "y": 1062,
+        "w": 849,
+        "h": 562
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.\nTEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years. Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n\nWired, June, 2018. Disponível em https://www.wired.com/. Adaptado. 29 Afirma‐se no texto que, no futuro, a tecnologia de gravação em moléculas de DNA",
+      "options": [
+        {
+          "key": "A",
+          "text": "será utilizada para sequenciar trilhões de moléculas destinadas à pesquisa médica."
+        },
+        {
+          "key": "B",
+          "text": "deverá ter seu uso expandido no campo da genética e áreas afins."
+        },
+        {
+          "key": "C",
+          "text": "continuará sendo inviável comparada a tecnologias convencionais."
+        },
+        {
+          "key": "D",
+          "text": "terá de ser adaptada para o propósito de ler, codificar e guardar dados."
+        },
+        {
+          "key": "E",
+          "text": "poderá ser a solução para o problema de espaço de armazenamento de informação digital."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q29",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q29/image.png"
+      }
+    },
+    {
+      "number": 30,
+      "page": 9,
+      "bbox": {
+        "x": 804,
+        "y": 1580,
+        "w": 849,
+        "h": 758
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years.\nTEXTO PARA AS QUESTÕES 29 E 30 Scientists have long touted DNA’s potential as an ideal storage medium; it’s dense, easy to replicate, and stable over millennia. But in order to replace existing silicon‐chip or magnetic‐tape storage technologies, DNA will have to get a lot cheaper to predictably read, write, and package. That’s where scientists like Hyunjun Park come in. He and the other cofounders of Catalog, an MIT DNA‐storage spinoff emerging out of stealth on Tuesday, are building a machine that will write a terabyte of data a day, using 500 trillion molecules of DNA. If successful, DNA storage could be the answer to a uniquely 21st‐century problem: information overload. Five years ago humans had produced 4.4 zettabytes of data; that's set to explode to 160 zettabytes (each year!) by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip‐grade silicon by 2040. “Today’s technology is already close to the physical limits of scaling,” says Victor Zhirnov, chief scientist of the Semiconductor Research Corporation. “DNA has an information‐storage density several orders of magnitude higher than any other known storage technology.” How dense exactly? Imagine formatting every movie ever made into DNA; it would be smaller than the size of a sugar cube. And it would last for 10,000 years. Wired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n\nConforme o texto, cientistas preveem que, em pouco mais de 20 anos,",
+      "options": [
+        {
+          "key": "A",
+          "text": "a geração de dados pela humanidade chegará à marca de 160 zettabytes."
+        },
+        {
+          "key": "B",
+          "text": "a armazenagem de todos os dados produzidos esgotará o estoque mundial de microchips de silício."
+        },
+        {
+          "key": "C",
+          "text": "a densidade das moléculas de DNA terá aumentado exponencialmente."
+        },
+        {
+          "key": "D",
+          "text": "o custo para gravação de dados digitais será maior que hoje."
+        },
+        {
+          "key": "E",
+          "text": "as novas tecnologias de informação serão bem mais duradouras que as atuais. V"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q30",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q30/image.png"
+      }
+    },
+    {
+      "number": 31,
+      "page": 10,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 995
+      },
+      "stem": "Harlem What happens to a dream deferred? Does it dry up like a raisin in the sun? Or fester like a sore— And then run? Does it stink like rotten meat? Or crust and sugar over— like a syrupy sweet? Maybe it just sags like a heavy load. Or does it explode? Langston Hughes, Selected Poems of Langston Hughes (1990). Disponível em http://www.poetryfoundation.org/. As tentativas de resposta do poeta à pergunta “What happens to a dream deferred?” evocam imagens de",
+      "options": [
+        {
+          "key": "A",
+          "text": "animosidade e revolta."
+        },
+        {
+          "key": "B",
+          "text": "remorso e compaixão."
+        },
+        {
+          "key": "C",
+          "text": "deterioração e destruição."
+        },
+        {
+          "key": "D",
+          "text": "empatia e complacência."
+        },
+        {
+          "key": "E",
+          "text": "aprisionamento e passividade."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q31",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q31/image.png"
+      }
+    },
+    {
+      "number": 32,
+      "page": 10,
+      "bbox": {
+        "x": 0,
+        "y": 1056,
+        "w": 848,
+        "h": 1282
+      },
+      "stem": "Cantiga de enganar (...) O mundo não tem sentido. Talvez nem seja talvez. O mundo e suas canções O mundo não vale a pena, de timbre mais comovido mas a pena não existe. estão calados, e a fala Meu bem, façamos de conta. que de uma para outra sala De sofrer e de olvidar, ouvimos em certo instante de lembrar e de fruir, é silêncio que faz eco de escolher nossas lembranças e que volta a ser silêncio e revertê‐las, acaso no negrume circundante. se lembrem demais em nós. Silêncio: que quer dizer? Façamos, meu bem, de conta Que diz a boca do mundo? – mas a conta não existe – Meu bem, o mundo é fechado, que é tudo como se fosse, se não for antes vazio. ou que, se fora, não era. O mundo é talvez: e é só. (...) Carlos Drummond de Andrade, Claro Enigma. Em Claro Enigma, a ideia de engano surge sob a perspectiva do sujeito maduro, já afastado das ilusões, como se lê no verso‐síntese “Tu não me enganas, mundo, e não te engano a ti.” (“Legado”). O excerto de “Cantiga de enganar” apresenta a relação do eu com o mundo mediada",
+      "options": [
+        {
+          "key": "A",
+          "text": "pela música, que ressoa em canções líricas."
+        },
+        {
+          "key": "B",
+          "text": "pela cor, brilhante na claridade solar."
+        },
+        {
+          "key": "C",
+          "text": "pela afirmação de valores sólidos."
+        },
+        {
+          "key": "D",
+          "text": "pela memória, que corre fluida no tempo."
+        },
+        {
+          "key": "E",
+          "text": "pelo despropósito de um faz‐de‐conta."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q32",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q32/image.png"
+      }
+    },
+    {
+      "number": 33,
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 1064,
+        "w": 849,
+        "h": 424
+      },
+      "stem": "Angústia. 33 O argumento de Benedito Nunes, em torno da natureza artística da literatura, leva a considerar que a obra só assume função transformadora se",
+      "options": [
+        {
+          "key": "A",
+          "text": "estabelece um contraponto entre a fantasia e o mundo."
+        },
+        {
+          "key": "B",
+          "text": "utiliza a linguagem para informar sobre o mundo."
+        },
+        {
+          "key": "C",
+          "text": "instiga no leitor uma atitude reflexiva diante do mundo."
+        },
+        {
+          "key": "D",
+          "text": "oferece ao leitor uma compensação anestesiante do mundo."
+        },
+        {
+          "key": "E",
+          "text": "conduz o leitor a ignorar o mundo real."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q33",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q33/image.png"
+      }
+    },
+    {
+      "number": 34,
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 1444,
+        "w": 849,
+        "h": 465
+      },
+      "stem": "Se o discurso literário “aclara o real ao desligar‐se dele, transfigurando‐o”, pode‐se dizer que Luís da Silva, o narrador‐ protagonista de Angústia, já não se comove com a leitura de “histórias fáceis, sem almas complicadas” porque",
+      "options": [
+        {
+          "key": "A",
+          "text": "rejeita, como jornalista, a escrita de ficção."
+        },
+        {
+          "key": "B",
+          "text": "prefere alienar‐se com narrativas épicas."
+        },
+        {
+          "key": "C",
+          "text": "é indiferente às histórias de fundo sentimental."
+        },
+        {
+          "key": "D",
+          "text": "está engajado na militância política."
+        },
+        {
+          "key": "E",
+          "text": "se afunda na negatividade própria do fracassado."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q34",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q34/image.png"
+      }
+    },
+    {
+      "number": 35,
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 1864,
+        "w": 849,
+        "h": 474
+      },
+      "stem": "Para Graciliano Ramos, Angústia não faz concessão ao gosto do público na medida em que compõe uma atmosfera",
+      "options": [
+        {
+          "key": "A",
+          "text": "dramática, ao representar as tensões de seu tempo."
+        },
+        {
+          "key": "B",
+          "text": "grotesca, ao eliminar a expressão individual."
+        },
+        {
+          "key": "C",
+          "text": "satírica, ao reduzir os eventos ao plano do riso."
+        },
+        {
+          "key": "D",
+          "text": "ingênua, ao simular o equilíbrio entre sujeito e mundo."
+        },
+        {
+          "key": "E",
+          "text": "alegórica, ao exaltar as imagens de sujeira. V"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q35",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q35/image.png"
+      }
+    },
+    {
+      "number": 36,
+      "page": 11,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1295
+      },
+      "stem": "Leia o trecho extraído de uma notícia veiculada na internet: “O carro furou o pneu e bateu no meio fio, então eles foram obrigados a parar. O refém conseguiu acionar a população, que depois pegou dois dos três indivíduos e tentaram linchar eles. O outro conseguiu fugir, mas foi preso momentos depois por uma viatura do 5º BPM”, afirmou o major. Disponível em https://www.gp1.com.br/. No português do Brasil, a função sintática do sujeito não possui, necessariamente, uma natureza de agente, ainda que o verbo esteja na voz ativa, tal como encontrado em:",
+      "options": [
+        {
+          "key": "A",
+          "text": "“O carro furou o pneu”."
+        },
+        {
+          "key": "B",
+          "text": "“e bateu no meio fio”."
+        },
+        {
+          "key": "C",
+          "text": "“O refém conseguiu acionar a população”."
+        },
+        {
+          "key": "D",
+          "text": "“tentaram linchar eles”."
+        },
+        {
+          "key": "E",
+          "text": "“afirmou o major”."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q36",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q36/image.png"
+      }
+    },
+    {
+      "number": 37,
+      "page": 11,
+      "bbox": {
+        "x": 0,
+        "y": 1356,
+        "w": 848,
+        "h": 538
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 37 E 38\nTEXTO PARA AS QUESTÕES 37 E 38 amora a palavra amora seria talvez menos doce e um pouco menos vermelha se não trouxesse em seu corpo (como um velado esplendor) a memória da palavra amor a palavra amargo seria talvez mais doce e um pouco menos acerba se não trouxesse em seu corpo (como uma sombra a espreitar) a memória da palavra amar Marco Catalão, Sob a face neutra.\n\nÉ correto afirmar que o poema",
+      "options": [
+        {
+          "key": "A",
+          "text": "aborda o tema da memória, considerada uma faculdade que torna o ser humano menos amargo e sombrio."
+        },
+        {
+          "key": "B",
+          "text": "enfoca a hesitação do eu lírico diante das palavras, o que vem expresso pela repetição da palavra “talvez”."
+        },
+        {
+          "key": "C",
+          "text": "apresenta natureza romântica, sendo as palavras “amora” e “amargo” metáforas do sentimento amoroso."
+        },
+        {
+          "key": "D",
+          "text": "possui reiterações sonoras que resultam em uma tensão inusitada entre os termos “amor” e “amar”."
+        },
+        {
+          "key": "E",
+          "text": "ressalta os significados das palavras tal como se verificam no seu uso mais corrente."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q37",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q37/image.png"
+      }
+    },
+    {
+      "number": 38,
+      "page": 11,
+      "bbox": {
+        "x": 0,
+        "y": 1850,
+        "w": 848,
+        "h": 488
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 37 E 38\nTEXTO PARA AS QUESTÕES 37 E 38 amora a palavra amora seria talvez menos doce e um pouco menos vermelha se não trouxesse em seu corpo (como um velado esplendor) a memória da palavra amor a palavra amargo seria talvez mais doce e um pouco menos acerba se não trouxesse em seu corpo (como uma sombra a espreitar) a memória da palavra amar Marco Catalão, Sob a face neutra.\n\nTal como se lê no poema,",
+      "options": [
+        {
+          "key": "A",
+          "text": "a palavra “amora” é substantivo, e “amargo”, adjetivo."
+        },
+        {
+          "key": "B",
+          "text": "o verbo “amar” ameniza o amargor da palavra “amargo”."
+        },
+        {
+          "key": "C",
+          "text": "o substantivo “corpo” apresenta sentido denotativo."
+        },
+        {
+          "key": "D",
+          "text": "o substantivo “amor” intensifica o dulçor da palavra “amora”."
+        },
+        {
+          "key": "E",
+          "text": "o verbo “amar” e o substantivo “amor” são intercambiáveis."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q38",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q38/image.png"
+      }
+    },
+    {
+      "number": 39,
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 362,
+        "w": 849,
+        "h": 436
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 39 E 40 Uma planta é perturbada na sua sesta* pelo exército que a pisa.\nTEXTO PARA AS QUESTÕES 39 E 40 Uma planta é perturbada na sua sesta* pelo exército que a pisa. Mas mais frágil fica a bota. Gonçalo M. Tavares, 1: poemas. *sesta: repouso após o almoço.\n\nConsiderando que se trata de um texto literário, uma interpretação que seja capaz de captar a sua complexidade abordará o poema como",
+      "options": [
+        {
+          "key": "A",
+          "text": "uma defesa da natureza."
+        },
+        {
+          "key": "B",
+          "text": "um ataque às forças armadas."
+        },
+        {
+          "key": "C",
+          "text": "uma defesa dos direitos humanos."
+        },
+        {
+          "key": "D",
+          "text": "uma defesa da resistência civil."
+        },
+        {
+          "key": "E",
+          "text": "um ataque à passividade."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q39",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q39/image.png"
+      }
+    },
+    {
+      "number": 40,
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 754,
+        "w": 849,
+        "h": 368
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 39 E 40 Uma planta é perturbada na sua sesta* pelo exército que a pisa.\nTEXTO PARA AS QUESTÕES 39 E 40 Uma planta é perturbada na sua sesta* pelo exército que a pisa. Mas mais frágil fica a bota. Gonçalo M. Tavares, 1: poemas. *sesta: repouso após o almoço.\n\nO ditado popular que se relaciona melhor com o poema é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Para bom entendedor, meia palavra basta."
+        },
+        {
+          "key": "B",
+          "text": "Água mole em pedra dura tanto bate até que fura."
+        },
+        {
+          "key": "C",
+          "text": "Quem com ferro fere, com ferro será ferido."
+        },
+        {
+          "key": "D",
+          "text": "Um dia é da caça, o outro é do caçador."
+        },
+        {
+          "key": "E",
+          "text": "Uma andorinha só não faz verão."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q40",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q40/image.png"
+      }
+    },
+    {
+      "number": 41,
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 1078,
+        "w": 849,
+        "h": 1260
+      },
+      "stem": "O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas. Super Interessante, “No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras”. Maio/2019. No período “Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.”, os dois‐pontos são utilizados para introduzir uma",
+      "options": [
+        {
+          "key": "A",
+          "text": "conclusão."
+        },
+        {
+          "key": "B",
+          "text": "concessão."
+        },
+        {
+          "key": "C",
+          "text": "explicação."
+        },
+        {
+          "key": "D",
+          "text": "contradição."
+        },
+        {
+          "key": "E",
+          "text": "condição. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q41",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q41/image.png"
+      }
+    },
+    {
+      "number": 42,
+      "page": 12,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1151
+      },
+      "stem": "Agora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase menino – “pepino que encorujou desde pequeno” – cara de bobo de fazenda, do segundo tipo –; porque toda fazenda tem o seu bobo, que é, ou um velhote baixote, de barba rara no queixo, ou um eterno rapazola, meio surdo, gago, glabro* e alvar**. Mas gostava de fechar a cara e roncar voz, todo enfarruscado, para mostrar brabeza, e só por descuido sorria, um sorriso manhoso de dono de hotel. E, em suas feições de caburé*** insalubre, amigavam‐se as marcas do sangue aimoré e do gálico herdado: cabelo preto, corrido, que boi lambeu; dentes de fio em meia‐lua; malares pontudos; lobo da orelha aderente; testa curta, fugidia; olhinhos de viés e nariz peba, mongol. Guimarães Rosa, “Corpo fechado”, de Sagarana. *sem pelos, sem barba **tolo ***mestiço O retrato de Manuel Fulô, tal como aparece no fragmento, permite afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "há clara antipatia do narrador para com a personagem, que por isso é caracterizada como “bobo de fazenda”."
+        },
+        {
+          "key": "B",
+          "text": "estão presentes traços de diferentes etnias, de modo a refletir a mescla de culturas própria ao estilo do livro."
+        },
+        {
+          "key": "C",
+          "text": "a expressão “caburé insalubre” denota o determinismo biológico que norteia o livro."
+        },
+        {
+          "key": "D",
+          "text": "é irônico o trecho “para mostrar brabeza”, pois ao fim da narrativa Manuel Fulô sofre derrota na luta física."
+        },
+        {
+          "key": "E",
+          "text": "se apontam em sua fisionomia os “olhinhos de viés” para caracterizar a personagem como ingênua."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q42",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q42/image.png"
+      }
+    },
+    {
+      "number": 43,
+      "page": 12,
+      "bbox": {
+        "x": 0,
+        "y": 1212,
+        "w": 848,
+        "h": 1126
+      },
+      "stem": "O feminismo negro não é uma luta meramente identitária, até porque branquitude e masculinidade também são identidades. Pensar feminismos negros é pensar projetos democráticos. Hoje afirmo isso com muita tranquilidade, mas 5 minha experiência de vida foi marcada pelo incômodo de uma incompreensão fundamental. Não que eu buscasse respostas para tudo. Na maior parte da minha infância e adolescência, não tinha consciência de mim. Não sabia por que sentia vergonha de levantar a mão quando a professora fazia uma 10 pergunta já supondo que eu não saberia a resposta. Por que eu ficava isolada na hora do recreio. Por que os meninos diziam na minha cara que não queriam formar par com a “neguinha” na festa junina. Eu me sentia estranha e inadequada, e, na maioria das vezes, fazia as coisas no 15 automático, me esforçando para não ser notada. Djamila Ribeiro, Quem tem medo do feminismo negro?. O trecho que melhor define a “incompreensão fundamental” (L.6) referida pela autora é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "“não que eu buscasse respostas para tudo” (L.6‐7)."
+        },
+        {
+          "key": "B",
+          "text": "“não tinha consciência de mim” (L.8)."
+        },
+        {
+          "key": "C",
+          "text": "“Por que eu ficava isolada na hora do recreio” (L.10‐11)."
+        },
+        {
+          "key": "D",
+          "text": "“me esforçando para não ser notada” (L.15)."
+        },
+        {
+          "key": "E",
+          "text": "“sentia vergonha de levantar a mão” (L.8‐9)."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q43",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q43/image.png"
+      }
+    },
+    {
+      "number": 44,
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 811,
+        "w": 849,
+        "h": 745
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 44 E 45 E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, – também ela comia bem, dormia largo e fofo, – coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero senão com dissimulados. Repito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou‐lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer‐lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias – “estrelas de primeira grandeza”.\nTEXTO PARA AS QUESTÕES 44 E 45 E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, – também ela comia bem, dormia largo e fofo, – coisas que, aliás, não impedem que uma pessoa ame, quando\n\nNo excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o “indivíduo hipócrita” ou o “falso devoto”. No contexto maior do romance, sugere‐se que a tartufice",
+      "options": [
+        {
+          "key": "A",
+          "text": "se cola à imagem da leitora, indiscreta quanto aos amores alheios."
+        },
+        {
+          "key": "B",
+          "text": "é ação isolada de Sofia, arrivista social e benemérita fingida."
+        },
+        {
+          "key": "C",
+          "text": "diz respeito ao filósofo Quincas Borba, o que explica o título do livro."
+        },
+        {
+          "key": "D",
+          "text": "se produz na imprensa, apesar de esta se esquivar da eloquência vazia."
+        },
+        {
+          "key": "E",
+          "text": "se estende à sociedade, na qual o cinismo é o trunfo dos fortes."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q44",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q44/image.png"
+      }
+    },
+    {
+      "number": 45,
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 1511,
+        "w": 849,
+        "h": 827
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 44 E 45 E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, – também ela comia bem, dormia largo e fofo, – coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero senão com dissimulados. Repito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou‐lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer‐lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias – “estrelas de primeira grandeza”.\nTEXTO PARA AS QUESTÕES 44 E 45 E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, – também ela comia bem, dormia largo e fofo, – coisas que, aliás, não impedem que uma pessoa ame, quando\n\nConsiderando o contexto, o trecho “E não se pense que este nome a alegrou, posto que a lisonjeasse” (L.10‐11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,",
+      "options": [
+        {
+          "key": "A",
+          "text": "apesar de lisonjeá‐la."
+        },
+        {
+          "key": "B",
+          "text": "antes a lisonjeou."
+        },
+        {
+          "key": "C",
+          "text": "porque a lisonjeava."
+        },
+        {
+          "key": "D",
+          "text": "a fim de lisonjeá‐la."
+        },
+        {
+          "key": "E",
+          "text": "tanto quanto a lisonjeava. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q45",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q45/image.png"
+      }
+    },
+    {
+      "number": 46,
+      "page": 13,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "Hoje fizeram o enterro de Bela. Todos na Chácara se convenceram de que ela estava morta, menos eu. Se eu pudesse não deixaria enterrá‐la ainda. Disse isso mesmo a vovó, mas ela disse que não se pode fazer assim. Bela estava igualzinha à que ela era no dia em que chegou da Formação, só um pouquinho mais magra. Todos dizem que o sofrimento da morte é a luta da alma para se largar do corpo. Eu perguntei a vovó: “Como é que a alma dela saiu sem o menor sofrimento, sem ela fazer uma caretinha que fosse?”. Vovó disse que tudo isso é mistério, que nunca a gente pode saber essas coisas com certeza. Uns sofrem muito quando a alma se despega do corpo, outros morrem de repente sem sofrer. Helena Morley, Minha Vida de Menina. Perguntas Numa incerta hora fria perguntei ao fantasma que força nos prendia, ele a mim, que presumo estar livre de tudo eu a ele, gasoso, (...) No voo que desfere silente e melancólico, rumo da eternidade, ele apenas responde (se acaso é responder a mistérios, somar‐lhes um mistério mais alto): Amar, depois de perder. Carlos Drummond de Andrade, Claro Enigma. As perguntas da menina e do poeta versam sobre a morte. É correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "ambos guardam uma dimensão transcendente e católica, de origem mineira."
+        },
+        {
+          "key": "B",
+          "text": "ambos ouvem respostas que lhes esclarecem em definitivo as dúvidas existenciais."
+        },
+        {
+          "key": "C",
+          "text": "a menina mostra curiosidade acerca da morte como episódio e o poeta especula o sentido filosófico da morte."
+        },
+        {
+          "key": "D",
+          "text": "a menina está inquieta por conhecer o destino das almas, enquanto o poeta critica o ceticismo."
+        },
+        {
+          "key": "E",
+          "text": "as duas respostas reforçam os mistérios da vida ao acolherem crenças populares."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q46",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q46/image.png"
+      }
+    },
+    {
+      "number": 47,
+      "page": 13,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "A certa personagem desvanecida Um soneto começo em vosso gabo*: Contemos esta regra por primeira, Já lá vão duas, e esta é a terceira, Já este quartetinho está no cabo. Na quinta torce agora a porca o rabo; A sexta vá também desta maneira: Na sétima entro já com grã** canseira, E saio dos quartetos muito brabo. Agora nos tercetos que direi? Direi que vós, Senhor, a mim me honrais Gabando‐vos a vós, e eu fico um rei. Nesta vida um soneto já ditei; Se desta agora escapo, nunca mais: Louvado seja Deus, que o acabei. Gregório de Matos *louvor **grande Tipo zero Você é um tipo que não tem tipo Com todo tipo você se parece E sendo um tipo que assimila tanto tipo Passou a ser um tipo que ninguém esquece Quando você penetra num salão E se mistura com a multidão Você se torna um tipo destacado Desconfiado todo mundo fica Que o seu tipo não se classifica Você passa a ser um tipo desclassificado Eu até hoje nunca vi nenhum Tipo vulgar tão fora do comum Que fosse um tipo tão observado Você ficou agora convencido Que o seu tipo já está batido Mas o seu tipo é o tipo do tipo esgotado Noel Rosa O soneto de Gregório de Matos e o samba de Noel Rosa, embora distantes na forma e no tempo, aproximam‐se por ironizarem",
+      "options": [
+        {
+          "key": "A",
+          "text": "o processo de composição do texto."
+        },
+        {
+          "key": "B",
+          "text": "a própria inferioridade ante o retratado."
+        },
+        {
+          "key": "C",
+          "text": "a singularidade de um caráter nulo."
+        },
+        {
+          "key": "D",
+          "text": "o sublime que se oculta na vulgaridade."
+        },
+        {
+          "key": "E",
+          "text": "a intolerância para com os gênios. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q47",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q47/image.png"
+      }
+    },
+    {
+      "number": 48,
+      "page": 14,
+      "bbox": {
+        "x": 0,
+        "y": 637,
+        "w": 848,
+        "h": 810
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 48 E 49\nTEXTO PARA AS QUESTÕES 48 E 49 Óbitos por cepas de bactérias resistentes a antibióticos vêm crescendo. Um estudo do governo britânico estima que, em escala global, os óbitos por cepas resistentes já cheguem a 700 mil por ano. E as coisas têm piorado. Além das bactérias, já estão surgindo fungos resistentes, como a Candida auris. Qualquer solução passa por um esforço multinacional de ações coordenadas. O crescente número de governos isolacionistas e até antidarwinistas não dá razões para otimismo. Há urgência. O estudo britânico calcula que, se nada for feito, em 2050, as mortes por infecções resistentes chegarão a 10 milhões ao ano. Hélio Schwartsman, “Mortes anunciadas”. Folha de São Paulo, Abril/2019. Adaptado.\n\nO autor expressa preocupação com o fato de que as soluções para o problema apontado passam por um esforço multinacional, em face ao crescente número de governos isolacionistas, porque",
+      "options": [
+        {
+          "key": "A",
+          "text": "áreas de menor índice de desenvolvimento socioeconômico são as únicas atingidas devido à falta de recursos empregados em saúde e educação."
+        },
+        {
+          "key": "B",
+          "text": "as cepas resistentes surgem exclusivamente nos países que se negam a aderir a acordos sanitários comuns, constituindo ameaças globais."
+        },
+        {
+          "key": "C",
+          "text": "desafios atuais em meio ambiente e saúde são globais e soluções dependem da adesão de cada país aos protocolos internacionais."
+        },
+        {
+          "key": "D",
+          "text": "o comércio internacional é o principal responsável por espalhar doenças nesses países, tornando‐os vulneráveis, apesar de os programas de vacinação terem alcance mundial."
+        },
+        {
+          "key": "E",
+          "text": "a pesquisa nesta área é de âmbito nacional e, portanto, novas drogas não terão alcance mundial, mas apenas regional."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q48",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q48/image.png"
+      }
+    },
+    {
+      "number": 49,
+      "page": 14,
+      "bbox": {
+        "x": 0,
+        "y": 1402,
+        "w": 848,
+        "h": 936
+      },
+      "stem": "TEXTO PARA AS QUESTÕES 48 E 49\nTEXTO PARA AS QUESTÕES 48 E 49 Óbitos por cepas de bactérias resistentes a antibióticos vêm crescendo. Um estudo do governo britânico estima que, em escala global, os óbitos por cepas resistentes já cheguem a 700 mil por ano. E as coisas têm piorado. Além das bactérias, já estão surgindo fungos resistentes, como a Candida auris. Qualquer solução passa por um esforço multinacional de ações coordenadas. O crescente número de governos isolacionistas e até antidarwinistas não dá razões para otimismo. Há urgência. O estudo britânico calcula que, se nada for feito, em 2050, as mortes por infecções resistentes chegarão a 10 milhões ao ano. Hélio Schwartsman, “Mortes anunciadas”. Folha de São Paulo, Abril/2019. Adaptado.\n\nVárias espécies do gênero Candida, que pertence ao grupo de fungos unicelulares, reproduzem‐se por brotamento (gemulação), espalhando‐se rapidamente. No grupo dos fungos pluricelulares, a rápida colonização de novos ambientes deve‐se, em grande parte, ao fato de que esse grupo possui",
+      "options": [
+        {
+          "key": "A",
+          "text": "esporos haploides que germinam e colonizam o ambiente."
+        },
+        {
+          "key": "B",
+          "text": "reprodução assexuada, produzindo descendentes que são genotipicamente diferentes."
+        },
+        {
+          "key": "C",
+          "text": "zigotos haploides que crescem aceleradamente com mitoses sucessivas."
+        },
+        {
+          "key": "D",
+          "text": "cistos de resistência que encapsulam adultos diploides."
+        },
+        {
+          "key": "E",
+          "text": "fases autotróficas, podendo viver sem disponibilidade de alimento externo."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q49",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q49/image.png"
+      }
+    },
+    {
+      "number": 50,
+      "page": 14,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "Boa parte da floresta amazônica brasileira cresce sobre solos pobres. Sua exuberância, portanto, deve‐se ao fato de que uma grande proporção dos nutrientes advindos da própria floresta retorna à vegetação. Quando se derruba a floresta de uma área de dezenas de quilômetros quadrados e, em seguida, ateia‐se fogo no local como preparo para o plantio, esse ciclo é interrompido, o que causa uma série de efeitos. Identifique corretamente a relação dos efeitos mencionados em I, II e III com a derrubada e a queima da floresta. I ‐ Diminuição de curto prazo da fertilidade do solo pela queima da vegetação. II ‐ Perda de biodiversidade pelo efeito direto do",
+      "options": [
+        {
+          "key": "A",
+          "text": "fogo sobre os animais silvestres. III ‐ Diminuição da evaporação da água da chuva que atinge o solo exposto. I ‐ Aumento de curto prazo da fertilidade do solo pelo efeito direto do calor do fogo sobre o solo superficial."
+        },
+        {
+          "key": "B",
+          "text": "II ‐ Diminuição da diversidade de animais silvestres devido à remoção da vegetação. III ‐ Diminuição da temperatura do solo exposto como efeito direto da remoção da vegetação. I ‐ Aumento de curto prazo da fertilidade do solo pela deposição de cinzas. II ‐ Perda de biodiversidade devido à remoção da"
+        },
+        {
+          "key": "C",
+          "text": "vegetação. III ‐ Aumento temporário da evaporação da água da chuva que atinge o solo exposto. I ‐ Aumento de curto prazo da fertilidade do solo pelo efeito direto do calor do fogo sobre o solo superficial."
+        },
+        {
+          "key": "D",
+          "text": "II ‐ Perda de biodiversidade pelo efeito direto do fogo sobre a vegetação. III ‐ Diminuição temporária de absorção da água da chuva pelo solo exposto. I ‐ Aumento de longo prazo da fertilidade do solo pela deposição de cinzas. II ‐ Aumento da diversidade de animais silvestres"
+        },
+        {
+          "key": "E",
+          "text": "devido à remoção da vegetação. III ‐ Aumento da erosão do solo exposto devido à remoção da vegetação. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q50",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q50/image.png"
+      }
+    },
+    {
+      "number": 51,
+      "page": 15,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1054
+      },
+      "stem": "Qual das curvas representa o crescimento de um inseto hemimetábolo, desde seu nascimento até a fase adulta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q51",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q51/image.png"
+      }
+    },
+    {
+      "number": 52,
+      "page": 15,
+      "bbox": {
+        "x": 0,
+        "y": 1115,
+        "w": 848,
+        "h": 1223
+      },
+      "stem": "Analise o esquema de uma célula adulta. As estruturas I, II, III e IV caracterizam‐se pela presença, respectivamente, de",
+      "options": [
+        {
+          "key": "A",
+          "text": "glicídeo, lipídeo, água e ácido nucleico."
+        },
+        {
+          "key": "B",
+          "text": "proteína, glicídeo, água e ácido nucleico."
+        },
+        {
+          "key": "C",
+          "text": "lipídeo, proteína, glicídeo e ácido nucleico."
+        },
+        {
+          "key": "D",
+          "text": "lipídeo, glicídeo, ácido nucleico e água."
+        },
+        {
+          "key": "E",
+          "text": "glicídeo, proteína, ácido nucleico e água."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q52",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q52/image.png"
+      }
+    },
+    {
+      "number": 53,
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 948
+      },
+      "stem": "Analise a seguinte genealogia de uma doença: Foi levantada a hipótese de que a doença possui padrão de herança dominante ligada ao cromossomo X. O que levou a tal conclusão foi a",
+      "options": [
+        {
+          "key": "A",
+          "text": "incidência da doença em mulheres e homens."
+        },
+        {
+          "key": "B",
+          "text": "transmissão do alelo mutante apenas às filhas de um homem afetado."
+        },
+        {
+          "key": "C",
+          "text": "presença de pessoas afetadas em todas as gerações."
+        },
+        {
+          "key": "D",
+          "text": "transmissão do alelo mutante às filhas e aos filhos de uma mulher afetada."
+        },
+        {
+          "key": "E",
+          "text": "presença de pelo menos um dos genitores afetados."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q53",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q53/image.png"
+      }
+    },
+    {
+      "number": 54,
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 1009,
+        "w": 849,
+        "h": 732
+      },
+      "stem": "Analise os esquemas simplificados das células 1 e 2: Células como as representadas em 1 e 2 podem ser encontradas, respectivamente, no",
+      "options": [
+        {
+          "key": "A",
+          "text": "sangue e no fígado."
+        },
+        {
+          "key": "B",
+          "text": "osso e no pâncreas."
+        },
+        {
+          "key": "C",
+          "text": "músculo esquelético e no pâncreas."
+        },
+        {
+          "key": "D",
+          "text": "músculo cardíaco e no osso."
+        },
+        {
+          "key": "E",
+          "text": "pâncreas e no fígado."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q54",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q54/image.png"
+      }
+    },
+    {
+      "number": 55,
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 1696,
+        "w": 849,
+        "h": 642
+      },
+      "stem": "Considere uma sequência de DNA com 100 pares de bases de comprimento contendo 32 timinas. Quantas citosinas, guaninas e adeninas essa sequência terá, respectivamente?",
+      "options": [
+        {
+          "key": "A",
+          "text": "32, 68, 68."
+        },
+        {
+          "key": "B",
+          "text": "68, 32, 68."
+        },
+        {
+          "key": "C",
+          "text": "68, 68, 32."
+        },
+        {
+          "key": "D",
+          "text": "32, 18, 18."
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q55",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q55/image.png"
+      }
+    },
+    {
+      "number": 56,
+      "page": 16,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 640
+      },
+      "stem": "A combinação entre baixa biodiversidade, altas concentrações de poluentes e baixas concentrações de oxigênio dissolvido, que é verificada nos rios que passam por grandes centros urbanos no Brasil, deve‐se principalmente à(ao)",
+      "options": [
+        {
+          "key": "A",
+          "text": "descarte de garrafas PET e sacolas plásticas, aumentando a cadeia de produção de microplásticos."
+        },
+        {
+          "key": "B",
+          "text": "aumento de intervenções de engenharia, como a construção de pontes e dragagens."
+        },
+        {
+          "key": "C",
+          "text": "aquecimento da água do rio devido ao aumento da temperatura média nas metrópoles."
+        },
+        {
+          "key": "D",
+          "text": "descarte de esgoto doméstico e industrial sem tratamento."
+        },
+        {
+          "key": "E",
+          "text": "ocorrência mais frequente de longos períodos de estiagem, aumentando a evaporação."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q56",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q56/image.png"
+      }
+    },
+    {
+      "number": 57,
+      "page": 16,
+      "bbox": {
+        "x": 0,
+        "y": 702,
+        "w": 848,
+        "h": 1636
+      },
+      "stem": "Um paciente, com câncer sanguíneo (linfoma) e infectado por HIV, fez quimioterapia e recebeu um transplante de células‐ tronco da medula óssea de um doador resistente ao HIV. Como resultado, tanto o câncer como o HIV retroagiram neste paciente. O receptor mais usado pelo HIV para entrar nas células do corpo é o CCR5. Um pequeno número de pessoas resistentes ao HIV tem duas cópias mutadas do gene do receptor CCR5. Isso significa que o vírus não pode penetrar nas células sanguíneas do corpo que costumam ser infectadas. O paciente recebeu células‐tronco da medula óssea de um doador que tem essa mutação genética específica, o que fez com que também ficasse resistente ao HIV. Disponível em https://www.bbc.com/. Março/2019. Adaptado. A terapia celular a que o texto se refere",
+      "options": [
+        {
+          "key": "A",
+          "text": "permitirá que eventuais futuros filhos do paciente transplantado também possuam células resistentes à infecção pelo HIV."
+        },
+        {
+          "key": "B",
+          "text": "possibilitou a produção, pelas células sanguíneas do paciente após o transplante, de receptores CCR5 aos quais o vírus HIV não se liga."
+        },
+        {
+          "key": "C",
+          "text": "promoveu mutações no gene CCR5 das células do paciente, ocasionando a produção de proteína à qual o HIV não se liga."
+        },
+        {
+          "key": "D",
+          "text": "gerou novos alelos mutantes que interagem com o gene do receptor CCR5 do paciente, ocasionando a resistência à entrada do HIV nas células do paciente."
+        },
+        {
+          "key": "E",
+          "text": "confirma que o alelo mutante que confere resistência à infecção pelo HIV é dominante sobre o alelo selvagem do gene CCR5."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q57",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q57/image.png"
+      }
+    },
+    {
+      "number": 58,
+      "page": 16,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 1138
+      },
+      "stem": "Pesquisadores do Museu Nacional, no Rio de Janeiro, encontraram o crânio e uma parte do fêmur de Luzia, o esqueleto humano mais antigo descoberto na América que revolucionou as teorias científicas sobre a ocupação do continente. Os fósseis foram achados há alguns dias (não foi divulgado quando) junto aos escombros do edifício, parcialmente destruído por um incêndio em 2 de setembro. O crânio está fragmentado, porque a cola que mantinha os seus pedaços juntos se foi com o calor, mas a equipe está bastante otimista com suas condições. Júlia Barbon, Folha de São Paulo, Outubro/2018. Adaptado. O esqueleto de Luzia,",
+      "options": [
+        {
+          "key": "A",
+          "text": "adquirido por D. Pedro II em 1876, foi incorporado à sua coleção pessoal, a mesma que deu origem ao Museu Nacional no período republicano."
+        },
+        {
+          "key": "B",
+          "text": "descoberto na década de 1970 em Minas Gerais, permitiu questionar a teoria de que a ocupação das Américas se deu por apenas uma onda migratória."
+        },
+        {
+          "key": "C",
+          "text": "estudado por diferentes equipes de antropólogos, comprovou que grupos saídos diretamente da África foram os primeiros habitantes das Américas."
+        },
+        {
+          "key": "D",
+          "text": "encontrado na atual Serra da Capivara, no Estado do Piauí, pertenceu à cultura que elaborou suas famosas pinturas rupestres."
+        },
+        {
+          "key": "E",
+          "text": "mantido em uma coleção particular fora do país, estava exposto para comemoração dos 150 anos da passagem de Charles Darwin pelo Brasil."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q58",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q58/image.png"
+      }
+    },
+    {
+      "number": 59,
+      "page": 16,
+      "bbox": {
+        "x": 804,
+        "y": 1200,
+        "w": 849,
+        "h": 1138
+      },
+      "stem": "Afirmo, portanto, que tínhamos atingido já o ano bem farto da Encarnação do Filho de Deus, de 1348, quando, na mui excelsa cidade de Florença, (...) sobreveio a mortífera pestilência. (...) apareciam no começo, tanto em homens como nas mulheres, ou na virilha ou na axila, algumas inchações (...) chamava‐as o populacho de bubões (...). Giovanni Boccaccio, Decamerão. A respeito da Peste Negra do século XIV, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Provocou gravíssima queda demográfica, que afetou grande parte da produção econômica europeia."
+        },
+        {
+          "key": "B",
+          "text": "Originou‐se no Oriente, penetrou no continente europeu pelos portos e manteve‐se restrita à Península Itálica."
+        },
+        {
+          "key": "C",
+          "text": "Foi provocada pela fome e pela desnutrição dos camponeses e favoreceu o processo de centralização política."
+        },
+        {
+          "key": "D",
+          "text": "Foi contida pelo caráter de subsistência da economia europeia, que dificultava o contato humano e, assim, o contágio."
+        },
+        {
+          "key": "E",
+          "text": "Estimulou as investidas contra os territórios muçulmanos no movimento conhecido como Segunda Cruzada. V"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q59",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q59/image.png"
+      }
+    },
+    {
+      "number": 60,
+      "page": 17,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1190
+      },
+      "stem": "A imagem a seguir refere‐se às principais rotas de comércio da África do Norte e Ocidental, no século XV. Eric Wolf, A Europa e os Povos sem História (trad.). São Paulo: Edusp, 2005. Em relação às rotas comerciais representadas no mapa, é correto afirmar que elas",
+      "options": [
+        {
+          "key": "A",
+          "text": "indicam que a melhoria das condições ambientais do Saara permitiu a construção de estradas pelo deserto."
+        },
+        {
+          "key": "B",
+          "text": "foram construídas pelo poder islâmico do Cairo, que promoveu a unificação de toda a África do Norte."
+        },
+        {
+          "key": "C",
+          "text": "mostram a decadência econômica do comércio do Saara oriental, em razão da crise do Império Egípcio."
+        },
+        {
+          "key": "D",
+          "text": "atingem a região ao sudoeste do Saara, local de origem do ouro que chegava aos portos do Mediterrâneo."
+        },
+        {
+          "key": "E",
+          "text": "representam o poder do Império de Songai, cuja capital era Timbuctu, que unificou todo o território entre o Atlântico e o mar Vermelho."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q60",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q60/image.png"
+      }
+    },
+    {
+      "number": 61,
+      "page": 17,
+      "bbox": {
+        "x": 0,
+        "y": 1251,
+        "w": 848,
+        "h": 1087
+      },
+      "stem": "A chamada “questão trabalhista” no Brasil foi objeto de conflitos, debates e regulamentações entre os anos 1920 e 1946. Identifique uma das dimensões deste processo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "O liberalismo oligárquico atribuiu ao Estado, por meio da reforma de 1924, o papel de mediador entre o operariado e o patronato."
+        },
+        {
+          "key": "B",
+          "text": "A Constituição de 1934 garantiu o direito à organização sindical e abriu espaço para a proteção dos direitos dos trabalhadores."
+        },
+        {
+          "key": "C",
+          "text": "O direito de greve e a regulamentação do salário mínimo foram algumas das novidades previstas na Consolidação das Leis do Trabalho (1943)."
+        },
+        {
+          "key": "D",
+          "text": "A criação do sindicato único contribuiu para a emergência de lideranças combativas ao obrigar todos os trabalhadores a se filiarem a tais associações."
+        },
+        {
+          "key": "E",
+          "text": "A Carteira de Trabalho foi um instrumento de controle e dominação, que distinguia o trabalhador e esvaziava o poder dos sindicatos."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q61",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q61/image.png"
+      }
+    },
+    {
+      "number": 62,
+      "page": 17,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 1641
+      },
+      "stem": "A representação cartográfica a seguir refere‐se à viagem de circunavegação, iniciada em Sanlúcar de Barrameda, na Andaluzia, em 20 de setembro de 1519, e comandada pelo português Fernão de Magalhães, a serviço da monarquia da Espanha. A despeito da repercussão da viagem para o desenvolvimento dos conhecimentos náuticos e para a exploração do Oceano Pacífico, Battista Agnese foi um dos poucos cartógrafos a registrar a empreitada de Magalhães. Battista Agnese, Atlas Portulano, 1545. Biblioteca Digital Mundial. Disponível em https://www.wdl.org/pt/. A representação cartográfica de Battista Agnese",
+      "options": [
+        {
+          "key": "A",
+          "text": "revelava a permanência das técnicas e sentidos simbólicos da cosmografia medieval, que orientaram os navegadores ibéricos na época da expansão ultramarina."
+        },
+        {
+          "key": "B",
+          "text": "estava vinculada aos dogmas cristãos e procurava conciliar o registro da viagem de Fernão de Magalhães com a perspectiva de Terra Plana ainda presente entre letrados cristãos."
+        },
+        {
+          "key": "C",
+          "text": "estava baseada nos relatos dos navegadores, no acúmulo de conhecimentos acerca das rotas marítimas e em estimativas de distâncias a partir de cálculos matemáticos e da planificação do globo terrestre."
+        },
+        {
+          "key": "D",
+          "text": "apresentava o Oceano Pacífico em suas reais dimensões de acordo com o entendimento de Fernão de Magalhães e de Cristóvão Colombo e em desacordo com as perspectivas cristãs."
+        },
+        {
+          "key": "E",
+          "text": "estava assentada nos conhecimentos e detalhamentos geográficos bíblicos e nas formulações cosmológicas de Ptolomeu, fundamentais para o sucesso da viagem de Fernão de Magalhães."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q62",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q62/image.png"
+      }
+    },
+    {
+      "number": 63,
+      "page": 17,
+      "bbox": {
+        "x": 804,
+        "y": 1702,
+        "w": 849,
+        "h": 636
+      },
+      "stem": "As tentativas holandesas de conquista dos territórios portugueses na América tinham por objetivo central",
+      "options": [
+        {
+          "key": "A",
+          "text": "a apropriação do complexo açucareiro escravista do Atlântico Sul, então monopolizado pelos portugueses."
+        },
+        {
+          "key": "B",
+          "text": "a formação de núcleos de povoamento para absorverem a crescente população protestante dos Países Baixos."
+        },
+        {
+          "key": "C",
+          "text": "a exploração das minas de ouro recém‐descobertas no interior, somente acessíveis pelo controle de portos no Atlântico."
+        },
+        {
+          "key": "D",
+          "text": "a ocupação de áreas até então pouco exploradas pelos portugueses, como o Maranhão e o Vale Amazônico."
+        },
+        {
+          "key": "E",
+          "text": "a criação de uma base para a ocupação definitiva das áreas de mineração da América espanhola. V"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q63",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q63/image.png"
+      }
+    },
+    {
+      "number": 64,
+      "page": 18,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1091
+      },
+      "stem": "Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...). A Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001. Com base no texto, registrado aproximadamente no século VII a.C. e que se refere a um antigo mito da Mesopotâmia, bem como em seus conhecimentos, é possível dizer que a sociedade descrita era",
+      "options": [
+        {
+          "key": "A",
+          "text": "mercantil, pacífica, politeísta e centralizada."
+        },
+        {
+          "key": "B",
+          "text": "agrária, militarizada, monoteísta e democrática."
+        },
+        {
+          "key": "C",
+          "text": "manufatureira, naval, monoteísta e federalizada."
+        },
+        {
+          "key": "D",
+          "text": "mercantil, guerreira, monoteísta e federalizada."
+        },
+        {
+          "key": "E",
+          "text": "agrária, guerreira, politeísta e centralizada."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q64",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q64/image.png"
+      }
+    },
+    {
+      "number": 65,
+      "page": 18,
+      "bbox": {
+        "x": 0,
+        "y": 1152,
+        "w": 848,
+        "h": 1186
+      },
+      "stem": "Depois de 20 anos na escola Não é difícil aprender Todas as manhas do seu jogo sujo Não é assim que tem que ser Vamos fazer nosso dever de casa E aí então vocês vão ver Suas crianças derrubando reis Fazer comédia no cinema com as suas leis Somos os filhos da revolução Somos burgueses sem religião Somos o futuro da nação Geração Coca‐Cola. Dado Villa‐Lobos e Renato Russo, Geração Coca‐Cola, 1984. Esses versos",
+      "options": [
+        {
+          "key": "A",
+          "text": "remetem ao período da Campanha das Diretas Já e apresentam esperanças em relação à implantação de um regime democrático no Brasil."
+        },
+        {
+          "key": "B",
+          "text": "revelam a indignação e rebeldia da juventude com os rumos da chamada Nova República, especialmente contra o Colégio Eleitoral e o bipartidarismo."
+        },
+        {
+          "key": "C",
+          "text": "propõem um repúdio por parte da juventude brasileira em relação às questões políticas e comportamentais durante a transição democrática."
+        },
+        {
+          "key": "D",
+          "text": "oferecem uma visão positiva acerca do período militar no Brasil e demonstram ceticismo com respeito à transição democrática."
+        },
+        {
+          "key": "E",
+          "text": "reforçam a capacidade de mobilização e reivindicação da juventude pela liberdade de expressão e criação de novas universidades públicas."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q65",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q65/image.png"
+      }
+    },
+    {
+      "number": 66,
+      "page": 18,
+      "bbox": {
+        "x": 804,
+        "y": 103,
+        "w": 849,
+        "h": 915
+      },
+      "stem": "Documentos da Agência Central de Inteligência Americana (CIA) mostram que o Brasil quis liderar a Operação Condor e só não conseguiu porque enfrentou resistência dos outros países membros – Argentina, Chile, Uruguai, Paraguai e Bolívia. (...) Os documentos da CIA fazem parte do Projeto de Desclassificação Argentina (The Dirty War, 1976‐1983), do governo americano, e incluem mais de 40 mil páginas. Duas dezenas delas fazem menções ao Brasil (...). Marcelo Godoy, O Estado de São Paulo. Abril/2019. A respeito da Operação Condor, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ainda que tivesse um alvo comum de repressão política, ela não implicava o alinhamento automático dos regimes ditatoriais de cada país."
+        },
+        {
+          "key": "B",
+          "text": "Ao encontrar resistência dos demais países que dela participavam, o Brasil passou a criticar publicamente suas ações."
+        },
+        {
+          "key": "C",
+          "text": "Em vista da oposição norte‐americana à iniciativa, a cooperação entre os países membros não foi implantada."
+        },
+        {
+          "key": "D",
+          "text": "O governo ditatorial paraguaio assumiu a posição de liderança no acordo firmado entre seus países fundadores."
+        },
+        {
+          "key": "E",
+          "text": "Limitou‐se à troca de informações sobre os opositores políticos que buscaram exílio em cada um desses países."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q66",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q66/image.png"
+      }
+    },
+    {
+      "number": 67,
+      "page": 18,
+      "bbox": {
+        "x": 804,
+        "y": 973,
+        "w": 849,
+        "h": 1365
+      },
+      "stem": "A entrega pacífica do governo a um adversário pressupunha um elevado nível de automoderação. O mesmo determinou a boa vontade de um governo em não usar os seus grandes recursos do poder na humilhação ou destruição de predecessores hostis ou opositores (...). As técnicas militares deram lugar às técnicas verbais do debate feitas de retórica e de persuasão, a maior parte das quais exigia mais contenção geral, identificando, de modo nítido, esta mudança com um avanço da civilização. Norbert Elias, A busca da excitação. Lisboa: Difel, 1992. O processo histórico britânico ofereceu, entre os séculos XVII e XIX, modelos institucionais e práticas políticas importantes. A respeito deles, é correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "os debates acalorados no Parlamento, que desencadearam uma série de lutas sociais no século XVIII, foram apenas superados no início do século XIX com a instauração do Regime Parlamentar."
+        },
+        {
+          "key": "B",
+          "text": "após o turbulento século XVII, marcado por sucessivas lutas sociais e golpes de Estado, a pacificação entre as classes dominantes ocorreu com o fortalecimento do Regime Parlamentar ao longo do século XVIII."
+        },
+        {
+          "key": "C",
+          "text": "a instauração da República de Cromwell e do parlamentarismo, em meados do século XVIII, foi responsável pelo fim das turbulências políticas características do absolutismo monárquico."
+        },
+        {
+          "key": "D",
+          "text": "o avanço da civilização mencionado no texto ocorreu com o estabelecimento do princípio da tolerância religiosa entre anglicanos, calvinistas e católicos pelo Parlamento no final do século XVIII."
+        },
+        {
+          "key": "E",
+          "text": "o estabelecimento do parlamento bicameral, com representação para os nobres e para a burguesia enriquecida, e do direito de voto universal, ambos no século XVIII, foram responsáveis pela contenção das lutas sociais na Grã‐Bretanha. V"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q67",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q67/image.png"
+      }
+    },
+    {
+      "number": 68,
+      "page": 19,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1338
+      },
+      "stem": "De acordo com o historiador Martyn Lyons, “nos temores contemporâneos em relação ao acesso ilimitado a sites perigosos da Internet, e às dificuldades enfrentadas por governos de diversos países no policiamento da distribuição da informação, ouve‐se o eco do pânico causado pela invenção da imprensa”. Martyn Lyons, A história da leitura de Gutenberg a Bill Gates, RJ: Casa da Palavra, 1999. Escolha a alternativa que demonstre corretamente os elementos de continuidade e de descontinuidade entre a “revolução do impresso” e a “revolução eletrônica” apontados pelo autor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As chamadas “revolução do impresso” e “revolução eletrônica” não somente favoreceram a multiplicação e democratização do acesso à informação como também auxiliaram a formação de um público mais vasto e mais crítico."
+        },
+        {
+          "key": "B",
+          "text": "A implementação das novas tecnologias de comunicação eliminou a diferença entre os usuários e os excluídos do universo da cultura escrita, tal como se prometera no início de sua adoção."
+        },
+        {
+          "key": "C",
+          "text": "A manutenção de índices elevados de circulação de fake news nas redes sociais demonstra que a “revolução da comunicação” depende de quem domina e de quem usa as tecnologias."
+        },
+        {
+          "key": "D",
+          "text": "Diferentemente do Index Librorum Prohibitorum promulgado para a atuação da Inquisição no controle da expansão do Protestantismo durante o século XVI, os atuais marcos regulatórios da Internet limitam‐se ao controle da pornografia."
+        },
+        {
+          "key": "E",
+          "text": "O advento da tipografia não foi necessariamente revolucionário, pois não mudou a natureza nem o assunto dos livros; já a tecnologia digital suprimiu todas as formas anteriores de comunicação, da oral à impressa."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q68",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q68/image.png"
+      }
+    },
+    {
+      "number": 69,
+      "page": 19,
+      "bbox": {
+        "x": 0,
+        "y": 1399,
+        "w": 848,
+        "h": 939
+      },
+      "stem": "Em julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin fizeram o primeiro pouso tripulado na superfície da Lua, enquanto seu colega Michael Collins permaneceu a bordo do módulo de comando Columbia em órbita lunar. Considerando que o Columbia estivesse em uma órbita perfeitamente circular a uma altitude de 260 km acima da superfície da Lua, o tempo decorrido (em horas terrestres ‐ h) entre duas passagens do Columbia exatamente acima do mesmo ponto da superfície lunar seria de",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,5 h."
+        },
+        {
+          "key": "B",
+          "text": "2 h."
+        },
+        {
+          "key": "C",
+          "text": "4 h."
+        },
+        {
+          "key": "D",
+          "text": "8 h. "
+        },
+        {
+          "key": "E",
+          "text": "72 h.  "
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q69",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q69/image.png"
+      }
+    },
+    {
+      "number": 70,
+      "page": 19,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 615
+      },
+      "stem": "Em 20 de maio de 2019, as unidades de base do Sistema Internacional de Unidades (SI) passaram a ser definidas a partir de valores exatos de algumas constantes físicas. Entre elas, está a ݄ ܧ constante de Planck , que relaciona a energia de um fóton ݂ (quantum de radiação eletromagnética) com a sua frequência na ܧ ൌ ݄݂ forma . A unidade da constante de Planck em termos das unidades de base do SI (quilograma, metro e segundo) é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "kg m2/s"
+        },
+        {
+          "key": "B",
+          "text": "kg s/m2"
+        },
+        {
+          "key": "C",
+          "text": "m2s/kg"
+        },
+        {
+          "key": "D",
+          "text": "kg s/m"
+        },
+        {
+          "key": "E",
+          "text": "kg m2/s3"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q70",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q70/image.png"
+      }
+    },
+    {
+      "number": 71,
+      "page": 19,
+      "bbox": {
+        "x": 804,
+        "y": 676,
+        "w": 849,
+        "h": 1662
+      },
+      "stem": "A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam ݀ com a distância entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para ܮ expressar a perda , em decibéis (dB), do sinal em função de ݀ , no espaço livre de obstáculos, é dada pela expressão logଵ଴൬4 ߨ݀ ܮ ൌ20 ൰, ߣ  em que é o comprimento de onda do sinal. O gráfico a seguir ܮ ݀ mostra (em dB) versus (em metros) para um determinado . comprimento de onda Com base no gráfico, a frequência do sinal é aproximadamente",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5 GHz."
+        },
+        {
+          "key": "B",
+          "text": "5 GHz."
+        },
+        {
+          "key": "C",
+          "text": "12 GHz."
+        },
+        {
+          "key": "D",
+          "text": "40 GHz. 109"
+        },
+        {
+          "key": "E",
+          "text": "100 GHz. V"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q71",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q71/image.png"
+      }
+    },
+    {
+      "number": 72,
+      "page": 20,
+      "bbox": {
+        "x": 0,
+        "y": 110,
+        "w": 848,
+        "h": 689
+      },
+      "stem": "Um estímulo nervoso em um dos dedos do pé de um indivíduo demora cerca de 30 ms para chegar ao cérebro. Nos membros inferiores, o pulso elétrico, que conduz a informação do estímulo, é transmitido pelo nervo ciático, chegando à base do tronco em 20 ms. Da base do tronco ao cérebro, o pulso é conduzido na medula espinhal. Considerando que a altura média do brasileiro é de 1,70 m e supondo uma razão média de 0,6 entre o comprimento dos membros inferiores e a altura de uma pessoa, pode‐se concluir que as velocidades médias de propagação do pulso nervoso desde os dedos do pé até o cérebro e da base do tronco até o cérebro são, respectivamente:",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q72",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q72/image.png"
+      }
+    },
+    {
+      "number": 73,
+      "page": 20,
+      "bbox": {
+        "x": 0,
+        "y": 754,
+        "w": 848,
+        "h": 968
+      },
+      "stem": "A velocidade de escape de um corpo celeste é a mínima velocidade que um objeto deve ter nas proximidades da superfície desse corpo para escapar de sua atração gravitacional. Com base nessa informação e em seus conhecimentos sobre a interpretação cinética da temperatura, considere as seguintes afirmações a respeito da relação entre a velocidade de escape e a atmosfera de um corpo celeste. I. Corpos celestes com mesma velocidade de escape retêm atmosferas igualmente densas, independentemente da temperatura de cada corpo. II. Moléculas de gás nitrogênio escapam da atmosfera de um corpo celeste mais facilmente do que moléculas de gás hidrogênio. III. Comparando corpos celestes com temperaturas médias iguais, aquele com a maior velocidade de escape tende a reter uma atmosfera mais densa. Apenas é correto o que se afirma em",
+      "options": [
+        {
+          "key": "A",
+          "text": "I."
+        },
+        {
+          "key": "B",
+          "text": "II."
+        },
+        {
+          "key": "C",
+          "text": "III."
+        },
+        {
+          "key": "D",
+          "text": "I e II."
+        },
+        {
+          "key": "E",
+          "text": "I e III."
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q73",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q73/image.png"
+      }
+    },
+    {
+      "number": 74,
+      "page": 20,
+      "bbox": {
+        "x": 0,
+        "y": 1678,
+        "w": 848,
+        "h": 660
+      },
+      "stem": "Um equipamento de bungee jumping está sendo projetado para ser utilizado em um viaduto de 30 m de altura. O elástico utilizado tem comprimento relaxado de 10 m. Qual deve ser o mínimo valor da constante elástica desse elástico para que ele possa ser utilizado com segurança no salto por uma pessoa cuja massa, somada à do equipamento de proteção a ela conectado, seja de 120 kg?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 N/m"
+        },
+        {
+          "key": "B",
+          "text": "80 N/m"
+        },
+        {
+          "key": "C",
+          "text": "90 N/m"
+        },
+        {
+          "key": "D",
+          "text": "160 N/m"
+        },
+        {
+          "key": "E",
+          "text": "180 N/m"
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q74",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q74/image.png"
+      }
+    },
+    {
+      "number": 75,
+      "page": 20,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 792
+      },
+      "stem": "Um fabricante projetou resistores para utilizar em uma lâmpada ܮ ܴ de resistência . Cada um deles deveria ter resistência . Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma ܴ ൌ ܴ /2. resistência Tendo em vista que a lâmpada ஽ queimará se for percorrida por uma corrente elétrica superior ܸ /ሺ ܴ ൅ ܮ ሻ, a em qual(is) dos circuitos a lâmpada queimará?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1, apenas."
+        },
+        {
+          "key": "B",
+          "text": "2, apenas."
+        },
+        {
+          "key": "C",
+          "text": "1 e 3, apenas."
+        },
+        {
+          "key": "D",
+          "text": "2 e 3, apenas."
+        },
+        {
+          "key": "E",
+          "text": "1, 2 e 3."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q75",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q75/image.png"
+      }
+    },
+    {
+      "number": 76,
+      "page": 20,
+      "bbox": {
+        "x": 804,
+        "y": 854,
+        "w": 849,
+        "h": 1484
+      },
+      "stem": "No dia 10 de abril de 2019, a equipe do Event Horizon Telescope (EHT, “Telescópio Horizonte de Eventos”) divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km. Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância. O gráfico mostra o limite de resolução de um telescópio, medido em radianos, como função do seu diâmetro, para ondas luminosas de comprimento de onda de 1,3 mm, igual ao daquelas captadas pelo EHT. Note a escala logarítmica dos eixos do gráfico. Sabe‐se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de 5 × 1020 km, indique o valor mais próximo do tamanho do pixel.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 × 101 km"
+        },
+        {
+          "key": "B",
+          "text": "5 × 104 km"
+        },
+        {
+          "key": "C",
+          "text": "5 × 107 km"
+        },
+        {
+          "key": "D",
+          "text": "5 × 1010 km"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q76",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q76/image.png"
+      }
+    },
+    {
+      "number": 77,
+      "page": 21,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1556
+      },
+      "stem": "Um solenoide muito longo é percorrido por uma corrente ܫ elétrica , conforme mostra a figura 1. Figura 1 ݍ Em um determinado instante, uma partícula de carga ݒ Ԧ positiva desloca‐se com velocidade instantânea perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide. Figura 2 ܨ ሬሬሬሬԦ O diagrama que representa corretamente as forças elétrica ா ܨ ሬሬሬሬԦ e magnética atuando sobre a partícula é: ஻",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q77",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q77/image.png"
+      }
+    },
+    {
+      "number": 78,
+      "page": 21,
+      "bbox": {
+        "x": 0,
+        "y": 1618,
+        "w": 848,
+        "h": 720
+      },
+      "stem": "Um drone voando na horizontal, em relação ao solo (como indicado pelo sentido da seta na figura), deixa cair um pacote de livros. A melhor descrição da trajetória realizada pelo pacote de livros, segundo um observador em repouso no solo, é dada pelo percurso descrito na",
+      "options": [
+        {
+          "key": "A",
+          "text": "trajetória 1."
+        },
+        {
+          "key": "B",
+          "text": "trajetória 2."
+        },
+        {
+          "key": "C",
+          "text": "trajetória 3."
+        },
+        {
+          "key": "D",
+          "text": "trajetória 4."
+        },
+        {
+          "key": "E",
+          "text": "trajetória 5."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q78",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q78/image.png"
+      }
+    },
+    {
+      "number": 79,
+      "page": 21,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 946
+      },
+      "stem": "Um pêndulo simples é composto por uma haste metálica leve, presa a um eixo bem lubrificado, e por uma esfera pequena de massa muito maior que a da haste, presa à sua extremidade ܲ oposta. O período para pequenas oscilações de um pêndulo é proporcional à raiz quadrada da razão entre o comprimento da haste metálica e a aceleração da gravidade local. Considere este pêndulo nas três situações: 1. Em um laboratório localizado ao nível do mar, na Antártida, a uma temperatura de 0 °C. 2. No mesmo laboratório, mas agora a uma temperatura de 250 K. 3. Em um laboratório no qual a temperatura é de 32 °F, em uma base lunar, cuja aceleração da gravidade é igual a um sexto daquela da Terra. Indique a alternativa correta a respeito da comparação entre ܲ ܲ ܲ os períodos de oscilação 1, e do pêndulo nas situações 2 3 1, 2 e 3, respectivamente. ܲ ܲ ܲ",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "< = 1 2"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q79",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q79/image.png"
+      }
+    },
+    {
+      "number": 80,
+      "page": 21,
+      "bbox": {
+        "x": 804,
+        "y": 1008,
+        "w": 849,
+        "h": 1330
+      },
+      "stem": "Segundo o Instituto Nacional de Meteorologia (INMET), foram registradas temperaturas reduzidas no mês de junho de 2016, tal como na madrugada do dia 13, em que se alcançou a mínima de 3,5°C na estação meteorológica da Serra da Cantareira, na cidade de São Paulo. Além disso, de acordo com o Instituto, também ocorreram precipitações acima da média, com mais de 200 mm no total daquele mês. Disponível em https://www.meteo.psu.edu/. Adaptado. Associando a representação esquemática aos eventos descritos, analise as seguintes afirmações: I. O ar mais frio e denso eleva o ar mais quente, podendo originar nuvens com potencial para tempestades e precipitações. II. Instabilidades atmosféricas podem ser geradas em razão de o ar quente ser elevado rapidamente pelo sistema frontal. III. O encontro de massas de ar estabiliza as condições atmosféricas com o avanço e dissipação da massa de ar tropical. É correto apenas o que se afirma em",
+      "options": [
+        {
+          "key": "A",
+          "text": "I."
+        },
+        {
+          "key": "B",
+          "text": "II."
+        },
+        {
+          "key": "C",
+          "text": "I e II."
+        },
+        {
+          "key": "D",
+          "text": "I e III."
+        },
+        {
+          "key": "E",
+          "text": "II e III. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q80",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q80/image.png"
+      }
+    },
+    {
+      "number": 81,
+      "page": 22,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "Um vídeo do astrônomo Carl Sagan em seu programa dos anos 1980, Cosmos, conta a história de Eratóstenes, demonstrando como os gregos antigos já haviam descoberto que a Terra é uma esfera (geoide). Para fazer isso, Eratóstenes observou a sombra de duas colunas no solstício de verão; uma coluna foi colocada em Alexandria e outra em Siena (atualmente Assuan), ambas no Egito. Ele notou que em Siena, ao meio dia, o Sol ficava em seu ponto mais alto e a coluna lá instalada projetava uma sombra com ângulo diferente daquela projetada em Alexandria. Sagan explica então que, se a Terra fosse plana, ambas as estruturas produziriam sombras iguais, mas como o planeta é esférico, o sombreamento varia. Disponível em https://revistagalileu.globo.com/. Adaptado. 2019. Disponível em https://www.youtube.com/. Adaptado. A esfericidade do Planeta Terra demonstrada por Eratóstenes e relembrada por Carl Sagan explica, em conjunto com outros fatores,",
+      "options": [
+        {
+          "key": "A",
+          "text": "a ocorrência de dias mais longos e com maior insolação no Hemisfério em que está ocorrendo o inverno e de dias mais curtos e com menor insolação no Hemisfério em que está ocorrendo o verão."
+        },
+        {
+          "key": "B",
+          "text": "a ocorrência das estações do ano, sendo que, no Hemisfério Norte, há o solstício de verão em dezembro e, no Hemisfério Sul, o solstício de inverno em junho."
+        },
+        {
+          "key": "C",
+          "text": "a existência de zonas climáticas, em razão das variações de altitude que intensificam a radiação solar nos polos Norte e Sul."
+        },
+        {
+          "key": "D",
+          "text": "a ocorrência das estações do ano, que caracterizam o Equinócio de primavera no Hemisfério Sul em março e o Equinócio de outono no Hemisfério Norte em setembro."
+        },
+        {
+          "key": "E",
+          "text": "a existência de zonas climáticas, em função da maior intensidade da radiação solar na região equatorial quando comparada à incidência nos polos."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q81",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q81/image.png"
+      }
+    },
+    {
+      "number": 82,
+      "page": 22,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 1232
+      },
+      "stem": "Em reportagem publicada em 2018, a revista FAPESP apresenta uma pesquisa da Superintendência de Controle de Endemias (SUCEN) que usou informações de data e local de mortes de macacos por um determinado vírus. A partir do estudo, construiu‐se um modelo epidemiológico que descreve o sentido de deslocamento e os corredores ecológicos funcionais (corredores prováveis) do vírus. Disponível em http://revistapesquisa.fapesp.br/. Com base nas informações e no mapa, o corredor ecológico funcional desse vírus, que atingiu a maior abrangência territorial no Estado de São Paulo durante o ano de 2017, avançou principalmente por quais regiões e causou qual enfermidade?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sul de Minas Gerais e Vale do rio Ribeira de Iguape; Chikungunya."
+        },
+        {
+          "key": "B",
+          "text": "Sul de Minas Gerais e São José do Rio Preto; Dengue."
+        },
+        {
+          "key": "C",
+          "text": "Vale do rio Ribeira de Iguape e Região Metropolitana de São Paulo; Zika."
+        },
+        {
+          "key": "D",
+          "text": "Sul de Minas Gerais e Campinas; Febre Amarela."
+        },
+        {
+          "key": "E",
+          "text": "Litoral de São Paulo e Vale do rio Ribeira de Iguape; Gripe."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q82",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q82/image.png"
+      }
+    },
+    {
+      "number": 83,
+      "page": 22,
+      "bbox": {
+        "x": 804,
+        "y": 1293,
+        "w": 849,
+        "h": 1045
+      },
+      "stem": "O processo de desertificação é definido como a degradação ambiental e socioambiental, particularmente nas zonas áridas, semiáridas e subúmidas, resultantes de vários fatores e vetores, incluindo as variações e alterações climáticas e as atividades humanas. BRASIL, Ministério do Meio Ambiente. Disponível em http://www.mma.gov.br/. Dentre as medidas mais adequadas para mitigação dos efeitos da desertificação encontra(m)‐se",
+      "options": [
+        {
+          "key": "A",
+          "text": "a construção de rodovias que permitam às populações mais diretamente atingidas pela seca se deslocarem diariamente para áreas mais úmidas."
+        },
+        {
+          "key": "B",
+          "text": "o uso das áreas de meia encosta como alternativa para expansão das áreas de produção de culturas temporárias e lavouras permanentes."
+        },
+        {
+          "key": "C",
+          "text": "o plantio de espécies exóticas que apresentam crescimento rápido e podem reduzir os efeitos da desertificação e da seca, como o eucalipto, por exemplo."
+        },
+        {
+          "key": "D",
+          "text": "a prevenção, recuperação e reabilitação de terras parcial ou totalmente degradadas com a recomposição de espécies nativas."
+        },
+        {
+          "key": "E",
+          "text": "os programas de incentivo para a instalação de fossas sépticas que dispensam a implantação de um sistema hídrico de saneamento básico. V"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q83",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q83/image.png"
+      }
+    },
+    {
+      "number": 84,
+      "page": 23,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "Brasil: Estabelecimentos de agricultura familiar e não familiar Hervé Théry e Neli Aparecida Mello‐Théry. Atlas do Brasil: disparidades e dinâmicas do território. 3ª edição, 2018. Adaptado. Sobre a produção agrícola brasileira e os dados apresentados nos cartogramas, é correto afirmar:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A agricultura familiar, que utiliza a maior extensão de terras agricultáveis do país, foi responsável pela produção da maior parte do volume agrícola exportado."
+        },
+        {
+          "key": "B",
+          "text": "A agricultura familiar, que utiliza uma extensão de terras menor que a agricultura não familiar, tem destaque na produção de alimentos para o mercado interno."
+        },
+        {
+          "key": "C",
+          "text": "A agricultura não familiar, que detém a maior extensão de terras agricultáveis do país, consiste em uma barreira ao desenvolvimento das atividades ligadas ao agronegócio."
+        },
+        {
+          "key": "D",
+          "text": "A agricultura não familiar, que apresenta o maior número de estabelecimentos rurais no país, é responsável pela produção de parte das chamadas commodities brasileiras."
+        },
+        {
+          "key": "E",
+          "text": "A concentração fundiária foi superada no país em função de a agricultura familiar ocupar, com seus estabelecimentos, a maior parte das terras."
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2020-q84",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q84/image.png"
+      }
+    },
+    {
+      "number": 85,
+      "page": 23,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "É de grande relevância aqui o fato de que uma grande proporção do trânsito de internet do mundo passa pelos Estados Unidos (...). Isso significa que a NSA (a agência de segurança nacional dos EUA) poderia acessar uma quantidade alarmante de ligações telefônicas simplesmente escolhendo as instalações certas. O que é ainda mais inacreditável: essas instalações não passam de alguns prédios, conhecidos como “hotéis de telecomunicação”, que hospedam os principais centros de conexão de internet e telefonia do planeta todo. Stephen Graham, Cidades Sitiadas: o novo urbanismo militar, 2016. Adaptado. A respeito da configuração espacial e geopolítica retratada no excerto e no mapa, é possível afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "essa é a razão do grande déficit econômico dos Estados Unidos atualmente, uma vez que a maior parte dos negócios e transações é feita pela internet."
+        },
+        {
+          "key": "B",
+          "text": "essa situação explica o fato de que os Estados Unidos tenham, atualmente, a maior dívida pública do planeta, já que os custos com o tratamento de dados são muito altos."
+        },
+        {
+          "key": "C",
+          "text": "em um mundo cada vez mais dependente dos fluxos imateriais de informação, a presença de objetos técnicos fixos torna‐se irrelevante para a posição geopolítica dos Estados Unidos."
+        },
+        {
+          "key": "D",
+          "text": "o mapa representa, por meio do “trânsito de internet” e do fluxo de “ligações telefônicas”, uma globalização que integrou completamente tanto os norte‐americanos quanto as populações da África."
+        },
+        {
+          "key": "E",
+          "text": "a presença de fixos, como algumas instalações de armazenagem e conexão, influencia a orientação de fluxos e dá aos EUA uma posição de destaque no contexto geopolítico. V"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2020-q85",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q85/image.png"
+      }
+    },
+    {
+      "number": 86,
+      "page": 24,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 1029
+      },
+      "stem": "O Ciclone Tropical Idai atingiu o litoral de Moçambique na noite de quinta‐feira (21/03/2019), provocando grandes danos na cidade de Beira. Cerca de 500 mil pessoas ficaram sem energia, afetando também o setor de comunicações. Disponível em https://www.climatempo.com.br/. Adaptado. Essa notícia refere‐se ao Ciclone Tropical que atingiu principalmente Moçambique, Zimbábue e Malaui. Eventos dessa magnitude e superiores – o Ciclone Idai atingiu apenas a categoria 2 em uma escala de 1 a 5 – ocorrem em outros locais do planeta e não repercutem da mesma forma, com a perda de centenas de vidas. Isso ocorre em função",
+      "options": [
+        {
+          "key": "A",
+          "text": "da grande presença de populações não nativas, que não têm tradição em lidar com eventos dessa natureza."
+        },
+        {
+          "key": "B",
+          "text": "do relevo de planalto que caracteriza Moçambique, Zimbábue e Malaui, em especial na zona costeira."
+        },
+        {
+          "key": "C",
+          "text": "da presença de rede hidrográfica e florestas que contribuem para a formação de ciclones dessa natureza e magnitude."
+        },
+        {
+          "key": "D",
+          "text": "da presença de águas superficiais do oceano Índico, com temperaturas mais reduzidas que o habitual, em especial no Canal de Moçambique."
+        },
+        {
+          "key": "E",
+          "text": "das características socioeconômicas da região com populações vulneráveis e reduzida capacidade do poder público em prestar atendimento à população."
+        }
+      ],
+      "answer": {
+        "correct": "B"
+      },
+      "id": "fuvest-2020-q86",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q86/image.png"
+      }
+    },
+    {
+      "number": 87,
+      "page": 24,
+      "bbox": {
+        "x": 0,
+        "y": 1091,
+        "w": 848,
+        "h": 1247
+      },
+      "stem": "Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. “(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel”, explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. “Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos”, acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...). “Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra”, diz a porta‐voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos. “Os habitantes querem a sua cidade de volta”. Reportagem de Ulrike Prinz para o Goethe‐Institut Madrid. Maio/2018. Adaptado. Os conceitos que explicam as dinâmicas urbanas descritas no excerto são:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Financeirização e Industrialização."
+        },
+        {
+          "key": "B",
+          "text": "Gentrificação e Segregação."
+        },
+        {
+          "key": "C",
+          "text": "Aglomeração e Conurbação."
+        },
+        {
+          "key": "D",
+          "text": "Industrialização e Segregação."
+        },
+        {
+          "key": "E",
+          "text": "Conurbação e Gentrificação."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q87",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q87/image.png"
+      }
+    },
+    {
+      "number": 88,
+      "page": 24,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "Dois eventos marcaram a diplomacia brasileira em relação ao Oriente Médio no início de 2019. Um deles foi o voto contra a resolução da ONU que pedia a desocupação militar das Colinas de Golã e sua devolução à Síria. Outro evento foi o anúncio de transferência da embaixada brasileira de Tel Aviv para Jerusalém, mesmo não tendo sido levada adiante até setembro de 2019. Em relação a esses eventos, é correto afirmar que eles representam I ‐ uma aproximação do Brasil em relação à posição dos EUA.",
+      "options": [
+        {
+          "key": "A",
+          "text": "II ‐ um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU. I ‐ um distanciamento do Brasil em relação à posição da Palestina e uma aproximação em relação ao conjunto de países árabes."
+        },
+        {
+          "key": "B",
+          "text": "II ‐ uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU. I ‐ um distanciamento do Brasil em relação à posição de Israel e uma aproximação em relação aos palestinos."
+        },
+        {
+          "key": "C",
+          "text": "II ‐ um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU. I ‐ um distanciamento do Brasil em relação à posição dos EUA."
+        },
+        {
+          "key": "D",
+          "text": "II ‐ uma potencial aproximação do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU. I ‐ uma aproximação do Brasil em relação à posição da Síria."
+        },
+        {
+          "key": "E",
+          "text": "II ‐ um potencial distanciamento do Brasil em relação à posição da maioria dos países do Conselho de Segurança da ONU. V"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q88",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q88/image.png"
+      }
+    },
+    {
+      "number": 89,
+      "page": 25,
+      "bbox": {
+        "x": 0,
+        "y": 106,
+        "w": 848,
+        "h": 2232
+      },
+      "stem": "No Brasil, várias cidades registram ocupação irregular de encostas em áreas sujeitas a deslizamentos de terra (também chamados de escorregamentos). O Instituto de Pesquisas Tecnológicas (IPT) trabalha no levantamento, mapeamento, recuperação e estabilização dessas áreas de risco. Um exemplo deste trabalho foram aqueles executados desde a década de 1970 referentes aos deslizamentos dos morros de Santos e São Vicente‐SP, cuja região é acometida há tempos por esses problemas, inclusive com a ocorrência de vítimas fatais. Para investigar os deslizamentos de terra nas áreas serranas tropicais brasileiras, o Instituto realizou levantamentos topográficos, geológicos e geomorfológicos, estudando também a distribuição dos tipos de vegetação existentes e as categorias de ocupação urbana dos morros. Representação de deslizamento de terra (escorregamento) na região de Santos e São Vicente Disponível em https://www.ipt.br/. Adaptado. 2019. Baseando‐se nas informações do texto e na figura, é correto afirmar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "as características topográficas, geológicas e geomorfológicas de uma área de risco estão naturalmente ligadas aos escorregamentos, sendo que estradas de terra minimizam a ocorrência de deslizamentos."
+        },
+        {
+          "key": "B",
+          "text": "a ocorrência de escorregamentos é causada pela ação humana, cuja ocupação de encostas provoca o empobrecimento de solo, que acaba sendo mobilizado pela diminuição de fertilidade."
+        },
+        {
+          "key": "C",
+          "text": "o problema da ocupação de encostas e risco de escorregamentos inclui o contato entre a rocha e o solo, cuja facilidade de deslizamento é aumentada em função da inclinação do terreno e da maior ocorrência de chuvas."
+        },
+        {
+          "key": "D",
+          "text": "os deslizamentos de terra fazem parte de um conjunto de fenômenos naturais pontuais e incomuns na superfície da crosta terrestre e, portanto, não participam da escultura do relevo continental e do modelado."
+        },
+        {
+          "key": "E",
+          "text": "os escorregamentos são causados em especial pelo fato de o solo tornar‐se mais leve que a rocha subjacente durante as chuvas prolongadas de verão, facilitando seu deslizamento ao longo das encostas pouco ou nada inclinadas."
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2020-q89",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q89/image.png"
+      }
+    },
+    {
+      "number": 90,
+      "page": 25,
+      "bbox": {
+        "x": 804,
+        "y": 106,
+        "w": 849,
+        "h": 2232
+      },
+      "stem": "Se muita gente hoje enxerga a Terra como um sistema dinâmico de conexões entre atmosfera, águas, rochas e biodiversidade, isso se deve, em larga medida, a Alexander von Humboldt (1769 – 1859). O vulcão Chimborazo (6.268 m de altitude), no atual Equador, foi utilizado por Humboldt como exemplo para apresentar com clareza, pela primeira vez, como cada faixa altitudinal em regiões montanhosas é um microcosmo de climas e biodiversidade. Disponível em https://www1.folha.uol.com.br/ciencia/. Adaptado. Representação esquemática do vulcão Chimborazo Disponível em https://www.pinterest.com/. Adaptado. 2019. Considerando a relação entre vegetação e altitude, da base até o topo das zonas do vulcão representado, é possível obter a sequência:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Floresta Temperada, Floresta de Coníferas, Floresta Tropical, Exposição de Rocha, Tundra, Neve e Gelo."
+        },
+        {
+          "key": "B",
+          "text": "Floresta Temperada, Floresta Tropical, Floresta de Coníferas, Exposição de Rocha, Tundra, Neve e Gelo."
+        },
+        {
+          "key": "C",
+          "text": "Floresta Tropical, Floresta de Coníferas, Floresta Temperada, Tundra, Exposição de Rocha, Neve e Gelo."
+        },
+        {
+          "key": "D",
+          "text": "Floresta Tropical, Floresta Temperada, Floresta de Coníferas, Tundra, Exposição de Rocha, Neve e Gelo."
+        },
+        {
+          "key": "E",
+          "text": "Floresta Tropical, Floresta de Coníferas, Tundra, Floresta Temperada, Exposição de Rocha, Neve e Gelo. V"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2020-q90",
+      "year": 2020,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2020/q90/image.png"
+      }
+    }
+  ]
+}
