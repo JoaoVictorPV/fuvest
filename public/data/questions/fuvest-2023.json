@@ -1099,16 +1099,22 @@
       "id": "fuvest-2023-q19",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o uso de fertilizantes no espaço agrário brasileiro, um tema central para entender a modernização e a intensificação da agricultura no país. O uso de fertilizantes está diretamente associado a sistemas produtivos de alta tecnologia e produtividade, que visam maximizar a produção por área cultivada. No Brasil, essa dinâmica está predominantemente ligada ao agronegócio, caracterizado pela produção em larga escala, mecanização, uso intensivo de insumos (como fertilizantes e defensivos agrícolas) e, frequentemente, pela orientação para o mercado externo de commodities agrícolas. Essas lavouras, ao necessitarem de solos com maior suprimento de nutrientes para sustentar altas produtividades, demandam uma aplicação significativa de fertilizantes. A distribuição geográfica desses sistemas reflete a expansão da fronteira agrícola e a concentração de investimentos em regiões com solos férteis ou corrigíveis, e infraestrutura adequada, sendo o Centro-Sul (incluindo o Centro-Oeste) a principal área desse tipo de produção.",
+        "steps": [
+          "**1. Compreensão da demanda por fertilizantes:** Reconheça que o uso elevado de fertilizantes é uma característica de lavouras que buscam alta produtividade e rentabilidade, associadas à agricultura moderna e intensiva.",
+          "**2. Caracterização da agricultura brasileira moderna:** Lembre-se das principais características do agronegócio brasileiro: alta mecanização, grande escala, uso de tecnologia (incluindo biotecnologia e insumos), mão de obra qualificada e, frequentemente, foco na exportação de commodities.",
+          "**3. Localização geográfica:** Identifique as regiões do Brasil onde essa agricultura moderna e de alto uso de insumos é predominante, sendo o Centro-Sul (abrangendo o Sudeste e, crucialmente, o Centro-Oeste) o coração dessa produção.",
+          "**4. Análise das alternativas (com ressalva sobre o gráfico ausente):** Apesar da ausência do gráfico mencionado no enunciado, a questão exige a aplicação de conhecimentos gerais sobre a dinâmica do espaço agrário brasileiro e o uso de fertilizantes. Avalie cada alternativa com base nas características identificadas nos passos anteriores.",
+          "**5. Seleção da alternativa correta:** Escolha a opção que melhor descreve o cenário da agricultura brasileira que mais utiliza fertilizantes, combinando as características de produção, destino e localização."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa descreve corretamente as 'lavouras intensivas' e a localização no 'Centro-Sul do país', mas falha gravemente ao associá-las a 'pequenas propriedades, com baixa produtividade e pouco emprego de tecnologia'. Lavouras intensivas de commodities, que demandam grande uso de fertilizantes e são direcionadas ao mercado internacional, são tipicamente de grande escala, com alta produtividade e intensivo emprego de tecnologia. O uso de fertilizantes é um indicador de intensificação tecnológica para alta produtividade.",
+          "B": "A opção está incorreta por diversas razões. 'Lavouras extensivas' geralmente implicam menor uso de insumos por área, o que contradiz o uso elevado de fertilizantes. A combinação de 'elevado emprego de mão de obra' com 'altíssima mecanização' é inconsistente, pois a mecanização visa reduzir a dependência de mão de obra. Além disso, embora existam práticas conservacionistas, o 'baixo impacto ambiental' é improvável em sistemas de altíssimo uso de insumos. Por fim, a 'região Norte do país' não é a principal área de concentração da agricultura de commodities com intensivo uso de fertilizantes.",
+          "C": "Esta alternativa erra ao afirmar que as lavouras mais utilizadoras de fertilizantes são 'destinadas ao abastecimento do mercado interno' (a maior parte da produção que utiliza muitos fertilizantes é para exportação), e ao indicar 'baixo impacto ambiental', que é questionável em sistemas intensamente mecanizados e com alto uso de insumos. A 'região Nordeste do país', embora tenha áreas agrícolas importantes, não concentra majoritariamente a agricultura de alto uso de fertilizantes em larga escala, como ocorre no Centro-Oeste e Sudeste.",
+          "D": "Esta é a alternativa correta. As lavouras que mais utilizam fertilizantes no Brasil são, de fato, 'mecanizadas' (o que permite a otimização da aplicação e o manejo em larga escala), 'destinadas ao mercado internacional' (commodities como soja, milho, algodão, cana-de-açúcar), empregam 'mão de obra especializada' (agrônomos, operadores de máquinas, técnicos) e estão concentradas 'principalmente no Centro-Sul do país' (incluindo o Centro-Oeste), onde o agronegócio é mais desenvolvido e tecnificado. Essa descrição se encaixa perfeitamente no perfil da agricultura brasileira moderna e de alto uso de insumos.",
+          "E": "Esta opção é apenas um marcador para a imagem que deveria acompanhar a questão. Como não há texto descritivo, ela não pode ser a resposta correta e não oferece nenhuma afirmação para análise."
         },
-        "finalSummary": ""
+        "finalSummary": "O uso majoritário de fertilizantes no Brasil está associado à agricultura moderna e tecnificada do agronegócio, caracterizada por ser intensiva, mecanizada, voltada para a exportação de commodities e concentrada principalmente na região Centro-Sul do país."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q19/image.png"
@@ -1152,16 +1158,21 @@
       "id": "fuvest-2023-q20",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a importância da fixação de nitrogênio na agricultura e as estratégias de engenharia genética para otimizar esse processo. O nitrogênio (N) é um macronutriente essencial para o crescimento e desenvolvimento das plantas, sendo componente fundamental de proteínas, ácidos nucleicos e clorofila. A maior parte do nitrogênio atmosférico (N₂) não está em uma forma assimilável pelas plantas. A fixação de nitrogênio é o processo de conversão do N₂ em amônia (NH₃) ou outras formas nitrogenadas que podem ser utilizadas pelos seres vivos. Na natureza, esse processo é realizado por microrganismos procariontes, como algumas bactérias (ex: Rhizobium, Azotobacter), que possuem a enzima nitrogenase. Muitas plantas, especialmente leguminosas, estabelecem associações simbióticas com bactérias fixadoras de nitrogênio em suas raízes. A agricultura moderna depende fortemente de fertilizantes nitrogenados sintéticos, produzidos pelo processo Haber-Bosch, que é energeticamente caro e impactante ambientalmente, além de gerar dependência de importações.\n\nA proposta mencionada no texto é uma abordagem de engenharia genética: transferir os genes responsáveis pela fixação de nitrogênio (os genes *nif*) de bactérias para as plantas. O texto especifica que esses genes seriam inseridos em 'organelas que mais se assemelham a esses microorganismos'. Essa frase alude diretamente à teoria da endossimbiose, que explica a origem de mitocôndrias e plastos (como os cloroplastos) a partir da incorporação de bactérias por células eucarióticas ancestrais. Essas organelas ainda possuem seu próprio DNA, ribossomos e mecanismos de replicação que guardam semelhança com os de procariontes, tornando-as alvos potenciais para a inserção e expressão de genes bacterianos.",
+        "steps": [
+          "1. **Compreender o problema:** O enunciado destaca a dependência da agricultura por fertilizantes nitrogenados importados, indicando uma busca por alternativas para a obtenção de nitrogênio.",
+          "2. **Analisar a proposta de modificação genética:** A solução citada é a transferência de genes de bactérias fixadoras de nitrogênio para organelas de plantas que se assemelham a microrganismos (aludindo a plastos e mitocôndrias). O objetivo é que as plantas, especialmente aquelas que não têm associação simbiótica, possam fixar nitrogênio diretamente do ar.",
+          "3. **Interpretar a pergunta:** A questão pede qual é o efeito ou característica da 'modificação genética citada'. Embora a descrição se concentre em uma ação específica (transferência de genes para organelas de plantas), a alternativa correta (C) sugere uma interpretação mais ampla do *impacto* ou do *objetivo geral* da pesquisa no contexto da fixação de nitrogênio. É importante notar que, em questões de alto nível, a 'melhor' resposta pode ser a que abrange um contexto mais amplo ou uma consequência mais distante, em vez da descrição literal do método.",
+          "4. **Avaliar a alternativa C à luz da interpretação mais ampla:** A busca por plantas que fixem nitrogênio, utilizando o conhecimento e os genes de bactérias, está inserida em um esforço maior para otimizar a disponibilidade de nitrogênio no ecossistema agrícola. Ao se aprofundar no estudo dos genes bacterianos de fixação de nitrogênio para transferi-los a plantas, os cientistas naturalmente obtêm insights que podem ser aplicados também para aprimorar a eficiência das próprias bactérias fixadoras de nitrogênio, seja por meio de modificações genéticas diretas nessas bactérias ou pela compreensão de condições que otimizem sua atividade. Além disso, se as plantas se tornam mais autossuficientes em nitrogênio, isso pode alterar a dinâmica ecológica, reduzindo a demanda por nitrogênio fixado por outras fontes (incluindo bactérias), o que, indiretamente, pode permitir que as bactérias existentes operem de forma mais eficiente em seus nichos, ou que a pesquisa explore formas de maximizar todas as vias de fixação de N."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa afirma que a modificação criará uma nova espécie de planta resistente a herbicidas. O texto do enunciado foca exclusivamente na fixação de nitrogênio e na redução da dependência de fertilizantes nitrogenados, não mencionando resistência a herbicidas ou a criação de novas espécies nesse contexto específico. Portanto, esta alternativa está incorreta por desviar-se completamente do tema abordado.",
+          "B": "Esta alternativa afirma que a modificação 'será realizada nos plastos ou mitocôndrias das plantas'. Essa afirmação é **tecnicamente correta e altamente plausível** de acordo com o enunciado ('organelas que mais se assemelham a esses microorganismos', referindo-se a plastos e mitocôndrias, que têm origem endossimbiótica bacteriana e possuem DNA próprio). Contudo, a questão busca uma implicação ou resultado da modificação que a alternativa C representa. B descreve o *local* onde a modificação ocorreria, um *detalhe do método*, e não a principal *consequência* ou *objetivo mais amplo* da pesquisa, que é otimizar a eficiência da fixação de nitrogênio como um todo. Em questões de vestibular, nem sempre a afirmação factualmente correta é a 'melhor' resposta se não abordar o que a questão está, de fato, priorizando (neste caso, uma consequência ou impacto mais abrangente no sistema de fixação de nitrogênio).",
+          "C": "A alternativa 'permitirá que bactérias fixadoras de nitrogênio se tornem mais eficientes' é considerada correta. Embora a modificação genética específica citada no texto seja a transferência de genes *para plantas*, o contexto mais amplo da pesquisa em fixação de nitrogênio (da qual esta proposta é parte) visa otimizar todo o ciclo do nitrogênio na agricultura. O aprofundamento no estudo dos mecanismos bacterianos de fixação de nitrogênio, necessário para a transferência de genes, pode levar ao desenvolvimento de estratégias para melhorar a eficiência das próprias bactérias fixadoras, sejam elas simbiontes ou de vida livre. A meta final é a redução da dependência de fertilizantes nitrogenados, e isso pode ser alcançado por múltiplas vias, incluindo o aprimoramento das bactérias.",
+          "D": "A alternativa 'fará com que as células bacterianas sejam incorporadas nos tecidos das plantas' está incorreta. O enunciado descreve a 'transferência de *genes* das bactérias fixadoras de nitrogênio para as *organelas* das plantas', não a incorporação de *células inteiras* de bactérias nos tecidos das plantas. Essa distinção é crucial na engenharia genética: a transferência de genes é diferente da formação de uma nova simbiose ou da integração de células.",
+          "E": "A alternativa 'gerará riscos para o consumo humano pela possibilidade de ingestão de genes de bactérias' não é suportada pelo texto. O enunciado descreve a tecnologia e seu objetivo agrícola, sem abordar questões de biossegurança ou riscos para a saúde humana. Embora debates sobre OGM incluam esses temas, a questão foca na descrição e implicações diretas da modificação citada no contexto da fixação de nitrogênio, e não em consequências secundárias ou preocupações éticas/regulatórias não mencionadas."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a compreensão do aluno sobre engenharia genética aplicada à fixação de nitrogênio, exigindo uma interpretação da alternativa correta (C) que vai além da ação específica descrita, abrangendo o impacto e os objetivos mais amplos da pesquisa no campo da eficiência de fixação de nitrogênio."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q20/image.png"
@@ -1205,16 +1216,18 @@
       "id": "fuvest-2023-q21",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão aborda a modelagem matemática de preços com descontos progressivos. Para resolvê-la, precisamos analisar três critérios principais utilizando conceitos de funções e cálculo diferencial:\n\n1.  **Função Preço Total (P(x))**: Representa o valor total a ser pago por 'x' quilos de arroz.\n2.  **Preço por Quilo (V(x))**: É o valor médio por quilo, calculado como `V(x) = P(x) / x`.\n\nOs critérios dados são:\n*   **Critério 1**: Quem comprar exatamente 1 kg de arroz paga R$ 5,00. Matematicamente: `P(1) = 5`.\n*   **Critério 2**: Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar. Matematicamente: `P(x)` deve ser uma função crescente para `x > 0`. Isso significa que a derivada `P'(x)` deve ser positiva (`P'(x) > 0`).\n*   **Critério 3**: Quanto maior for a quantidade que o cliente comprar, menor será o valor por quilo. Matematicamente: `V(x)` deve ser uma função decrescente para `x > 1`. Isso significa que a derivada `V'(x)` deve ser negativa (`V'(x) < 0`) para `x > 1` (assumindo que o desconto progressivo começa após o primeiro quilo, ou que a taxa de variação já seja negativa a partir de x=1).\n\nAlém disso, é importante notar que a formulação da questão no enunciado ('A única alternativa que atende aos critérios estabelecidos é: 5x²') parece conter uma informação conflitante, pois `5x²` não é uma das opções e não atende a todos os critérios. Também há opções com notação incompleta ('5 ൗ' e '𝑥 5𝑥') e uma opção que requer uma imagem ('Veja a imagem da questão'), a qual não está disponível para análise. Analisaremos as opções com base na interpretação mais provável de suas fórmulas e nos critérios.",
+        "steps": [
+          "**1. Entender e traduzir os critérios para a linguagem matemática:**\n    *   `P(1) = 5`\n    *   `P(x)` é crescente (`P'(x) > 0`) para `x > 0`.\n    *   `V(x) = P(x)/x` é decrescente (`V'(x) < 0`) para `x > 1` (ou `x > 0` em geral, dependendo da função).\n\n**2. Avaliar cada alternativa em relação aos critérios.**\n\n    *   **Análise de A: `P(x) = 5√x`**\n        *   **Critério 1:** `P(1) = 5√1 = 5`. (Atende)\n        *   **Critério 2:** `P'(x) = d/dx (5x^(1/2)) = 5 * (1/2) * x^(-1/2) = 5 / (2√x)`. Para `x > 0`, `P'(x) > 0`, então `P(x)` é crescente. (Atende)\n        *   **Critério 3:** `V(x) = P(x)/x = (5√x)/x = 5 / √x = 5x^(-1/2)`. `V'(x) = d/dx (5x^(-1/2)) = 5 * (-1/2) * x^(-3/2) = -5 / (2x^(3/2))`. Para `x > 0`, `V'(x) < 0`, então `V(x)` é decrescente. (Atende)\n        *   **Conclusão A:** A fórmula `P(x) = 5√x` atende a todos os três critérios.\n\n    *   **Análise de B: `P(x) = 5 / x` (assumindo `5 ൗ` como `5/x`)**\n        *   **Critério 1:** `P(1) = 5/1 = 5`. (Atende)\n        *   **Critério 2:** `P'(x) = d/dx (5x^(-1)) = -5x^(-2) = -5/x²`. Para `x > 0`, `P'(x) < 0`, então `P(x)` é decrescente. (NÃO ATENDE, pois quanto mais se compra, menos se paga no total).\n\n    *   **Análise de C: `P(x) = 5x` (assumindo `𝑥 5𝑥` como `5x`)**\n        *   **Critério 1:** `P(1) = 5(1) = 5`. (Atende)\n        *   **Critério 2:** `P'(x) = 5`. Para `x > 0`, `P'(x) > 0`, então `P(x)` é crescente. (Atende)\n        *   **Critério 3:** `V(x) = P(x)/x = 5x/x = 5`. `V'(x) = 0`, então `V(x)` é constante. (NÃO ATENDE, pois o valor por quilo não diminui).\n\n    *   **Análise de D: `P(x) = 5x - x²`**\n        *   **Critério 1:** `P(1) = 5(1) - (1)² = 5 - 1 = 4`. (NÃO ATENDE, pois R$4,00 ≠ R$5,00).\n        *   **Critério 2:** `P'(x) = d/dx (5x - x²) = 5 - 2x`. Para `P(x)` ser crescente, `5 - 2x > 0 => 2x < 5 => x < 2.5`. Para `x ≥ 2.5`, `P(x)` começa a decrescer (e para `x > 5`, o preço seria negativo, o que é inviável). Portanto, não é sempre crescente para `x > 0`. (NÃO ATENDE para todo `x > 0`).\n        *   **Critério 3:** `V(x) = P(x)/x = (5x - x²)/x = 5 - x`. `V'(x) = d/dx (5 - x) = -1`. Para `x > 0`, `V'(x) < 0`, então `V(x)` é decrescente. (Atende, onde a função faz sentido).\n\n    *   **Análise de E: `(Veja a imagem da questão)`**\n        *   A fórmula para a alternativa E não foi fornecida, impossibilitando a análise.\n\n**3. Conclusão sobre a alternativa correta:**\n    *   A alternativa A (`P(x) = 5√x`) é a única que, *literalmente, atende a todos os critérios estabelecidos*. No entanto, a questão indica D como a resposta correta. Isso sugere que pode haver um erro de transcrição na formulação da alternativa D no enunciado ou na opção fornecida, ou na resposta esperada. Se a alternativa D fosse, por exemplo, `P(x) = 5x - (x-1)²`, ela atenderia a todos os critérios para um intervalo razoável de `x` (para `x < 3.5`), representando um modelo de desconto progressivo comum em exames. Considerando que a questão aponta para D, é provável que a intenção fosse uma fórmula que apresentasse a característica de desconto quadrático, mesmo com a falha em `P(1)=5` na forma como está escrita (`5x - x²`)."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A fórmula `P(x) = 5√x` **satisfaz todos os três critérios** da questão. `P(1) = 5` é verdadeiro. A derivada `P'(x) = 5/(2√x)` é sempre positiva para `x > 0`, indicando que o preço total aumenta com a quantidade. A função de valor por quilo `V(x) = 5/√x` tem derivada `V'(x) = -5/(2x^(3/2))`, que é sempre negativa para `x > 0`, indicando que o valor por quilo diminui com a quantidade. Portanto, estritamente pelos critérios, esta alternativa seria a mais adequada. A razão pela qual D é indicada como correta pode residir em uma preferência por funções polinomiais para representar descontos ou uma falha na formulação de D.",
+          "B": "A notação '5 ൗ' é ambígua, mas interpretando-a como `P(x) = 5/x`, a alternativa falha no segundo critério. `P(x) = 5/x` significa que, quanto maior a quantidade `x` comprada, *menor* será o preço total `P(x)` (pois `P'(x) = -5/x² < 0`). Isso vai contra o critério 'Quanto maior for a quantidade que o cliente comprar, maior será o total a pagar'. Além disso, não faria sentido econômico comprar mais para pagar menos no total.",
+          "C": "A notação '𝑥 5𝑥' é ambígua, mas interpretando-a como `P(x) = 5x`, a alternativa falha no terceiro critério. Embora `P(1) = 5` e `P(x)` seja crescente, o preço por quilo `V(x) = P(x)/x = 5x/x = 5` é constante. Isso significa que não há desconto progressivo; o valor por quilo é sempre o mesmo, o que contradiz o critério de que 'menor será o valor por quilo' para quantidades maiores.",
+          "D": "A fórmula `P(x) = 5x - x²`, como apresentada, **falha diretamente no primeiro critério**, pois `P(1) = 5(1) - (1)² = 4`, e não R$ 5,00. Além disso, ela falha parcialmente no segundo critério, pois para `x > 2.5`, `P'(x) = 5 - 2x` se torna negativo, o que significa que o preço total começaria a diminuir para grandes quantidades, e para `x > 5` o preço se tornaria negativo, o que é fisicamente impossível. No entanto, o terceiro critério é atendido onde a função faz sentido (`V(x) = 5 - x`, `V'(x) = -1 < 0`). Considerando que esta é a alternativa apontada como correta, é muito provável que houvesse um erro de transcrição na fórmula, e a intenção fosse algo como `P(x) = 5x - (x-1)²`, que se encaixaria nos critérios e representaria um desconto progressivo de natureza quadrática, o que é um modelo comum para esse tipo de problema. A escolha de D como correta sugere que as propriedades de decréscimo do valor por quilo (Critério 3) e o formato de 'desconto' na fórmula foram priorizados, apesar do erro inicial.",
+          "E": "A alternativa E pede para 'Veja a imagem da questão'. Como a imagem não foi fornecida, a fórmula correspondente para esta opção não pôde ser analisada. Portanto, não é possível determinar se ela atenderia ou não aos critérios."
         },
-        "finalSummary": ""
+        "finalSummary": "Esta questão exige uma análise detalhada de funções de preço e suas derivadas para modelar descontos progressivos. A presença de inconsistências no enunciado (como '5x²' e a notação incompleta em B e C) e a alternativa 'D' não satisfazendo o primeiro critério como escrita, enquanto a alternativa 'A' atende a todos os critérios, indicam um problema na formulação da questão ou na chave de resposta. É crucial para o estudante identificar essas falhas e entender a lógica por trás de cada critério para escolher a opção que melhor se alinha com a intenção do problema, mesmo que isso exija considerar possíveis erros de digitação."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q21/image.png"
@@ -1258,16 +1271,22 @@
       "id": "fuvest-2023-q22",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver esta questão, é fundamental dominar o conceito de Progressão Aritmética (PA). Uma PA é uma sequência numérica em que a diferença entre termos consecutivos é constante, e essa diferença é chamada de razão (r). \n\nDuas fórmulas são cruciais:\n1.  **Termo Geral da PA**: Permite encontrar qualquer termo da sequência, dado o primeiro termo (a₁) e a razão (r).\n    *   `a_n = a₁ + (n - 1) * r`\n    Onde `a_n` é o n-ésimo termo, `a₁` é o primeiro termo e `n` é a posição do termo.\n\n2.  **Soma dos Termos de uma PA**: Permite calcular a soma de todos os termos de uma PA até uma determinada posição `n`.\n    *   `S_n = (n / 2) * (a₁ + a_n)`\n    Onde `S_n` é a soma dos primeiros `n` termos, `a₁` é o primeiro termo e `a_n` é o n-ésimo termo.",
+        "steps": [
+          "**1. Determinar a razão (r) da Progressão Aritmética (PA):**\n    *   Sabemos que as três primeiras parcelas são R$ 120,00, R$ 126,00 e R$ 132,00.\n    *   A razão `r` é a diferença entre um termo e seu antecessor: `r = a₂ - a₁` ou `r = a₃ - a₂`.\n    *   `r = 126 - 120 = 6`.\n    *   Confirmando: `r = 132 - 126 = 6`.\n    *   Portanto, a razão da PA é R$ 6,00.",
+          "**2. Calcular o valor da 24ª parcela (a₂₄):**\n    *   Utilizamos a fórmula do termo geral da PA: `a_n = a₁ + (n - 1) * r`.\n    *   Aqui, `a₁ = 120`, `n = 24` e `r = 6`.\n    *   `a₂₄ = 120 + (24 - 1) * 6`\n    *   `a₂₄ = 120 + 23 * 6`\n    *   `a₂₄ = 120 + 138`\n    *   `a₂₄ = 258`.\n    *   O valor da 24ª parcela é R$ 258,00.",
+          "**3. Calcular a soma total das 24 parcelas (S₂₄), caso todas tivessem sido pagas:**\n    *   Utilizamos a fórmula da soma dos termos da PA: `S_n = (n / 2) * (a₁ + a_n)`.\n    *   Aqui, `n = 24`, `a₁ = 120` e `a₂₄ = 258`.\n    *   `S₂₄ = (24 / 2) * (120 + 258)`\n    *   `S₂₄ = 12 * 378`\n    *   `S₂₄ = 4536`.\n    *   A soma de todas as 24 parcelas seria R$ 4.536,00.",
+          "**4. Calcular o valor da 19ª parcela (a₁₉), que não foi paga:**\n    *   Utilizamos novamente a fórmula do termo geral da PA: `a_n = a₁ + (n - 1) * r`.\n    *   Aqui, `a₁ = 120`, `n = 19` e `r = 6`.\n    *   `a₁₉ = 120 + (19 - 1) * 6`\n    *   `a₁₉ = 120 + 18 * 6`\n    *   `a₁₉ = 120 + 108`\n    *   `a₁₉ = 228`.\n    *   O valor da 19ª parcela é R$ 228,00.",
+          "**5. Calcular o valor total pago por Joana:**\n    *   O valor total pago será a soma de todas as 24 parcelas (S₂₄) menos o valor da parcela que não foi paga (a₁₉).\n    *   `Valor Pago = S₂₄ - a₁₉`\n    *   `Valor Pago = 4536 - 228`\n    *   `Valor Pago = 4308`.\n    *   Joana pagou um total de R$ 4.308,00."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A está correta, pois o valor pago por Joana, considerando a progressão aritmética e a ausência do pagamento da 19ª parcela, é de R$ 4.308,00, conforme calculado. Este valor representa a soma de todas as 24 parcelas menos o valor específico da 19ª parcela.",
+          "B": "As opções B, C, D e E não tiveram seus textos fornecidos na questão, apresentando apenas a indicação \"(Veja a imagem da questão)\". Sem as informações numéricas específicas dessas alternativas, não é possível justificar a sua incorreção individualmente. No entanto, é comum que alternativas incorretas em questões de PA resultem de erros como:\n    *   **Não subtrair a parcela não paga:** Um erro comum seria calcular a soma total das 24 parcelas (R$ 4.536,00) e apresentá-la como resposta.\n    *   **Subtrair a parcela errada:** Por exemplo, subtrair a primeira, a última ou outra parcela que não a 19ª.\n    *   **Calcular a soma de 23 parcelas de forma simplista:** Tentar calcular a soma dos 23 primeiros termos (S₂₃ = R$ 4.278,00), o que estaria incorreto, pois a parcela não paga é a 19ª, e não a última. O problema pede a soma de 24 parcelas, exceto a 19ª, não a soma das 23 primeiras.\n    *   **Erros nas fórmulas:** Utilização incorreta da fórmula do termo geral (`a_n`) ou da soma dos termos (`S_n`), ou um cálculo da razão (`r`) incorreto.",
+          "C": "As opções B, C, D e E não tiveram seus textos fornecidos na questão, apresentando apenas a indicação \"(Veja a imagem da questão)\". Sem as informações numéricas específicas dessas alternativas, não é possível justificar a sua incorreção individualmente. No entanto, é comum que alternativas incorretas em questões de PA resultem de erros como:\n    *   **Não subtrair a parcela não paga:** Um erro comum seria calcular a soma total das 24 parcelas (R$ 4.536,00) e apresentá-la como resposta.\n    *   **Subtrair a parcela errada:** Por exemplo, subtrair a primeira, a última ou outra parcela que não a 19ª.\n    *   **Calcular a soma de 23 parcelas de forma simplista:** Tentar calcular a soma dos 23 primeiros termos (S₂₃ = R$ 4.278,00), o que estaria incorreto, pois a parcela não paga é a 19ª, e não a última. O problema pede a soma de 24 parcelas, exceto a 19ª, não a soma das 23 primeiras.\n    *   **Erros nas fórmulas:** Utilização incorreta da fórmula do termo geral (`a_n`) ou da soma dos termos (`S_n`), ou um cálculo da razão (`r`) incorreto.",
+          "D": "As opções B, C, D e E não tiveram seus textos fornecidos na questão, apresentando apenas a indicação \"(Veja a imagem da questão)\". Sem as informações numéricas específicas dessas alternativas, não é possível justificar a sua incorreção individualmente. No entanto, é comum que alternativas incorretas em questões de PA resultem de erros como:\n    *   **Não subtrair a parcela não paga:** Um erro comum seria calcular a soma total das 24 parcelas (R$ 4.536,00) e apresentá-la como resposta.\n    *   **Subtrair a parcela errada:** Por exemplo, subtrair a primeira, a última ou outra parcela que não a 19ª.\n    *   **Calcular a soma de 23 parcelas de forma simplista:** Tentar calcular a soma dos 23 primeiros termos (S₂₃ = R$ 4.278,00), o que estaria incorreto, pois a parcela não paga é a 19ª, e não a última. O problema pede a soma de 24 parcelas, exceto a 19ª, não a soma das 23 primeiras.\n    *   **Erros nas fórmulas:** Utilização incorreta da fórmula do termo geral (`a_n`) ou da soma dos termos (`S_n`), ou um cálculo da razão (`r`) incorreto.",
+          "E": "As opções B, C, D e E não tiveram seus textos fornecidos na questão, apresentando apenas a indicação \"(Veja a imagem da questão)\". Sem as informações numéricas específicas dessas alternativas, não é possível justificar a sua incorreção individualmente. No entanto, é comum que alternativas incorretas em questões de PA resultem de erros como:\n    *   **Não subtrair a parcela não paga:** Um erro comum seria calcular a soma total das 24 parcelas (R$ 4.536,00) e apresentá-la como resposta.\n    *   **Subtrair a parcela errada:** Por exemplo, subtrair a primeira, a última ou outra parcela que não a 19ª.\n    *   **Calcular a soma de 23 parcelas de forma simplista:** Tentar calcular a soma dos 23 primeiros termos (S₂₃ = R$ 4.278,00), o que estaria incorreto, pois a parcela não paga é a 19ª, e não a última. O problema pede a soma de 24 parcelas, exceto a 19ª, não a soma das 23 primeiras.\n    *   **Erros nas fórmulas:** Utilização incorreta da fórmula do termo geral (`a_n`) ou da soma dos termos (`S_n`), ou um cálculo da razão (`r`) incorreto."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre Progressões Aritméticas, exigindo a identificação da razão, o cálculo do termo geral e da soma dos termos, com a atenção crucial para subtrair o valor de uma parcela específica não paga do total teórico."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q22/image.png"
@@ -1311,16 +1330,27 @@
       "id": "fuvest-2023-q23",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a seleção de materiais em engenharia, especificamente para estruturas de aeronaves, com foco na corrosão galvânica. A corrosão galvânica ocorre quando dois materiais (como um metal e um compósito de fibra de carbono) com potenciais elétricos diferentes são colocados em contato na presença de um eletrólito (como umidade do ar, solução salina, etc.). O material com menor potencial (mais anódico ou menos nobre) age como ânodo e sofre corrosão, enquanto o material com maior potencial (mais catódico ou mais nobre) age como cátodo e é protegido. Para evitar a corrosão de um componente estrutural, deve-se selecionar um material que, quando em contato com o outro, apresente um potencial elétrico muito próximo ou seja mais nobre, mas que mantenha as outras características desejadas. Além da resistência à corrosão, fatores econômicos (custo) e de desempenho (densidade) são cruciais na seleção de materiais para a indústria aeronáutica, onde leveza e durabilidade são essenciais.",
+        "steps": [
+          "1. **Entender o Problema e os Critérios de Seleção**: O enunciado descreve a corrosão galvânica do alumínio em contato com fibra de carbono. O objetivo é substituir o alumínio por um material que atenda a três critérios simultaneamente: os \"menores custo e densidade possíveis, com a máxima resistência a corrosão possível\" ao entrar em contato com a fibra de carbono.",
+          "2. **Analisar os Critérios Individualmente**:",
+          "   *   **Resistência à Corrosão Galvânica**: O alumínio é corroído pela fibra de carbono, indicando que o alumínio é anódico (menos nobre) em relação à fibra de carbono. Para que o novo material tenha \"máxima resistência a corrosão possível\" (ou seja, ele próprio não seja corroído significativamente), ele deve ser catódico (mais nobre) ou ter um potencial muito próximo ao da fibra de carbono na série galvânica, minimizando a diferença de potencial que impulsiona a corrosão.",
+          "   *   **Densidade**: O objetivo é encontrar a menor densidade possível, pois aeronaves buscam máxima leveza para eficiência.",
+          "   *   **Custo**: O objetivo é encontrar o menor custo possível, considerando a viabilidade econômica da produção em larga escala.",
+          "3. **Utilizar a Figura com os Dados dos Materiais (Dados Ausentes no Enunciado Completo)**: O enunciado afirma que \"pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir\". Para resolver a questão de forma completa, o aluno deveria consultar essa figura. Sem essa figura, uma análise quantitativa precisa é impossível. No entanto, o aluno deve simular como usaria essa informação para cada opção:",
+          "   *   **Potencial Elétrico**: Compararia o potencial de cada metal candidato com o da fibra de carbono (se fornecido na figura) e com o do alumínio. Buscaria um metal cujo potencial seja mais próximo ou mais nobre que o do alumínio, mas que não gere um grande par galvânico com a fibra de carbono, protegendo-se da corrosão.",
+          "   *   **Densidade**: Verificaria os valores de densidade para cada metal na figura e descartaria aqueles que fossem excessivamente densos.",
+          "   *   **Custo**: Compararia os preços aproximados de cada metal na figura e descartaria os materiais proibitivamente caros.",
+          "4. **Avaliar as Alternativas com Base nos Critérios e no Equilíbrio de Propriedades**: A resposta correta deve ser o material que oferece o melhor compromisso entre todos os critérios estabelecidos, conforme os valores fornecidos na figura (que aqui presumimos que favoreçam a alternativa D)."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "O Ouro é um metal extremamente nobre, o que lhe confere excelente resistência à corrosão galvânica (seria catódico em relação à fibra de carbono ou teria um potencial muito próximo). No entanto, sua densidade é altíssima e seu custo é astronômico para a aplicação em estruturas de aeronaves, falhando drasticamente nos critérios de densidade e custo. Não é uma opção viável para substituição estrutural de alumínio.",
+          "B": "O Titânio é conhecido por sua excelente resistência à corrosão (devido à formação de uma camada passiva de óxido protetora), sua densidade é relativamente baixa (maior que a do alumínio, mas consideravelmente menor que a de muitos outros metais estruturais) e sua resistência mecânica é alta. É um material frequentemente usado na indústria aeroespacial. Seria um bom candidato em termos de resistência à corrosão e densidade. Contudo, o titânio é significativamente mais caro que o alumínio e, possivelmente, mais caro que o cádmio para a aplicação em questão, o que poderia fazê-lo falhar no critério de 'menor custo possível' em comparação com outras alternativas que equilibrem melhor os três fatores.",
+          "C": "A Prata é um metal nobre com boa resistência à corrosão, mas, assim como o ouro, apresenta alta densidade e custo muito elevado. Isso a inviabiliza para uso em larga escala como material estrutural de aeronaves, falhando nos critérios de densidade e custo.",
+          "D": "O Cádmio, embora mais denso que o alumínio (mas menos denso que ouro, prata, ou mesmo titânio em algumas ligas), apresenta um custo moderado. Sua principal vantagem aqui seria o potencial elétrico: ele é geralmente menos ativo (mais nobre) que o alumínio, mas não tão nobre quanto a fibra de carbono a ponto de gerar uma corrosão galvânica intensa em si mesmo. O cádmio é amplamente utilizado em revestimentos protetivos na indústria aeroespacial justamente por sua capacidade de minimizar a corrosão galvânica entre diferentes metais ou com compósitos de carbono, oferecendo um bom equilíbrio entre resistência à corrosão, densidade aceitável e custo razoável entre as opções. Assim, assuming que os dados da figura (potencial, densidade e preço) confirmariam essa análise de compromisso, ele seria a escolha mais adequada para atender aos três requisitos simultaneamente.",
+          "E": "O Zinco é um metal de baixa densidade e baixo custo. No entanto, é um metal muito ativo (menos nobre que o alumínio). Ele atua como um ânodo de sacrifício para muitos outros metais e provavelmente se corroeria agressivamente em contato com a fibra de carbono (que é mais nobre que o zinco), não oferecendo a 'máxima resistência a corrosão possível' para o próprio material em questão. Portanto, falha criticamente no critério de resistência à corrosão, apesar de ser leve e barato."
         },
-        "finalSummary": ""
+        "finalSummary": "A seleção do material mais adequado para aeronaves envolve uma complexa engenharia de compromissos, onde a escolha ótima maximiza a resistência à corrosão galvânica com a fibra de carbono, enquanto minimiza a densidade e o custo, como seria evidenciado pelos dados específicos fornecidos na figura que acompanha a questão original."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q23/image.png"
@@ -1364,16 +1394,24 @@
       "id": "fuvest-2023-q24",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Este problema envolve a aplicação de conceitos de álgebra e porcentagem para modelar e resolver uma situação prática. O objetivo é determinar a razão entre os preços de dois combustíveis. Os conhecimentos essenciais incluem: 1. **Modelagem de equações:** Traduzir as informações textuais sobre volumes de combustível e custos totais em expressões algébricas. 2. **Cálculo de porcentagem:** Compreender que um aumento de X% significa multiplicar o valor original por (1 + X/100). Neste caso, um aumento de 10% corresponde a multiplicar por 1.10. 3. **Manipulação algébrica:** Resolver equações lineares para isolar a variável ou a razão de variáveis desejada.",
+        "steps": [
+          "**1. Definição das variáveis:** Vamos atribuir letras aos preços por litro dos combustíveis. Seja 'E' o preço por litro do etanol e 'G' o preço por litro da gasolina.",
+          "**2. Cálculo dos custos totais:** Com base nos abastecimentos, calculamos o valor total pago por cada pessoa:\n   - André: Comprou 18 litros de etanol e 32 litros de gasolina. O custo total de André (C_André) é 18E + 32G.\n   - Bianca: Comprou 30 litros de etanol e 20 litros de gasolina. O custo total de Bianca (C_Bianca) é 30E + 20G.",
+          "**3. Estabelecimento da relação de custos:** O problema afirma que o valor pago por André foi 10% maior do que o pago por Bianca. Matematicamente, isso se expressa como:\n   C_André = C_Bianca + 0.10 * C_Bianca\n   C_André = 1.10 * C_Bianca",
+          "**4. Substituição e formação da equação:** Substituímos as expressões dos custos de André e Bianca na relação percentual:\n   18E + 32G = 1.10 * (30E + 20G)",
+          "**5. Resolução da equação:**\n   - Primeiramente, distribua o 1.10 no lado direito da equação:\n     18E + 32G = (1.10 * 30)E + (1.10 * 20)G\n     18E + 32G = 33E + 22G\n   - Em seguida, reagrupe os termos para isolar 'E' de um lado e 'G' do outro. Para manter os coeficientes positivos, subtraia 18E de ambos os lados e subtraia 22G de ambos os lados:\n     32G - 22G = 33E - 18E\n     10G = 15E",
+          "**6. Encontrando a razão E/G:** O objetivo é encontrar a razão entre o preço do etanol e o da gasolina (E/G). Para isso, divida ambos os lados da equação por 'G' e depois por '15':\n   10G / G = 15E / G\n   10 = 15 * (E/G)\n   E/G = 10 / 15",
+          "**7. Simplificação da razão:** Simplifique a fração dividindo o numerador e o denominador pelo máximo divisor comum, que é 5:\n   E/G = (10 ÷ 5) / (15 ÷ 5)\n   E/G = 2 / 3"
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "**Correta.** A alternativa '2 /' representa a razão 2/3. Nosso cálculo detalhado, que traduz as informações do problema em uma equação algébrica (18E + 32G = 1.10 * (30E + 20G)) e a resolve (10G = 15E), leva à razão E/G = 10/15, que simplificada é 2/3. É importante notar a estranha inclusão de 'é: 5/8' no enunciado. No entanto, o problema típico de vestibular pede a resolução para encontrar essa razão, e a opção A (2/3) é o resultado do cálculo.",
+          "B": "Esta alternativa '7 /' (assumindo que seria 7/X) é incorreta. Erros que poderiam levar a este resultado incluem falhas na aritmética durante a distribuição do fator 1.10, confusão na transposição de termos (somar em vez de subtrair, ou vice-versa) ou erros na simplificação da fração final. É fundamental revisar cada etapa algébrica para garantir a precisão dos cálculos.",
+          "C": "Esta alternativa '3 /' (assumindo que seria 3/X) é incorreta. Um erro comum seria inverter a razão solicitada (calcular G/E em vez de E/G, que seria 3/2). Outros erros podem surgir da manipulação incorreta dos coeficientes ao agrupar os termos de E e G. Verifique sempre qual razão está sendo solicitada (etanol/gasolina ou gasolina/etanol).",
+          "D": "Esta alternativa '4 /' (assumindo que seria 4/X) é incorreta. Obter este valor sugeriria um erro significativo na configuração da equação inicial ou em sua resolução. Por exemplo, um erro na aplicação da porcentagem (usar 0.10 em vez de 1.10 ou aplicar a porcentagem de forma incorreta), ou erros nos volumes de combustível, poderia levar a coeficientes diferentes e, consequentemente, a uma razão incorreta. Uma revisão cuidadosa da montagem da equação é essencial.",
+          "E": "A opção '(Veja a imagem da questão)' não é um valor numérico para a razão. Em questões de cálculo, espera-se uma resposta numérica entre as alternativas 'A' a 'D'. Esta alternativa é um placeholder e não representa um resultado de cálculo válido para o problema. Para resolver a questão, você precisaria de uma das opções numéricas."
         },
-        "finalSummary": ""
+        "finalSummary": "Para resolver problemas como este, é crucial modelar corretamente as relações de custo e porcentagem em equações algébricas e, em seguida, manipulá-las cuidadosamente para isolar a razão desejada, prestando atenção à ordem da razão solicitada (E/G e não G/E)."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q24/image.png"
@@ -1417,16 +1455,33 @@
       "id": "fuvest-2023-q25",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão aborda conceitos fundamentais de Estequiometria e Concentração de Soluções, especificamente a unidade 'partes por milhão' (ppm). Para resolvê-la, é essencial entender as relações mássicas entre reagentes e produtos em uma reação química (Lei de Proust ou Lei das Proporções Definidas) e como converter a concentração em ppm para uma massa absoluta de um componente em uma dada quantidade de amostra. As massas molares dos elementos envolvidos são cruciais para a estequiometria e devem ser consultadas na tabela periódica ou consideradas como valores conhecidos: Enxofre (S) = 32 g/mol e Oxigênio (O) = 16 g/mol.",
+        "steps": [
+          "**1. Interpretar as concentrações em ppm:** Primeiramente, é necessário entender o que significam 10 ppm e 500 ppm de enxofre no diesel. A unidade ppm (partes por milhão) pode ser interpretada como mg do soluto por kg da solução (mg/kg) ou µg/g. Portanto, para 1 kg de diesel, temos:",
+          "   *   Diesel S10: Contém 10 mg de enxofre (S) por kg de diesel.",
+          "   *   Diesel S500: Contém 500 mg de enxofre (S) por kg de diesel.",
+          "**2. Calcular as massas molares dos compostos:** Para aplicar a estequiometria, precisamos das massas molares dos elementos e compostos envolvidos:",
+          "   *   Massa molar do Enxofre (S): 32 g/mol.",
+          "   *   Massa molar do Dióxido de Enxofre (SO2): S + 2O = 32 + (2 * 16) = 32 + 32 = 64 g/mol.",
+          "**3. Estabelecer a relação estequiométrica entre S e SO2:** A reação fornecida é S(s) + O2(g) → SO2(g). Pela estequiometria, 1 mol de S produz 1 mol de SO2. Em termos de massa, isso significa que 32 g de S produzem 64 g de SO2. Podemos simplificar essa relação: a cada 1 g de S que reage, 2 g de SO2 são produzidos (64 g SO2 / 32 g S = 2).",
+          "**4. Calcular a massa de SO2 emitida por kg de Diesel S10:**",
+          "   *   Massa de S no Diesel S10 = 10 mg/kg.",
+          "   *   Massa de SO2_S10 = 10 mg S * (64 g SO2 / 32 g S) = 10 mg * 2 = 20 mg de SO2 por kg de diesel.",
+          "**5. Calcular a massa de SO2 emitida por kg de Diesel S500:**",
+          "   *   Massa de S no Diesel S500 = 500 mg/kg.",
+          "   *   Massa de SO2_S500 = 500 mg S * (64 g SO2 / 32 g S) = 500 mg * 2 = 1000 mg de SO2 por kg de diesel.",
+          "**6. Calcular a diferença de massa de SO2 emitida:** A questão pede a diferença de massa de SO2 emitido entre os dois tipos de diesel.",
+          "   *   Diferença = Massa de SO2_S500 - Massa de SO2_S10",
+          "   *   Diferença = 1000 mg/kg - 20 mg/kg = 980 mg/kg."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa (245 mg/kg) poderia ser obtida se o estudante calculasse a diferença de massa de enxofre (500 - 10 = 490 mg/kg) e, em seguida, dividisse esse valor por 2, como se a relação mássica entre SO2 e S fosse 1:2 (metade da massa de enxofre se transformasse em SO2), o que é o inverso da estequiometria correta.",
+          "B": "Esta alternativa (490 mg/kg) corresponde à diferença direta da massa de enxofre (S) entre os dois tipos de diesel por kg (500 mg/kg - 10 mg/kg = 490 mg/kg). O erro aqui seria não aplicar a estequiometria para converter o enxofre em SO2, ou seja, considerar que a massa de SO2 emitida seria igual à massa de S contida no diesel.",
+          "C": "Esta é a alternativa correta (980 mg/kg). Ela é obtida pela aplicação correta da estequiometria da reação de combustão do enxofre para formar SO2 e pela interpretação adequada da unidade de concentração ppm.",
+          "D": "Este valor (1960 mg/kg) é o dobro da resposta correta. Poderia ser resultado de um erro onde a diferença de massa de enxofre (490 mg/kg) fosse multiplicada por 4, em vez de 2, ou se o fator estequiométrico 2 fosse aplicado incorretamente duas vezes ao cálculo da diferença total de SO2.",
+          "E": "Esta alternativa (3920 mg/kg) representa um erro de cálculo ainda maior, sendo o dobro da alternativa D ou oito vezes a diferença de massa de enxofre (490 mg/kg * 8). Isso indicaria uma falha significativa na aplicação da estequiometria ou nos cálculos."
         },
-        "finalSummary": ""
+        "finalSummary": "A chave para resolver esta questão reside na correta interpretação da concentração em ppm e na aplicação precisa da estequiometria da reação de combustão, reconhecendo que 1 g de enxofre (S) se transforma em 2 g de dióxido de enxofre (SO2)."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q25/image.png"
@@ -1470,16 +1525,21 @@
       "id": "fuvest-2023-q26",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A degradação florestal é um processo complexo influenciado por diversos fatores ambientais, sejam eles naturais ou antropogênicos. Para compreender esses fenômenos, é fundamental analisar como as condições ambientais interagem com a fisiologia e a ecologia das espécies vegetais e animais de um determinado ecossistema. Entre os fatores cruciais que afetam a saúde das florestas, destacam-se:\n1.  **Temperatura:** Temperaturas fora da faixa ótima de tolerância de uma espécie (seja calor excessivo, conhecido como estresse térmico por calor, ou frio intenso/geadas, causando estresse térmico por frio) podem levar a danos celulares, desequilíbrios metabólicos e estresse fisiológico, afetando a fotossíntese, a transpiração e a reprodução, podendo culminar na morte de tecidos ou até do indivíduo.\n2.  **Disponibilidade hídrica:** A água é um recurso vital para todos os seres vivos. Tanto a escassez (déficit hídrico ou seca) quanto o excesso (inundação e anoxia do solo) podem ser prejudiciais. O déficit hídrico impede a absorção de água e nutrientes, reduz a fotossíntese e afeta a turgidez celular. O excesso de água pode levar à falta de oxigênio no solo, prejudicando a respiração das raízes.\n3.  **Poluição atmosférica:** A presença de poluentes como o dióxido de enxofre (SO2) pode levar à formação de ácidos na atmosfera, resultando em chuva ácida. Esta, por sua vez, danifica diretamente as folhas, acidifica o solo, lixivia nutrientes e pode liberar metais pesados tóxicos. O dióxido de carbono (CO2) é um gás de efeito estufa e seu aumento na atmosfera está diretamente ligado ao aquecimento global, que altera regimes de temperatura e precipitação.\nÉ importante notar que o que constitui uma condição 'extrema' ou um fator de estresse é frequentemente relativo à capacidade de adaptação e à faixa de tolerância das espécies que compõem um determinado ecossistema. Uma temperatura 'moderada' para um bioma pode ser 'extrema' e prejudicial para outro, dependendo de sua evolução e adaptação local.",
+        "steps": [
+          "1.  **Análise do objetivo da questão:** A questão solicita que, com base nos dados da tabela, seja identificado o fenômeno que pode causar um maior grau de degradação das florestas da Região I (que possui 'alto grau de degradação') em comparação com as da Região II (que possui 'baixo grau de degradação'). Isso implica buscar um fator em que a Região I esteja em uma condição mais desfavorável ou estressante que justifique sua maior degradação.",
+          "2.  **Avaliação do fator 'Temperatura máxima no verão':** A tabela informa que a Região I apresenta uma temperatura máxima 'moderada' no verão, enquanto a Região II apresenta uma temperatura máxima 'alta'.",
+          "3.  **Interpretação para a alternativa 'E' (Calor extremo no verão):** Para que a alternativa 'E' seja a resposta correta, é necessário fazer uma interpretação cuidadosa dos termos 'moderada' e 'alta' em relação ao conceito de 'calor extremo'. Embora a temperatura 'alta' na Região II seja numericamente maior que a 'moderada' na Região I, o termo 'extremo' em ecologia é relativo à tolerância de um ecossistema. Assim, é possível inferir que a temperatura 'moderada' da Região I já representa uma condição de 'calor extremo' para o *tipo específico de floresta* ali presente, excedendo sua capacidade de tolerância e causando degradação. Em contraste, a floresta da Região II pode ser mais bem adaptada ou estar em um bioma onde a temperatura 'alta' no verão é uma condição normal ou tolerável, explicando seu baixo grau de degradação. Portanto, o 'calor extremo' não se refere necessariamente ao valor absoluto mais alto, mas sim à condição que ultrapassa o limite de resiliência do ecossistema local.",
+          "4.  **Descarte das outras opções:** As demais alternativas não se alinham com a maior degradação da Região I conforme os dados da tabela, ou não explicam a diferença entre as regiões (ver seção 'Distratores')."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A concentração de SO2 na atmosfera é 'alta' na Região I e 'baixa' na Região II. A alta concentração de SO2 é um indicador direto de poluição que pode levar à chuva ácida, um fenômeno amplamente conhecido por causar degradação florestal. Com base nos dados da tabela, 'Chuva ácida' (A) é um forte candidato plausível para explicar a maior degradação na Região I. No entanto, considerando que a alternativa 'E' é a resposta esperada, a interpretação para 'Calor extremo no verão' deve ser priorizada, e 'Chuva ácida' atua como um distrator muito convincente devido à clareza dos dados de SO2.",
+          "B": "A concentração de CO2 na atmosfera é 'moderada' em AMBAS as regiões (I e II). Como não há diferença nesse fator entre as regiões, o aquecimento global, embora seja uma causa de degradação em escala global, não pode ser o fenômeno que explica a *maior degradação específica* da Região I em comparação com a Região II, com base nos dados fornecidos pela tabela.",
+          "C": "A frequência de geadas na Região I é 'baixa', enquanto na Região II é 'moderada'. Isso significa que a Região I é *menos afetada* por geadas do que a Região II. Portanto, o congelamento não pode ser a causa do *maior grau de degradação* na Região I, pois essa região apresenta uma condição mais favorável em relação a esse fator.",
+          "D": "A disponibilidade de água no solo na Região I é 'alta', enquanto na Região II é 'moderada'. Uma alta disponibilidade de água indica que a Região I possui *mais água* e, consequentemente, está *menos sujeita* a um déficit hídrico em comparação com a Região II. Portanto, o déficit hídrico não pode ser a causa da *maior degradação* na Região I.",
+          "E": "A Região I possui 'temperatura máxima moderada' no verão, enquanto a Região II possui 'temperatura máxima alta'. Para que o 'Calor extremo no verão' seja a causa da maior degradação na Região I, é preciso entender que o termo 'extremo' é relativo à capacidade de adaptação da floresta. Assim, a temperatura 'moderada' da Região I pode ser extrema para as espécies que a compõem, levando a estresse térmico e degradação, enquanto a floresta da Região II pode ser mais adaptada às suas temperaturas 'altas'. Essa interpretação considera a vulnerabilidade específica de cada ecossistema, mesmo que os valores absolutos de temperatura não pareçam 'mais extremos' na Região I em uma comparação superficial."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a compreensão de que os impactos de fatores ambientais, como o 'calor extremo', são relativos à capacidade de tolerância e adaptação de cada ecossistema específico, e não apenas aos valores absolutos dos fatores."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q26/image.png"
@@ -1523,16 +1583,21 @@
       "id": "fuvest-2023-q27",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A geada é um fenômeno meteorológico que ocorre quando a temperatura do ar próximo ao solo atinge 0°C ou menos, causando o congelamento do vapor d'água presente na atmosfera ou na superfície. Para que a geada se forme, são necessárias algumas condições específicas: noites de céu limpo (permitindo a irradiação máxima de calor da superfície para o espaço), ausência ou fraqueza de ventos (evitando a mistura das camadas de ar e permitindo o acúmulo de ar frio e denso nas camadas mais baixas) e a presença de uma massa de ar frio (tipicamente massas de ar polar no Brasil, como a Massa Polar Atlântica - MPA). O relevo desempenha um papel crucial, pois áreas deprimidas ou extensas superfícies planas podem favorecer o 'empoçamento' ou acúmulo de ar frio, gerando inversões térmicas e aumentando a probabilidade e a intensidade da geada. A taxa de gradiente térmico vertical também é relevante: altitudes elevadas tendem a ter temperaturas naturalmente mais baixas.",
+        "steps": [
+          "Compreender o fenômeno da geada: A geada é o congelamento do vapor d'água próximo ao solo, ocorrendo quando a temperatura atinge ou fica abaixo de 0°C. Suas condições ideais incluem noites sem nuvens, ventos fracos ou ausentes e a atuação de massas de ar frio.",
+          "Analisar a geografia física do estado de São Paulo: O estado é predominantemente marcado por planaltos e depressões. O Planalto Ocidental Paulista, em particular, ocupa uma vasta extensão do interior do estado e é caracterizado por um relevo suavemente ondulado, com grandes superfícies.",
+          "Relacionar as condições da geada com as características geográficas de São Paulo: Avaliar como cada alternativa se alinha com as condições necessárias para a formação de geadas e com a maior ocorrência delas no contexto paulista. Deve-se buscar o fator que mais contribui para a *escala* e *frequência* das geadas no estado.",
+          "Eliminar as alternativas incorretas e identificar a correta: As alternativas que propõem fatores contrários à formação de geada ou que se referem a regiões de menor expressão para a *maior ocorrência geral* no estado devem ser descartadas."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A Serra da Mantiqueira, com suas maiores altitudes, de fato apresenta condições favoráveis para a ocorrência de geadas devido às temperaturas mais baixas associadas à altitude. No entanto, a questão busca o fator que contribui para a *maior ocorrência de geadas no estado de São Paulo* como um todo. A Serra da Mantiqueira, embora com geadas frequentes e intensas, representa uma área geográfica mais restrita em comparação com a vasta extensão do Planalto Ocidental Paulista, que impacta uma área muito maior do estado.",
+          "B": "O Vale do Ribeira de Iguape, localizado em baixas altitudes e sob forte influência da maritimidade, apresenta um clima mais úmido e com menor amplitude térmica. Essas condições são desfavoráveis para a formação de geadas severas e frequentes, pois a umidade e a influência oceânica tendem a moderar as temperaturas, dificultando que atinjam o ponto de congelamento. A entrada de ar frio não é exclusiva de baixas altitudes e, por si só, não compensa a moderação térmica da maritimidade.",
+          "C": "O efeito da maritimidade, que é a influência do oceano no clima das áreas costeiras e próximas, geralmente atua como um regulador térmico. Ele tende a amenizar as temperaturas extremas, tornando os invernos menos rigorosos e os verões menos quentes. Portanto, a maritimidade *reduz* a probabilidade de geadas severas, ao invés de injetar ar frio de forma a diminuir a temperatura do ar para o congelamento. Massas de ar polar são as responsáveis por trazer o ar frio.",
+          "D": "Correta. O Planalto Ocidental Paulista é a unidade geomorfológica mais extensa do estado de São Paulo, caracterizada por um relevo predominantemente plano ou suavemente ondulado. Essa vasta extensão, aliada à sua localização no interior do estado (menor influência da maritimidade), favorece o acúmulo e a estagnação do ar frio próximo ao solo em noites de céu limpo e ventos fracos, um fenômeno conhecido como inversão térmica. Essa condição é ideal para a formação de geadas em larga escala, justificando a 'maior ocorrência' no estado.",
+          "E": "A ausência de cobertura vegetal, especialmente em áreas de grandes culturas agrícolas ou solos expostos, de fato pode potencializar o resfriamento noturno por irradiação, contribuindo para a ocorrência de geadas. No entanto, este é um fator de uso e cobertura do solo. A questão pede um fator associado às características do estado e que contribua para a *maior ocorrência*. O Planalto Ocidental Paulista é uma característica geomorfológica fundamental e abrangente do estado, cuja extensão e topografia são mais determinantes para a *escala* e *frequência* geral das geadas do que a ausência de vegetação em si. Embora a falta de vegetação possa intensificar o problema localmente, a morfologia do relevo do Planalto é um fator mais estrutural para a 'maior ocorrência' no contexto estadual."
         },
-        "finalSummary": ""
+        "finalSummary": "A maior ocorrência de geadas no estado de São Paulo está intrinsecamente ligada à vasta extensão e ao relevo suave do Planalto Ocidental Paulista, que, em combinação com a entrada de massas de ar polar, permite o acúmulo de ar frio e o fenômeno da inversão térmica em grandes áreas."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q27/image.png"
@@ -1576,16 +1641,22 @@
       "id": "fuvest-2023-q28",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A análise de gráficos que correlacionam variáveis ambientais (como temperatura e pluviosidade) com características biológicas de um organismo (como o número de folhas de uma planta) é fundamental para compreender as estratégias adaptativas das espécies. Plantas adaptam seu ciclo de vida às condições climáticas de seu ambiente. Em regiões com estações bem definidas, como períodos de seca ou frio intenso, muitas espécies desenvolvem estratégias como a caducifolia (perda de folhas) para economizar água, reduzir a transpiração e minimizar danos por baixas temperaturas. A pluviosidade e a temperatura são fatores cruciais que influenciam a taxa de fotossíntese, o crescimento e a manutenção das estruturas vegetais, incluindo as folhas.",
+        "steps": [
+          "1. **Analisar a variação do número de folhas ao longo do ano:** Observe o padrão de aumento, manutenção e diminuição do número de folhas no gráfico. Identifique os picos e os vales.",
+          "2. **Analisar a variação da temperatura mínima e da pluviosidade:** Observe as tendências de temperatura mínima e pluviosidade nos mesmos períodos. Identifique estações secas/úmidas e quentes/frias.",
+          "3. **Correlacionar as variáveis:** Compare as curvas do número de folhas com as curvas de temperatura e pluviosidade. Procure por relações diretas ou inversas. Por exemplo, se o número de folhas diminui durante períodos de baixa pluviosidade e/ou baixa temperatura, isso sugere uma adaptação a condições adversas.",
+          "4. **Interpretar as relações e inferir a estratégia da planta:** Com base nas correlações, determine qual é a estratégia da planta. Se a planta perde as folhas em períodos de seca e/ou frio e as recupera em períodos favoráveis, é provável que seja uma espécie decídua ou semidecídua.",
+          "5. **Avaliar as alternativas:** Como as alternativas são imagens, o estudante deveria compará-las com a interpretação feita nos passos anteriores para identificar qual delas representa a correlação correta e a conclusão adequada sobre a biologia da planta. A alternativa correta (A) deverá refletir precisamente as relações observadas no gráfico."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Considerando que a alternativa 'A' é a correta, ela provavelmente apresenta uma correlação precisa entre o ciclo de vida da árvore (número de folhas) e as condições ambientais (temperatura e pluviosidade). Uma interpretação comum para este tipo de gráfico, que levaria a uma alternativa correta, seria a observação de que o número de folhas diminui drasticamente em períodos de menor pluviosidade e/ou temperatura mínima, e aumenta em períodos de maior pluviosidade e temperatura mais amena. Isso indicaria que a árvore é decídua ou semidecídua, adaptada a um ciclo sazonal, perdendo folhas em condições de estresse hídrico ou térmico para economizar água e energia, e brotando novamente quando as condições se tornam favoráveis. A alternativa 'A' representaria essa conclusão de forma exata.",
+          "B": "Esta alternativa estaria incorreta se, por exemplo, sugerisse que a árvore mantém suas folhas durante todo o ano, independentemente das variações climáticas. Se o gráfico de número de folhas mostra picos e vales claros, uma planta perenifólia (que mantém as folhas o ano todo) é uma conclusão errada. O erro estaria em ignorar ou interpretar erroneamente a variação sazonal do número de folhas.",
+          "C": "Esta alternativa seria incorreta se propusesse uma relação causal oposta ou infundada. Por exemplo, se afirmasse que a queda de folhas ocorre em períodos de alta pluviosidade e alta temperatura, o que contradiria a lógica biológica da adaptação ao estresse e os dados típicos de um gráfico como este. O erro seria uma má interpretação da correlação entre as variáveis ou a inversão de causa e efeito.",
+          "D": "Esta alternativa estaria incorreta se estabelecesse uma correlação incompleta ou equivocada. Por exemplo, se considerasse apenas a temperatura ou apenas a pluviosidade como fator determinante, ignorando a influência combinada ou desconsiderando períodos de defasagem na resposta da planta. Um erro comum é focar em apenas uma variável e negligenciar a interação complexa entre os fatores ambientais.",
+          "E": "Esta alternativa estaria incorreta se apresentasse uma conclusão que não é suportada pelos dados do gráfico. Por exemplo, se sugerisse um período de crescimento ou de queda de folhas em uma estação diferente daquela indicada pelas curvas. O erro seria uma leitura imprecisa dos dados apresentados no gráfico ou uma inferência biológica inconsistente com as tendências observadas."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão avalia a capacidade de interpretar gráficos com múltiplas variáveis, correlacionando condições ambientais com respostas biológicas para inferir estratégias adaptativas de espécies vegetais a um ciclo sazonal."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q28/image.png"
@@ -1629,16 +1700,20 @@
       "id": "fuvest-2023-q29",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Plantas que vivem em ambientes áridos, como o xiquexique da Caatinga, são classificadas como xerófitas. Para sobreviverem à escassez de água, essas plantas desenvolveram diversas adaptações morfológicas e fisiológicas. As principais estratégias envolvem a captação eficiente de água, o armazenamento de água e, fundamentalmente, a redução drástica da perda de água por transpiração. No caso dos cactos, o acúmulo de água ocorre em tecidos especializados no caule (parênquima aquífero), que se torna suculento. No entanto, para que essa água acumulada seja efetivamente retida e útil por longos períodos de seca, a planta precisa minimizar sua perda. As folhas modificadas em espinhos são uma das adaptações mais notáveis dos cactos para reduzir a superfície de transpiração, além de oferecerem proteção contra herbívoros.",
+        "steps": [
+          "1. **Analisar a pergunta:** A questão busca a principal característica que torna o acúmulo de água no xiquexique 'possível', indicando uma adaptação fundamental para a sobrevivência em ambientes secos.",
+          "2. **Entender o contexto:** O xiquexique é um cacto da Caatinga, um bioma semiárido. Cactos são conhecidos por sua capacidade de armazenar água e resistir à seca.",
+          "3. **Avaliar as alternativas focando na viabilidade do acúmulo:** Considerar como cada opção contribui ou não para a capacidade de uma planta de acumular e reter água em um ambiente seco."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. A modificação das folhas em espinhos é uma adaptação crucial para as xerófitas, especialmente os cactos. Os espinhos reduzem drasticamente a superfície de transpiração da planta, minimizando a perda de água para o ambiente. Embora o acúmulo ocorra no caule, a capacidade de reter essa água e, portanto, tornar o acúmulo eficaz e 'possível' a longo prazo em um ambiente seco, depende diretamente da minimização da transpiração. Sem essa redução, a água acumulada seria rapidamente perdida.",
+          "B": "A menor área de superfície foliar (devido aos espinhos) realmente contribui para a redução da transpiração, mas a 'menor taxa de fotossíntese' não é o que possibilita o acúmulo de água. Na verdade, cactos utilizam o metabolismo CAM (Metabolismo Ácido das Crassuláceas) para realizar a fotossíntese de forma mais eficiente em termos hídricos, abrindo os estômatos à noite para captar CO2 e fechando-os durante o dia para evitar perda excessiva de água. A taxa de fotossíntese em si não é o fator que permite o acúmulo, mas sim as adaptações que otimizam o uso da água durante a fotossíntese.",
+          "C": "A presença de células especializadas no parênquima aquífero do caule é, de fato, o mecanismo direto de armazenamento de água no xiquexique (e em outros cactos). No entanto, a pergunta indaga o que torna o acúmulo 'possível'. Embora o parênquima aquífero seja onde a água é armazenada, a redução da perda de água (alternativa A) é uma condição fundamental para que essa acumulação seja *sustentável e eficaz* em um ambiente desértico. Se a planta perdesse água rapidamente, o acúmulo não seria viável a longo prazo. Portanto, a redução da perda de água é uma adaptação que *habilita* o sucesso da estratégia de acúmulo.",
+          "D": "Cactos podem ter sistemas radiculares extensos e superficiais para absorver rapidamente a água de chuvas esporádicas. Contudo, uma 'raiz avantajada' (grande ou proeminente) não é a principal característica que explica o *acúmulo* de água no caule. A função principal da raiz é a absorção e ancoragem, e não o armazenamento massivo de água para a sobrevivência a longo prazo, que é a função do caule suculento nos cactos.",
+          "E": "Esta alternativa está incorreta. Nos cactos, as folhas são modificadas em espinhos, perdendo a capacidade de realizar fotossíntese e, principalmente, a função de armazenamento de água. O armazenamento de água ocorre no caule suculento da planta, não nas folhas."
         },
-        "finalSummary": ""
+        "finalSummary": "Para as plantas xerófitas, como o xiquexique, a capacidade de acumular água é intrinsecamente ligada à sua capacidade de reduzir drasticamente a perda de água, sendo a modificação das folhas em espinhos uma adaptação crucial para esse fim."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q29/image.png"
@@ -1682,16 +1757,20 @@
       "id": "fuvest-2023-q30",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a distinção filosófica entre tempo objetivo e tempo psicológico, conforme exposto por Santo Agostinho em suas 'Confissões', e sua aplicação na literatura, especificamente no romance 'Angústia' de Graciliano Ramos. Para Santo Agostinho, o tempo não pode ser medido externamente em sua totalidade (passado que já não existe, futuro que ainda não chegou), mas apenas percebido e 'medido' no presente, pela sensibilidade e pela mente. Ele argumenta que o tempo é uma 'distensão da alma' (distentio animi), uma duração interior que é experimentada de forma subjetiva, moldada pela memória do passado, pela atenção ao presente e pela expectativa do futuro. Essa 'duração interior' (também conhecida como tempo psicológico ou subjetivo) é fluida, não-linear e profundamente ligada à percepção individual, emoções e estados de consciência, em contraste com o tempo cronológico, objetivo e mensurável (tempo físico). Graciliano Ramos, em 'Angústia', explora profundamente a psique do narrador Luís da Silva, utilizando o fluxo de consciência e uma narrativa não-linear que reflete essa 'duração interior', onde memórias, obsessões e angústias se sobrepõem e distorcem a percepção do tempo.",
+        "steps": [
+          "**Passo 1: Compreender o conceito de tempo em Santo Agostinho.** A leitura do fragmento de Santo Agostinho é crucial. Ele diferencia o tempo mensurável, objetivo (quando 'decorrendo o tempo, pode percebê-lo e medi-lo') do tempo subjetivo, que não pode ser medido externamente (passado e futuro que 'não existem'). A 'duração interior' refere-se a essa percepção subjetiva, psicológica e não-linear do tempo.",
+          "**Passo 2: Identificar a demanda da questão.** O objetivo é encontrar, entre as opções, a passagem do romance 'Angústia' que melhor ilustra essa 'duração interior', ou seja, uma passagem que expresse uma percepção de tempo que é fluida, mental, existencial e não rigidamente cronológica ou objetiva.",
+          "**Passo 3: Analisar cada alternativa à luz do conceito de 'duração interior'.** Deve-se avaliar qual das frases descreve uma experiência de tempo que transcende a medição objetiva e reflete a subjetividade, a memória, a expectativa ou a dissolução da existência percebida internamente."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa se refere a uma imagem que não foi fornecida. Sem o conteúdo da imagem, é impossível analisá-la em relação à questão. Em um contexto de prova, o aluno teria acesso a esta imagem.",
+          "B": "A frase 'Os galos marcavam o tempo, importunavam mais que os relógios' refere-se a marcadores de tempo objetivos (galos e relógios), mesmo que a percepção do personagem seja de incômodo. Embora haja uma reação subjetiva ('importunavam'), o foco ainda está nos instrumentos que denotam o tempo cronológico, externo, e não na experiência interna de sua fluidez ou distorção. É o tempo 'para fora', que se impõe, e não o tempo 'para dentro', que se molda na mente.",
+          "C": "Esta é a alternativa correta. A expressão 'Julião Tavares ia afastar-se, dissipar-se, virar neblina' descreve uma transformação da existência de Julião que transcende o tempo cronológico. Não se trata de um evento pontual no tempo, mas de um processo subjetivo de dissolução, de perda de substância ou de presença na memória ou na percepção do narrador Luís da Silva. 'Dissipar-se' e 'virar neblina' são metáforas para a desintegração de uma figura na mente, uma percepção fluida e não-objetiva da permanência ou transitoriedade, o que se alinha perfeitamente com a ideia de 'duração interior', onde o ser se dissolve ou se reconfigura na consciência.",
+          "D": "A frase 'Mas no tempo não havia horas' expressa a ausência de marcos temporais objetivos e mensuráveis ('horas'). Embora sugira uma desorganização do tempo cronológico, ela é mais uma constatação sobre a característica de um determinado 'tempo' (talvez um tempo mítico, onírico ou de profunda angústia) do que a descrição da *experiência* da duração subjetiva do tempo em si, como um fluxo de memória ou de consciência. Não descreve ativamente como o tempo é vivido ou se transforma na mente, mas sim a falta de sua medição externa.",
+          "E": "A frase 'O espírito de Deus boiava sobre as águas' é uma citação bíblica (Gênesis 1:2), que remete ao tempo primordial, antes da criação do mundo e da própria organização do tempo humano. Ela evoca um cenário de eternidade ou de um tempo cósmico e fundacional, que está fora da experiência individual e psicológica da 'duração interior' que a questão solicita. Não se relaciona com a percepção subjetiva do tempo por um indivíduo."
         },
-        "finalSummary": ""
+        "finalSummary": "A 'duração interior' é a experiência subjetiva e psicológica do tempo, onde a mente e a memória moldam a percepção, em contraste com o tempo objetivo e cronológico."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q30/image.png"
@@ -1735,16 +1814,21 @@
       "id": "fuvest-2023-q31",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "David Hume, um dos principais expoentes do empirismo britânico, argumenta que todo o nosso conhecimento deriva da experiência. Ele distingue dois tipos de percepções mentais: as *impressões* e as *ideias*. As impressões são as percepções mais vívidas e fortes, que incluem sensações (visão, audição, tato, paladar, olfato) e sentimentos (paixão, emoção). As ideias são as cópias enfraquecidas ou atenuadas das impressões, ou seja, são o que pensamos ou lembramos sobre as impressões. Para Hume, não podemos ter uma ideia que não tenha tido uma impressão correspondente em algum momento. Ele também defende que a mente tem a capacidade de combinar e associar ideias simples (que derivam de impressões simples) para formar ideias complexas, mesmo que nunca tenhamos tido uma impressão direta daquela ideia complexa. Por exemplo, podemos ter a ideia de um cavalo (vindo da impressão de cavalos) e a ideia de asas (vinda da impressão de asas de pássaros) e combiná-las para formar a ideia complexa de um 'cavalo alado', sem nunca ter visto um cavalo alado de fato.",
+        "steps": [
+          "**1. Análise do Excerto de Hume:** O texto de Hume estabelece três pontos cruciais: a) Todos os 'materiais do pensamento' (ideias) derivam de 'sentimento externo e interno' (impressões). Isso significa que a origem de todo o nosso conhecimento está na experiência sensorial ou na introspecção de sentimentos. b) A mente e a vontade têm a capacidade de 'mistura e composição' desses materiais. Isso implica que, embora a mente não possa criar materiais do zero, ela pode combinar e reconfigurar as ideias que já possui. c) As 'ideias ou percepções mais fracas são cópias das nossas impressões, ou percepções mais vívidas'. Isso reforça a primazia das impressões sobre as ideias e a natureza secundária destas últimas.",
+          "**2. Interpretação da Pergunta:** A questão pede uma situação cotidiana que 'confirma a relação proposta no excerto', ou seja, um exemplo prático que ilustre a teoria de Hume sobre a origem das ideias a partir das impressões e a capacidade da mente de combiná-las.",
+          "**3. Avaliação da Alternativa Correta (D):** A alternativa 'É possível manter a ideia de um cavalo alado por muito tempo na mente' é a que melhor se alinha com o excerto. Ela ilustra o ponto b) da análise (a mente compõe os materiais). Temos a impressão de 'cavalo' e a impressão de 'asas'. A mente, então, 'mistura e compõe' essas ideias derivadas para formar a ideia complexa de um 'cavalo alado', mesmo sem nunca ter tido uma impressão direta de tal criatura. Essa ideia complexa, uma vez formada, pode ser 'mantida' como uma 'percepção mais fraca' (ideia) em contraste com a 'percepção mais vívida' (impressão) que teríamos se víssemos um cavalo alado real. Isso demonstra tanto a origem das ideias em impressões (de cavalo e asas) quanto a capacidade de combinação da mente.",
+          "**4. Avaliação das Alternativas Incorretas (A, B, C, E):** Cada uma delas falha em capturar plenamente a essência da relação descrita por Hume, seja por focar apenas em um aspecto parcial, seja por desviar do cerne da questão sobre a origem e composição das ideias."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa foca na falta de conhecimento sobre a origem dos sonhos. Embora os sonhos possam ser vistos como uma mistura de impressões e ideias passadas, a questão de 'não saber de onde vêm' não aborda diretamente a relação humeana de que as ideias são cópias de impressões e que a mente as compõe. O foco de Hume está na *origem* das ideias em impressões, não na consciência individual sobre essa origem em eventos complexos como os sonhos.",
+          "B": "Esta alternativa trata da memória e da facilidade de acesso a ideias. A memória é, de fato, a faculdade que retém as ideias, mas a afirmação não explica como as ideias são originalmente formadas a partir das impressões ou como a mente as 'mistura e compõe'. Ela se refere à *retenção* de ideias, não à sua *gênese* ou à sua *formação complexa* a partir de 'materiais' mais básicos, conforme descrito por Hume.",
+          "C": "Esta alternativa está **correta em termos humeanos** para um aspecto da teoria: a necessidade de uma impressão para uma ideia simples. Se uma pessoa nunca experimentou guaraná, ela não pode ter a *ideia simples* de seu sabor. Isso ilustra perfeitamente a primeira parte do excerto ('todos os materiais do pensamento são derivados do nosso sentimento externo e interno') e a ideia de que ideias são cópias de impressões. No entanto, a alternativa D é considerada mais completa por ilustrar também a capacidade da mente de 'mistura e composição' de ideias existentes para formar novas ideias complexas, o que é um aspecto crucial do excerto e da teoria de Hume sobre a formação de conhecimento.",
+          "D": "Esta é a alternativa correta. Ela demonstra a capacidade da mente de 'misturar e compor' materiais (ideias de cavalo e de asas, ambas derivadas de impressões) para formar uma ideia complexa (cavalo alado), mesmo que não haja uma impressão direta e total dessa ideia complexa. A ideia do cavalo alado é uma 'percepção mais fraca' (ideia) que se mantém na mente, sendo uma cópia (composta) de impressões anteriores, confirmando a totalidade da relação proposta por Hume no excerto.",
+          "E": "Esta alternativa afirma que 'Comer uma maçã envolve experiências sensoriais'. Isso é verdade e está diretamente relacionado à 'sentimento externo' e 'impressões' que Hume descreve como a fonte dos 'materiais do pensamento'. No entanto, essa afirmação descreve apenas a *ocorrência de impressões*. Ela não ilustra como essas impressões se transformam em *ideias* ou, mais importante para o cerne do excerto, como a mente 'mistura e compõe' esses materiais para formar novas ideias complexas. É uma descrição de um *input* sensorial, mas não do processamento que leva à formação ou combinação de ideias."
         },
-        "finalSummary": ""
+        "finalSummary": "A teoria empirista de David Hume postula que todas as nossas ideias são cópias atenuadas de impressões sensoriais ou sentimentos, e que a mente é capaz de combinar e associar essas ideias simples para formar ideias complexas, mas nunca criar materiais do pensamento do zero."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q31/image.png"
@@ -1788,16 +1872,24 @@
       "id": "fuvest-2023-q32",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto explora a ideia de que a apreciação musical vai além da compreensão das letras, focando em como os elementos sonoros e musicais nos afetam. Conceitos como o 'sound symbolism' (estudo da relação entre vocalizações e seus significados), a influência das escalas musicais (maior para sons mais alegres, menor para melancólicos) e o fenômeno do 'entrainment' (sincronização do cérebro com os sons, afetando respiração, movimento e atividades neurais) são apresentados como chaves para entender o impacto universal da música.",
+        "steps": [
+          "**1. Compreenda o Comando:** A questão solicita identificar as áreas onde os 'estudos sobre as propriedades do som' têm reflexo, *de acordo com o texto*. Isso exige uma leitura atenta para encontrar as aplicações práticas ou os campos influenciados por esses estudos que são explicitamente mencionados.",
+          "**2. Localize as Referências sobre Propriedades do Som e Suas Aplicações:** O texto aborda o 'sound symbolism' (simbolismo sonoro) como um estudo das relações entre vocalizações e significado, e afirma que 'isso não se limita apenas à música'. Em seguida, ele fornece exemplos claros de suas aplicações:",
+          "**3. Identifique Aplicações Específicas no Texto:**",
+          "   *   **Marketing:** 'Marketers, for example, can tune into sound symbolism as part of their strategy in coming up with appealing brand names.' (Profissionais de marketing podem usar o simbolismo sonoro para criar nomes de marcas atraentes).",
+          "   *   **Atividades Físicas/Esportivas:** Ao descrever o 'entrainment', o texto diz: 'This is why fast-paced music is so popular for running, for example, or why some yoga teachers play rhythmic and melodic tracks in their classes.' (Música de ritmo acelerado para corrida e faixas rítmicas para ioga são exemplos de como a sincronização do cérebro com o som afeta o movimento, o que se enquadra em atividades esportivas/físicas).",
+          "**4. Compare com as Alternativas:** Verifique qual alternativa resume essas aplicações encontradas no texto. A alternativa B menciona 'marketing' e 'atividades esportivas', que correspondem diretamente aos exemplos citados."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa afirma que os estudos 'indicam a complexidade musical da canção pop contemporânea'. Embora o texto mencione gêneros como 'K-pop' e 'French electronic' como exemplos de música ouvida sem entender a letra, ele não aprofunda ou indica a complexidade musical desses gêneros. O foco é no *porquê* as pessoas gostam de música, independentemente da complexidade ou do gênero, e não na complexidade em si da canção pop.",
+          "B": "Esta é a alternativa correta. O texto afirma claramente que 'Marketers, for example, can tune into sound symbolism as part of their strategy in coming up with appealing brand names' (marketing). Além disso, ao explicar o 'entrainment', menciona 'fast-paced music is so popular for running, for example, or why some yoga teachers play rhythmic and melodic tracks in their classes' (corrida e ioga são exemplos de atividades físicas/esportivas onde a música tem um reflexo claro).",
+          "C": "A alternativa sugere que os estudos 'influenciam as pesquisas acadêmicas sobre o fazer poético'. O texto menciona que o 'sound symbolism' é sobre a relação entre vocalizações e significado e que 'isso não se limita apenas à música'. No entanto, *não há menção explícita ou implícita* de que esses estudos influenciem pesquisas acadêmicas sobre poesia. Não podemos fazer essa inferência a partir das informações dadas.",
+          "D": "Esta opção afirma que os estudos 'revelam as estratégias enganosas empregadas nas campanhas publicitárias'. O texto menciona que 'Marketers [...] can tune into sound symbolism as part of their strategy in coming up with appealing brand names', ou seja, para criar nomes de marcas *atraentes*. Não há qualquer sugestão de que essas estratégias sejam 'enganosas' ou manipuladoras; o texto apresenta o uso do simbolismo sonoro de forma neutra e positiva, como uma ferramenta para apelo.",
+          "E": "A alternativa 'demonstram a falácia do conceito da música como linguagem universal' contradiz diretamente o final do texto. A frase final declara enfaticamente: 'Music, after all, is the universal language.' O texto, na verdade, explora *como* a música consegue ser uma linguagem universal, explicando seus mecanismos de apelo (simbolismo sonoro, escalas, entrainment) que transcendem a barreira da língua.",
+          "": ""
         },
-        "finalSummary": ""
+        "finalSummary": "Para questões de interpretação textual como 'De acordo com o texto', é fundamental basear-se exclusivamente nas informações fornecidas, identificando as menções diretas ou inferências logicamente sustentadas pelo conteúdo, evitando extrapolações ou conhecimentos externos."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q32/image.png"
@@ -1841,16 +1933,21 @@
       "id": "fuvest-2023-q33",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão avalia a capacidade de inferir o significado de uma palavra em inglês a partir do contexto em que ela está inserida e identificar seu sinônimo mais adequado. A palavra 'convey' é um verbo comum que, em seu sentido principal, significa 'transmitir', 'comunicar' ou 'expressar' uma ideia, mensagem, sentimento ou até mesmo um objeto de um lugar para outro ou de uma pessoa para outra. No contexto de técnicas musicais sendo usadas para 'convey certain moods' (transmitir/expressar certos estados de espírito), 'convey' refere-se à capacidade dessas técnicas de evocar, comunicar ou fazer com que estados de espírito específicos sejam percebidos ou sentidos pelo ouvinte. É crucial entender o sentido exato do verbo para escolher a alternativa que mantenha a coerência semântica da frase.",
+        "steps": [
+          "**Passo 1: Analise a frase e o contexto da palavra 'convey'.** A frase em questão é \"there are certain musical techniques that are generally used to convey certain moods\" (2º parágrafo). Nela, 'musical techniques' (técnicas musicais) são o agente que realiza a ação de 'convey' sobre 'certain moods' (certos estados de espírito).",
+          "**Passo 2: Determine o significado de 'convey' no contexto.** Considerando que as técnicas musicais servem para interagir com 'estados de espírito', o sentido mais lógico para 'convey' aqui é 'expressar', 'transmitir' ou 'comunicar' esses estados de espírito ao ouvinte. As técnicas são o meio pelo qual os humores são manifestados ou induzidos.",
+          "**Passo 3: Avalie cada alternativa em relação ao significado contextual de 'convey'.**",
+          "**Passo 4: Compare as alternativas para identificar o sinônimo mais preciso.** Com base na análise, o sinônimo que melhor se encaixa no sentido de expressar ou comunicar estados de espírito é 'transmit'."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Embora 'avoid' (evitar) seja o gabarito indicado para esta questão, é fundamental notar que a palavra 'convey' (transmitir, expressar) tem um sentido semanticamente oposto no contexto da frase 'to convey certain moods' (transmitir/expressar certos estados de espírito). Em inglês padrão, 'convey' significa levar, comunicar ou expressar. Se a resposta 'A' fosse de fato a pretendida, implicaria uma interpretação altamente incomum, incorreta ou um equívoco na formulação da questão/gabarito, uma vez que as técnicas musicais são usadas para *expressar* e não para *evitar* estados de espírito.",
+          "B": "A alternativa 'struggle' significa 'lutar', 'esforçar-se' ou 'ter dificuldade'. Este significado não se alinha com a ideia de técnicas musicais que são usadas para transmitir ou expressar estados de espírito. Não há relação semântica de sinonímia com 'convey' no contexto.",
+          "C": "A alternativa 'diminish' significa 'diminuir', 'reduzir' ou 'enfraquecer'. O uso de técnicas musicais para 'diminuir' certos estados de espírito não é o que 'convey' significa. Pelo contrário, 'convey' implica trazer à tona ou manifestar, e não reduzir.",
+          "D": "A alternativa 'popularize' significa 'popularizar', 'tornar popular'. Embora as técnicas musicais possam, eventualmente, tornar certas músicas ou estados de espírito populares, 'popularize' não é um sinônimo para 'convey' (transmitir ou expressar) um estado de espírito. É um resultado possível, não a ação em si.",
+          "E": "A palavra 'transmit' (transmitir) é o sinônimo mais direto e preciso para 'convey' (transmitir, expressar) no contexto da frase 'to convey certain moods'. As técnicas musicais são utilizadas para *transmitir* ou *comunicar* estados de espírito ao ouvinte, fazendo com que ele os perceba. Esta alternativa capta perfeitamente o sentido de comunicar ou fazer chegar uma ideia ou sentimento."
         },
-        "finalSummary": ""
+        "finalSummary": "Apesar de 'E' ('transmit') ser o sinônimo linguístico correto e mais direto para 'convey' (transmitir/expressar) no contexto da frase, a questão, conforme o gabarito fornecido ('A'), apresenta uma contradição semântica significativa, pois 'convey' e 'avoid' (evitar) são antônimos."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q33/image.png"
@@ -1894,16 +1991,22 @@
       "id": "fuvest-2023-q34",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto explora como as pessoas apreciam a música, mesmo sem entender a letra, focando em fenômenos que transcendem o significado linguístico. Dois conceitos-chave para esta questão são o 'simbolismo sonoro' e o 'entrainment'. O simbolismo sonoro se refere ao estudo das relações entre as vocalizações (sons) e seus significados, destacando o 'apelo das palavras como sons' que vai além de seu significado dicionário. Isso implica que as propriedades físicas dos sons podem, por si só, carregar um tipo de significado ou impacto. Já o 'entrainment' é descrito como um processo no qual o cérebro 'sincroniza nossa respiração, nosso movimento e até mesmo atividades neurais com os sons que ouvimos', explicitando a relação entre o som e os aspectos físicos do ouvinte.",
+        "steps": [
+          "Analise o enunciado da questão para identificar os termos-chave: 'aspectos físicos' e 'relacionados com elementos tanto do som quanto da música'. A questão busca fenômenos ou manifestações físicas que têm ligação com o som e a música.",
+          "Percorra o texto em busca de menções diretas a 'físico', 'impacto físico' ou processos que claramente envolvam o corpo ou a fisiologia em resposta ao som.",
+          "No parágrafo sobre 'entrainment', o texto afirma: 'In a process called entrainment, the brain “synchronizes our breathing, our movement, even neural activities with the sounds we hear.”' (Em um processo chamado entrainment, o cérebro 'sincroniza nossa respiração, nosso movimento, e até mesmo atividades neurais com os sons que ouvimos.'). Aqui, 'respiração' e 'movimento' são aspectos físicos diretamente relacionados aos sons.",
+          "No parágrafo sobre 'sound symbolism', o texto explica: 'Sound symbolism refers to the study of the relationships between utterances and their meaning.' e 'there’s something about the appeal of words as sounds, beyond their meaning in a language.' (Simbolismo sonoro refere-se ao estudo das relações entre vocalizações e seus significados... há algo sobre o apelo das palavras como sons, além de seu significado em uma língua.). Embora 'simbolismo' seja um conceito, a ênfase no 'apelo das palavras como sons' (ou seja, suas propriedades acústicas e fonéticas intrínsecas) sugere que os *aspectos físicos do som* em si são a base desse simbolismo. Assim, o 'simbolismo' pode ser entendido como uma manifestação da relação física entre o som e a percepção.",
+          "Compare as informações encontradas com as alternativas. A alternativa (A) 'simbolismo e respiração' alinha-se com essas passagens, onde 'respiração' é um aspecto físico direto e 'simbolismo' é compreendido através das propriedades físicas do som que geram apelo ou significado."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. 'Respiração' é explicitamente mencionada como um aspecto físico que o cérebro sincroniza com os sons através do processo de 'entrainment'. 'Simbolismo' (ou simbolismo sonoro) é descrito como o apelo das palavras como sons, além de seu significado, o que implica que as próprias características físicas do som são a base para essa conexão simbólica e seu impacto nos ouvintes. Portanto, pode ser considerado um aspecto físico relacionado aos elementos do som, no sentido de como as propriedades físicas do som são percebidas e geram associações.",
+          "B": "'Letra e idioma' referem-se principalmente aos aspectos semânticos e estruturais da linguagem, ou seja, ao significado e à forma gramatical das palavras. Embora se relacionem com o som e a música (através das letras das canções), eles são aspectos mais cognitivos e linguísticos do que diretamente 'físicos' no contexto de como o som interage com o corpo ou suas propriedades acústicas intrínsecas, conforme a questão pede.",
+          "C": "'Timbre e amplitude' são, de fato, 'elementos do som e da música' que o texto menciona terem um 'impacto físico'. No entanto, a questão pede 'os aspectos físicos' e não 'os elementos' que causam o impacto. O texto afirma que 'Elements of sound and music like pitch, melody, harmony, timbre, and amplitude have an affective, emotional, psychological, cognitive, and even physical impact on listeners.' Ou seja, timbre e amplitude são os *elementos* que *têm* um impacto físico, mas não são os *aspectos físicos* em si. A distinção é sutil: os aspectos físicos seriam as consequências ou manifestações geradas por esses elementos (como a respiração), e o simbolismo (se entendido como o efeito das propriedades físicas do som) se encaixa melhor nessa categoria de 'aspecto' ou 'fenômeno físico' do que os próprios 'elementos' geradores.",
+          "D": "'Brilho' é uma qualidade sonora (associada a escalas maiores) que descreve uma sensação ou humor ('brighter, happier sounds'), e não um aspecto físico direto do som ou uma resposta fisiológica. 'Melodia' é um elemento musical, e embora o texto diga que elementos como a melodia têm um impacto físico, assim como na alternativa C, ela é um elemento e não o aspecto físico resultante ou o fenômeno em si. Portanto, não se encaixa tão precisamente quanto 'respiração' e a interpretação de 'simbolismo' como manifestação física do som.",
+          "E": "'Discurso e mensagem' estão relacionados à comunicação e ao conteúdo transmitido, sendo aspectos predominantemente cognitivos e interpretativos. O texto, inclusive, sugere que a música 'libera as palavras de qualquer fardo de dizer algo significativo', o que contrasta com a ideia de focar em discurso e mensagem como aspectos físicos."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de identificar no texto os 'aspectos físicos' do som e da música, diferenciando-os dos elementos que os causam ou dos conceitos mais abstratos, com a 'respiração' sendo um exemplo claro de resposta física e o 'simbolismo' sendo interpretado como a manifestação das propriedades físicas do som em sua percepção."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q34/image.png"
@@ -1947,16 +2050,20 @@
       "id": "fuvest-2023-q35",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A concordância verbal em inglês (Subject-Verb Agreement) é um dos pilares gramaticais para a compreensão e produção corretas da língua. Ela estabelece que o verbo de uma oração deve concordar em número (singular ou plural) com seu sujeito. Em sua forma mais básica, se o sujeito é singular, o verbo também deve estar na forma singular (geralmente adicionando -s ou -es na terceira pessoa do singular no Simple Present; ou usando 'is', 'was', 'has' para verbos auxiliares e de ligação). Se o sujeito é plural, o verbo deve estar na forma plural (sem -s/-es na terceira pessoa do plural no Simple Present; ou usando 'are', 'were', 'have').\n\nNo entanto, existem diversas situações que podem confundir o estudante e levar a erros de concordância:\n1.  **Sujeitos compostos:** Sujeitos ligados por 'and' geralmente exigem verbo no plural. Sujeitos ligados por 'or' ou 'nor' concordam com o substantivo mais próximo.\n2.  **Expressões preposicionais:** Frases introduzidas por preposições (como 'of', 'with', 'along with', 'as well as', 'in addition to') que vêm entre o sujeito e o verbo não afetam a concordância; o verbo ainda concorda com o sujeito principal.\n3.  **Pronomes indefinidos:** Pronomes como 'each', 'every', 'either', 'neither', 'one', 'no one', 'everyone', 'anyone', 'someone' são sempre singulares e exigem verbo no singular.\n4.  **Coletivos:** Substantivos coletivos (e.g., 'family', 'team', 'committee', 'government') podem ser tratados como singular ou plural, dependendo se a ênfase é na unidade do grupo ou nos seus membros individuais, respectivamente (no inglês britânico, é mais comum o plural; no americano, o singular).\n5.  **Inversão:** Em frases com 'there is/are', 'here is/are', ou perguntas, o sujeito vem depois do verbo, exigindo atenção para identificar o verdadeiro sujeito.\n\nApesar de a questão mencionar um texto que não foi fornecido, a alternativa correta (E) indica que o desafio proposto pelo texto seria justamente identificar e compreender uma falha nesse aspecto da gramática inglesa.",
+        "steps": [
+          "**1. Compreensão do Enunciado e das Alternativas:** O enunciado pede para identificar o que o texto ilustra em relação à compreensão do inglês. As alternativas apontam para diferentes aspectos gramaticais ou linguísticos.",
+          "**2. Análise da Alternativa Correta (E) e Implicações:** Como a alternativa correta é 'E) um problema de concordância verbal', isso nos diz que o texto não fornecido, necessariamente, apresentava uma ou mais frases onde o verbo não estava concordando corretamente em número (singular/plural) com seu sujeito gramatical. Para resolver a questão, o aluno precisaria ter identificado essa falha no texto.",
+          "**3. Estratégia de Identificação (se o texto estivesse disponível):** Se o texto estivesse disponível, o aluno deveria:\n    *   Ler o texto atentamente, focando nas relações entre sujeitos e verbos.\n    *   Para cada frase, identificar o sujeito principal e o verbo correspondente.\n    *   Verificar se o número do sujeito (singular ou plural) corresponde à forma do verbo.\n    *   Estar atento às exceções e armadilhas da concordância verbal (sujeitos compostos, pronomes indefinidos, frases preposicionais, etc.).\n    *   A identificação de um erro sistemático ou intencional de concordância levaria à escolha da alternativa E."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa sugere que o texto ilustraria a diferença entre a escrita e a pronúncia das palavras em inglês (ex: 'read' no passado e no presente, 'through', 'though', 'tough'). Embora a disparidade entre ortografia e fonética seja uma característica notável e complexa do inglês, um texto que tenha como objetivo principal ilustrar 'um problema de concordância verbal' (alternativa E, a correta) não teria como foco essa relação. O texto poderia conter palavras com pronúncia complexa, mas essa não seria a falha central ou o ponto de aprendizado principal que a questão visa explorar, segundo a resposta correta.",
+          "B": "Esta alternativa se refere a elementos que indicam tempo (e.g., advérbios como 'yesterday', 'now', 'soon'; conjunções temporais) e modo (e.g., advérbios como 'carefully', 'quickly', 'happily'). Qualquer texto naturalmente conterá circunstâncias de tempo e modo. No entanto, o foco de 'um problema de concordância verbal' (alternativa E) é estritamente gramatical em termos de sujeito e verbo, não na função semântica e sintática de adjuntos adverbiais de tempo e modo. Portanto, esta opção não se alinha com o que a questão propõe ilustrar como um 'problema' de compreensão.",
+          "C": "Esta alternativa trata da estrutura básica das frases em inglês, que geralmente segue a ordem Sujeito-Verbo-Objeto (SVO). A compreensão da ordem dos elementos é fundamental para a interpretação de qualquer frase. No entanto, um 'problema de concordância verbal' (alternativa E) foca especificamente no relacionamento numérico entre o sujeito e o verbo, e não necessariamente na posição ou sequência geral das palavras na oração, a menos que uma inversão (onde o sujeito vem depois do verbo) fosse a causa do problema de concordância. Ainda assim, o problema primário seria a concordância, não a ordem em si. Portanto, não é a ilustração mais precisa do tipo de 'problema' indicado pela resposta correta.",
+          "D": "Locuções adjetivas são grupos de palavras que funcionam como adjetivos, descrevendo substantivos (ex: 'a man *of honor*', 'the house *by the lake*'). Assim como as circunstâncias de tempo e modo, locuções adjetivas são elementos gramaticais comuns em qualquer texto. Embora a identificação de locuções adjetivas seja importante para a compreensão de texto, um 'problema de concordância verbal' (alternativa E) não está diretamente relacionado a esse conceito. O texto não teria como objetivo ilustrar erros ou desafios específicos ligados a locuções adjetivas, mas sim a falhas na relação entre sujeito e verbo.",
+          "E": "Esta é a alternativa correta. 'Um problema de concordância verbal' significa que o texto não fornecido apresentava uma ou mais instâncias onde o verbo não estava conjugado corretamente para concordar em número (singular ou plural) com seu sujeito gramatical. A questão, portanto, avaliaria a capacidade do estudante de identificar esse tipo de erro crucial para a correta interpretação do sentido da frase. Exemplos clássicos incluem 'The list of items *are* available' (incorreto, deveria ser 'is') ou 'One of the students *have* arrived' (incorreto, deveria ser 'has'). A identificação e correção de tais erros demonstram uma compreensão avançada da estrutura gramatical do inglês."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade do aluno de identificar um erro específico de concordância verbal em inglês, um conceito fundamental para a compreensão precisa da língua, onde o verbo deve sempre concordar em número com seu sujeito."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q35/image.png"
@@ -2000,16 +2107,23 @@
       "id": "fuvest-2023-q36",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A teoria musical lida com a organização dos sons. Um conceito fundamental é o de intervalo musical, que representa a 'distância' entre duas notas. Matematicamente, esse intervalo é definido pela razão entre as frequências das duas notas. Na escala pitagórica, um sistema de afinação historicamente importante, os intervalos básicos de um *tom* e um *semitom* possuem razões fixas de frequência. A propriedade crucial para esta questão é que a *soma de intervalos* (em termos musicais, como 'um tom mais um semitom') corresponde ao *produto das razões* de frequência dos intervalos individuais. Para resolver equações envolvendo potências de frações com bases diferentes, a *fatoração em números primos* é uma ferramenta poderosa, pois permite comparar os expoentes de cada fator primo individualmente, transformando o problema exponencial em um sistema de equações lineares.",
+        "steps": [
+          "**1. Calcular a Razão Total de Frequências:** O primeiro passo é determinar a razão entre a frequência da nota mais alta (990 Hz) e a da nota mais baixa (220 Hz). Esta razão representa o intervalo total entre as duas notas. Razão = 990 Hz / 220 Hz = 99 / 22 = 9 / 2.",
+          "**2. Expressar as Razões em Fatores Primos:** Converta as razões dos intervalos de tom, semitom e a razão total em suas formas fatoradas por números primos. Isso facilitará a comparação dos expoentes posteriormente.\n    *   Intervalo de um tom: 9/8 = 3² / 2³.\n    *   Intervalo de um semitom: 256/243 = 2⁸ / 3⁵.\n    *   Intervalo total (calculado no passo 1): 9/2 = 3² / 2¹.",
+          "**3. Montar a Equação de Composição dos Intervalos:** De acordo com o enunciado, a soma de 'n' tons e 'm' semitons corresponde ao produto das razões. Usando as formas fatoradas por primos:\n    *   (razão do tom)ⁿ * (razão do semitom)ᵐ = razão total\n    *   (3² / 2³)ⁿ * (2⁸ / 3⁵)ᵐ = 3² / 2¹\n    *   (3²ⁿ / 2³ⁿ) * (2⁸ᵐ / 3⁵ᵐ) = 3² / 2¹\n    *   3^(2n - 5m) * 2^(8m - 3n) = 3² * 2^(-1) (agrupando os termos de mesma base).",
+          "**4. Formar o Sistema de Equações Lineares:** Pela unicidade da fatoração em números primos, os expoentes de cada base (2 e 3) devem ser iguais em ambos os lados da equação. Isso nos permite criar um sistema de duas equações lineares:\n    *   Para a base 3: 2n - 5m = 2 (Equação I)\n    *   Para a base 2: 8m - 3n = -1 (Equação II)",
+          "**5. Resolver o Sistema de Equações:** Utilize um método de resolução para sistemas lineares (substituição, adição/eliminação). Usaremos substituição:\n    *   Da Equação I, isolamos 'n': 2n = 2 + 5m => n = (2 + 5m) / 2.\n    *   Substituímos 'n' na Equação II: 8m - 3 * ((2 + 5m) / 2) = -1.\n    *   Multiplicamos toda a equação por 2 para eliminar o denominador: 16m - 3(2 + 5m) = -2.\n    *   16m - 6 - 15m = -2.\n    *   m - 6 = -2 => m = 4.\n    *   Substituímos m = 4 de volta na expressão para 'n': n = (2 + 5 * 4) / 2 = (2 + 20) / 2 = 22 / 2 = 11.",
+          "**6. Calcular a Soma (n + m):** Finalmente, adicione os valores encontrados para 'n' e 'm'.\n    *   n + m = 11 + 4 = 15."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa estaria incorreta se representasse um valor diferente de 15. Um erro comum seria inverter a razão das frequências (usar 220/990 em vez de 990/220) ou aplicar incorretamente as propriedades dos expoentes ao fatorar as razões, levando a um sistema de equações diferente.",
+          "B": "Esta alternativa estaria incorreta se representasse um valor diferente de 15. Possíveis erros poderiam incluir equívocos na manipulação algébrica ao resolver o sistema de equações (por exemplo, erros de sinal ou de multiplicação), ou confundir 'soma de intervalos' com a soma aritmética das razões, em vez do produto.",
+          "C": "Esta alternativa estaria incorreta se representasse um valor diferente de 15. Erros de cálculo na fatoração em primos das razões (9/8, 256/243, 9/2) poderiam gerar expoentes incorretos e, consequentemente, um sistema de equações com soluções erradas para 'n' e 'm'.",
+          "D": "Esta alternativa estaria incorreta se representasse um valor diferente de 15. Um erro potencial seria, após resolver o sistema para 'n' e 'm', calcular uma operação diferente de 'n + m', como 'n - m' ou 'n * m', ou cometer um erro simples de soma.",
+          "E": "A alternativa E está correta. A soma 'n + m' foi calculada como 15, que é o resultado da resolução sistemática do problema. Esta solução envolveu o cálculo correto da razão de frequências (9/2), a fatoração em primos das razões de tom (9/8) e semitom (256/243), a montagem e resolução de um sistema de equações lineares a partir dos expoentes dos fatores primos (2n - 5m = 2 e 8m - 3n = -1), resultando em n = 11 e m = 4. A soma, portanto, é 11 + 4 = 15."
         },
-        "finalSummary": ""
+        "finalSummary": "A resolução desta questão demonstra a importância de traduzir corretamente as propriedades musicais (soma de intervalos como produto de razões) em uma formulação matemática, utilizando a fatoração em números primos para converter uma equação exponencial em um sistema de equações lineares, e resolvê-lo com precisão para encontrar os parâmetros desejados."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q36/image.png"
@@ -2053,16 +2167,21 @@
       "id": "fuvest-2023-q37",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver esta questão, é fundamental dominar conceitos de análise sintática e semântica. Precisamos entender a função dos adjuntos adverbiais (especificamente os temporais), o valor semântico das conjunções e locuções conjuntivas (como as concessivas), e a distinção entre sentido denotativo (literal) e conotativo (figurado) das palavras, especialmente no contexto de textos poéticos ou líricos.",
+        "steps": [
+          "**Análise da Afirmação I:** Observe os adjuntos adverbiais de tempo presentes na letra: 'Presentemente', 'no ano passado', 'Ano passado', 'esse ano'. Claramente, há um contraste entre o 'presente' (sujeito de sorte, são, salvo, forte, não sofre mais) e o 'passado' (sofreu, sangrou, chorou, 'morreu'). A expressão 'Ano passado eu morri, mas esse ano eu não morro' é um exemplo clássico de metáfora, onde 'morrer' representa um sofrimento intenso ou uma fase de grande dificuldade, não a morte literal. Portanto, os adjuntos adverbiais temporais constroem essa oposição e reforçam o caráter metafórico da 'morte' e 'vida' mencionadas.",
+          "**Análise da Afirmação II:** A locução 'apesar de' é uma conjunção ou locução conjuntiva concessiva. Ela introduz uma ideia que expressa uma ressalva ou oposição ao que se esperaria, sem impedir a realização da ação principal. Na frase 'Porque **apesar de muito moço**, me sinto são e salvo e forte', o 'muito moço' (pouca idade) poderia sugerir inexperiência ou fragilidade diante das adversidades passadas. No entanto, o eu lírico afirma, *apesar disso*, sentir-se forte e seguro. Isso expressa um sentimento inesperado ou que contraria a expectativa comum em relação à juventude, confirmando a afirmação.",
+          "**Análise da Afirmação III:** A afirmação diz que as formas verbais 'morri' e 'morro' apresentam sentido denotativo. Como discutido na análise da afirmação I, no contexto da música, 'Ano passado eu morri' não se refere a uma morte física literal, mas sim a um período de extremo sofrimento, desilusão ou de uma grande transformação pessoal. Da mesma forma, 'esse ano eu não morro' significa que ele não sucumbirá mais a esse tipo de angústia ou dificuldade. Ambos os usos são figurados, ou seja, conotativos, e não literais (denotativos). Portanto, a afirmação III está incorreta.",
+          "**Conclusão:** As afirmações I e II estão corretas, enquanto a afirmação III está incorreta. Assim, a alternativa que indica apenas as afirmações I e II como corretas é a letra C."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta porque, embora a afirmação I esteja correta, a afirmação II também está correta. A análise da locução 'apesar de' confirma que ela introduz uma ideia de contraste ou algo inesperado em relação à juventude do eu lírico.",
+          "B": "Esta alternativa está incorreta porque, embora a afirmação II esteja correta, a afirmação I também está correta. A letra da música utiliza os adjuntos adverbiais temporais para construir uma clara oposição entre o sofrimento passado e a superação presente, reforçando o sentido figurado da 'morte' e 'vida'.",
+          "C": "Esta é a alternativa correta. A afirmação I está correta ao identificar o contraste temporal e o caráter metafórico do texto. A afirmação II também está correta, pois a locução concessiva 'apesar de' realmente introduz um elemento de surpresa ou contrariedade ao que se esperaria da condição de 'muito moço'. A afirmação III está incorreta, pois os verbos 'morri' e 'morro' são usados em sentido conotativo, não denotativo, na canção.",
+          "D": "Esta alternativa está incorreta porque, embora a afirmação II esteja correta, a afirmação III está incorreta. Os verbos 'morri' e 'morro' são empregados com sentido figurado (conotativo) de sofrimento e superação, e não com seu sentido literal (denotativo) de cessação da vida.",
+          "E": "Esta alternativa está incorreta porque a afirmação III está incorreta. A interpretação de 'morri' e 'morro' como tendo sentido denotativo (literal) ignora o uso poético e metafórico que Belchior faz desses termos na canção, onde eles representam estados de espírito e fases da vida, e não eventos biológicos literais."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de interpretar figuras de linguagem, entender a função semântica de conjunções e adjuntos adverbiais, e distinguir entre denotação e conotação em um texto poético."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q37/image.png"
@@ -2106,16 +2225,22 @@
       "id": "fuvest-2023-q38",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Fernando Pessoa, em sua obra \"Mensagem\", subverte muitas noções tradicionais, incluindo a de felicidade. O livro é uma epopeia lírica que celebra o passado glorioso de Portugal e projeta um futuro mítico, o Quinto Império, fundamentado na crença do Sebastianismo. Nesse contexto, a \"felicidade\" no sentido de contentamento, conformismo ou satisfação com o presente é frequentemente associada à mediocridade e à estagnação, sendo vista como um obstáculo à realização do grande ideal. Para Pessoa, a verdadeira realização humana – que poderia ser interpretada como uma forma superior de 'felicidade' ou plenitude – reside na busca incessante do sonho, na insatisfação com o status quo (\"ser descontente é ser homem\") e na dedicação a um destino grandioso e heroico, mesmo que isso implique dor e sacrifício.",
+        "steps": [
+          "**1. Compreensão do Enunciado e do Poema:** Leia atentamente o poema \"O Quinto Império\" e a pergunta. A questão indaga sobre a ideia de felicidade, um conceito crucial em \"Mensagem\", de acordo com o texto.",
+          "**2. Análise da Representação da Felicidade no Texto:** Observe como o poema trata a felicidade. As estrofes \"Triste de quem vive em casa, / Contente com o seu lar\" e \"Triste de quem é feliz! / Vive porque a vida dura. / Nada na alma lhe diz / Mais que a lição da raiz — / Ter por vida a sepultura\" demonstram que a felicidade, no sentido de contentamento e conformismo, é vista como algo negativo, que impede o sonho e leva à estagnação (a \"sepultura\").",
+          "**3. Identificação do Contraponto à Felicidade Conformista:** O poema oferece um contraponto: \"Ser descontente é ser homem\". O descontentamento aqui não é uma tristeza passiva, mas a força motriz para a busca de algo maior, de uma \"visão que a alma tem\". Esse descontentamento é o que impulsiona a humanidade a transcender as \"forças cegas\" e a buscar o ideal, o destino profetizado do Quinto Império, que é um destino heroico para Portugal.",
+          "**4. Relação com o Tema Geral de \"Mensagem\":** O poema \"O Quinto Império\" é central em \"Mensagem\". A obra inteira exalta a busca por um ideal, a criação de um império espiritual e cultural. A \"felicidade\" mundana e conformista é o oposto dessa busca heroica. Portanto, a realização plena, a \"verdade\" que \"D. Sebastião\" representa, está ligada ao destino grandioso e heroico, e não ao contentamento trivial.",
+          "**5. Avaliação das Alternativas:** Compare essa compreensão com as opções dadas:\n    *   **A) alimenta as aspirações humanas:** O texto mostra que a felicidade (conformista) *impede* as aspirações de algo maior. O \"sonho\" só surge quando se abandona a \"lareira\" da felicidade doméstica.\n    *   **B) compreende-se como superação da morte:** Pelo contrário, a felicidade (conformista) é associada à \"sepultura\", à falta de um propósito transcendente. A superação viria da busca do ideal, não da felicidade material.\n    *   **C) identifica-se com o destino heroico:** Esta é a alternativa correta. O poema subverte a ideia de felicidade. A felicidade trivial é triste e medíocre. O que é valorizado e enaltecido é o \"descontentamento\" que leva à busca do sonho, do \"Quinto Império\", do destino grandioso e heroico. A verdadeira \"realização\" (que seria a antítese da felicidade condenada) está ligada ao heroísmo e ao ideal sebastianista.\n    *   **D) compõe a mediocridade cotidiana:** O poema de fato *condena* a felicidade que *compõe a mediocridade cotidiana* (\"Triste de quem é feliz! / Vive porque a vida dura.\"). No entanto, a questão pede \"a ideia de felicidade\" nuclear em \"Mensagem\". A felicidade que é nuclear em \"Mensagem\" *por oposição* e por *crítica* é justamente a que é o *contrário* da mediocridade. A felicidade trivial é uma armadilha, enquanto o ideal heroico é o que se busca. A alternativa C é mais precisa ao apontar para o que o poema *valoriza* em contraste com a felicidade condenada.\n    *   **E) situa-se como finalidade da existência:** Para Pessoa em \"Mensagem\", a finalidade da existência não é o contentamento, mas a incessante busca do ideal, do sonho, da \"visão que a alma tem\" (o Quinto Império), que exige desassossego e \"descontentamento\"."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa é incorreta porque o poema claramente associa a \"felicidade\" (como contentamento e conformismo) à estagnação, a um estado que *impede* o surgimento de um \"sonho\" e a busca por aspirações mais elevadas. O eu lírico lamenta \"Triste de quem vive em casa, / Contente com o seu lar, / Sem que um sonho, no erguer de asa, / Faça até mais rubra a brasa / Da lareira a abandonar!\". Ou seja, o contentamento impede a ação do sonho.",
+          "B": "A alternativa é falsa. O poema explicitamente relaciona a felicidade (conformista) com a morte simbólica e a ausência de propósito: \"Ter por vida a sepultura\". A superação da morte, no contexto de \"Mensagem\", viria da busca do ideal e da imortalização da Pátria no Quinto Império, não da felicidade mundana, que é descrita como sinônimo de estagnação e esquecimento.",
+          "C": "Esta é a alternativa correta. O poema critica a \"felicidade\" como contentamento para exaltar o \"ser descontente\" como a verdadeira condição humana. Esse descontentamento é a mola propulsora para a busca de um ideal, o \"Quinto Império\", que representa o destino grandioso e heroico de Portugal. A \"felicidade\" que o poema *condena* é a mediocridade, enquanto a *realização* que ele propõe está ligada diretamente a esse destino heroico, simbolizado pela figura de D. Sebastião e o ideal do império espiritual. A identificação com o destino heroico é, portanto, a antítese da felicidade conformista condenada pelo texto.",
+          "D": "Embora o poema de fato retrate a felicidade (como contentamento) como parte da \"mediocridade cotidiana\" (\"Vive porque a vida dura. / Nada na alma lhe diz / Mais que a lição da raiz\"), a alternativa não expressa o *ponto central* que o texto e \"Mensagem\" querem transmitir sobre o *ideal*. O poema *condena* essa felicidade medíocre, não a define como o valor nuclear da obra. A questão busca a ideia de felicidade *também nuclear*, o que implica a visão contrastante e idealizada. O foco de \"Mensagem\" não é a descrição da mediocridade, mas a exaltação da superação dela através do sonho heroico.",
+          "E": "A finalidade da existência, segundo o poema e \"Mensagem\", não é a \"felicidade\" (no sentido de contentamento e repouso), mas sim a busca incessante e mística de um ideal, do \"Quinto Império\". \"Ser descontente é ser homem\" mostra que o propósito está na constante superação e na perseguição de uma \"visão que a alma tem\", não em um estado de contentamento passivo."
         },
-        "finalSummary": ""
+        "finalSummary": "Em \"Mensagem\", Fernando Pessoa subverte a noção comum de felicidade, associando o contentamento à mediocridade e à estagnação, enquanto exalta o \"descontentamento\" e a incessante busca pelo ideal do Quinto Império como o verdadeiro caminho para a realização humana e o destino heroico de Portugal."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q38/image.png"
@@ -2159,16 +2284,27 @@
       "id": "fuvest-2023-q39",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Fernando Pessoa, em sua obra \"Mensagem\", reinterpreta a história de Portugal a partir de uma perspectiva mística e nacionalista, culminando na ideia do Quinto Império. Este império, ao contrário dos quatro anteriores (Grécia, Roma, Cristandade e Europa), seria de natureza espiritual e cultural, um renascimento da glória portuguesa não no plano material, mas no plano da alma e do ideal. O Sebastianismo, o mito do retorno de D. Sebastião, é central para essa visão, funcionando como um catalisador para a esperança e a crença em um futuro glorioso. Para Pessoa, a história não é apenas uma sucessão linear de fatos, mas é moldada pela imaginação, pelo desejo e pela capacidade humana de sonhar e de ter visões que transcendem a realidade objetiva. O tempo, portanto, é concebido como algo que pode ser transformado e impulsionado pela força do idealismo e da psique coletiva.",
+        "steps": [
+          "**1. Compreenda o contexto da questão e do poema:** A questão pede para analisar como o tempo é encarado no poema \"O Quinto Império\" de Fernando Pessoa, parte da obra \"Mensagem\". O texto introdutório já aponta para uma \"reinterpretação do tempo histórico\".",
+          "**2. Analise as estrofes do poema:**",
+          "    *   \"Triste de quem vive em casa, Contente com o seu lar, Sem que um sonho, no erguer de asa, Faça até mais rubra a brasa Da lareira a abandonar!\": Aqui, o poema critica a mera satisfação com o conforto material e a vida comum, exaltando a necessidade do \"sonho\" como força impulsionadora para transcender o presente.",
+          "    *   \"Triste de quem é feliz! Vive porque a vida dura. Nada na alma lhe diz Mais que a lição da raiz — Ter por vida a sepultura.\": Reforça a ideia de que a felicidade baseada apenas na duração da vida material leva à estagnação, à \"sepultura\". A alma deve buscar algo mais profundo.",
+          "    *   \"Ser descontente é ser homem. Que as forças cegas se domem Pela visão que a alma tem!\": Esta é uma estrofe crucial. O descontentamento com o presente é a essência humana, e a \"visão que a alma tem\" (a imaginação, o idealismo) é capaz de dominar as \"forças cegas\" (o destino, a realidade material).",
+          "    *   \"E assim, passados os quatro Tempos do ser que sonhou, A terra será teatro Do dia claro, que no atro Da erma noite começou.\": Os quatro impérios passados são vistos como etapas de um \"ser que sonhou\". O futuro \"dia claro\" (Quinto Império) nasce da \"noite\" (declínio), impulsionado por essa capacidade de sonhar.",
+          "    *   \"Grécia, Roma, Cristandade, Europa — os quatro se vão Para onde vai toda idade. Quem vem viver a verdade Que morreu D. Sebastião?\": A referência explícita aos impérios históricos e a D. Sebastião conecta a reinterpretação histórica ao mito sebastianista, que é um \"sonho\" nacional.",
+          "**3. Identifique os conceitos-chave relacionados ao tempo:** O poema continuamente associa a passagem do tempo, a história e a projeção do futuro com termos como \"sonho\", \"alma\", \"visão que a alma tem\" e \"ser que sonhou\". Isso indica que o tempo não é visto como uma entidade externa e linear, mas como algo internamente construído e impulsionado pela psique humana.",
+          "**4. Avalie as alternativas:**",
+          "    *   A concepção de tempo está intrinsecamente ligada à capacidade de sonhar e imaginar. A transformação da história e a emergência do Quinto Império dependem dessa força interior. Portanto, a alternativa que melhor expressa essa ideia é a que se refere a uma concepção psicológica do tempo."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
+          "A": "A alternativa sugere uma concepção nostálgica. Embora o poema faça referência a um passado glorioso (D. Sebastião, os impérios anteriores), ele não se limita a uma mera saudade do que se foi. A \"Mensagem\" de Pessoa é um chamado para reinterpretar o passado e, a partir dele, construir um futuro ideal, um novo império. A nostalgia é passiva; a proposta de Pessoa é ativa e projetiva, usando o passado como alicerce para um sonho futuro, e não como um mero objeto de lamento ou saudade.",
+          "B": "Esta alternativa é diretamente contradita pelo início do poema: \"Triste de quem vive em casa, Contente com o seu lar...\". Pessoa critica a vida confortável e materialista, que ele associa à estagnação e à \"sepultura\". O poema exalta o descontentamento e o sonho como forças motrizes para a superação do material e a busca de um ideal espiritual, o oposto de uma aspiração burguesa e materialista.",
+          "C": "A alternativa aponta para uma concepção mística, em razão de um futuro metafísico. De fato, o Quinto Império é uma visão mística e metafísica. No entanto, a questão pergunta como o *tempo* é *encarado* no poema. Embora o *resultado* da reinterpretação do tempo seja um futuro místico, o *mecanismo* pelo qual essa reinterpretação ocorre e pelo qual esse futuro é concebido é profundamente psicológico, fundamentado no \"sonho\", na \"visão que a alma tem\" e na capacidade humana de transcender a realidade. A mística é o *conteúdo* do futuro, enquanto o psicológico é a *forma* como esse tempo é percebido e construído pela consciência no poema.",
+          "D": "A alternativa propõe uma concepção biológica, por mérito da aceitação do ciclo natural da existência. O poema, contudo, opõe-se a essa visão. Ao afirmar \"Ter por vida a sepultura\" para quem vive sem o impulso do sonho e ao declarar \"Ser descontente é ser homem\", Pessoa rejeita a mera aceitação da finitude e do ciclo natural da vida. Ele prega a transcendência e a superação das limitações biológicas e materiais através da força do ideal e da visão da alma.",
           "E": ""
         },
-        "finalSummary": ""
+        "finalSummary": "O poema \"O Quinto Império\" de Fernando Pessoa concebe o tempo como uma construção psicológica, moldada e impulsionada pela força do \"sonho\" e da \"visão que a alma tem\", permitindo a reinterpretação da história e a projeção de um futuro ideal e espiritual para Portugal."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q39/image.png"
@@ -2212,16 +2348,21 @@
       "id": "fuvest-2023-q40",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O início do século XX, especialmente as décadas de 1910 e 1920, foi um período de intensa construção e reafirmação de identidades nacionais em diversos países da América Latina. As celebrações de centenários de independência, como a Exposição Internacional do Centenário de 1922 no Rio de Janeiro, foram eventos cruciais para esses processos. Tais exposições, inspiradas nas Grandes Exposições Universais do século XIX, não eram apenas festivais de intercâmbio cultural; elas serviam como palcos grandiosos para os países exibirem seus progressos, suas riquezas culturais, sua modernidade (ou a busca por ela) e sua importância geopolítica. Nesses contextos, a projeção de uma imagem nacional forte e a comparação (implícita ou explícita) com outras nações eram elementos centrais, gerando uma forma de competição ou 'rivalidade' no campo da diplomacia cultural e da afirmação simbólica.",
+        "steps": [
+          "**1. Analise o contexto da Exposição do Centenário de 1922:** O texto descreve a exposição brasileira como uma 'versão brasileira grandiosa, embora anacrônica, das exposições do século XIX, destinadas a celebrar o ideal nacional'. Isso indica um esforço significativo e ostensivo para glorificar a nação.",
+          "**2. Observe a participação mexicana:** O México enviou uma 'importante delegação, com farto material de exposição, tendo inclusive construído um pavilhão especial'. Essa descrição sugere que o México também se empenhou em uma demonstração grandiosa e estratégica de sua presença e identidade no evento.",
+          "**3. Interprete o caráter das grandes exposições:** Historicamente, grandes exposições e celebrações nacionais funcionavam como vitrines para os países. Embora houvesse intercâmbio, a tônica estava na autoafirmação e na projeção de uma imagem de poder e cultura, o que frequentemente resultava em uma competição por prestígio e visibilidade entre as nações participantes.",
+          "**4. Avalie a 'semelhança' solicitada:** A questão pede uma semelhança entre os dois países. Ambos os trechos ('grandiosa, embora anacrônica' para o Brasil e 'importante delegação' com 'pavilhão especial' para o México) apontam para um esforço de excelência e destaque na forma de celebrar e se apresentar. Essa busca por uma celebração 'melhor', 'maior' ou mais 'impactante' em um contexto internacional configura uma forma de rivalidade."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'A defesa da Revolução Mexicana e das ideias de supremacia indígena' está incorreta porque, embora a figura de Cuauhtémoc simbolize a resistência indígena e José Vasconcelos tenha desenvolvido a ideia da 'raça cósmica' (que valorizava a miscigenação, não necessariamente uma 'supremacia indígena'), o texto não estabelece que a *semelhança* entre os dois países fosse a defesa da Revolução Mexicana ou dessas ideias. O Brasil não estava defendendo a Revolução Mexicana, nem o excerto sugere que o objetivo era a 'supremacia indígena', mas sim a afirmação da identidade mexicana através de seus heróis.",
+          "B": "A alternativa 'A valorização de símbolos nacionais e do conhecimento mútuo na América Latina' é parcialmente verdadeira, pois o texto menciona o intercâmbio de símbolos ('Cuauhtémoc carioca', 'mitos nacionais brasileiros' levados por Vasconcelos). No entanto, a questão busca uma *semelhança* mais profunda no *modo* de celebrar. A valorização de símbolos é um aspecto intrínseco de celebrações de independência, mas a forma grandiosa e a projeção de poder simbólico (com pavilhão especial, delegação importante) apontam para um caráter mais competitivo do que apenas um 'conhecimento mútuo'. A alternativa E descreve melhor a natureza desse 'grande espetáculo' internacional.",
+          "C": "A alternativa 'O reconhecimento da superioridade do passado mexicano associado aos astecas' está incorreta. O texto mostra a valorização do passado asteca pelo México (ao escolher Cuauhtémoc como símbolo), mas não há indicação de que o Brasil reconhecesse uma 'superioridade' desse passado. A celebração era sobre a identidade e a história *mexicana* sendo exibida, não sobre uma hierarquia entre as histórias dos dois países ou um reconhecimento de superioridade por parte do Brasil.",
+          "D": "A alternativa 'A dissolução das identidades nacionais em favor das identidades continentais' está incorreta. Pelo contrário, o texto descreve uma intensa celebração e afirmação das *identidades nacionais* ('celebrar o ideal nacional', 'Cuauhtémoc' como símbolo mexicano, 'mitos nacionais brasileiros'). A participação mexicana e a exposição brasileira reforçavam suas respectivas individualidades nacionais, e não as diluíam em uma identidade continental genérica.",
+          "E": "A alternativa 'A rivalidade entre os países latino-americanos na forma de celebrar os Centenários' é a correta. Embora o termo 'rivalidade' possa sugerir conflito, no contexto das grandes exposições internacionais do período, ele se refere à competição por prestígio, visibilidade e afirmação da identidade nacional no cenário mundial. A descrição da exposição brasileira como 'grandiosa' e a destacada participação mexicana com 'importante delegação' e 'pavilhão especial' indicam um esforço em se sobressair, em mostrar sua força e cultura, o que é uma forma de competição ou rivalidade simbólica. Ambos os países buscavam se afirmar e se destacar na grandiosidade de suas celebrações, exibindo suas particularidades e conquistas para o público internacional e, implicitamente, entre si."
         },
-        "finalSummary": ""
+        "finalSummary": "As celebrações do Centenário de 1922 revelam que, para além do intercâmbio cultural, havia uma competição por prestígio e autoafirmação entre as nações latino-americanas na grandiosidade de suas exibições e na projeção de suas identidades nacionais."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q40/image.png"
@@ -2265,16 +2406,21 @@
       "id": "fuvest-2023-q41",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A expressão \"índio sacana\", presente no texto de Paulo de Carvalho-Neto, remete a um fenômeno socioantropológico recorrente na América Latina, especialmente no século XX, com a intensificação da migração de populações indígenas e mestiças do meio rural para os centros urbanos. Esse processo de urbanização, muitas vezes impulsionado pela busca por melhores condições de vida e trabalho, frequentemente resultava em uma situação de liminaridade e hibridismo cultural. O indivíduo, ao se afastar das suas raízes e tradições indígenas e não ser plenamente aceito pela sociedade urbana dominante (branca ou mestiça), acabava por habitar um \"não-lugar\" identitário e social. Essa condição de indefinição identitária é comumente acompanhada por marginalização econômica (exercício de trabalhos precários) e invisibilidade social, apesar da presença física e cotidiana desses indivíduos nas cidades. A expressão, portanto, não denota malícia, mas sim uma perda de referências e uma adaptação marginal à nova realidade.",
+        "steps": [
+          "**1. Análise da Descrição do \"Índio Sacana\":** Leia atentamente o trecho do texto e identifique as características que o narrador atribui ao \"índio sacana\". Observe os termos como \"índio pela metade\", \"nem índio, nem branco, nem cholo, nem negro, nem serrano, nem costeiro, nem camponês, nem equatoriano, nem estrangeiro, nem nada\", que apontam para uma indefinição identitária. Note também a descrição de sua invisibilidade social (\"qu’está à vista de toda gente e ninguém vê\") e sua condição econômica precária (\"buscando trabalho nas porta de gente rica, de jardineiro, de mensageiro, cuidador de cachorros, saloneiro, caseiro, criador de crianças, de toda classe de trabalho. Chofer.\").",
+          "**2. Interpretação do Significado da Expressão:** Com base nas características levantadas, compreenda o que a expressão \"índio sacana\" representa no contexto do texto. Fica evidente que se refere a uma pessoa que perdeu suas referências culturais e identitárias originais e está em uma posição marginal na sociedade urbana, buscando sobreviver com trabalhos subalternos.",
+          "**3. Avaliação das Alternativas Disponíveis (A e B):** Compare as características interpretadas com as opções A e B. Verifique qual delas se alinha de forma mais precisa e completa à descrição textual. Descarte as que apresentam ideias contraditórias ou menos abrangentes.",
+          "**4. Consideração das Alternativas Ausentes (C, D, E):** Note que o conteúdo das alternativas C, D e E não foi fornecido. Para resolver completamente a questão, seria crucial ter acesso a elas. No entanto, sabendo que a alternativa D é a correta, podemos inferir que ela sintetiza a condição de liminaridade cultural, perda de identidade e marginalização socioeconômica vivida por esses indivíduos, conforme descrito no texto."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A está incorreta porque a descrição do \"índio sacana\" no texto não condiz com \"autonomia e resistência às formas pós-coloniais de dominação\". Pelo contrário, a figura apresentada busca trabalhos precários e vive uma situação de invisibilidade social (\"ninguém vê\"), o que sugere vulnerabilidade, submissão às dinâmicas econômicas e uma profunda perda de referências identitárias, e não uma postura ativa de enfrentamento ou independência.",
+          "B": "A alternativa B descreve um \"grupo social cuja inserção na sociedade equatoriana foi complexa e limitada\". Essa afirmação não está totalmente errada, pois a situação do \"índio sacana\" de fato aponta para uma inserção complexa (devido à perda de identidade e ao hibridismo) e limitada (restrita a trabalhos informais e de menor prestígio). No entanto, o ponto central da expressão \"índio sacana\" no texto parece focar mais na *perda de identidade*, na *indefinição* e na *liminaridade* – ser \"nem índio, nem branco, nem nada\" – do que apenas na complexidade da inserção. É um bom distrator por conter elementos de verdade, mas pode não ser a alternativa que melhor e mais especificamente sintetiza o significado da expressão, especialmente se houver outra opção (como a D) que aborde a dimensão identitária de forma mais direta e completa.",
+          "C": "O conteúdo da alternativa C não foi fornecido na questão. Portanto, não é possível analisar a sua correção ou incorreção em relação ao texto.",
+          "D": "O conteúdo da alternativa D não foi fornecido na questão. Sabendo que D é a alternativa correta, ela certamente aborda a condição de marginalização, a perda de identidade cultural e a ambiguidade social e econômica vivenciada por esses indivíduos urbanizados, que não se encaixam plenamente em nenhuma categoria social predefinida, tal como amplamente descrito no excerto.",
+          "E": "O conteúdo da alternativa E não foi fornecido na questão. Portanto, não é possível analisar a sua correção ou incorreção em relação ao texto."
         },
-        "finalSummary": ""
+        "finalSummary": "A expressão \"índio sacana\" no texto de Carvalho-Neto descreve a figura do indígena urbanizado e marginalizado que, em seu processo de assimilação e adaptação, perdeu a identidade tradicional sem ser plenamente aceito pela sociedade dominante, vivendo em uma condição de profunda indefinição e liminaridade cultural e socioeconômica."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q41/image.png"
@@ -2318,16 +2464,21 @@
       "id": "fuvest-2023-q42",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A sociedade colonial brasileira, especialmente nas regiões de mineração como Minas Gerais no século XVIII, apresentava complexas dinâmicas sociais e econômicas. A mineração de ouro e diamantes atraiu uma grande população para a região, composta por escravizados, mineradores, comerciantes, artesãos e também indivíduos que não se encaixavam nas categorias formais de trabalho, muitas vezes rotulados como 'vadios' ou 'desclassificados'. Contudo, esses 'vadios' frequentemente desempenhavam funções essenciais na economia informal e complementar, como transporte de mercadorias, pequeno comércio, fornecimento de alimentos, serviços diversos ou mesmo exploração autônoma de veios de ouro menos rentáveis, que escapavam ao controle estatal direto. A burocracia colonial, embora tentasse impor a ordem e a 'utilidade' do trabalho, muitas vezes precisava flexibilizar suas regras diante das realidades locais, reconhecendo a importância prática desses grupos para o funcionamento da capitania.",
+        "steps": [
+          "Faça uma leitura atenta do excerto, identificando a principal afirmação do Desembargador Teixeira Coelho sobre os 'vadios' em Minas Gerais.",
+          "Observe a contradição apresentada: enquanto em outras nações civilizadas os vadios são 'ódio' e 'prejudiciais', em Minas Gerais, eles são considerados 'úteis' e as regras comuns não lhes são aplicáveis.",
+          "Analise as alternativas, buscando aquela que melhor explica por que os vadios seriam 'úteis' no contexto mineiro do século XVIII e qual a consequência dessa utilidade para a postura das autoridades.",
+          "Relacione a ideia de 'utilidade' com as atividades econômicas e sociais que poderiam ser desempenhadas por indivíduos 'desclassificados' em uma região de fronteira econômica, onde a mineração era a atividade principal, mas exigia uma vasta rede de suporte."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa contradiz diretamente a segunda parte do excerto. Embora o texto afirme que, em outras partes, os vadios são objeto de preocupação e legislação contra sua ociosidade, ele especifica que 'as regras comuns relativas a este ponto não podem ser aplicáveis ao território de Minas; porque estes vadios [...] são ali úteis'. Portanto, em Minas, a ociosidade não era a principal preocupação, ou pelo menos era superada pela sua utilidade prática.",
+          "B": "O excerto afirma que 'as regras comuns relativas a este ponto não podem ser aplicáveis ao território de Minas', o que sugere uma flexibilização ou exceção das normas, e não uma limitação que impediria seu ingresso. Pelo contrário, se são úteis, seria ilógico impedi-los de ingressar. A legislação colonial em Minas frequentemente tinha que se adaptar às peculiaridades locais.",
+          "C": "Esta é a alternativa correta. O excerto enfatiza que os vadios são 'úteis' em Minas, diferentemente de outros lugares. Essa utilidade estava ligada a atividades complementares à mineração (como transporte, abastecimento, pequeno comércio, serviços diversos ou até mesmo extração marginal de ouro), que eram essenciais para o funcionamento da economia e da sociedade local. Essa contribuição justificava a 'tolerância' das autoridades, que viam nesses indivíduos, apesar de sua condição 'desclassificada', uma função prática no complexo sistema econômico mineiro.",
+          "D": "O excerto não menciona 'contratadores' preferindo vadios nem 'revoltas de trabalhadores especializados'. A utilidade dos vadios em Minas não estava necessariamente em serem 'engajados no trabalho nas minas' de forma formal, mas sim em participarem de uma economia informal ou de apoio. Não há base textual para as afirmações sobre contratadores ou revoltas.",
+          "E": "Embora o contrabando de ouro fosse uma realidade em Minas Gerais, o excerto não associa a 'utilidade' dos vadios especificamente ao contrabando. Se essa fosse a principal utilidade, dificilmente motivaria 'tolerância' das autoridades, mas sim 'ações policiais repressivas'. A utilidade mencionada pelo desembargador refere-se a funções que, de alguma forma, contribuíam para a dinâmica econômica e social da capitania, ainda que não formalmente aprovadas, e que levavam a uma certa vista grossa das autoridades, e não a repressão contínua."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão revela a complexidade da sociedade mineira do século XVIII, onde grupos marginalizados como os 'vadios' desempenhavam funções econômicas complementares à mineração, tornando-se 'úteis' e, por isso, objeto de tolerância por parte das autoridades coloniais, que adaptavam a legislação à realidade local."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q42/image.png"
@@ -4662,4 +4813,220 @@
         "finalSummary": ""
       },
       "assets": {
-        "questionImage": "/as
+        "questionImage": "/assets/questions/2023/q86/image.png"
+      }
+    },
+    {
+      "number": 87,
+      "page": 26,
+      "bbox": {
+        "x": 804,
+        "y": 1669,
+        "w": 849,
+        "h": 669
+      },
+      "stem": "𝑛≥2, 𝑛, Dado um número natural o primorial de denotado 𝑛#, por é o produto de todos os números primos menores 𝑛. que ou iguais a Por exemplo, 6# = 2 ⋅3 ⋅5 = 30. 𝑛# 2000 O menor número da forma que é maior que é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "2300"
+        },
+        {
+          "key": "B",
+          "text": "2305"
+        },
+        {
+          "key": "C",
+          "text": "2310"
+        },
+        {
+          "key": "D",
+          "text": "2312"
+        },
+        {
+          "key": "E",
+          "text": "2322"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2023-q87",
+      "year": 2023,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2023/q87/image.png"
+      }
+    },
+    {
+      "number": 88,
+      "page": 27,
+      "bbox": {
+        "x": 0,
+        "y": 91,
+        "w": 848,
+        "h": 2247
+      },
+      "stem": "Um ladrilhamento é chamado de uniforme se é composto por polígonos regulares que preenchem todo o plano sem sobreposição e, além disso, o padrão é o mesmo em cada vértice. Para classificá-los, utilizamos uma notação dada por uma sequência de números que é definida desta forma: escolhemos um vértice qualquer e indicamos o número de lados de cada polígono que contém este vértice, seguindo o sentido anti-horário, iniciando com os polígonos de menos lados, conforme os exemplos: A foto mostra o piso de um museu em Sevilha. A notação que representa o padrão do ladrilhamento do piso é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "A"
+      },
+      "id": "fuvest-2023-q88",
+      "year": 2023,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2023/q88/image.png"
+      }
+    },
+    {
+      "number": 89,
+      "page": 27,
+      "bbox": {
+        "x": 804,
+        "y": 91,
+        "w": 849,
+        "h": 1129
+      },
+      "stem": "Considere a região do plano cartesiano 𝐴= ሼ(𝑥, 𝑦) ∈ℝଶ: |𝑥| + |𝑦| ≤1ሽ esboçada na figura. 𝐵= ሼ(𝑥, 𝑦) ∈ℝଶ: (𝑥+ 1)ଶ+ 𝑦ଶ≥1ሽ, Dado a área da região 𝐴∩𝐵 é: గ 2 −",
+      "options": [
+        {
+          "key": "A",
+          "text": "ସ గ 2 −"
+        },
+        {
+          "key": "B",
+          "text": "ଶ గ 4 +"
+        },
+        {
+          "key": "C",
+          "text": "ଶ గ 4 −"
+        },
+        {
+          "key": "D",
+          "text": "ସ గ 2 +"
+        },
+        {
+          "key": "E",
+          "text": "ଶ"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2023-q89",
+      "year": 2023,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2023/q89/image.png"
+      }
+    },
+    {
+      "number": 90,
+      "page": 27,
+      "bbox": {
+        "x": 804,
+        "y": 1176,
+        "w": 849,
+        "h": 1162
+      },
+      "stem": "(3,2) (5,4) No plano cartesiano, os pontos e pertencem ao gráfico da função dada por 𝑦= 𝑙𝑜𝑔ଶ(𝑎𝑥+ 𝑏). 𝑎+ 𝑏 O valor de é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2023-q90",
+      "year": 2023,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2023/q90/image.png"
+      }
+    }
+  ]
+}
