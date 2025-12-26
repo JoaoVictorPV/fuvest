@@ -44,16 +44,20 @@
       "id": "fuvest-2015-q01",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A civilização egípcia antiga, em sua essência, era uma sociedade agrária, profundamente dependente das cheias anuais do Rio Nilo. Este fenômeno natural, que fertilizava as margens com húmus e garantia o suprimento de água, moldava o calendário egípcio, dividido em três estações principais: Akhet (inundação), Peret (semeadura/crescimento) e Shemu (colheita). A agricultura era a base econômica e social, empregando a vasta maioria da população e ditando o ritmo da vida. Conhecimentos tecnológicos em irrigação (canais, diques, shadus) e o uso de ferramentas básicas (arados) eram essenciais para otimizar a produção de cereais (trigo e cevada), que eram a base da dieta e da economia.",
+        "steps": [
+          "Analise o enunciado: A questão se refere a 'imagens produzidas no antigo Egito' (embora as imagens não estejam disponíveis para análise direta, o contexto da pergunta e as alternativas claramente apontam para o papel da agricultura na sociedade egípcia) e pede para inferir o que essas imagens 'revelam' sobre a vida no Egito Antigo.",
+          "Compreenda a alternativa correta (E): A alternativa 'a importância das atividades agrícolas no antigo Egito, que ocupavam os trabalhadores durante aproximadamente metade do ano' reflete a realidade da economia egípcia. As cheias do Nilo dividiam o ano em ciclos, e os períodos de plantio e colheita eram de intensa atividade agrícola, enquanto o período de cheia, por exemplo, liberava mão de obra para outras atividades (como as obras públicas da corveia). Os ciclos de plantio e colheita realmente concentravam o trabalho pesado em períodos específicos do ano, totalizando vários meses de intensa atividade.",
+          "Avalie as alternativas incorretas, eliminando aquelas que contradizem os fatos históricos sobre o Egito Antigo."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta. O antigo Egito não sofria de 'escassez de mão de obra'; pelo contrário, tinha uma vasta população de camponeses (felás) que constituía a força de trabalho primária. Além disso, o 'trabalho compulsório' (corveia) era uma prática comum e vital para o estado egípcio, utilizado em grandes projetos de construção (pirâmides, templos) e, ocasionalmente, em trabalhos agrícolas em terras do faraó ou de templos. O cultivo agrícola, embora familiar em pequena escala, era organizado em larga escala pelo Estado e pelos templos.",
+          "B": "Esta alternativa está incorreta. Os egípcios possuíam um conhecimento tecnológico considerável para a época, especialmente em hidráulica e agronomia. Desenvolveram sistemas complexos de irrigação (canais e diques) para aproveitar as cheias do Nilo, além de arados e outras ferramentas. Embora pudessem ocorrer períodos de escassez e fome devido a cheias irregulares do Nilo, a ideia de 'inexistência de qualquer conhecimento tecnológico' é falsa. Sua agricultura era altamente produtiva e sofisticada para a época.",
+          "C": "Esta alternativa está incorreta. Embora a agricultura fosse a atividade econômica predominante e mais importante, não era a 'única'. Os egípcios também praticavam a criação de gado, aves, pesca, caça (nas regiões de pântano e deserto), mineração, artesanato e um comércio significativo, tanto interno quanto externo. A impossibilidade de caça ou pesca é uma afirmação falsa, dado o Rio Nilo e os ecossistemas adjacentes.",
+          "D": "Esta alternativa está incorreta. O Egito é sinônimo de acesso à água, graças ao Rio Nilo. O problema não era a 'dificuldade de acesso à água em todo o Egito', mas sim a gestão dessa água para irrigar as terras agrícolas. O vale do Nilo era uma das regiões mais férteis do mundo antigo, precisamente pela abundância de água. A criação de gado de maior porte, como o gado bovino, era comum e importante para a economia e alimentação.",
+          "E": "Esta alternativa está correta. A vida agrícola no Egito Antigo era ditada pelo ciclo das cheias do Nilo. Durante os meses de inundação, o trabalho nos campos era limitado, mas nos períodos de semeadura (Peret) e colheita (Shemu), os trabalhadores estavam intensamente ocupados. Esse ciclo dividia o ano em períodos de trabalho agrícola muito intenso e outros períodos de menor atividade nos campos, liberando mão de obra para outros empreendimentos. A estimativa de 'aproximadamente metade do ano' é razoável para descrever a concentração do trabalho agrícola pesado, alternando com a estação de inundação e outros afazeres, destacando a centralidade dessa atividade."
         },
-        "finalSummary": ""
+        "finalSummary": "A economia do Antigo Egito era intrinsecamente ligada aos ciclos agrícolas do Nilo, que determinavam a importância e o ritmo do trabalho dos camponeses ao longo do ano."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q01/image.png"
@@ -97,16 +101,21 @@
       "id": "fuvest-2015-q02",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a organização política da Grécia Antiga, um tema central para a compreensão dessa civilização. É fundamental entender que a Grécia Antiga não era um Estado unificado, mas sim um conjunto de centenas de cidades-estado (pólis) independentes e soberanas, cada uma com suas próprias leis, governos e, muitas vezes, dialetos e costumes distintos. Apesar de compartilharem uma identidade cultural helênica (língua, religião, mitos e valores), essa identidade não se traduzia em uma unidade política centralizada. O texto de M. I. Finley, um renomado historiador da Antiguidade, reforça essa perspectiva, alertando contra a aplicação anacrônica de conceitos modernos como 'nação' ou 'Estado nacional' para descrever a realidade política grega. A leitura atenta desse tipo de texto é crucial em exames como a Fuvest, que frequentemente cobram a capacidade de interpretar fontes históricas e evitar generalizações ou visões simplificadas.",
+        "steps": [
+          "**1. Compreenda o argumento central do texto:** O texto enfatiza a dispersão e a desunião política dos gregos antigos, descrevendo-os como um povo que, apesar de dominar o Mediterrâneo com suas colônias, 'permaneceu desunido na sua organização política'.",
+          "**2. Identifique a conclusão explícita do autor:** A frase final é decisiva: 'Nem então nem em nenhuma outra altura, no mundo antigo, houve uma nação, um território nacional único regido por uma lei soberana, que se tenha chamado Grécia (ou um sinônimo de Grécia)'. Isso indica uma clara distinção entre a organização política grega e o conceito moderno de nação ou Estado nacional.",
+          "**3. Avalie cada alternativa à luz do texto:** Verifique se cada opção é diretamente apoiada, contradita ou se introduz informações externas que não podem ser inferidas do excerto.",
+          "**4. Selecione a alternativa que se alinha com a conclusão do texto:** A alternativa correta deve refletir a ideia de que conceitos modernos não se aplicam à realidade política da Grécia Antiga."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa afirma que a Grécia antiga 'sucumbiu rapidamente ante as investidas militares de povos mais unidos e mais bem preparados para a guerra'. O texto, no entanto, menciona que os gregos 'acabaram por dominá-lo' (referindo-se ao mundo mediterrânico), o que contradiz a ideia de uma rápida sucumbência geral. Embora a Macedônia de fato tenha subjugado as pólis gregas em um período posterior, o texto não generaliza essa experiência para 'povos mais unidos' como os egípcios e, principalmente, não usa a expressão 'sucumbiu rapidamente' para descrever a característica principal da civilização grega em seu período de expansão, conforme descrito.",
+          "B": "A alternativa sugere a 'necessidade de profunda centralização política... para que um povo pudesse expandir seu território e difundir sua produção cultural'. O próprio texto refuta essa ideia ao mostrar que os gregos, mesmo 'permanecendo desunidos na sua organização política', conseguiram penetrar e dominar o mundo mediterrânico, estabelecendo colônias e, por extensão, difundindo sua cultura. Assim, a experiência grega, conforme o texto, demonstra o oposto: expansão e difusão cultural *apesar* da desunião política, não por uma centralização que sequer existiu.",
+          "C": "Esta opção fala sobre a 'carência... de pensadores políticos, capazes de formular estratégias adequadas de estruturação e unificação do poder político'. O texto não faz qualquer menção à falta de pensadores ou à capacidade intelectual dos gregos nesse sentido. Na verdade, a Grécia Antiga produziu alguns dos mais importantes filósofos políticos (como Platão e Aristóteles) que analisaram profundamente diversas formas de governo e de organização social. A questão foca no *fato* da desunião política, não em uma suposta falta de capacidade para superá-la.",
+          "D": "Esta é a alternativa correta. Ela afirma a 'inadequação do uso de conceitos modernos, como nação ou Estado nacional, no estudo sobre a Grécia antiga'. Isso se alinha perfeitamente com a frase final e conclusiva do texto: 'Nem então nem em nenhuma outra altura, no mundo antigo, houve uma nação, um território nacional único regido por uma lei soberana, que se tenha chamado Grécia'. O texto claramente demonstra que a Grécia Antiga se organizava de outras formas, baseadas em comunidades autônomas (pólis), e não como um Estado nacional unificado no sentido moderno.",
+          "E": "A alternativa propõe a 'valorização, na Grécia antiga, dos princípios do patriotismo e do nacionalismo, como forma de consolidar política e economicamente o Estado nacional'. O texto explicitamente nega a existência de um 'Estado nacional' grego ('não houve uma nação, um território nacional único... que se tenha chamado Grécia'). Portanto, a ideia de 'nacionalismo' no sentido de lealdade a um Estado unificado é anacrônica e contradita pelo texto. Embora houvesse patriotismo, ele se dirigia primariamente à sua pólis (cidade-estado) específica (e.g., ateniense, espartano), e não a uma 'nação grega' unificada politicamente."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão reforça a importância de evitar anacronismos na história, compreendendo que a Grécia Antiga era um conjunto de pólis soberanas, sem correspondência com o conceito moderno de nação ou Estado nacional."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q02/image.png"
@@ -150,16 +159,23 @@
       "id": "fuvest-2015-q03",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O texto aborda a efervescência social e econômica que marcou a Europa a partir do ano 1000, um período conhecido como Baixa Idade Média (ou Alta Idade Média, em algumas periodizações). Este período é caracterizado por uma série de transformações profundas que impactaram o sistema feudal: o renascimento comercial e urbano. Com o fim das invasões bárbaras e um aumento demográfico, houve um excedente populacional e uma necessidade de expandir a produção. As cidades, que haviam perdido importância durante a Alta Idade Média, ressurgem como centros de troca, produção artesanal e inovação. A moeda, que era pouco utilizada no sistema feudal baseado em trocas e serviços, volta a ser um meio de troca essencial. Nesses centros urbanos, emerge uma nova classe social, a burguesia (os 'cidadãos' ou 'burgueses' mencionados no texto), composta por comerciantes e artesãos. Esta nova classe, impulsionada por interesses econômicos e pela busca de autonomia, passa a contestar e negociar com os poderes tradicionais (senhores feudais e bispos) para obter 'liberdades' e privilégios, como o direito de autogoverno e a redução de taxas e obrigações feudais. Essas transformações não significaram o fim imediato do feudalismo, mas sim a coexistência de um sistema em declínio com novas estruturas em ascensão, gerando tensões e reconfigurações nas relações de poder e na hierarquia social.",
+        "steps": [
+          "**1. Analise o Período Histórico:** O texto menciona 'desde o ano 1000', o que imediatamente nos remete à Baixa Idade Média (séculos XI ao XV). Este é um período de importantes transformações na Europa Ocidental, marcando a transição do sistema feudal para o que viria a ser o capitalismo.",
+          "**2. Identifique os Elementos Chave do Texto:** Observe as palavras e conceitos centrais: 'cidade' como principal lugar das 'trocas econômicas', 'moeda' como meio de troca essencial, 'centro de poder', 'poder tradicional do bispo e do senhor', e a ascensão de 'homens novos', os 'cidadãos ou burgueses', que conquistam 'liberdades' e 'privilégios' (às vezes contra os poderes tradicionais).",
+          "**3. Conecte os Elementos às Transformações Históricas:** O renascimento das cidades, o uso da moeda e o surgimento da burguesia são características marcantes do declínio do feudalismo e do florescimento comercial e urbano. A busca por 'liberdades' e 'privilégios' pelos burgueses representa o embate entre as novas forças sociais e econômicas e a velha ordem feudal (representada pelo bispo e pelo senhor).",
+          "**4. Avalie a Coexistência e o Conflito:** O texto deixa claro que as novas dinâmicas (cidade, burgueses) não substituem de imediato as antigas (bispo, senhor), mas coexistem 'ao lado do e, às vezes, contra o poder tradicional'. Isso indica uma transição, não uma substituição completa.",
+          "**5. Compare com as Alternativas:** Com base na análise, verifique qual alternativa melhor descreve essa complexa situação de coexistência de elementos feudais e novas formas de organização social, política e econômica que alteravam a hierarquia social e as relações de poder."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. Ela sintetiza perfeitamente a dinâmica descrita no texto: o sistema feudal (representado pelo 'poder tradicional do bispo e do senhor') ainda existia ('fundamentos do sistema feudal coexistiam') enquanto novas formas de organização (cidades, moeda, burguesia) surgiam, promovendo 'alterações na hierarquia social e nas relações de poder'. A ascensão dos burgueses e suas 'liberdades' são um exemplo claro dessas alterações.",
+          "B": "A afirmação de que havia 'excesso de metais nobres na Europa' para provocar abundância de moedas não se sustenta para o período. A circulação de moedas estava se recuperando, mas o ouro e a prata eram ainda escassos e valorizados. Além disso, a ideia de que a moeda circulava 'apenas pelas mãos dos grandes banqueiros e dos comerciantes internacionais' é incorreta; a moeda era essencial para as trocas diárias nas cidades e para a pequena e média burguesia também. A retomada do comércio não significou um 'excesso' de metais, mas sim uma necessidade crescente deles.",
+          "C": "Embora houvesse anseios por liberdade e melhorias nas condições de vida, a alternativa descreve um cenário de 'anseio popular por liberdade e igualdade social' que 'mobilizava e unificava os trabalhadores urbanos e rurais', e com 'ativa participação de membros do baixo clero'. Isso se aproxima mais de movimentos sociais e revoltas populares que ocorreriam mais tarde na Baixa Idade Média (como as jacqueries e as revoltas urbanas) e que tinham objetivos diferentes da busca de privilégios pela burguesia. A burguesia buscava 'liberdades' e 'privilégios' para si, o que não necessariamente se traduzia em igualdade social para todos os trabalhadores.",
+          "D": "A Igreja Romana, de fato, tinha uma postura complexa em relação ao lucro e à usura, mas não se opunha genericamente ao 'acúmulo de bens materiais', já que ela própria possuía vastas propriedades e riquezas. O texto não foca nessa oposição específica, nem em uma forte oposição unificada da burguesia e dos grandes proprietários de terras à Igreja por essa razão. A relação entre a Igreja e a burguesia era multifacetada, por vezes de conflito por poder, mas não como descrito, e os 'grandes proprietários de terras' muitas vezes eram aliados da Igreja ou até membros do clero.",
+          "E": "A alternativa afirma que as características do feudalismo 'haviam sido completamente superadas e substituídas'. Isso contradiz diretamente o texto, que mostra uma coexistência e tensão entre o 'poder tradicional do bispo e do senhor' e a ascensão da burguesia. O feudalismo estava em declínio e transformando-se, mas não havia sido 'completamente superado' no período pós-ano 1000. A valorização da terra, por exemplo, ainda era um pilar da economia e poder.",
+          "X": "Alternativa 'X' não existe na questão. Todas as opções foram analisadas."
         },
-        "finalSummary": ""
+        "finalSummary": "O texto descreve o dinâmico período da Baixa Idade Média, marcado pela coexistência e tensão entre as estruturas feudais em declínio e o emergente mundo urbano e comercial, que reconfigurava as relações sociais e de poder."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q03/image.png"
@@ -203,16 +219,22 @@
       "id": "fuvest-2015-q04",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O período colonial nas Américas de colonização ibérica (séculos XVI a XVIII) foi marcado por diversos regimes de trabalho, moldados pelas necessidades econômicas de cada colônia, pela disponibilidade de mão de obra (indígena e africana) e pelas políticas metropolitanas. Tanto o Império Português quanto o Espanhol utilizaram a exploração do trabalho forçado para sustentar suas economias coloniais, mas com diferentes graus de predominância e organização.\n\nNa América Portuguesa, particularmente no Brasil, a economia açucareira (e, posteriormente, a mineração) demandou uma força de trabalho massiva e constante. Após tentativas iniciais de escravização indígena, que enfrentaram resistência, altas taxas de mortalidade e proibições reais (embora nem sempre respeitadas), a escravidão africana tornou-se o pilar fundamental da economia e da sociedade colonial. O tráfico transatlântico trouxe milhões de africanos escravizados para o Brasil, tornando-o o maior destino de escravos da história.\n\nNa América Espanhola, a vastidão e diversidade do território permitiram a coexistência de múltiplos regimes. Em regiões com grandes populações indígenas, como o Vice-Reino do Peru (mineração de Potosí) e o Vice-Reino da Nova Espanha (México), sistemas de trabalho compulsório indígena como a 'encomienda' (que atribuía a colonos espanhóis o direito de explorar o trabalho e tributo indígena em troca de catequização) e a 'mita' (rodízio de trabalho compulsório para a mineração e obras públicas) foram predominantes. A escravidão africana também esteve presente e foi crucial em certas regiões, especialmente nas Antilhas (Caribe), onde as populações indígenas foram rapidamente dizimadas e a economia de plantation exigia grande contingente de mão de obra, e em áreas costeiras e mineradoras da Colômbia e Venezuela, por exemplo. Contudo, em termos de generalização e escala, a escravidão africana não atingiu a mesma centralidade e abrangência que no Brasil.",
+        "steps": [
+          "**Compreender o Contexto Temporal e Geográfico:** A questão aborda os regimes de trabalho nas Américas de colonização ibérica (Portugal e Espanha) entre os séculos XVI e XVIII, período de auge da exploração colonial.",
+          "**Analisar os Regimes de Trabalho na América Portuguesa (Brasil):** Relembrar que a economia brasileira, baseada inicialmente no açúcar e depois na mineração, dependeu massivamente da escravidão africana. Embora a escravidão indígena tenha existido, a africana tornou-se a força motriz principal e mais generalizada.",
+          "**Analisar os Regimes de Trabalho na América Espanhola:** Considerar a diversidade das colônias espanholas. A mão de obra indígena foi largamente utilizada através de sistemas como a encomienda e a mita (principalmente em regiões como Peru e México). A escravidão africana também foi empregada, especialmente nas Antilhas e em algumas regiões costeiras e mineradoras, mas não de forma tão predominante e generalizada quanto no Brasil.",
+          "**Comparar as Alternativas com os Fatos Históricos:** Avaliar cada uma das cinco opções à luz dessas informações comparativas, identificando qual delas reflete a realidade histórica de forma mais precisa.",
+          "**Identificar a Alternativa Correta:** A alternativa que melhor descreve a maior generalização da escravidão africana na América Portuguesa, sem negar sua presença na América Espanhola, será a resposta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta em ambos os pontos. Na América Portuguesa, a escravidão africana foi a forma de trabalho dominante, não a 'servidão' (termo que remete mais a relações feudais). Já na América Espanhola, a mão de obra principal era compulsória, majoritariamente indígena (encomienda, mita) e também escrava africana, e não 'assalariada', que era um sistema muito menos comum e secundário na economia colonial.",
+          "B": "Esta alternativa é falsa. As populações indígenas não conseguiram liberdade plenamente; ao contrário, foram submetidas a diversas formas de trabalho forçado e exploração, como a encomienda e a mita, e muitas foram escravizadas. A afirmação de que a liberdade dos escravos africanos 'jamais o foi' também é incorreta. Embora difícil e arriscada, a liberdade era conquistada por meio de alforrias (compradas ou concedidas) e fugas, que deram origem a quilombos e palenques, comunidades de resistência e liberdade.",
+          "C": "Esta é a alternativa correta. A escravidão de origem africana foi, de fato, a base econômica e social da América Portuguesa (Brasil), tornando-se extremamente generalizada em todas as suas atividades econômicas principais. Embora a escravidão africana fosse presente e importante em várias regiões da América Espanhola (como as Antilhas, Colômbia, Venezuela e áreas mineradoras), ela não atingiu o mesmo grau de generalização e centralidade que no Brasil, onde coexistia com sistemas de exploração de mão de obra indígena (encomienda, mita) que eram mais predominantes em outras partes do vasto império espanhol.",
+          "D": "Esta alternativa é categoricamente falsa. Houve, sim, escravidão africana nos territórios espanhóis. Ela foi crucial nas Antilhas após o extermínio da população indígena e importante em outras regiões costeiras e mineradoras. A oferta de mão de obra indígena farta em algumas áreas não impediu a importação e o uso de escravos africanos em outras ou para trabalhos específicos, onde a mão de obra indígena era insuficiente ou inadequada.",
+          "E": "Esta alternativa distorce completamente os fluxos do tráfico de escravos na época. O Brasil era um dos maiores importadores de escravos africanos, não um fornecedor significativo para as colônias espanholas em larga escala. Da mesma forma, embora houvesse algum tráfico regional de indígenas, a ideia de que os territórios espanhóis traficavam escravos indígenas em massa para o Brasil como uma 'contrapartida' sistemática é historicamente imprecisa. O tráfico de escravos indígenas no Brasil era predominantemente interno ou com regiões fronteiriças, liderado por bandeirantes, e não um comércio sistemático com as colônias espanholas nesse sentido de 'troca'."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão destaca a centralidade e a maior generalização da escravidão africana na América Portuguesa, em contraste com a diversidade de regimes de trabalho, que incluíam uma forte presença de trabalho indígena compulsório e também escravidão africana em regiões específicas, na América Espanhola."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q04/image.png"
@@ -256,16 +278,21 @@
       "id": "fuvest-2015-q05",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda o contexto histórico da Índia em 1946, um período crucial de transição para a independência e de grande efervescência política e social. Após séculos de domínio britânico (o Raj Britânico), a independência era iminente, mas o processo foi marcado por intensas tensões. Os principais desafios eram a formulação de uma nova Constituição para uma nação recém-independente e a complexa questão das divisões religiosas, principalmente entre hindus e muçulmanos. Essa divisão culminou na Partição da Índia em 1947, com a criação do Paquistão, e foi acompanhada por violência em massa, deslocamentos populacionais e, em muitos casos, fome e instabilidade. Cartuns políticos da época frequentemente refletiam essas preocupações, criticando a capacidade dos líderes em lidar com esses desafios monumentais e as consequências para a população.",
+        "steps": [
+          "1. **Contextualize o Período:** A data de 1946 é fundamental. A Índia estava às vésperas da independência do Império Britânico. Este foi um período de intensas negociações sobre o futuro do país, que culminariam na Partição e na formação da Índia e do Paquistão em 1947.",
+          "2. **Analise os Elementos da Imagem (via legenda):** A legenda fornece palavras-chave cruciais: 'MOSLEM' (muçulmano), 'NEW CONSTITUTION' (nova Constituição), 'CIVIL WAR' (guerra civil) e 'FAMINE' (fome). Estes termos representam os maiores problemas e divisões que a Índia enfrentava naquele momento: conflitos religiosos, o desafio de criar um novo arcabouço legal para a nação e as crises humanitárias decorrentes da instabilidade.",
+          "3. **Identifique a Natureza da Crítica:** A questão pede a 'leitura correta da imagem' para 'concluir que ela constitui uma crítica'. Cartuns políticos são ferramentas de comentário social e político, frequentemente satíricos, que expõem falhas ou problemas. Dada a gravidade dos termos na legenda, a crítica deve ser substancial e direcionada a quem tinha o poder ou a responsabilidade de resolver esses problemas.",
+          "4. **Avalie as Alternativas:** Compare cada alternativa com o contexto histórico e os elementos da imagem/legenda, buscando aquela que melhor se encaixa como uma crítica coerente e historicamente precisa para o período e os desafios apresentados."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta porque a ONU, embora fundada em 1945, ainda estava em seus estágios iniciais e não tinha o papel proeminente de intervenção em questões internas de descolonização como é hoje. Além disso, o foco principal do período não era 'fundamentalismo hindu' como o único ou principal problema, nem a 'passividade' dos países do 'Terceiro Mundo', um conceito que se consolidaria mais tarde. A imagem foca nos desafios internos da Índia.",
+          "B": "Esta alternativa é historicamente incorreta. A Índia, ao se tornar independente, optou por ser um Estado secular, e o Paquistão foi criado para ser um Estado de maioria muçulmana. Não houve uma oficialização da religião muçulmana na Índia, nem a manutenção de um 'Estado cristão', pois a Índia jamais foi primariamente cristã, mas sim uma colônia britânica com uma vasta maioria hindu e uma significativa minoria muçulmana.",
+          "C": "Embora o colonialismo britânico seja o pano de fundo que levou a essa situação, a imagem é inspirada na Índia de 1946. Neste momento, os britânicos já estavam em processo de retirada. A crítica parece ser mais direcionada aos desafios internos e às dinâmicas pós-coloniais (a nova Constituição, a guerra civil, a fome e a questão muçulmana), e não diretamente ao colonialismo como uma força 'destruidora' ativa *naquele exato momento* da formação da nação, mas sim às suas consequências ou à incapacidade de gestão da transição.",
+          "D": "Esta é a alternativa correta. Em 1946, com a iminente independência, a Índia enfrentava imensos desafios ('CIVIL WAR', 'FAMINE', 'MOSLEM' – divisões religiosas e 'NEW CONSTITUTION' – o futuro político). A crítica de que os políticos estariam 'distanciados da realidade da maioria da população' e 'não seriam capazes de enfrentar os maiores desafios que se imponham à união do país' é uma leitura comum para um cartum político que retrata um cenário de tamanha instabilidade e sofrimento. A imagem provavelmente satirizava a incapacidade ou a falta de visão dos líderes para unir o país e resolver suas crises internas durante a transição.",
+          "E": "Esta alternativa está incorreta. Um cartum crítico, especialmente um que aborda temas como guerra civil e fome, não se propõe a pedir mais otimismo ao povo. Pelo contrário, ele geralmente destaca as razões para o desespero e critica aqueles que são responsáveis ou falham em resolver a situação. Além disso, focar apenas no 'povo hindu' ignora a complexidade da questão muçulmana, que foi central em 1946."
         },
-        "finalSummary": ""
+        "finalSummary": "A imagem constitui uma crítica à percepção da ineficácia ou do distanciamento dos líderes políticos indianos em enfrentar os desafios cruciais da união nacional, da violência comunal e das crises humanitárias durante a transição para a independência em 1946."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q05/image.png"
@@ -275,14 +302,14 @@
       "id": "fuvest-2015-q06",
       "year": 2015,
       "number": 6,
-      "page": 1,
+      "page": 4,
       "bbox": {
-        "x": 804,
-        "y": 1107,
+        "x": 0,
+        "y": 111,
         "w": 848,
-        "h": 234
+        "h": 1099
       },
-      "stem": "\u0003\n6.\nPreencha\u0003 a\u0003 folha\u0003 óptica\u0003 de\u0003 respostas\u0003 com\u0003\ncuidado,\u0003pois,\u0003em\u0003caso\u0003de\u0003rasura,\u0003ela\u0003não\u0003poderá\u0003\nser\u0003 substituída\u0003 e\u0003 o\u0003 uso\u0003 de\u0003 corretivo\u0003 não\u0003 será\u0003\npermitido.\u0003\n\u0003\n7.\nDuração da prova: 5 horas. O candidato deve",
+      "stem": "\u0003\n06\u0003\n\u0003\n\u0003\nSe\u0003 o\u0003 açúcar\u0003 do\u0003 Brasil\u0003 o\u0003 tem\u0003 dado\u0003 a\u0003 conhecer\u0003 a\u0003 todos\u0003 os\u0003\nreinos\u0003e\u0003províncias\u0003da\u0003Europa,\u0003o\u0003tabaco\u0003o\u0003tem\u0003feito\u0003muito\u0003\nafamado\u0003em\u0003todas\u0003as\u0003quatro\u0003partes\u0003do\u0003mundo,\u0003em\u0003as\u0003quais\u0003\nhoje\u0003tanto\u0003se\u0003deseja\u0003e\u0003com\u0003tantas\u0003diligências\u0003e\u0003por\u0003qualquer\u0003\nvia\u0003se\u0003procura.\u0003Há\u0003pouco\u0003mais\u0003de\u0003cem\u0003anos\u0003que\u0003esta\u0003folha\u0003\nse\u0003 começou\u0003 a\u0003 plantar\u0003 e\u0003 beneficiar\u0003 na\u0003 Bahia\u0003 [...]\u0003 e,\u0003 desta\u0003\nsorte,\u0003 uma\u0003 folha\u0003 antes\u0003 desprezada\u0003 e\u0003 quase\u0003 desconhecida\u0003\ntem\u0003dado\u0003e\u0003dá\u0003atualmente\u0003grandes\u0003cabedais\u0003aos\u0003moradores\u0003\ndo\u0003Brasil\u0003e\u0003incríveis\u0003emolumentos\u0003aos\u0003Erários\u0003dos\u0003príncipes.\u0003\n\u0003\nAndré\u0003João\u0003Antonil.\u0003Cultura\u0003e\u0003opulência\u0003do\u0003Brasil\u0003por\u0003suas\u0003drogas\u0003e\u0003\nminas.\u0003São\u0003Paulo:\u0003EDUSP,\u00032007.\u0003Adaptado.\u0003\n\u0003\nO\u0003 texto\u0003 acima,\u0003 escrito\u0003 por\u0003 um\u0003 padre\u0003 italiano\u0003 em\u0003 1711,\u0003\nrevela\u0003que\u0003\n\u0003\na)\u0003 o\u0003 ciclo\u0003 econômico\u0003 do\u0003 tabaco,\u0003 que\u0003 foi\u0003 anterior\u0003 ao\u0003 do\u0003\nouro,\u0003sucedeu\u0003o\u0003da\u0003canaͲdeͲaçúcar.\u0003\nb)\u0003 todo\u0003o\u0003rendimento\u0003do\u0003tabaco,\u0003a\u0003exemplo\u0003do\u0003que\u0003ocorria\u0003\ncom\u0003outros\u0003produtos,\u0003era\u0003direcionado\u0003à\u0003metrópole.\u0003\nc)\u0003 não\u0003se\u0003pode\u0003exagerar\u0003quanto\u0003à\u0003lucratividade\u0003propiciada\u0003\npela\u0003 canaͲdeͲaçúcar,\u0003 já\u0003 que\u0003 a\u0003 do\u0003 tabaco,\u0003 desde\u0003 seu\u0003\ninício,\u0003era\u0003maior.\u0003\nd)\u0003 os\u0003europeus,\u0003naquele\u0003ano,\u0003já\u0003conheciam\u0003plenamente\u0003o\u0003\npotencial\u0003econômico\u0003de\u0003suas\u0003colônias\u0003americanas.\u0003\ne)\u0003 a\u0003economia\u0003colonial\u0003foi\u0003marcada\u0003pela\u0003simultaneidade\u0003de\u0003\nprodutos,\u0003 cuja\u0003 lucratividade\u0003 se\u0003 relacionava\u0003 com\u0003 sua\u0003\ninserção\u0003em\u0003mercados\u0003internacionais.\u0003\n\u0003\n\u0003\n07\u0003\n\u0003",
       "options": [
         {
           "key": "A",
@@ -328,14 +355,14 @@
       "id": "fuvest-2015-q07",
       "year": 2015,
       "number": 7,
-      "page": 1,
+      "page": 4,
       "bbox": {
-        "x": 804,
-        "y": 1296,
+        "x": 0,
+        "y": 1167,
         "w": 848,
-        "h": 234
+        "h": 1171
       },
-      "stem": "\u0003\n7.\nDuração\u0003 da\u0003 prova:\u0003 5\u0003horas.\u0003 O\u0003 candidato\u0003 deve\u0003\ncontrolar\u0003o\u0003tempo\u0003disponível.\u0003Não\u0003haverá\u0003tempo\u0003\nadicional\u0003 para\u0003 transcrição\u0003 de\u0003 gabarito\u0003 para\u0003 a\u0003\nfolha\u0003óptica\u0003de\u0003respostas.\u0003\n\u0003\n8.\nO candidato poderá retirarͲse do local de prova",
+      "stem": "V\u0003\n07\u0003\n\u0003\n\u0003\nConsiderandoͲse\u0003 o\u0003 intervalo\u0003 entre\u0003 o\u0003 contexto\u0003 em\u0003 que\u0003\ntranscorre\u0003o\u0003enredo\u0003da\u0003obra\u0003Memórias\u0003de\u0003um\u0003sargento\u0003de\u0003\nmilícias,\u0003de\u0003Manuel\u0003Antônio\u0003de\u0003Almeida,\u0003e\u0003a\u0003época\u0003de\u0003sua\u0003\npublicação,\u0003 é\u0003 correto\u0003 afirmar\u0003 que\u0003 a\u0003 esse\u0003 período\u0003\ncorresponde\u0003o\u0003processo\u0003de\u0003\n\u0003\na) reforma\u0003e\u0003crise\u0003do\u0003Império\u0003Português\u0003na\u0003América.\u0003\nb) triunfo\u0003 de\u0003 uma\u0003 consciência\u0003 nativista\u0003 e\u0003 nacionalista\u0003 na\u0003\ncolônia.\u0003\nc) Independência\u0003 do\u0003 Brasil\u0003 e\u0003 formação\u0003 de\u0003 seu\u0003 Estado\u0003\nnacional.\u0003\nd) consolidação\u0003 do\u0003 Estado\u0003 nacional\u0003 e\u0003 de\u0003 crise\u0003 do\u0003 regime\u0003\nmonárquico\u0003brasileiro.\u0003\ne) Proclamação\u0003 da\u0003 República\u0003 e\u0003 instauração\u0003 da\u0003 Primeira\u0003\nRepública.\u0003\n\u0003\n\u0003\n\u0003\n\u0003\nPAG 04\nCaderno",
       "options": [
         {
           "key": "A",
@@ -381,14 +408,14 @@
       "id": "fuvest-2015-q08",
       "year": 2015,
       "number": 8,
-      "page": 1,
+      "page": 4,
       "bbox": {
         "x": 804,
-        "y": 1486,
+        "y": 108,
         "w": 848,
-        "h": 159
+        "h": 1205
       },
-      "stem": "\u0003\n8.\nO\u0003candidato\u0003poderá\u0003retirarͲse\u0003do\u0003local\u0003de\u0003prova\u0003\na\u0003partir\u0003das\u000316h.\u0003\n\u0003\n9.\nDurante a prova, são vedadas a comunicação",
+      "stem": "\u0003\n08\u0003\n\u0003\n\u0003\nA\u0003 colonização,\u0003 apesar\u0003 de\u0003 toda\u0003 violência\u0003 e\u0003 disrupção,\u0003 não\u0003\nexcluiu\u0003 processos\u0003 de\u0003 reconstrução\u0003 e\u0003 recriação\u0003 cultural\u0003\nconduzidos\u0003 pelos\u0003 povos\u0003 indígenas.\u0003 É\u0003 um\u0003 erro\u0003 comum\u0003 crer\u0003\nque\u0003a\u0003história\u0003da\u0003conquista\u0003representa,\u0003para\u0003os\u0003índios,\u0003uma\u0003\nsucessão\u0003linear\u0003de\u0003perdas\u0003em\u0003vidas,\u0003terras\u0003e\u0003distintividade\u0003\ncultural.\u0003A\u0003cultura\u0003xinguana\u0003–\u0003que\u0003aparecerá\u0003para\u0003a\u0003nação\u0003\nbrasileira\u0003 nos\u0003 anos\u0003 1940\u0003 como\u0003 símbolo\u0003 de\u0003 uma\u0003 tradição\u0003\nestática,\u0003original\u0003e\u0003intocada\u0003–\u0003é,\u0003ao\u0003inverso,\u0003o\u0003resultado\u0003de\u0003\numa\u0003 história\u0003 de\u0003 contatos\u0003 e\u0003 mudanças,\u0003 que\u0003 tem\u0003 início\u0003 no\u0003\nséculo\u0003X\u0003d.C.\u0003e\u0003continua\u0003até\u0003hoje.\u0003\n\u0003\nCarlos\u0003Fausto.\u0003Os\u0003índios\u0003antes\u0003do\u0003Brasil.\u0003\u0003\nRio\u0003de\u0003Janeiro:\u0003Zahar,\u00032005.\u0003\n\u0003\nCom\u0003base\u0003no\u0003trecho\u0003acima,\u0003é\u0003correto\u0003afirmar\u0003que\u0003\n\u0003\na)\u0003 o\u0003processo\u0003colonizador\u0003europeu\u0003não\u0003foi\u0003violento\u0003como\u0003\nse\u0003costuma\u0003afirmar,\u0003já\u0003que\u0003ele\u0003preservou\u0003e\u0003até\u0003mesmo\u0003\nvalorizou\u0003várias\u0003culturas\u0003indígenas.\u0003\nb)\u0003 várias\u0003 culturas\u0003 indígenas\u0003 resistiram\u0003 e\u0003 sobreviveram,\u0003\nmesmo\u0003 com\u0003 alterações,\u0003 ao\u0003 processo\u0003 colonizador\u0003\neuropeu,\u0003como\u0003a\u0003xinguana.\u0003\nc)\u0003 a\u0003 cultura\u0003 indígena,\u0003 extinta\u0003 graças\u0003 ao\u0003 processo\u0003\ncolonizador\u0003 europeu,\u0003 foi\u0003 recriada\u0003 de\u0003 modo\u0003 mitológico\u0003\nno\u0003Brasil\u0003dos\u0003anos\u00031940.\u0003\nd)\u0003 a\u0003 cultura\u0003 xinguana,\u0003 ao\u0003 contrário\u0003 de\u0003 outras\u0003 culturas\u0003\nindígenas,\u0003 não\u0003 foi\u0003 afetada\u0003 pelo\u0003 processo\u0003 colonizador\u0003\neuropeu.\u0003\ne)\u0003 não\u0003 há\u0003 relação\u0003 direta\u0003 entre,\u0003 de\u0003 um\u0003 lado,\u0003 o\u0003 processo\u0003\ncolonizador\u0003 europeu\u0003 e,\u0003 de\u0003 outro,\u0003 a\u0003 mortalidade\u0003\nindígena\u0003e\u0003a\u0003perda\u0003de\u0003sua\u0003identidade\u0003cultural.\u0003\u0003\n\u0003\n\u0003\n09\u0003",
       "options": [
         {
           "key": "A",
@@ -434,14 +461,14 @@
       "id": "fuvest-2015-q09",
       "year": 2015,
       "number": 9,
-      "page": 1,
+      "page": 4,
       "bbox": {
         "x": 804,
-        "y": 1602,
+        "y": 1269,
         "w": 848,
-        "h": 241
+        "h": 1069
       },
-      "stem": "\u0003\n9.\nDurante\u0003 a\u0003 prova,\u0003 são\u0003 vedadas\u0003 a\u0003 comunicação\u0003\nentre\u0003 candidatos\u0003 e\u0003 a\u0003 utilização\u0003 de\u0003 qualquer\u0003\nmaterial\u0003de\u0003consulta,\u0003eletrônico\u0003ou\u0003impresso,\u0003e\u0003\nde\u0003aparelhos\u0003de\u0003telecomunicação.\u0003\n\u0003\n10.\nAo final da prova, é obrigatória a devolução",
+      "stem": "V\u0003\n09\u0003\n\u0003\nO\u0003Movimento\u0003dos\u0003Trabalhadores\u0003Rurais\u0003sem\u0003Terra\u0003(MST)\u0003foi\u0003\ncriado\u0003em\u00031984,\u0003inserido\u0003em\u0003um\u0003contexto\u0003de\u0003\n\u0003\na)\u0003 abertura\u0003política\u0003 democrática\u0003 no\u0003 Brasil\u0003 e\u0003de\u0003 crescente\u0003\ninsatisfação\u0003 com\u0003 as\u0003 políticas\u0003 agrárias\u0003 nacionais\u0003 então\u0003\nvigentes.\u0003\nb)\u0003 fortalecimento\u0003 da\u0003 ditadura\u0003 militar\u0003 brasileira\u0003 e\u0003 de\u0003\naumento\u0003da\u0003imigração\u0003estrangeira\u0003para\u0003o\u0003país.\u0003\nc)\u0003 declínio\u0003da\u0003oposição\u0003armada\u0003à\u0003ditadura\u0003militar\u0003brasileira\u0003\ne\u0003de\u0003aumento\u0003da\u0003migração\u0003das\u0003cidades\u0003para\u0003o\u0003campo.\u0003\nd)\u0003 aumento\u0003da\u0003dívida\u0003externa\u0003brasileira\u0003e\u0003de\u0003disseminação\u0003\nda\u0003pequena\u0003propriedade\u0003fundiária\u0003em\u0003todo\u0003o\u0003país.\u0003\u0003\ne)\u0003 crescimento\u0003 de\u0003 demanda\u0003 externa\u0003 por\u0003 commodities\u0003\nbrasileiras\u0003 e\u0003 de\u0003 grandes\u0003 progressos\u0003 na\u0003 distribuição\u0003 de\u0003\nterra,\u0003no\u0003Brasil,\u0003a\u0003pequenos\u0003agricultores.\u0003\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\n\u0003\nG 04/28 V\nderno Reserva",
       "options": [
         {
           "key": "A",
@@ -521,16 +548,20 @@
       "id": "fuvest-2015-q10",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O período compreendido entre o final do século XIX e as primeiras décadas do século XX representa um dos maiores fluxos migratórios para o Brasil. Esse movimento foi impulsionado por uma complexa conjunção de fatores, tanto internos quanto externos. Internamente, o principal catalisador foi a abolição da escravatura em 1888, que criou uma demanda urgente por mão de obra livre para substituir os trabalhadores escravizados, especialmente nas prósperas lavouras de café do Sudeste. Governos estaduais, notadamente o de São Paulo, e o governo federal, implementaram políticas ativas de incentivo à imigração europeia, muitas vezes subsidiando passagens e buscando promover um projeto de 'branqueamento' da população. Externamente, fatores como crises econômicas, guerras e o crescimento populacional em países europeus também contribuíram para a decisão de muitos emigrarem para o Brasil em busca de novas oportunidades.",
+        "steps": [
+          "Identifique o período histórico da tabela (1881-1930). Este intervalo é crucial, pois abrange a transição do Império para a República no Brasil e o fim da escravidão.",
+          "Analise o contexto socioeconômico do Brasil nesse período. A abolição da escravatura (1888) criou um vácuo de mão de obra, e a economia cafeeira no Sudeste estava em plena expansão, necessitando de trabalhadores.",
+          "Avalie as alternativas, buscando aquela que melhor se alinha com as causas históricas da imigração em massa para o Brasil no período indicado, focando na demanda por trabalho e nas políticas de atração de imigrantes."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta. Embora o Brasil tenha experimentado um início de industrialização nas primeiras décadas do século XX, esse processo concentrou-se majoritariamente no Sudeste e não no Nordeste. Além disso, a demanda por mão de obra para a indústria ainda não era o principal motor da imigração em larga escala no período analisado, sendo superada pela necessidade de trabalhadores agrícolas.",
+          "B": "Esta alternativa está correta. A expansão da cultura cafeeira no Sudeste do Brasil, particularmente no estado de São Paulo, criou uma enorme demanda por força de trabalho. Com a abolição da escravatura em 1888, essa demanda se intensificou, levando os governos (estadual e federal) a promoverem ativamente a vinda de imigrantes europeus (italianos, espanhóis, portugueses, etc.) para substituir os trabalhadores escravizados e sustentar a economia cafeeira.",
+          "C": "Esta alternativa está incorreta. O conceito de 'democracia racial' é uma idealização da sociedade brasileira, que descreve uma suposta harmonia entre as etnias. Contudo, essa noção é amplamente debatida e criticada pela historiografia, que aponta para a existência de racismo e discriminação. Mais importante, a 'democracia racial' não foi um fator indutor ou uma causa primária para a atração de grandes fluxos migratórios. As motivações para a imigração eram essencialmente econômicas (oferta de trabalho e terras) e, por parte do governo, uma política de substituição da mão de obra e 'branqueamento' da população.",
+          "D": "Esta alternativa está parcialmente correta em seu pressuposto, mas é insuficiente como explicação principal para o *todo* do período. Embora a ascensão de regimes fascistas na Itália (a partir dos anos 1920) e, posteriormente, o nazismo na Alemanha (anos 1930) e o militarismo no Japão tenham, de fato, levado a perseguições e expurgos que causaram emigração, este não é o principal fator que explica o grande volume e a magnitude da imigração brasileira ao longo de todo o período de 1881-1930. O pico da imigração italiana, por exemplo, ocorreu antes da ascensão do fascismo. A demanda por mão de obra para o café precede esses regimes e foi o principal motor por grande parte do período.",
+          "E": "Esta alternativa está incorreta e contém uma grave imprecisão histórica. O trabalho escravo foi abolido no Brasil em 1888. Portanto, após essa data, a mão de obra escrava não só não 'prevalecia no campo', como era ilegal e não poderia ser 'mais barata'. A grande onda de imigração para o Brasil, especialmente a partir do final do século XIX, foi precisamente para *substituir* a mão de obra escrava que havia sido abolida. A supervalorização do trabalho assalariado nas cidades, embora existisse, não foi o principal motor da imigração em larga escala para o Brasil nesse período, que tinha um caráter predominantemente rural (ligado ao café)."
         },
-        "finalSummary": ""
+        "finalSummary": "A grande onda imigratória para o Brasil entre 1881 e 1930 foi fundamentalmente impulsionada pela necessidade de substituir a mão de obra escrava abolida e atender à crescente demanda das expansivas lavouras de café no Sudeste brasileiro."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q10/image.png"
@@ -574,16 +605,22 @@
       "id": "fuvest-2015-q11",
       "year": 2015,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão, embora faça referência a uma charge (não disponível para análise direta neste momento), baseia-se fundamentalmente na sua capacidade de avaliar afirmações sobre as dinâmicas econômicas e geopolíticas entre a União Europeia (UE) e a China no contexto global, especialmente no período próximo a 2015 (ano da prova). É crucial compreender que a economia mundial é altamente interdependente, e as grandes potências econômicas, mesmo com perfis e desafios distintos, estão intrinsecamente ligadas por fluxos de comércio, investimento e cadeias de valor. A China, desde o final do século XX e início do XXI, experimentou um crescimento econômico espetacular, impulsionado por um modelo focado em exportações, investimentos estatais massivos e uma enorme base de mão de obra e consumo interno crescente. Esse crescimento demandou e continua demandando vastos recursos naturais, muitos dos quais são importados de diversas partes do mundo. A União Europeia, por sua vez, é um bloco de economias desenvolvidas, caracterizadas por alto poder de compra, forte setor de serviços, alta tecnologia e indústrias de valor agregado. No período em questão, alguns países da Eurozona enfrentavam crises de dívida soberana e estagnação econômica, enquanto outros mantinham estabilidade. Apesar dessas variações internas, a UE como um todo representa um dos maiores mercados consumidores e um importante polo de inovação.",
+        "steps": [
+          "Avaliar a afirmação I: \"O rápido e intenso crescimento econômico chinês se deu às custas da exploração de recursos florestais da União Europeia.\" Analise a principal base do crescimento chinês. Embora a China seja um grande importador de matérias-primas, sua dependência de recursos florestais da União Europeia como motor principal de seu crescimento é infundada. A UE tem regulamentações ambientais rigorosas e é, na verdade, um grande importador líquido de produtos florestais, enquanto a China explora recursos de diversas regiões do mundo e seus próprios vastos recursos internos. Esta afirmação é **falsa**.",
+          "Avaliar a afirmação II: \"A despeito da distinta condição econômica da União Europeia e da China na atualidade, essas economias permanecem interligadas.\" Considere as relações comerciais e de investimento entre os dois blocos. A China é um dos maiores parceiros comerciais da UE, tanto como fornecedor de produtos manufaturados quanto como mercado para bens de capital e produtos de alto valor agregado europeus. As cadeias globais de suprimentos ligam intimamente as indústrias de ambos. Apesar das diferenças em estágios de desenvolvimento e desafios econômicos, a interligação é inegável. Esta afirmação é **verdadeira**.",
+          "Avaliar a afirmação III: \"A dependência econômica da China em relação à União Europeia assenta-se no consumo do etanol europeu.\" Examine a matriz energética chinesa e o papel do etanol na economia. A China é um produtor de etanol, mas sua matriz energética é predominantemente baseada em carvão e petróleo. A ideia de que sua dependência econômica da UE seria fundamentalmente ligada ao consumo de etanol europeu é equivocada. O etanol não é um pilar da economia de nenhuma das partes nesse sentido. Esta afirmação é **falsa**.",
+          "Avaliar a afirmação IV: \"Enquanto parte da União Europeia vive uma crise econômica, a economia chinesa cresce.\" Compare o cenário econômico dos dois blocos no período em questão. No ano de 2015 e nos anos anteriores, vários países da UE (especialmente na zona do euro, como Grécia, Espanha, Portugal e Itália) enfrentavam sérias crises de dívida soberana, alto desemprego e baixo crescimento ou recessão. Paralelamente, a China, embora com taxas de crescimento mais moderadas do que em décadas anteriores, continuava a registrar expansão econômica robusta (acima de 6-7% ao ano), consolidando-se como uma potência econômica em ascensão. Esta afirmação retrata um cenário econômico global amplamente reconhecido. Esta afirmação é **verdadeira**.",
+          "Combinar as afirmações corretas: As afirmações verdadeiras são a II e a IV. Assim, a alternativa que as contempla é a correta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Incorreta. A afirmação I está falsa. O crescimento chinês não se deu \"às custas\" da exploração de recursos florestais da União Europeia de forma significativa ou principal. A base do crescimento chinês é complexa e multifacetada, envolvendo recursos internos e importações de diversas regiões do mundo, mas não predominantemente da UE em termos florestais.",
+          "B": "Incorreta. As afirmações I e III estão falsas. A base do crescimento chinês não é a exploração florestal da UE, nem sua dependência econômica repousa sobre o etanol europeu. Ambas são simplificações ou distorções da realidade econômica.",
+          "C": "Incorreta. A afirmação III está falsa. A dependência econômica da China não está assentada no consumo do etanol europeu. O etanol representa uma parcela mínima na complexa matriz energética e comercial chinesa, e não é um fator de dependência fundamental em relação à UE.",
+          "D": "Incorreta. As afirmações I e III estão falsas. Ambas contêm premissas factualmente incorretas sobre a economia chinesa e sua relação com a UE, minimizando ou deturpando os verdadeiros drivers econômicos e interdependências.",
+          "E": "Correta. A afirmação II reconhece acertadamente a interligação das economias da UE e da China, apesar de suas diferenças de tamanho, estágio de desenvolvimento e desafios. Esta interligação se manifesta através do comércio, investimentos e cadeias de valor globais. A afirmação IV também está correta ao apontar o contraste entre a crise econômica em parte da União Europeia (especialmente nos países periféricos da Eurozona) e o crescimento contínuo da economia chinesa no período em questão, um cenário econômico global amplamente observado."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige a aplicação de conhecimentos de Geografia Econômica e Geopolítica para analisar as dinâmicas e interconexões entre grandes blocos econômicos, destacando a importância de estar atualizado sobre os cenários de crescimento e crise global e as verdadeiras bases das relações comerciais e de recursos."
       },
       "assets": {
         "questionImage": "/assets/questions/2015/q11/image.png"

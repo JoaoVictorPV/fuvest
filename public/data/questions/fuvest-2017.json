@@ -44,16 +44,21 @@
       "id": "fuvest-2017-q01",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão de interpretação textual, com base em um cartaz publicitário de uma exposição de Pablo Picasso, exige do aluno a compreensão do significado conotativo de adjetivos em um contexto artístico e a capacidade de relacioná-los à trajetória e características da obra do artista. É fundamental analisar como as escolhas lexicais ('mão erudita', 'olho selvagem') sugerem aspectos complementares ou contrastantes da criação picassiana. Pablo Picasso foi um artista que dominou diversas técnicas e estilos ao longo de sua vida, transpondo e reinventando a tradição, ao mesmo tempo em que buscava novas formas de expressão, muitas vezes inspiradas em manifestações artísticas consideradas 'primitivas' ou não-ocidentais, o que denota uma atitude de transgressão e inovação.",
+        "steps": [
+          "Analise o primeiro adjetivo, 'erudita', em relação à 'mão' do artista. 'Erudita' remete a conhecimento profundo, estudo, domínio técnico e familiaridade com a tradição artística. Portanto, a 'mão erudita' de Picasso sugere sua maestria das técnicas clássicas e sua ligação com a história da arte.",
+          "Analise o segundo adjetivo, 'selvagem', em relação ao 'olho' do artista. 'Selvagem' evoca algo instintivo, original, não domesticado, que foge às convenções. O 'olho selvagem' de Picasso, nesse contexto, aponta para uma visão criativa que rompe com o estabelecido, buscando o novo, o experimental, o 'primitivo', e que não se prende a regras ou escolas.",
+          "Busque a alternativa que melhor represente a conjunção desses dois aspectos: o domínio do saber (tradição) e a capacidade de inovar/romper (transgressão).",
+          "Avalie cada par de alternativas (A-E) para verificar qual delas encapsula de forma mais precisa e completa os sentidos de 'mão erudita' (tradição, maestria) e 'olho selvagem' (inovação, ruptura, primitivismo, instinto) no contexto das obras de Picasso."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'civilização e barbárie' pode parecer tentadora, pois 'selvagem' se aproxima de 'barbárie'. No entanto, 'erudita' não se associa diretamente a 'civilização' no sentido artístico de técnica e conhecimento de forma tão precisa quanto 'tradição'. Além disso, 'barbárie' possui uma conotação negativa que não se alinha plenamente à busca artística por novas linguagens, ainda que inspiradas no primitivo.",
+          "B": "A alternativa 'requinte e despojamento' apresenta uma boa associação para 'mão erudita' (requinte) e, em parte, para 'olho selvagem' (despojamento, simplicidade). Contudo, 'despojamento' não capta a força da ruptura e da inovação que o adjetivo 'selvagem' sugere no contexto da vanguarda picassiana, que muitas vezes incorporou o 'primitivo' não como mera simplicidade, mas como uma força transgressora.",
+          "C": "A alternativa 'modernidade e primitivismo' é forte para o segundo termo ('primitivismo' é uma clara referência às influências africanas e ibéricas em Picasso, alinhando-se a 'selvagem'). No entanto, 'erudita' se refere ao conhecimento e domínio técnico acumulado, à tradição, e não diretamente à 'modernidade' em si, embora Picasso seja um artista moderno. A 'mão erudita' é o alicerce sobre o qual a modernidade e o primitivismo foram construídos.",
+          "D": "A alternativa 'liberdade e autoritarismo' explora conceitos mais ligados a esferas políticas ou comportamentais. Embora possa haver um senso de 'liberdade' na ruptura do 'olho selvagem', 'autoritarismo' não tem nenhuma conexão com a 'mão erudita' no contexto artístico. Portanto, é uma opção que desvia do foco semântico dos adjetivos.",
+          "E": "Esta é a alternativa correta. A 'mão erudita' denota o domínio da 'tradição' artística, o conhecimento acumulado e as técnicas clássicas. O 'olho selvagem' representa a capacidade de romper com essa tradição, de inovar, de buscar novas formas e linguagens, o que é caracterizado como 'transgressão'. Picasso é conhecido por sua maestria técnica adquirida na tradição, que ele então subverteu e transformou radicalmente em sua busca constante por novas formas de expressão. Essa dualidade é perfeitamente capturada pelos adjetivos e por este par de conceitos."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão revela que a genialidade de Picasso reside na sua rara capacidade de dominar a tradição artística com maestria e, simultaneamente, transgredi-la de forma radical e inovadora, buscando uma visão instintiva e selvagem da arte."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q01/image.png"
@@ -97,16 +102,23 @@
       "id": "fuvest-2017-q02",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Questões que pedem a tradução correta de relações espaciais exigem do estudante a capacidade de identificar e interpretar precisamente as informações sobre localização, proximidade, direção ou disposição de elementos em um texto. Isso envolve não apenas a compreensão literal de preposições e advérbios de lugar, mas também a interpretação do contexto para verificar se a relação descrita na alternativa corresponde fielmente ao que é apresentado no excerto. É fundamental comparar cada opção com a descrição espacial fornecida no texto original, buscando termos que expressam equivalência ou contradição.",
+        "steps": [
+          "1. **Identifique a Tarefa:** A questão pede para encontrar a alternativa que 'traduz corretamente uma relação espacial expressa no texto'.",
+          "2. **Leia o Texto com Atenção (Informação Faltante):** Como o texto original não foi fornecido na questão, é crucial que o aluno, em uma situação real de prova, leia o excerto com foco nas descrições de localização, posicionamento e relação entre os objetos, lugares ou pessoas mencionados. Sublinhe ou anote as informações espaciais.",
+          "3. **Analise Cada Alternativa:** Para cada alternativa (A, B, C, D, E), avalie a relação espacial proposta (ex: 'paralela', 'adjacente', 'transversais', 'perpendicular', 'equidistantes').",
+          "4. **Compare com o Texto:** Compare a relação espacial de cada alternativa com a informação encontrada no texto. Verifique se há uma correspondência exata ou se a alternativa distorce a informação original. Lembre-se que 'traduzir corretamente' significa fidelidade à descrição do texto.",
+          "5. **Descarte as Incorretas:** Elimine as alternativas que contradizem o texto ou que apresentam uma relação espacial que não pode ser inferida a partir dele.",
+          "6. **Confirme a Correta:** A alternativa correta será aquela cuja relação espacial descrita encontra respaldo explícito e preciso no texto original."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'A prensa é paralela aos tipitis.' estaria incorreta se, no texto original, a relação entre a prensa e os tipitis não fosse de paralelismo. Por exemplo, se estivessem dispostas em ângulos diferentes, em linha ou uma em frente à outra, mas não mantendo uma distância constante e na mesma direção.",
+          "B": "A alternativa 'A casa de fazer farinha é adjacente aos telheiros.' é a correta. Isso significa que, no texto original, deveria haver uma descrição indicando que a casa de fazer farinha estava 'próxima', 'ao lado', 'contígua' ou 'fronteira' aos telheiros, sem haver espaço significativo ou outro elemento entre eles. A palavra 'adjacente' denota proximidade imediata ou vizinhança.",
+          "C": "A alternativa 'As duas camarinhas são transversais à cozinha.' estaria incorreta se o texto descrevesse as camarinhas em uma posição diferente da transversal em relação à cozinha. Transversal implica que elas se cruzam ou se estendem através da cozinha, ou em um ângulo em relação ao seu eixo principal. Se estivessem paralelas, ou simplesmente dentro, a alternativa seria falsa.",
+          "D": "A alternativa 'O alpendre é perpendicular às zonas de serviço.' estaria incorreta se o texto indicasse que o alpendre não forma um ângulo de 90 graus com as zonas de serviço. Por exemplo, se fosse paralelo, oblíquo ou simplesmente uma extensão sem uma relação angular específica de perpendicularidade.",
+          "E": "A alternativa 'O mandiocal e o Ipiranga são equidistantes do sítio.' estaria incorreta se o texto não afirmasse que o mandiocal e o rio Ipiranga estão à mesma distância do sítio. 'Equidistantes' significa 'à mesma distância de um ponto de referência'. Se um estivesse mais perto ou mais longe que o outro, ou se o texto não fornecesse essa informação comparativa de distância, a opção seria falsa."
         },
-        "finalSummary": ""
+        "finalSummary": "Para resolver questões sobre relações espaciais, o estudante deve interpretar com precisão os termos de localização e proximidade no texto e compará-los rigorosamente com as descrições de cada alternativa, identificando a que mais fielmente reproduz a informação original."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q02/image.png"
@@ -150,16 +162,20 @@
       "id": "fuvest-2017-q03",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A língua portuguesa falada no Brasil recebeu e continua recebendo diversas influências ao longo de sua história. Uma das mais significativas e originais é a das línguas indígenas, especialmente as do tronco Tupi-Guarani. Essas contribuições são notáveis em diversas áreas, como a flora (nomes de plantas), a fauna (nomes de animais), a toponímia (nomes de lugares), a culinária e objetos característicos da cultura local. Muitas palavras de origem tupi-guarani foram incorporadas ao vocabulário do português brasileiro, tornando-se termos comuns e identificadores da nossa cultura. A capacidade de identificar a origem etimológica das palavras é uma habilidade importante para compreender a formação e a riqueza do léxico da língua portuguesa.",
+        "steps": [
+          "Compreender o objetivo da questão: identificar, entre as alternativas, um par de palavras que, assim como 'tipitis', sejam de origem indígena e contribuam para a língua portuguesa do Brasil. É importante notar que a questão menciona 'empregadas no texto', mas o texto não foi fornecido. Assumimos, portanto, que o foco é a etimologia indígena das palavras.",
+          "Analisar a origem etimológica de cada palavra em todas as opções. Para isso, é necessário ter conhecimento sobre as principais fontes de palavras no português, como o latim, o grego, o árabe, e, especificamente para o Brasil, as línguas indígenas e africanas.",
+          "Avaliar cada par de palavras. Para uma alternativa ser a correta, AMBAS as palavras do par devem ter origem indígena."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa A está incorreta porque 'cardápio' tem origem italiana (do italiano 'cardapio') e 'roceiros' deriva de 'roça', que por sua vez vem do português 'rouça' (terreno desbravado), de origem latina ('ruptiare'). Nenhuma das duas palavras é de origem indígena.",
+          "B": "A alternativa B está incorreta. 'Alpendre' tem origem no latim 'appendere' ou do árabe 'al-pender'. 'Fogão' deriva de 'fogo', que vem do latim 'focus'. Ambas não são de origem indígena.",
+          "C": "A alternativa C está correta. 'Mandioca' é uma palavra de origem tupi ('mani'oka'), referindo-se à planta comestível de grande importância na culinária indígena e brasileira. 'Ipiranga' também é de origem tupi ('y-piranga'), significando 'rio vermelho', um nome comum em toponímia brasileira de origem indígena. Ambas as palavras são contribuições indígenas significativas para o português do Brasil.",
+          "D": "A alternativa D está incorreta. 'Sítio' vem do latim 'situs' (lugar, posição). 'Forno' tem origem no latim 'furnus'. Nenhuma das palavras é de origem indígena.",
+          "E": "A alternativa E está incorreta. 'Prensa' deriva do latim 'pressa' ou do francês 'presse'. 'Quintal' tem origem no latim 'quintale' (relacionado à quinta parte ou quinta). Nenhuma das palavras é de origem indígena."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre as contribuições das línguas indígenas, especialmente o Tupi-Guarani, para o vocabulário do português brasileiro, evidenciando termos relacionados à flora, fauna, e toponímia."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q03/image.png"
@@ -203,16 +219,21 @@
       "id": "fuvest-2017-q04",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "José de Alencar é um dos maiores expoentes do Romantismo brasileiro, e sua obra \"Iracema\" é um marco do indianismo, subgênero que buscava criar uma identidade nacional a partir da figura do indígena e da natureza pátria. Publicado em 1865, \"Iracema\" é conhecido por ser um \"poema em prosa\", caracterizado por sua linguagem extremamente poética, rica em metáforas e sonoridade, e por sua abordagem idealizada do \"bom selvagem\" – um indígena puro e harmonioso com a natureza, antes da corrupção pela civilização europeia. A obra narra a trágica história de amor entre a índia tabajara Iracema e o guerreiro português Martim, simbolizando o nascimento do povo cearense. O indianismo alencariano, embora idealizador, representava um esforço de valorização do que era considerado autenticamente brasileiro, mas o fazia sob uma perspectiva eurocêntrica, que via o \"nativo\" como algo exótico e distante, ainda que digno de admiração poética. É fundamental compreender a estética romântica, a idealização do índio e o estilo literário de Alencar para analisar as afirmações sobre a obra.",
+        "steps": [
+          "Analisar a afirmação I: \"Nesta obra, assim como nos ‘poemas americanos’ dos nossos poetas, palpita um sentimento sincero de distância poética e exotismo, de coisa notável por estranha para nós, embora a rotulemos como nativa.” Esta afirmação está em consonância com a leitura romântica do indígena. O Romantismo brasileiro, ao eleger o índio como herói nacional, o idealizava, tornando-o um objeto de fascínio exótico para o leitor urbano e europeizado da época. Havia uma \"distância poética\" e um \"exotismo\" na representação, mesmo que o objetivo fosse celebrar o \"nativo\". Essa idealização o tornava \"notável por estranha\", confirmando a validade da afirmação I.",
+          "Analisar a afirmação II: “Mais do que diante de um relato, estamos diante de um poema, cujo conteúdo se concentra a cada passo na magia do ritmo e na graça da imagem.” \"Iracema\" é amplamente reconhecida como um \"poema em prosa\" devido à sua linguagem altamente lírica, descritiva e cadenciada. Alencar emprega recursos poéticos como metáforas, comparações e uma sintaxe elaborada, que conferem à narrativa um ritmo e uma sonoridade singulares, priorizando a beleza da imagem e a musicalidade das palavras. As descrições da natureza e dos personagens são feitas com grande sensibilidade estética. Portanto, a afirmação II é compatível com a obra.",
+          "Analisar a afirmação III: “O tema do bom selvagem foi, neste caso, aproveitado para um romance histórico, que reproduz o enredo típico das narrativas de capa e espada, oriundas da novela de cavalaria.” A primeira parte da afirmação (\"O tema do bom selvagem foi, neste caso, aproveitado\") está correta, pois o \"bom selvagem\" é central em \"Iracema\". No entanto, a segunda parte (\"para um romance histórico, que reproduz o enredo típico das narrativas de capa e espada, oriundas da novela de cavalaria\") está incorreta. \"Iracema\" é classificado como um romance indianista, que lida com um passado lendário e a formação do povo, mas não é um romance histórico no sentido estrito (como os de Walter Scott, por exemplo, que buscam fidelidade aos fatos históricos). Além disso, o enredo não reproduz as características das \"narrativas de capa e espada\" ou das \"novelas de cavalaria\" (com seus duelos, intrigas cortesãs, aventuras épicas e cavaleiros andantes). A trama de \"Iracema\" é uma história de amor trágica e a gênese de um povo, com conflitos culturais e pessoais, mas não a estrutura de uma narrativa de aventura cavalheiresca. Portanto, a afirmação III é incompatível.",
+          "Combinar as análises: Apenas as afirmações I e II são compatíveis com \"Iracema\". A opção que contempla I e II é a alternativa C."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta porque, embora a afirmação I seja verdadeira, a afirmação II também é compatível com \"Iracema\". A obra é notável tanto pelo exotismo na representação do índio quanto pela sua natureza de \"poema em prosa\", repleta de ritmo e imagens poéticas. A exclusão da afirmação II torna esta opção incompleta e, portanto, errada.",
+          "B": "Esta alternativa está incorreta porque a afirmação III é incompatível com a obra. Embora \"Iracema\" utilize o tema do \"bom selvagem\", não se enquadra primariamente como um \"romance histórico\" no sentido tradicional e, crucialmente, seu enredo não se alinha com as \"narrativas de capa e espada\" ou \"novelas de cavalaria\", que possuem características e propósitos narrativos muito distintos da obra alencariana. As afirmações I e II, que são compatíveis, são omitidas, reforçando o erro.",
+          "C": "Esta é a alternativa correta. A afirmação I corretamente descreve o sentimento de distância poética e exotismo na representação do indígena, típico do Romantismo. A afirmação II acerta ao caracterizar \"Iracema\" como um \"poema em prosa\" pela sua linguagem lírica e imagética. A afirmação III, por outro lado, está incorreta ao classificá-la como um romance histórico nos moldes de \"capa e espada\". Portanto, apenas I e II são válidas.",
+          "D": "Esta alternativa está incorreta porque inclui a afirmação III, que é incompatível com \"Iracema\" por classificá-la erroneamente como um \"romance histórico\" com enredo de \"capa e espada\". Embora a afirmação II esteja correta, a inclusão da III invalida a opção como um todo. Além disso, a afirmação I, que também é correta, é excluída.",
+          "E": "Esta alternativa está incorreta porque afirma que todas as três declarações são compatíveis. Como demonstrado na análise, a afirmação III está errada ao classificar \"Iracema\" como um \"romance histórico\" com enredo de \"capa e espada\". A presença de uma afirmação incorreta torna a opção E inválida. É crucial discernir as nuances da classificação de gênero e do estilo literário de Alencar."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exige um conhecimento aprofundado sobre as características do Romantismo indianista de José de Alencar, a especificidade do \"poema em prosa\" de \"Iracema\" e a correta distinção de gêneros literários para identificar as afirmações precisas sobre a obra."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q04/image.png"
@@ -256,16 +277,22 @@
       "id": "fuvest-2017-q05",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Indianismo foi uma vertente do Romantismo brasileiro, desenvolvida principalmente na primeira geração romântica (meados do século XIX). Seu objetivo central era a construção de uma identidade nacional, buscando nas raízes do Brasil, especificamente na figura do indígena, um herói que representasse a originalidade e a pureza da nação. Os autores indianistas, como José de Alencar, idealizaram o indígena como o 'bom selvagem', um ser dotado de valores morais elevados, bravura, dignidade, pureza e uma profunda conexão com a natureza. Essa idealização se manifestava por meio de diversas convenções literárias, que incluíam a descrição de paisagens grandiosas, a exaltação dos sentimentos puros, a valorização da cultura e lendas indígenas (muitas vezes adaptadas ou reinterpretadas) e a projeção de um passado heroico e mítico para o Brasil.",
+        "steps": [
+          "1. Compreender o contexto do Indianismo: O Indianismo é uma fase do Romantismo brasileiro que busca criar uma identidade nacional através da figura do indígena. Os escritores indianistas idealizavam o indígena, transformando-o em um herói nacional, um 'bom selvagem'.",
+          "2. Identificar as convenções do Indianismo: As convenções se referem às características e estratégias literárias usadas pelos autores para construir essa imagem idealizada do indígena. Isso incluía a exaltação da natureza, a bravura, a nobreza e, frequentemente, a integração de elementos míticos e lendários.",
+          "3. Analisar as alternativas à luz dessas convenções: Verificar qual das opções apresentadas melhor se alinha com as características conhecidas da representação indianista do indígena. É importante notar que a questão se refere a 'No texto', mas o texto não foi fornecido. Portanto, a análise será feita com base nas convenções gerais do Indianismo.",
+          "4. Avaliar a alternativa correta: A alternativa (A) menciona o 'emprego de sugestões de cunho mitológico compatíveis com o contexto'. O Indianismo frequentemente recorria a lendas, mitos e uma visão quase épica do passado indígena para enobrecer e heroificar seus personagens, como a descrição de Iracema como 'virgem dos lábios de mel' e 'filha da floresta', com ligações quase divinas à natureza e à sua origem.",
+          "5. Justificar a incorreção das demais alternativas: Cada alternativa errada deve ser contrastada com as verdadeiras convenções do Indianismo para demonstrar por que não se encaixa nesse movimento literário."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está correta. O Indianismo, para construir a imagem idealizada do indígena como herói nacional, frequentemente recorria a elementos mitológicos, lendas e uma conexão quase espiritual com a natureza. Personagens como Iracema e Peri são frequentemente descritos com atributos que os elevam a um patamar quase divino ou lendário, enaltecendo sua origem e seu papel na construção da nação. A fusão de lendas e mitos indígenas (muitas vezes reinterpretados ou criados pelos próprios autores) com o contexto romântico servia para dar profundidade e grandiosidade a esses personagens e à cultura que representavam.",
+          "B": "A caracterização da mulher como um ser dócil e desprovido de vontade própria não é uma convenção marcante do Indianismo em relação ao indígena. Pelo contrário, personagens femininas como Iracema, embora trágicas, são retratadas com grande força de caráter, autonomia dentro de seu contexto e profunda conexão com a natureza, exercendo sua vontade e defendendo seus ideais, mesmo que isso as leve à ruína. A ideia de 'dócil e desprovida de vontade própria' é mais associada a estereótipos femininos de outras correntes literárias ou sociais da época, mas não à heroína indianista idealizada.",
+          "C": "A ênfase na efemeridade da vida humana sob os trópicos não é uma característica central do Indianismo. O Romantismo, e especialmente o Indianismo, tendia a idealizar e glorificar a vida e o passado, buscando a eternização do herói e dos valores nacionais. A ideia de 'efemeridade' (fugacidade, transitoriedade) é mais comum em correntes literárias posteriores, como o Realismo/Naturalismo ou o Parnasianismo, que abordam a vida de forma mais crítica ou melancólica, contrastando com a grandiosidade e heroísmo propostos pelo Indianismo.",
+          "D": "O uso de vocabulário primitivo e singelo, de extração oral-popular, não corresponde à forma como o Indianismo empregava a linguagem. Embora os autores indianistas incorporassem termos e nomes de origem tupi-guarani para criar autenticidade e regionalismo, a linguagem utilizada nas obras era frequentemente rebuscada, erudita e com um estilo elevado, buscando emular a grandiosidade épica. Não se tratava de uma linguagem 'primitiva e singela' no sentido de ser popular ou simplificada, mas sim de uma prosa e verso elaborados que buscavam a beleza e a solenidade.",
+          "E": "A supressão de interdições morais relativas às práticas eróticas não é uma convenção do Romantismo indianista. O Romantismo, em geral, era um movimento conservador em termos morais, valorizando a pureza, a castidade e o amor idealizado. O 'bom selvagem' era retratado como puro e nobre, e as relações amorosas, embora passionais, estavam inseridas em um contexto de valores morais da época. Temas de supressão de interdições morais ou de sexualidade mais explícita são característicos de movimentos literários posteriores, como o Naturalismo, que buscava uma abordagem mais científica e menos idealizada do ser humano."
         },
-        "finalSummary": ""
+        "finalSummary": "O Indianismo construiu a imagem idealizada do indígena como herói nacional, e para isso, frequentemente integrou elementos mitológicos e lendários em suas narrativas, conectando-os à natureza e a uma visão épica do passado brasileiro."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q05/image.png"
@@ -309,16 +336,23 @@
       "id": "fuvest-2017-q06",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão aborda conhecimentos de estilística textual, gramática e análise semântica. Especificamente, exige o entendimento da função de tempos verbais em narrativa (como o presente do indicativo com valor de passado, conhecido como presente histórico ou narrativo), a correta interpretação do valor de pronomes (como o 'lhe'), a análise da função da adjetivação e a identificação de diferentes acepções de um verbo no contexto. É fundamental compreender como as escolhas linguísticas do narrador impactam a recepção da história pelo leitor.",
+        "steps": [
+          "1. **Reconhecer a ausência do texto:** A questão faz referência a um texto que não foi fornecido. Portanto, a análise deve se basear no conhecimento de recursos linguísticos e estilísticos gerais, e na veracidade das afirmações sobre esses recursos, independentemente da sua aplicação específica no texto ausente. Seremos forçados a assumir que a questão está testando a compreensão dos efeitos dessas escolhas estilísticas.",
+          "2. **Analisar a alternativa D (Correta):** A afirmação de que o presente do indicativo é empregado para dar vivacidade e aproximar os fatos do leitor descreve com precisão um efeito estilístico comum e conhecido como 'presente histórico' ou 'presente narrativo'. Quando o narrador usa o presente para relatar eventos passados, ele cria uma sensação de imediatismo e drama, como se os eventos estivessem acontecendo 'agora', o que de fato aproxima o leitor da cena narrada e aumenta a vivacidade. A menção de 'a partir do segundo parágrafo' sugere uma mudança deliberada de tempo verbal para intensificar esse efeito. Esta é uma técnica narrativa padrão e o efeito descrito é universalmente aceito na análise literária.",
+          "3. **Analisar a alternativa A (Incorreta):** A priorização da ordem direta (sujeito-verbo-objeto) é uma característica estilística que só poderia ser verificada com a leitura do texto. Muitos autores utilizam a inversão para criar efeitos de ritmo, ênfase ou formalidade. Não é possível afirmar categoricamente sem o texto.",
+          "4. **Analisar a alternativa B (Incorreta):** A acepção do verbo 'correr' é altamente dependente do contexto. 'Correr' pode significar deslocar-se rapidamente, fluir (água), estar em vigor (boatos), etc. A frase de Iracema ('correm ao campo') sugere movimento rápido e combativo. Sem o segundo parágrafo do texto em questão, é impossível saber se o verbo 'correr' está sendo usado com a mesma conotação ou em um sentido completamente diferente. Esta é uma análise semântica que exige o texto.",
+          "5. **Analisar a alternativa C (Incorreta):** A adjetivação pode ser objetiva (descreve características intrínsecas) ou subjetiva (expressa a percepção ou sentimento do narrador). Afirmar que o narrador recorre à adjetivação de 'caráter objetivo' para 'tornar a cena mais real' é uma interpretação que demanda a análise das adjetivações no texto. Muitas vezes, adjetivos 'subjetivos' são usados para imergir o leitor e tornar a cena 'real' no sentido de criar uma experiência sensorial ou emocional. Sem o texto, não se pode verificar a natureza dos adjetivos ou o propósito principal do narrador.",
+          "6. **Analisar a alternativa E (Incorreta):** O pronome 'lhe' é predominantemente um pronome oblíquo átono com valor de objeto indireto (a ele/ela). Embora em raras construções possa assumir um valor possessivo (especialmente com partes do corpo, como em 'beijou-lhe a mão' = beijou a mão dele/dela), nos exemplos fornecidos ('aqui lhe sorri' e 'lhe entram n’alma'), o 'lhe' mantém seu valor de objeto indireto. 'Lhe sorri' significa 'sorri para ele/ela'. 'Lhe entram n’alma' significa 'entram na alma dele/dela', onde 'n'alma' é um adjunto adverbial de lugar e 'lhe' reforça o sentido de recipiente ou destino da ação ('a ele/ela'). O pronome 'lhe' não substitui um possessivo que modifica diretamente um substantivo (como 'seu sorriso' ou 'sua alma'). Portanto, a atribuição de valor possessivo nesses trechos é gramaticalmente incorreta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa faz uma afirmação sobre a estrutura frasal do narrador ('prioriza a ordem direta'). A ordem direta (sujeito-verbo-objeto) é comum, mas a inversão é um recurso estilístico frequente na literatura para ênfase, ritmo ou formalidade. Sem o texto original para analisar os dois primeiros parágrafos, não é possível verificar a veracidade dessa afirmação específica sobre a preferência estilística do narrador.",
+          "B": "A acepção de um verbo, ou seja, o seu sentido ou significado em um determinado contexto, é crucial para a compreensão textual. O verbo 'correr' possui múltiplos significados. Comparar sua acepção no texto original com a de 'correm ao campo' de *Iracema* (onde significa um movimento rápido, talvez para o combate) exige a leitura e interpretação do contexto do segundo parágrafo do texto da questão. Sem essa informação, a comparação é impossível de ser confirmada ou refutada.",
+          "C": "A adjetivação é um recurso importante para descrever e caracterizar. No entanto, a afirmação de que o narrador recorre a uma adjetivação de 'caráter objetivo' para tornar a cena 'mais real' é uma análise que depende diretamente do tipo de adjetivos empregados no texto. Adjetivos podem ser objetivos (ex: 'mesa redonda') ou subjetivos (ex: 'dia maravilhoso'). Além disso, o objetivo de tornar a cena 'mais real' pode ser alcançado por diferentes tipos de adjetivação. Sem o texto, não é possível avaliar a natureza dos adjetivos ou a intenção do narrador de forma precisa.",
+          "D": "Esta é a alternativa correta. O uso do presente do indicativo para narrar fatos passados é uma figura de estilo conhecida como 'presente histórico' ou 'presente narrativo'. Esse recurso tem como principal função conferir maior vivacidade e dinamismo aos eventos, tornando a narrativa mais vívida e 'aproximando' o leitor da ação, como se estivesse testemunhando os fatos no momento em que ocorrem. A descrição do efeito estilístico está perfeitamente alinhada com a função do presente histórico.",
+          "E": "O pronome oblíquo 'lhe' é primariamente um pronome de objeto indireto (equivalente a 'a ele', 'a ela', 'para ele', 'para ela'). Embora possa ocasionalmente expressar posse em construções específicas (geralmente com partes do corpo, substituindo 'seu/sua', como em 'Cortou-lhe o cabelo'), nos exemplos 'aqui lhe sorri' e 'lhe entram n’alma', o 'lhe' mantém a função de objeto indireto. 'Lhe sorri' significa 'sorri para ele/ela'. 'Lhe entram n’alma' significa 'entram na alma dele/dela', onde o 'lhe' aponta para o receptor da ação. Portanto, atribuir valor possessivo ao 'lhe' nesses contextos está incorreto gramaticalmente."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento de recursos estilísticos narrativos, focando na função do presente histórico para criar vivacidade e proximidade com o leitor, e na correta identificação da função sintática dos pronomes, como o 'lhe', que predominantemente atua como objeto indireto."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q06/image.png"
@@ -362,16 +396,20 @@
       "id": "fuvest-2017-q07",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A arte e a técnica da tradução são processos complexos que vão muito além da simples substituição de palavras de uma língua por outra. Um professor de vestibular te diria que a boa tradução exige uma compreensão profunda do texto original (a 'língua de partida'), suas camadas de significado, seu contexto cultural, seu estilo e suas intenções comunicativas. A partir dessa compreensão, o tradutor busca, na 'língua de chegada', as melhores formas de recriar esses elementos, garantindo que a mensagem, o tom e o impacto do texto original sejam preservados e compreendidos pelo novo público. Isso frequentemente envolve decisões criativas e interpretativas para encontrar 'equivalências dinâmicas' ou 'funcionais', pois a correspondência palavra por palavra é raramente eficaz ou até mesmo possível. A fidelidade ao original não significa literalidade, mas sim a busca pela manutenção do sentido e efeito, adaptando-se às idiossincrasias da língua e cultura de destino. É importante notar que, sem o texto base ao qual a questão se refere, a explicação se fundamenta nos princípios universais de uma boa prática de tradução, assumindo que o texto de origem abordaria esses mesmos conceitos.",
+        "steps": [
+          "1.  **Análise do Enunciado**: A questão solicita o que uma 'boa tradução precisa', explicitamente 'de acordo com o texto'. Como não temos acesso ao texto original da Fuvest, nossa análise se baseará nos princípios consolidados da Teoria da Tradução e na lógica intrínseca das alternativas, assumindo que o texto-fonte se alinhava a esses princípios.",
+          "2.  **Avaliação da Alternativa Correta (E)**: A alternativa 'buscar, na língua de chegada, soluções que correspondam ao texto original' é a que melhor descreve o trabalho de um bom tradutor. O termo 'soluções' é crucial, pois indica que o processo não é mecânico, mas envolve discernimento, criatividade e adaptação. O objetivo é encontrar equivalentes na língua de chegada que reproduzam o sentido, o estilo e o impacto do original, e não necessariamente uma cópia literal, que muitas vezes distorce o sentido. A ideia de 'corresponder' sugere uma equivalência funcional e conceitual, e não uma identidade absoluta.",
+          "3.  **Análise e Exclusão das Alternativas Incorretas (A, B, C, D)**: Examinar cada uma das demais alternativas para entender por que elas representam desvios ou erros em relação aos princípios de uma boa tradução."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa propõe 'evitar a transposição fiel dos conteúdos do texto original'. Uma boa tradução, pelo contrário, busca a *fidelidade aos conteúdos e ao sentido* do texto original. Evitar a fidelidade ao conteúdo principal seria um erro fundamental. Embora a transposição não seja palavra por palavra, o conteúdo deve ser preservado. Portanto, esta opção está equivocada.",
+          "B": "Esta alternativa sugere 'desconsiderar as características da linguagem primeira para poder atingir a língua de chegada'. Desconsiderar as características da língua de partida (o original) é um erro gravíssimo. O processo de tradução *começa* com a análise profunda e a compreensão das peculiaridades linguísticas, estilísticas e culturais do texto-fonte. Ignorá-las levaria a uma tradução imprecisa ou até mesmo incorreta. A língua de chegada é o objetivo, mas a partida é o texto original.",
+          "C": "A alternativa afirma que a boa tradução precisa 'desviar-se da norma-padrão tanto da língua original quanto da língua de chegada'. Em geral, a boa tradução se esforça para respeitar a norma-padrão de ambas as línguas, a menos que o texto original se desvie intencionalmente dela (por exemplo, em uma obra literária que usa linguagem coloquial ou gírias com um propósito específico). Nesses casos, o tradutor buscaria um equivalente funcional na língua de chegada. Desviar-se sem propósito leva a erros gramaticais, estilísticos e dificulta a compreensão do leitor. Assim, esta opção está incorreta.",
+          "D": "Esta opção diz 'privilegiar a inventividade, ainda que em detrimento das peculiaridades do texto original'. Embora o tradutor precise de criatividade para encontrar as melhores soluções na língua de chegada, essa inventividade não pode, em hipótese alguma, ocorrer 'em detrimento das peculiaridades do texto original'. O papel do tradutor é ser um mediador fiel, não um coautor que impõe sua própria visão ou estilo, alterando a essência do original. A inventividade deve servir ao original, não o contrário. Por isso, a alternativa está errada.",
+          "E": "Correta. Esta alternativa descreve perfeitamente o ideal de uma boa tradução: 'buscar, na língua de chegada, soluções que correspondam ao texto original'. Isso significa que o tradutor deve empregar todos os recursos linguísticos e culturais da língua-alvo para reproduzir o sentido, o estilo, o tom e o impacto do original, mesmo que isso exija flexibilidade na forma literal. A correspondência aqui é de sentido e efeito, não necessariamente de estrutura ou vocabulário exato, garantindo a fidelidade ao espírito do texto."
         },
-        "finalSummary": ""
+        "finalSummary": "Uma tradução de qualidade transcende a literalidade, buscando ativamente na língua de chegada as formas e sentidos que melhor recriem a intenção e o efeito do texto original, sempre respeitando as particularidades de ambas as línguas para garantir a fidelidade conceitual e estilística."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q07/image.png"
@@ -415,16 +453,25 @@
       "id": "fuvest-2017-q08",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão avalia a capacidade de inferência semântica e o conhecimento de vocabulário, especificamente termos de uso mais recente que descrevem situações onde algo vai contra a expectativa geral ou o conhecimento comum. O 'senso comum' refere-se ao conjunto de noções, ideias, e crenças compartilhadas pela maioria das pessoas em uma sociedade, consideradas como verdades universais, lógicas ou óbvias. A intuição, por sua vez, é a capacidade de compreender algo imediatamente, sem a necessidade de raciocínio lógico ou analítico, muitas vezes alinhada ao senso comum. Portanto, a chave é encontrar um termo que qualifique algo que 'foge' ou se opõe a essa intuição ou ao senso comum.",
+        "steps": [
+          "**Passo 1: Analisar o enunciado e identificar a ideia central.** O enunciado afirma que as recomendações do autor 'fogem do senso comum'. Isso significa que elas não são o que se esperaria, não são óbvias ou contrariam o que a maioria das pessoas pensaria ou faria naturalmente. Estamos procurando um adjetivo que descreva essa característica.",
+          "**Passo 2: Avaliar o significado de cada alternativa.**",
+          "**A) dubitativas:** Relaciona-se a dúvida, incerteza. Embora recomendações que fogem do senso comum possam gerar dúvidas, o termo não descreve primariamente o ato de 'fugir do senso comum', mas sim a incerteza sobre elas.",
+          "**B) contraintuitivas:** 'Contra' significa 'oposto a' ou 'contra'. 'Intuitivo' refere-se ao que é percebido ou compreendido de forma imediata, sem raciocínio lógico, ou ao que é óbvio/esperado. Portanto, 'contraintuitivas' significa 'oposto à intuição' ou 'oposto ao que se esperaria de forma imediata ou natural'. Isso se alinha perfeitamente com 'fogem do senso comum'.",
+          "**C) autocomplacentes:** Refere-se a alguém que sente satisfação excessiva consigo mesmo ou com seus próprios atos, geralmente de forma egoísta e sem autocrítica. Não tem relação com o sentido de 'fugir do senso comum'.",
+          "**D) especulativas:** Diz respeito ao que se baseia em especulação, hipóteses ou teoria, sem evidências concretas. Embora recomendações incomuns possam ser vistas como especulativas, o foco do enunciado está na sua dissonância com o senso comum, não necessariamente na sua fundamentação.",
+          "**E) aleatórias:** Significa que algo é feito ao acaso, sem ordem ou método. As recomendações, mesmo que fora do comum, são propositais, não casuais ou randômicas.",
+          "**Passo 3: Selecionar a alternativa que melhor se encaixa.** A alternativa 'contraintuitivas' é a que descreve com maior precisão e modernidade algo que 'foge do senso comum', pois se opõe ao que a intuição ou a expectativa comum ditaria."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'dubitativas' refere-se a algo que gera dúvida ou incerteza. Embora as recomendações do autor possam, de fato, suscitar dúvidas por fugirem do senso comum, o termo 'dubitativas' descreve o estado de incerteza em relação a elas, e não a característica intrínseca de 'fugir do senso comum' em si. A fuga do senso comum é a *causa* de uma possível dúvida, mas não o seu sinônimo descritivo mais direto e técnico.",
+          "B": "A alternativa 'contraintuitivas' é a correta. O termo 'contraintuitivo' é formado pelo prefixo 'contra-', que indica oposição, e 'intuitivo', que se refere ao que é imediatamente compreendido ou ao que é esperado e óbvio. Assim, 'contraintuitivas' descreve perfeitamente algo que contraria a intuição, a lógica aparente ou o senso comum. É um termo amplamente utilizado para caracterizar ideias, soluções ou fenômenos que, à primeira vista, parecem ilógicos ou inesperados, mas que podem ser válidos após uma análise mais profunda.",
+          "C": "A alternativa 'autocomplacentes' descreve uma atitude de satisfação excessiva consigo mesmo ou com as próprias ações, muitas vezes com falta de autocrítica. Esse termo não possui qualquer relação semântica com a ideia de recomendações que 'fogem do senso comum'.",
+          "D": "A alternativa 'especulativas' refere-se a algo baseado em especulação, hipóteses ou teorias, sem uma base sólida de fatos ou provas. Embora recomendações que fogem do senso comum *possam* ser vistas como especulativas por alguns, o foco do enunciado está na sua divergência com o senso comum, e não necessariamente na sua falta de embasamento (elas podem ser muito bem embasadas, mas ainda assim contraintuitivas).",
+          "E": "A alternativa 'aleatórias' significa que algo ocorre ao acaso, sem um padrão, propósito ou ordem definida. As recomendações do autor, mesmo que incomuns, são intencionais e formuladas com um propósito, não sendo, portanto, aleatórias. O problema não é a falta de ordem, mas a discordância com o senso comum."
         },
-        "finalSummary": ""
+        "finalSummary": "O termo 'contraintuitivas' é o mais preciso para descrever recomendações que 'fogem do senso comum', pois indica que elas se opõem à intuição e às expectativas naturais."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q08/image.png"
@@ -468,16 +515,20 @@
       "id": "fuvest-2017-q09",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Os prefixos são morfemas que se anexam ao início de uma palavra, modificando seu sentido original. Para resolver questões como esta, é fundamental conhecer o significado dos prefixos de origem grega e latina, pois eles expressam noções de tempo, lugar, modo, negação, intensidade, entre outras. A compreensão do sentido de um prefixo em um determinado contexto pode ser a chave para identificar um sinônimo ou uma relação de sentido.",
+        "steps": [
+          "1.  **Analisar o prefixo da palavra-chave:** A palavra “transpostos” contém o prefixo “trans-”. De origem latina, “trans-” significa “através de”, “além de”, “do outro lado de”, “superação” ou “mudança”. No contexto de “transpostos” (de transpor), significa “passados além”, “atravessados” ou “superados”.",
+          "2.  **Analisar o prefixo de cada alternativa:**\n    *   **A) ultrapassado:** O prefixo “ultra-” (de origem latina) significa “além de”, “para lá de”, “em excesso” ou “superior a”.\n    *   **B) retrocedido:** O prefixo “retro-” (de origem latina) significa “para trás”, “em sentido contrário”.\n    *   **C) infracolocado:** O prefixo “infra-” (de origem latina) significa “abaixo de”, “inferior a”.\n    *   **D) percorrido:** O prefixo “per-” (de origem latina) pode significar “através de”, “por meio de”, “completamente”.\n    *   **E) introvertido:** O prefixo “intro-” (de origem latina) significa “para dentro”.",
+          "3.  **Comparar os significados:** Comparar o sentido do prefixo “trans-” em “transpostos” com o sentido de cada prefixo nas alternativas. O sentido de “além de”, “superação” ou “passar para o outro lado” presente em “trans-” é o que mais se aproxima do sentido de “ultra-” em “ultrapassado”, que também significa “passar além de” ou “superar um limite”."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. O prefixo “ultra-” em “ultrapassado” compartilha o sentido de “além de”, “superação” ou “passar para o outro lado” com o prefixo “trans-” em “transpostos”. Ambas as palavras expressam a ideia de ir além de um limite ou barreira, seja físico ou figurado.",
+          "B": "A alternativa “retrocedido” apresenta o prefixo “retro-”, que significa “para trás” ou “em sentido contrário”. Esse sentido é oposto ao de “trans-”, que implica movimento para frente, através ou além, e não para trás.",
+          "C": "A alternativa “infracolocado” utiliza o prefixo “infra-”, que significa “abaixo de” ou “inferior a”. Esse prefixo indica uma posição ou nível inferior, o que não corresponde ao sentido de “trans-” (através de, além de) presente em “transpostos”.",
+          "D": "A alternativa “percorrido” contém o prefixo “per-”, que pode significar “através de” ou “por meio de”. Embora “trans-” também possa ter o sentido de “através de”, a palavra “transpostos” evoca mais a ideia de “passar além de” ou “superar”. “Percorrido” foca na ação de completar um trajeto ou passar por um caminho, enquanto “transpostos” e “ultrapassado” enfatizam o ato de ir *além* de um ponto ou limite, tornando “ultra-” a correspondência mais precisa em termos de nuance para este contexto específico.",
+          "E": "A alternativa “introvertido” apresenta o prefixo “intro-”, que significa “para dentro”. Esse sentido é de direção interna e não se alinha com o significado de “trans-” em “transpostos”, que denota movimento através ou para fora/além de algo."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre o significado de prefixos latinos, sendo fundamental identificar a nuance de 'além de' ou 'superação' compartilhada por 'trans-' e 'ultra-'."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q09/image.png"
@@ -521,16 +572,21 @@
       "id": "fuvest-2017-q10",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda um dos romances mais emblemáticos do Realismo brasileiro: 'Memórias Póstumas de Brás Cubas', de Machado de Assis. Para compreendê-la, é fundamental entender as características do narrador-personagem, Brás Cubas, que é um 'defunto-autor'. Essa perspectiva confere-lhe uma liberdade narrativa ímpar, permitindo-lhe analisar sua própria vida com ironia, distanciamento e uma acidez crítica em relação aos valores e hipocrisias da sociedade da elite carioca do Segundo Império. Brás Cubas é retratado como um homem inconstante, egocêntrico e superficial em seus sentimentos e projetos. Suas paixões, ambições e empreendimentos são frequentemente marcados por um ciclo de entusiasmo inicial ('animação') seguido por um rápido desinteresse e tédio ('enfado'). A relação com Virgília é um ponto crucial na narrativa, sendo um de seus amores mais significativos, mas que ainda assim se encaixa, à sua maneira, nesse padrão de inconstância.",
+        "steps": [
+          "**1. Entenda o papel do 'defunto-autor'**: Brás Cubas narra sua própria vida após a morte, o que lhe confere um olhar cínico, irônico e distanciado. Ele pode revelar verdades sobre si mesmo e sobre a sociedade sem as amarras das convenções sociais dos vivos.",
+          "**2. Caracterize Brás Cubas**: Ele é um personagem marcado pela inconstância, superficialidade e egoísmo. Seus projetos e paixões raramente se concretizam ou se sustentam por muito tempo, passando de uma 'animação' inicial para um 'enfado' inevitável.",
+          "**3. Analise a relação com Virgília no contexto da obra**: Embora o amor com Virgília seja um dos mais marcantes na vida de Brás Cubas (sendo um adultério que ele eleva a um patamar quase épico em sua mente, simbolizado pelo 'livro' dos amores), ele não está imune ao padrão de inconstância do protagonista. A intensidade inicial da paixão e do desafio do adultério dá lugar, em outros momentos, a outras preocupações ou a um certo esvaziamento, ainda que o afeto perdure de alguma forma.",
+          "**4. Avalie as alternativas à luz dessas características**: A alternativa correta deve refletir a natureza particular desse amor dentro da psicologia de Brás Cubas e da crítica social machadiana. O 'livro' dos amores é uma metáfora para a construção subjetiva e egocêntrica que Brás Cubas faz dessa relação, que, apesar de sua intensidade, segue a lógica de sua existência volúvel."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta porque 'Memórias Póstumas de Brás Cubas' é uma obra do Realismo, e não do Naturalismo. O Naturalismo (que no Brasil tem como expoente Aluísio Azevedo) focava no determinismo biológico e social, na influência do meio e da hereditariedade sobre os indivíduos, muitas vezes com uma abordagem mais cientificista. Machado, no Realismo, concentra-se mais na análise psicológica profunda, na ironia e na crítica de costumes, sem aderir à tese de um 'fundamento biológico' estrito para as relações amorosas, como o Naturalismo postularia.",
+          "B": "Esta é a alternativa correta. A relação de Brás Cubas e Virgília, apesar de ser um dos pontos altos de sua 'vida' e ter uma intensidade e duração notáveis em comparação com outros flertes, ainda se encaixa perfeitamente no padrão de 'animação e enfado' que define o protagonista. Brás Cubas se entrega a paixões e projetos com entusiasmo inicial, mas sua natureza volúvel e egocêntrica o leva ao tédio e ao desinteresse. A relação com Virgília foi 'mais intensa e prolongada' porque envolveu o desafio do adultério e a profundidade de um afeto duradouro, mas a própria narrativa de Brás Cubas revela as nuances e as oscilações dessa paixão ao longo do tempo, ainda sob a ótica de sua inconstância existencial.",
+          "C": "A alternativa está incorreta por dois motivos principais. Primeiro, embora 'Memórias Póstumas' de fato apresente um triângulo amoroso, a ideia de que os triângulos amorosos foram 'criados' durante o período romântico é historicamente imprecisa; este tipo de conflito narrativo é muito mais antigo. Segundo, a questão foca no 'livro' dos amores de Brás Cubas e Virgília, que representa a natureza específica da *relação deles*, e não a incorporação de um tropo literário de forma genérica. A obra utiliza o triângulo amoroso para aprofundar a crítica aos costumes burgueses, mas o foco da questão é a natureza desse amor específico para Brás Cubas.",
+          "D": "Esta alternativa, embora a premissa sobre a liberdade do defunto-autor seja verdadeira e crucial para a obra, não descreve adequadamente o 'livro' dos amores em si. A condição de defunto-autor realmente permite a Brás Cubas abordar temas 'proibidos' com desfaçatez e ironia, como o adultério. No entanto, o adultério como tema não era 'proibido' na literatura da época (muitos romancistas realistas o abordavam, como Eça de Queirós em Portugal). A liberdade do defunto-autor é o *meio* para a narrativa, mas a alternativa B descreve a *natureza* desse amor para o personagem, que é o foco da pergunta.",
+          "E": "Embora Machado de Assis, através da ironia de Brás Cubas, *critique* sim a hipocrisia e os costumes da elite imperial, a narrativa do 'livro' dos amores de Brás Cubas e Virgília não se configura primariamente como uma 'crítica à devassidão' no sentido de uma condenação moral explícita. Brás Cubas narra suas aventuras amorosas com um tom de distanciamento e autojustificativa, revelando a superficialidade e o egoísmo inerentes a muitas das relações da época, mas sem um julgamento moralista direto que a palavra 'crítica à devassidão' poderia sugerir. A crítica de Machado é mais sutil, irônica e psicológica, focando na fragilidade dos valores e na inconstância do ser humano, o que está melhor expresso na alternativa B."
         },
-        "finalSummary": ""
+        "finalSummary": "O 'livro' dos amores de Brás Cubas e Virgília simboliza a relação mais marcante do protagonista, mas ainda assim reflete seu padrão existencial de entusiasmo efêmero e tédio subsequente, característico de sua personalidade egocêntrica e inconstante."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q10/image.png"
@@ -574,16 +630,21 @@
       "id": "fuvest-2017-q11",
       "year": 2017,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Esta questão avalia a capacidade de interpretação textual, focando na identificação do 'ritmo' narrativo através de expressões idiomáticas ou descritivas. Em literatura, o ritmo de um relato não se refere apenas à velocidade de leitura, mas também à cadência com que os eventos são apresentados, à intensidade emocional que perpassa a narrativa e à forma como o fluxo dos acontecimentos se desenrola. Para responder, é preciso analisar como cada alternativa se relaciona com a ideia de um 'ritmo' em um contexto de 'amores', ou seja, como a descrição dos sentimentos e eventos amorosos se manifesta em termos de intensidade, controle ou desenvolvimento.",
+        "steps": [
+          "Compreenda o enunciado: A questão pede para identificar qual das alternativas melhor expressa o 'ritmo' que o narrador imprime ao relato de seus 'amores' no último período do texto. 'Ritmo' aqui deve ser interpretado como a cadência, a intensidade ou a natureza do desenrolar desses amores na narrativa.",
+          "Analise as conotações de cada alternativa: Avalie o significado e as implicações de cada frase, pensando em como elas podem sugerir um tipo de 'ritmo' (rápido, lento, intenso, controlado, descontrolado, etc.) em relação a um relato de amores.",
+          "Busque a alternativa que diretamente sugere a intensidade e a natureza do fluxo dos amores: A resposta correta deve ser a que melhor traduz um movimento ou uma característica intrínseca ao modo como os amores foram vividos ou narrados, que se alinha com a ideia de um 'ritmo' peculiar.",
+          "Sem o texto completo, a análise é baseada no sentido intrínseco das frases e na coerência com a resposta esperada. Assumimos que a frase 'paixão sem freio' captura a essência desse ritmo, denotando intensidade e descontrole."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa 'prólogo de uma vida de delícias' (L. 13-14) sugere um começo, uma introdução. Um prólogo indica o que *antecede* a história principal e o que ela promete, não o *ritmo* com que a história dos amores propriamente dita se desenvolve. O ritmo seria dos amores em si, não da sua introdução.",
+          "B": "A alternativa 'prazeres que rematavam em dor' (L. 14-15) descreve a *natureza* ou o *desfecho* dos amores (prazer seguido de dor). Embora traga uma nuance dramática, ela não se refere diretamente ao *ritmo* ou à cadência com que esses amores foram vivenciados ou narrados, mas sim à sua consequência.",
+          "C": "A alternativa 'hipocrisia paciente e sistemática' (L. 16) descreve uma atitude de falsidade calculada e metódica. Um ritmo 'paciente e sistemático' é o oposto de uma expressão de paixão descontrolada ou intensa, sugerindo lentidão, controle e artificialidade, o que não se alinha com a ideia de um ritmo de 'amores' em sua vivacidade.",
+          "D": "A alternativa 'paixão sem freio' (L. 17) é a correta. A expressão 'sem freio' denota falta de controle, intensidade avassaladora, impetuosidade e rapidez. Um 'ritmo' de 'paixão sem freio' no relato dos amores indica que eles foram vividos e narrados de forma intensa, impulsiva, sem barreiras ou moderação, o que se alinha perfeitamente com a ideia de um ritmo descontrolado e ardente. É a que melhor descreve a dinâmica e a intensidade dos sentimentos e eventos amorosos.",
+          "E": "A alternativa 'o livro daquele prólogo' (L. 21-22) é uma referência meta-narrativa, indicando a continuação de uma história iniciada no 'prólogo'. Assim como a alternativa A, ela se refere à *estrutura* da narrativa (o que vem depois do prólogo), e não ao *ritmo* ou à intensidade com que a história dos amores é contada ou vivida."
         },
-        "finalSummary": ""
+        "finalSummary": "O 'ritmo' narrativo de um relato de amores é melhor expresso pela intensidade e descontrole inerentes à 'paixão sem freio', que descreve a forma impetuosa como os sentimentos se manifestam e são contados."
       },
       "assets": {
         "questionImage": "/assets/questions/2017/q11/image.png"
