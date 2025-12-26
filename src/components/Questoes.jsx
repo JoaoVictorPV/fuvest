@@ -332,8 +332,6 @@ export function Questoes() {
             onChange={(e) => setSelectedYear(Number(e.target.value))}
             className="w-full bg-slate-50 border border-slate-200 rounded-lg px-3 py-1 text-sm font-bold focus:ring-2 focus:ring-crimson-500 outline-none cursor-pointer"
           >
-            <option value={2015}>Fuvest 2015</option>
-            <option value={2017}>Fuvest 2017</option>
             <option value={2019}>Fuvest 2019</option>
             <option value={2020}>Fuvest 2020</option>
             <option value={2022}>Fuvest 2022</option>
