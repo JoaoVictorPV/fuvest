@@ -91,7 +91,7 @@ def _is_garbled_text(text: str) -> bool:
 
 
 def _normalize_spaces(s: str) -> str:
-    s = (s or "").replace("\u00a0", " ")
+    s = (s or "").replace("\u00a0", " ").replace("¬", " ")
     s = re.sub(r"\s+", " ", s)
     return s.strip()
 
@@ -790,8 +790,12 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
 
     options = [{"key": k, "text": options_by_key.get(k, "")} for k in ["A", "B", "C", "D", "E"]]
 
-    # limpeza simples de espaços estranhos (NBSP etc)
-    stem = re.sub(r"\s+", " ", stem.replace("\u00a0", " ")).strip()
+    # limpeza simples de espaços estranhos (NBSP etc) e artefatos de numeração {XX}
+    stem = re.sub(r"\s+", " ", stem.replace("\u00a0", " ").replace("¬", " ")).strip()
+    
+    # Remove numeração no início do enunciado (ex: "{22} Texto...")
+    stem = re.sub(r"^\{?\d+\}?\s*", "", stem)
+
     for opt in options:
         opt["text"] = _sanitize_option_text(opt.get("text", ""))
 

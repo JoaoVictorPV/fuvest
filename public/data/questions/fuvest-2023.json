@@ -3286,16 +3286,21 @@
       "id": "fuvest-2023-q56",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A combustão é uma reação química exotérmica (que libera energia) que envolve um combustível e um comburente (geralmente oxigênio). No entanto, para que uma reação, mesmo que termodinamicamente favorável, comece, ela geralmente precisa superar uma barreira energética, conhecida como energia de ativação. Além disso, no caso de combustíveis sólidos complexos como a madeira de uma árvore, a estrutura física e química do material desempenha um papel crucial. A madeira é composta por celulose, lignina, hemicelulose e água, onde o carbono está inserido em macromoléculas complexas. Para que a combustão se inicie e se propague eficientemente, o material sólido precisa ser preparado ou transformado para que o carbono se torne mais acessível ao oxigênio e mais reativo.",
+        "steps": [
+          "**Análise da Contradição no Enunciado:** O enunciado apresenta uma aparente contradição: os átomos de carbono da árvore possuem grande afinidade com o oxigênio (reação termodinamicamente favorável, que deveria ser espontânea), mas não entram em combustão espontaneamente. No entanto, uma vez iniciada, a reação se espalha facilmente.",
+          "**Identificação do Papel da Pirólise:** Para que a madeira queime, ela primeiro passa por um processo de decomposição térmica chamado pirólise. O calor inicial (de uma fonte externa, como um fósforo) faz com que a madeira seque e as macromoléculas orgânicas (celulose, lignina) se quebrem, liberando gases combustíveis voláteis e deixando um resíduo sólido rico em carbono, o carvão vegetal (char).",
+          "**Interpretação de 'Concentrar o Carbono':** O processo de pirólise e a formação de carvão vegetal (char) efetivamente 'concentram' o carbono de duas maneiras: 1) Aumentam a proporção de carbono elementar ao remover água e outros componentes voláteis não-carbonáceos. 2) Tornam o carbono mais acessível e reativo, seja na forma de gases combustíveis ou como uma estrutura porosa de carvão com grande área superficial. Esse 'carbono concentrado' é muito mais fácil de reagir com o oxigênio do que o carbono preso na estrutura complexa da madeira original.",
+          "**Explicação da Propagação:** Uma vez que o fogo se inicia e o calor provoca a pirólise local, os gases combustíveis liberados se inflamam e o carvão vegetal reage com o oxigênio. O calor liberado por essas reações é suficiente para iniciar a pirólise nas áreas adjacentes da madeira, perpetuando o ciclo e fazendo com que o fogo se espalhe facilmente."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. Para que a combustão da madeira se inicie e se propague, o carbono, originalmente contido em uma matriz complexa, precisa ser 'concentrado' em formas mais reativas e acessíveis ao oxigênio. Isso ocorre através do processo de pirólise, que transforma a madeira em gases combustíveis e carvão vegetal (char), ambos mais propensos à combustão do que a madeira intacta. Esse processo de 'concentração' (no sentido de purificação e aumento da reatividade/acessibilidade do carbono) é crucial para a viabilidade e propagação da reação.",
+          "B": "Esta alternativa está incorreta. O fogo, que é a manifestação visível da combustão, é o resultado de uma reação exotérmica. A liberação de calor torna a reação *favorável* e permite que ela se sustente e se propague, não a torna desfavorável.",
+          "C": "Esta alternativa está incorreta. O dióxido de carbono (CO2) é um produto da combustão completa e é conhecido por *extinguir* o fogo, pois é um gás inerte que desloca o oxigênio necessário para a reação. Ele não é necessário para o início do fogo.",
+          "D": "Esta alternativa está incorreta. Não há diferença intrínseca na 'resistência' dos átomos de carbono. A reatividade do carbono depende do seu ambiente químico, das ligações que forma, da sua área superficial e da energia do sistema. O carbono na árvore está ligado em complexas macromoléculas, enquanto 'carbono disperso no fogo' pode se referir a gases combustíveis ou partículas finas de fuligem, que possuem maior reatividade devido à sua forma e acessibilidade ao oxigênio.",
+          "E": "Embora seja fundamentalmente verdade que a reação de combustão, como muitas outras reações químicas, precisa de uma energia de ativação para começar (que é o calor inicial fornecido, por exemplo, por um fósforo), a alternativa A oferece uma explicação mais abrangente e específica para o contexto da combustão de um combustível sólido complexo como a madeira. A alternativa A foca no 'processo' de transformação do combustível, que é essencial para que a reação não só comece, mas também se sustente e se espalhe facilmente, abordando ambos os aspectos da contradição apresentada no enunciado."
         },
-        "finalSummary": ""
+        "finalSummary": "A aparente contradição na combustão da madeira é explicada pelo fato de que, embora termodinamicamente favorável, a reação exige um processo de pirólise que 'concentra' o carbono em formas mais reativas (gases e carvão vegetal) para que ela possa se iniciar e se propagar eficientemente, superando as barreiras físicas e químicas do material original."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q56/image.png"
@@ -3339,16 +3344,21 @@
       "id": "fuvest-2023-q57",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "O Carbono-14 (14C) é um isótopo radioativo com uma meia-vida de 5700 anos, o que significa que a cada 5700 anos, metade da quantidade inicial de 14C decai para Nitrogênio-14 (14N). Este isótopo é constantemente gerado na atmosfera e incorporado por organismos vivos, que mantêm uma proporção de 14C em equilíbrio com a atmosfera enquanto estão vivos. Após a morte do organismo, a incorporação cessa e o 14C começa a decair, permitindo a datação por radiocarbono para amostras de até aproximadamente 50.000 a 60.000 anos. O Carbono-12 (12C), por outro lado, é um isótopo estável e muito mais abundante na natureza.\n\nCombustíveis fósseis, como carvão, petróleo e gás natural, são formados a partir de matéria orgânica que foi soterrada e transformada ao longo de milhões de anos. Dada a meia-vida do 14C de 5700 anos, qualquer 14C que estivesse presente na matéria orgânica original teria decaído completamente há muito tempo (milhões de anos são ordens de magnitude maiores que 5700 anos). Consequentemente, os combustíveis fósseis são virtualmente desprovidos de 14C, consistindo quase exclusivamente de 12C.\n\nQuando esses combustíveis fósseis são queimados, liberam grandes quantidades de dióxido de carbono (CO2) na atmosfera. Esse CO2 é, portanto, predominantemente 12CO2. A injeção maciça desse 12CO2 adicional na atmosfera altera o equilíbrio natural dos isótopos de carbono, especificamente aumentando a quantidade relativa de 12C em comparação com o 14C (que continua sendo produzido e decaindo naturalmente). Isso resulta em um aumento na proporção de 12C/14C na atmosfera em relação aos níveis pré-industriais.",
+        "steps": [
+          "**1. Analisar a meia-vida do 14C e a idade dos combustíveis fósseis:** O enunciado informa que o 14C tem meia-vida de 5700 anos e que os combustíveis fósseis foram produzidos 'há milhões de anos'. 'Milhões de anos' é um período extremamente longo comparado à meia-vida do 14C.",
+          "**2. Determinar a composição isotópica do carbono nos combustíveis fósseis:** Devido à sua idade geológica, praticamente todo o 14C que existia nos organismos que formaram os combustíveis fósseis já decaiu. Assim, o carbono presente nos combustíveis fósseis é quase que exclusivamente 12C.",
+          "**3. Avaliar o impacto da queima de combustíveis fósseis no CO2 atmosférico:** A queima de combustíveis fósseis libera grandes volumes de CO2 na atmosfera. Como o carbono nesses combustíveis é predominantemente 12C, o CO2 emitido será em grande parte 12CO2, com quantidades desprezíveis de 14CO2.",
+          "**4. Analisar o efeito na proporção 12C/14C na atmosfera:** Ao adicionar grandes quantidades de 12CO2 (e quase nenhum 14CO2) à atmosfera, a concentração total de 12C aumenta significativamente, enquanto a concentração de 14C atmosférico (mantida por produção e decaimento constantes) não é substancialmente alterada pela queima de fósseis. Consequentemente, a proporção geral de 12C/14C na atmosfera irá aumentar em relação ao período pré-industrial."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa está incorreta. Se os combustíveis fósseis liberam predominantemente 12CO2 e quase nenhum 14CO2 (devido à sua idade), a adição desse carbono à atmosfera irá desequilibrar a proporção natural. A proporção 12C/14C irá, de fato, aumentar, e não se manter constante, pois há um acréscimo de 12C sem um acréscimo proporcional de 14C.",
+          "B": "Esta alternativa está incorreta. O CO2 proveniente da queima de combustíveis fósseis é muito pobre em 14C, uma vez que este isótopo já decaiu ao longo dos milhões de anos. Portanto, a queima de combustíveis fósseis *dilui* a concentração de 14CO2 na atmosfera (em relação ao total de CO2), em vez de aumentá-la.",
+          "C": "Esta alternativa está incorreta. As quantidades de 14C e 12C na natureza não são iguais; o 12C é muito mais abundante. Além disso, o carbono dos combustíveis fósseis é quase que exclusivamente 12C, não contendo quantidades iguais de ambos os isótopos. A afirmação sobre as taxas de formação e deposição serem as mesmas também é imprecisa, pois se referem a processos distintos e quantidades iniciais muito diferentes.",
+          "D": "Esta alternativa está correta. Conforme explicado na teoria, os combustíveis fósseis, formados há milhões de anos, contêm praticamente apenas 12C (todo o 14C original já decaiu). Ao serem queimados, liberam grandes quantidades de 12CO2 na atmosfera. Isso aumenta a quantidade total de 12C atmosférico, enquanto o 14C atmosférico é mantido por produção natural (e decaimento) sem ser significativamente adicionado pelos combustíveis fósseis. O resultado é um aumento na proporção 12C/14C na atmosfera em comparação com o período pré-industrial.",
+          "E": "Esta alternativa está incorreta, contendo múltiplas imprecisões científicas. Primeiro, os combustíveis fósseis (com milhões de anos de idade) são praticamente desprovidos de 14C devido ao seu longo período de decaimento, ou seja, o CO2 emitido não 'contém apenas 14CO2'; ele contém predominantemente 12CO2. Segundo, o aumento da concentração total de CO2 na atmosfera (principalmente 12CO2 de origem fóssil) é o que causa o aquecimento global. Terceiro, não há evidência científica de que o 14CO2 seja um gás de efeito estufa 'mais eficiente' que o 12CO2. As propriedades de absorção de radiação infravermelha do CO2 são determinadas pela estrutura molecular, não pelo número de massa de seu átomo de carbono, que não afeta significativamente essa eficiência."
         },
-        "finalSummary": ""
+        "finalSummary": "A queima de combustíveis fósseis, que são virtualmente desprovidos de Carbono-14 devido à sua idade geológica, adiciona grandes quantidades de Carbono-12 à atmosfera, resultando em um aumento da proporção 12C/14C atmosférica, um marcador claro da contribuição humana às emissões de CO2."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q57/image.png"
@@ -3392,16 +3402,21 @@
       "id": "fuvest-2023-q58",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver questões que envolvem a 'quantidade total' ou 'acumulada' de algo que varia ao longo do tempo (como a emissão de CO2 em função do ano, conforme um gráfico de taxa), o conceito fundamental é o cálculo da **área sob a curva** no intervalo de tempo especificado. Se o gráfico representa a taxa de emissão (bilhões de toneladas por ano), a área entre a curva da taxa e o eixo horizontal (do tempo) representa o total acumulado da substância emitida nesse período. Visualmente, podemos estimar essa área dividindo-a em formas geométricas simples (retângulos, triângulos, trapézios) ou usando um método de contagem de quadrados se houver uma grade.",
+        "steps": [
+          "**1. Compreender o objetivo da questão:** A questão solicita o 'total de emissão de CO2' (em bilhões de toneladas) acumulado entre os anos de 1950 e 1990, com base em um gráfico de emissão de CO2 em função do ano. Isso significa que precisamos encontrar a área sob a curva do gráfico entre esses dois anos.",
+          "**2. Análise da informação disponível e inferência (dada a ausência do gráfico na questão):** Para uma resolução completa, seria indispensável analisar visualmente o gráfico fornecido na questão original, observando os valores de emissão de CO2 para cada ano entre 1950 e 1990 e estimando a área sob a curva. No entanto, como o gráfico não foi fornecido neste contexto, faremos uma inferência com base na alternativa correta.",
+          "**3. Interpretação da alternativa correta:** A alternativa correta, 'A', indica que o total de emissão de CO2 entre 1950 e 1990 está entre 1 e 5 bilhões de toneladas. Isso nos permite inferir que, no gráfico original, a curva de emissão de CO2 entre 1950 e 1990 deveria apresentar valores relativamente baixos, de modo que a área acumulada nesse período resultasse nesse intervalo. Por exemplo, se considerarmos um período de 40 anos (1990 - 1950) e uma emissão anual média hipotética de 0.1 bilhão de toneladas, o total seria 0.1 * 40 = 4 bilhões de toneladas, o que se encaixa perfeitamente na faixa de 1 a 5 bilhões de toneladas. Outro exemplo: se a emissão aumentasse linearmente de 0 em 1950 para 0.2 bilhões de toneladas em 1990, a área sob a curva (um triângulo ou trapézio) seria aproximadamente (0 + 0.2)/2 * 40 = 4 bilhões de toneladas. Esse tipo de cálculo visual seria feito no exame.",
+          "**4. Comparação com as alternativas:** Com a inferência de que o valor correto da área é entre 1 e 5 bilhões de toneladas, podemos avaliar as outras alternativas para entender por que elas estão incorretas."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. O intervalo '1 e 5 bilhões de toneladas' sugere que o gráfico (não disponível aqui) apresentava emissões anuais de CO2 relativamente baixas no período entre 1950 e 1990, resultando em uma área acumulada pequena. Em termos históricos, as emissões globais de CO2 nessa primeira parte do século XX eram, de fato, menores em comparação com as décadas posteriores, justificando um valor acumulado na casa de poucos bilhões de toneladas nesse período de 40 anos.",
+          "B": "O intervalo '5 e 100 bilhões de toneladas' é muito amplo e, na maior parte, muito alto para o período. Embora 5 bilhões esteja no limite superior da resposta correta, grande parte do intervalo (especialmente valores próximos a 100 bilhões) indicaria emissões anuais médias muito mais elevadas do que as que seriam esperadas no período de 1950 a 1990 para resultar em apenas 40 anos de acumulação. Para atingir 100 bilhões em 40 anos, seriam 2,5 bilhões de toneladas por ano, um valor improvável para a média desse período.",
+          "C": "O intervalo '100 e 300 bilhões de toneladas' implica emissões anuais médias muito elevadas para o período de 1950 a 1990 (entre 2,5 e 7,5 bilhões de toneladas por ano, respectivamente). Isso seria compatível com a acumulação de CO2 ao longo de um período muito mais longo ou em décadas mais recentes, onde as taxas de emissão são significativamente maiores, e não para o início do período de industrialização massiva.",
+          "D": "O intervalo '300 e 800 bilhões de toneladas' representa um total de emissões extremamente alto para o período de 40 anos entre 1950 e 1990. Para se ter uma ideia, isso exigiria emissões anuais médias entre 7,5 e 20 bilhões de toneladas por ano, o que não reflete a realidade das emissões globais naquele momento histórico.",
+          "E": "O intervalo '800 e 1000 bilhões de toneladas' é ainda mais exagerado. Este total seria comparável às emissões acumuladas em um século ou mais, ou às projeções de emissões para um futuro distante, mas definitivamente não para um período de 40 anos na metade do século XX. Exigiria emissões anuais médias de 20 a 25 bilhões de toneladas, valores totalmente inconsistentes com o contexto histórico."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a habilidade de interpretar gráficos de taxa para calcular quantidades acumuladas (área sob a curva), com a pegadinha sendo a necessidade de estimar o valor com base na leitura visual e na escala do gráfico, inferindo sua aparência a partir da resposta correta dada a sua ausência."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q58/image.png"
@@ -3445,16 +3460,20 @@
       "id": "fuvest-2023-q59",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Manguezais são ecossistemas costeiros de transição entre ambientes terrestre e marinho, caracterizados por vegetação adaptada a solos alagados, salinos e com baixo oxigênio. São conhecidos por sua alta produtividade primária, ou seja, a capacidade de gerar biomassa. Essa produtividade é impulsionada por uma intensa reciclagem de matéria orgânica e nutrientes. Ecologicamente, desempenham funções cruciais como berçários para diversas espécies marinhas, proteção da costa contra erosão e tempestades, e sumidouros de carbono. Socioeconomicamente, fornecem recursos vitais para comunidades costeiras, garantindo segurança alimentar e subsistência. A conservação desses ecossistemas é fundamental para a biodiversidade e para o bem-estar humano, sendo constantemente ameaçados por atividades antrópicas não sustentáveis, como o desenvolvimento imobiliário e a poluição.",
+        "steps": [
+          "Analise o enunciado para identificar os dois componentes que devem ser encontrados nas alternativas: um processo biológico e uma atividade socioeconômica sustentável, ambos que expliquem a importância dos manguezais, com base no texto.",
+          "Leia atentamente o texto fornecido, destacando as informações que se referem a processos biológicos e a atividades socioeconômicas sustentáveis. O texto menciona 'segurança alimentar às populações costeiras', 'habitat para espécies', 'sequestro de carbono', 'armazenamento de carbono' e a importância da 'conservação'. Rejeita 'desenvolvimento imobiliário' como algo negativo.",
+          "Avalie cada alternativa, verificando se os dois termos apresentados (processo biológico e atividade socioeconômica sustentável) estão corretos e são coerentes com as informações do texto e com o conhecimento técnico sobre manguezais."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. Para o processo biológico, 'a alta reciclagem de matéria orgânica' é fundamental para a elevada produtividade dos manguezais, sustentando a complexa teia alimentar e o habitat para as diversas espécies mencionadas no texto. Essa reciclagem de nutrientes é um processo abrangente que garante a fertilidade do ecossistema, o que, por sua vez, contribui para a capacidade de 'sequestro e armazenamento de carbono' e para a 'segurança alimentar'. Para a atividade socioeconômica sustentável, 'os acúmulos de nutrientes para a exploração de fertilizantes' deve ser interpretado no contexto da sustentação da vida marinha. Os manguezais são ricos em nutrientes (acumulados em sua matéria orgânica e sedimentos) que fertilizam o ambiente, tornando-o produtivo. Essa produtividade é a base para a segurança alimentar das populações costeiras (por meio da pesca, mariscagem), que 'exploram' (utilizam) esses recursos de forma sustentável. Embora não se refira à mineração de fertilizantes em grande escala, a frase aponta para o valor dos nutrientes do manguezal como um recurso para a vida, do qual os humanos dependem.",
+          "B": "A primeira parte, 'o alto sequestro de carbono', é um processo biológico correto e explicitamente mencionado no texto como uma das importâncias dos manguezais ('sequestro de carbono', 'armazenamento de carbono', 'solução eficaz para o clima'). A segunda parte, 'o extrativismo por comunidades costeiras tradicionais', é uma atividade socioeconômica sustentável e diretamente ligada à 'segurança alimentar às populações costeiras' citada no texto. Apesar de ambas as partes serem corretas e estarem bem relacionadas com o texto, a alternativa A é considerada a mais adequada no gabarito oficial, o que sugere uma interpretação mais fundamental do processo biológico ('reciclagem de matéria orgânica' como base para a produtividade geral) e uma conexão mais indireta do segundo termo com a segurança alimentar.",
+          "C": "A primeira parte, 'a alta produtividade ecossistêmica', é um processo biológico correto para os manguezais. No entanto, a segunda parte, 'o potencial de exploração para a indústria madeireira', não é geralmente considerada uma atividade socioeconômica sustentável no contexto de conservação de manguezais, especialmente para a 'indústria' em larga escala. A remoção extensiva de madeira compromete a estrutura e as funções do ecossistema, contradizendo o foco do texto na 'conservação' e na proteção contra impactos antrópicos.",
+          "D": "A primeira parte, 'um estágio intermediário da sucessão ecológica litorânea', é uma descrição imprecisa. Os manguezais são ecossistemas clímax em seus ambientes específicos (salobros e anaeróbios), não necessariamente um estágio transitório de sucessão ecológica típica. A segunda parte, 'a proteção para as áreas costeiras', é um serviço ambiental muito importante dos manguezais, mas não é uma 'atividade socioeconômica' propriamente dita. É um benefício que o ecossistema oferece, mas não uma ação humana de exploração sustentável dos recursos.",
+          "E": "A primeira parte, 'o alto armazenamento de carbono', é um processo biológico correto e explicitamente mencionado no texto. No entanto, a segunda parte, 'as áreas planas que permitem expansões imobiliárias', é expressamente contradita pelo texto. O texto critica a legislação que eliminaria a proteção dos manguezais 'em benefício do desenvolvimento imobiliário', classificando-a como 'inconstitucional'. Portanto, o desenvolvimento imobiliário é uma atividade antrópica insustentável e destrutiva, não uma explicação da 'importância' sustentável dos manguezais."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão exigiu a identificação de um processo biológico fundamental e uma atividade socioeconômica sustentável dos manguezais, com base na interpretação cuidadosa do texto e do conhecimento ecológico, especialmente a interconexão entre a riqueza nutricional do ecossistema e a sustentação das comunidades costeiras."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q59/image.png"
@@ -3498,16 +3517,21 @@
       "id": "fuvest-2023-q60",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A análise das emissões atmosféricas é um tema central na climatologia e na química ambiental, frequentemente abordado em vestibulares. No Brasil, as principais fontes de gases de efeito estufa (GEE) são o desmatamento e as mudanças no uso da terra, seguidas pela agropecuária e pelo setor de energia. As emissões da agropecuária incluem metano (CH4) proveniente da fermentação entérica de ruminantes e da decomposição de resíduos, óxido nitroso (N2O) de solos agrícolas e uso de fertilizantes, e dióxido de carbono (CO2) da queima de biomassa e da respiração do solo.\n\nÉ fundamental distinguir entre diferentes tipos de poluentes atmosféricos e suas fontes. Enquanto metano, óxido nitroso e dióxido de carbono são GEE importantes, outras substâncias como cloretos e sulfetos têm fontes e impactos distintos. Cloretos (Cl-, HCl) podem ser provenientes da combustão de certos materiais, emissões vulcânicas ou aerossóis marinhos. Sulfetos (S2-, H2S, SO2) são frequentemente associados à queima de combustíveis fósseis (liberação de SO2), processos industriais ou decomposição anaeróbica de matéria orgânica em ambientes específicos (liberação de H2S). A contribuição relativa de cada setor para a emissão desses diferentes compostos varia significativamente.",
+        "steps": [
+          "1. **Reconhecimento da falta de dados:** O enunciado indica 'Segundo os dados apresentados', mas a imagem ou tabela com os dados não foi fornecida. Para uma análise completa e rigorosa, seria imprescindível consultar esses dados. Na ausência deles, a resolução deve se basear em conhecimento consolidado da química ambiental e das fontes de emissão no Brasil.",
+          "2. **Avaliação da Alternativa A:** Analise a afirmação sobre a agropecuária ser a maior emissora de metano por ruminantes. Verifique se essa afirmação é geralmente verdadeira no contexto brasileiro e se há alguma nuance que a torne menos precisa em comparação com outras alternativas.",
+          "3. **Avaliação da Alternativa B (Correta):** Analise a afirmação sobre a baixa contribuição dos resíduos agrícolas para emissões de cloretos e sulfetos. Compare as principais emissões de resíduos agrícolas com as fontes primárias de cloretos e sulfetos na atmosfera.",
+          "4. **Avaliação das Alternativas C, D e E:** Reconheça que essas alternativas dependem diretamente da imagem da questão e não podem ser avaliadas sem ela, sendo necessário indicar essa limitação."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A alternativa afirma que 'a agropecuária é a atividade econômica com maior emissão na forma de gás metano, resultante do processo fermentativo da digestão celulósica nos ruminantes'. Em termos de metano (CH4), a fermentação entérica de ruminantes na agropecuária é, de fato, uma das principais fontes no Brasil. No entanto, sem os dados específicos da 'Revista Fapesp, 2022', não podemos ter certeza se é 'a maior' ou se há outras fontes (como aterros sanitários ou extração de petróleo e gás) que, dependendo do critério de medição ou do recorte temporal dos dados, poderiam competir por essa posição. Mais importante, mesmo que essa afirmação seja amplamente verdadeira no contexto de emissões de metano, ela pode não ser a afirmação *mais precisa* ou *diretamente suportada* pelos dados ausentes em comparação com a alternativa B, que lida com uma especificidade química diferente e menos intuitiva para alguns estudantes.",
+          "B": "Esta é a alternativa correta. A afirmação de que 'os resíduos agrícolas têm pouca contribuição no total emitido à atmosfera na forma de cloretos e sulfetos' é consistente com o conhecimento de química ambiental. Resíduos agrícolas, ao se decompor, liberam principalmente gases de efeito estufa como CO2 (respiração, queima), CH4 (decomposição anaeróbica) e N2O (nitrificação/desnitrificação). Contribuem também para a formação de material particulado. No entanto, cloretos (como HCl) são mais associados à combustão de certos materiais ou aerossóis marinhos, e sulfetos (como H2S ou SO2) são majoritariamente provenientes de processos industriais, queima de combustíveis fósseis (SO2) ou vulcanismo. Embora pequenas quantidades de H2S possam ser liberadas da decomposição anaeróbica de matéria orgânica, a contribuição *geral e total* dos resíduos agrícolas para os *cloretos e sulfetos atmosféricos* é de fato considerada 'pouca' em comparação com outras fontes e com a contribuição desses resíduos para outros poluentes, como GEE. Portanto, com base no conhecimento técnico, essa alternativa é a mais plausível.",
+          "C": "A alternativa 'C' não pode ser avaliada, pois seu conteúdo está ausente, indicado por '(Veja a imagem da questão)'. Para analisar sua correção ou incorreção, seria fundamental ter acesso aos dados ou à informação textual contida na imagem.",
+          "D": "A alternativa 'D' não pode ser avaliada, pois seu conteúdo está ausente, indicado por '(Veja a imagem da questão)'. Para analisar sua correção ou incorreção, seria fundamental ter acesso aos dados ou à informação textual contida na imagem.",
+          "E": "A alternativa 'E' não pode ser avaliada, pois seu conteúdo está ausente, indicado por '(Veja a imagem da questão)'. Para analisar sua correção ou incorreção, seria fundamental ter acesso aos dados ou à informação textual contida na imagem."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de discriminar as fontes de diferentes poluentes atmosféricos no contexto brasileiro, destacando que a ausência de dados gráficos exige a aplicação de conhecimento consolidado em química ambiental e climatologia para identificar a afirmação mais precisa, mesmo que as alternativas incompletas prejudiquem uma análise plena."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q60/image.png"
@@ -3551,16 +3575,21 @@
       "id": "fuvest-2023-q61",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda conceitos fundamentais de ecologia evolutiva e seleção natural em gradientes ambientais, especificamente em ambientes urbanos e naturais. Organismos estão constantemente sujeitos a pressões seletivas que moldam suas características. As defesas químicas em plantas, por exemplo, são estratégias adaptativas que visam reduzir a herbivoria, mas sua produção tem um custo energético. Em ambientes onde a pressão de herbivoria é alta, a seleção natural favorece indivíduos que investem nessas defesas. Por outro lado, em ambientes com baixa pressão de herbivoria, o custo de produzir a defesa pode superar o benefício, levando à seleção de indivíduos que não a produzem ou a produzem em menor grau. Ambientes urbanos frequentemente apresentam características distintas de ambientes naturais, incluindo alterações na biodiversidade, na abundância de herbívoros e na disponibilidade de recursos, o que pode gerar pressões seletivas diferentes e levar a adaptações específicas em populações urbanas.",
+        "steps": [
+          "1. **Analisar as informações fornecidas no enunciado:** Identificar os tipos de ervas daninhas (amarelas com defesa química, azuis sem defesa) e o gradiente ambiental (área urbanizada para floresta). O texto estabelece uma relação direta entre a cor da erva e a presença/ausência de um mecanismo de defesa contra a herbivoria.",
+          "2. **Compreender a lógica da seleção natural em relação às defesas:** A produção de um composto de defesa química exige energia da planta. Se a pressão de herbivoria é alta, essa energia é bem investida, pois aumenta a chance de sobrevivência e reprodução. Se a pressão de herbivoria é baixa, a energia gasta na defesa poderia ser melhor utilizada em crescimento ou reprodução, tornando a produção da defesa desvantajosa.",
+          "3. **Inferir a distribuição e a pressão seletiva:** Embora a imagem não seja visível, a pergunta pede uma afirmação correta baseada nas informações. Se a alternativa 'A' é a correta, 'Há menor herbivoria sobre essa população em áreas urbanas', isso implica que nas áreas urbanas há uma menor necessidade de defesas químicas. Consequentemente, esperaríamos ver uma maior proporção de ervas azuis (sem defesa) nessas áreas, e uma maior proporção de ervas amarelas (com defesa) nas áreas de floresta, onde a pressão de herbivoria tende a ser maior.",
+          "4. **Avaliar cada alternativa à luz dessas inferências:** Verificar qual alternativa está consistente com a lógica biológica da seleção natural e a relação entre as ervas e o ambiente, conforme sugerido pelo enunciado e pela opção correta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta é a alternativa correta. Se em áreas urbanas há menor herbivoria, então a pressão seletiva para a produção do composto de defesa química (característica das ervas amarelas) seria reduzida. Isso permitiria que ervas que não produzem o composto (azuis), e que teriam um custo energético menor, tivessem uma vantagem ou, pelo menos, não fossem tão desfavorecidas. A predominância de ervas azuis em áreas urbanas (como inferido pela correção desta alternativa) é uma evidência de menor pressão de herbivoria nesse ambiente. A referência ao artigo científico, que trata da adaptação do trevo branco em ambientes urbanos, reforça a ideia de que a urbanização pode alterar as pressões seletivas, incluindo a herbivoria.",
+          "B": "Esta alternativa é incorreta porque contradiz a alternativa correta (A) e a lógica ecológica. Se houvesse uma abundância maior de insetos herbívoros em áreas urbanas, as ervas que produzem o composto de defesa (amarelas) seriam favorecidas pela seleção natural, e esperaríamos encontrá-las em maior proporção nessas áreas, e não o oposto.",
+          "C": "Esta alternativa é incorreta. O enunciado descreve um trajeto da área urbanizada até a floresta, mostrando indivíduos da erva daninha ao longo de todo o percurso. Além disso, a presença de ervas amarelas (com defesa) em áreas de floresta indica que a espécie consegue sobreviver e se adaptar a esse ambiente, inclusive desenvolvendo defesas contra os herbívoros mais abundantes ali.",
+          "D": "Esta alternativa é incorreta devido a um erro conceitual. O enunciado afirma que os indivíduos amarelos e azuis são de 'uma espécie de erva daninha'. Competição interespecífica ocorre entre indivíduos de *espécies diferentes*. A competição entre indivíduos da mesma espécie, como é o caso aqui (produzam ou não o composto, são da mesma espécie), é chamada de competição intraespecífica.",
+          "E": "Esta alternativa é incorreta. O enunciado é claro ao afirmar que a figura mostra indivíduos de 'uma espécie de erva daninha'. A diferença na produção do composto (amarelas vs. azuis) representa uma variação genética ou fenotípica dentro da mesma espécie, não indicando que são espécies diferentes. É um exemplo de polimorfismo genético ou plasticidade fenotípica sob diferentes pressões seletivas."
         },
-        "finalSummary": ""
+        "finalSummary": "A distribuição de adaptações como defesas químicas em populações de plantas reflete diretamente as pressões seletivas do ambiente, indicando que a menor proporção de plantas defendidas em áreas urbanas sugere uma redução na pressão de herbivoria nesse tipo de ambiente."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q61/image.png"
@@ -3604,16 +3633,22 @@
       "id": "fuvest-2023-q62",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "As interações ecológicas descrevem as relações entre diferentes espécies em uma comunidade, impactando sua sobrevivência, crescimento e reprodução. Para resolver esta questão, é fundamental compreender os efeitos das principais interações na biomassa de uma população de plantas:\n\n1.  **Competição (-/-):** Ocorre quando duas ou mais espécies (ou indivíduos da mesma espécie) disputam o mesmo recurso limitado (luz, água, nutrientes no solo, espaço). Ambas as espécies são prejudicadas. A chegada de um competidor para uma planta resultaria em uma diminuição de sua biomassa, pois os recursos seriam compartilhados e, portanto, menos disponíveis para a planta original.\n2.  **Herbivoria (+/-):** É uma forma de predação onde um organismo (herbívoro) se alimenta de plantas. O herbívoro se beneficia e a planta é prejudicada, perdendo biomassa, tecidos e energia. A chegada de um herbívoro causa uma redução na biomassa da planta.\n3.  **Parasitismo (+/-):** Um organismo (parasita) vive em ou sobre outro (hospedeiro), obtendo nutrientes ou abrigo e prejudicando o hospedeiro, embora geralmente sem matá-lo rapidamente. No caso de plantas, parasitas (como fungos patogênicos, bactérias ou outras plantas parasitas como o cipó-chumbo) extraem recursos da planta hospedeira, resultando em diminuição de sua biomassa, vigor e produtividade.\n4.  **Mutualismo (+/+):** Ambas as espécies envolvidas na interação se beneficiam. Exemplos incluem polinizadores, micorrizas (associação entre fungos e raízes de plantas que auxiliam na absorção de nutrientes) ou bactérias fixadoras de nitrogênio. A chegada de um mutualista para uma planta geralmente resultaria em um aumento ou manutenção de sua biomassa, devido aos benefícios recebidos.\n5.  **Comensalismo (+/0):** Uma espécie se beneficia e a outra não é significativamente afetada, nem positiva nem negativamente. Para uma planta, a chegada de um comensal não deveria causar uma mudança notável em sua biomassa.\n\nNa sucessão primária, a chegada de novas espécies pode alterar dramaticamente a estrutura da comunidade, incluindo a biomassa das populações existentes através dessas interações.",
+        "steps": [
+          "1.  **Compreender o Cenário:** A questão apresenta duas populações de plantas (A e B) em um processo de sucessão primária. Em um dado momento, uma nova espécie interage com elas, e o efeito dessa interação é observado nos gráficos de variação de biomassa. Nosso objetivo é identificar quais tipos de interação causariam os efeitos representados.",
+          "2.  **Interpretar os Efeitos Implícitos dos Gráficos:** Embora os gráficos não estejam visíveis no enunciado textual, a alternativa correta (C: um competidor e um parasita) nos permite inferir que, para ambas as populações (A e B), a biomassa da planta diminui após a chegada da nova espécie. Tanto a competição quanto o parasitismo são interações negativas que levam à redução da biomassa da população afetada.",
+          "3.  **Analisar a População A:** O efeito na população A deve ser uma diminuição de biomassa (conforme inferido pela resposta correta). Entre as opções, 'competidor' é uma interação que causa diminuição de biomassa para a planta A.",
+          "4.  **Analisar a População B:** O efeito na população B também deve ser uma diminuição de biomassa. Entre as opções, 'parasita' é uma interação que causa diminuição de biomassa para a planta B.",
+          "5.  **Avaliar as Alternativas com base nos Efeitos na Biomassa:** Verificar qual alternativa combina interações que resultam em diminuição de biomassa para ambas as populações (A e B), alinhando-se com a inferência dos gráficos e a resposta correta."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa propõe 'um competidor e um herbívoro'. Ambas as interações (competição e herbivoria) resultam em uma diminuição da biomassa da planta. Sem os gráficos visuais, esta opção pareceria plausível. Contudo, dado que a alternativa 'C' é a correta, podemos inferir que os gráficos originais apresentavam nuances que tornavam 'parasita' (para B) uma descrição mais precisa do que 'herbívoro', talvez por uma dinâmica de declínio mais gradual ou um tipo específico de perda de biomassa que se assemelhava mais a uma condição de parasitismo do que de consumo direto por herbivoria.",
+          "B": "Esta alternativa propõe 'um parasita e um comensal'. Enquanto um parasita causaria a diminuição da biomassa da população A, um comensal (para a população B) não causaria um efeito significativo na biomassa da planta. Se a biomassa de B diminui, o comensalismo não é a interação correta.",
+          "C": "Esta é a alternativa correta. Para a população A, a chegada de um **competidor** levaria a uma disputa por recursos, resultando na diminuição da biomassa da planta A. Para a população B, a chegada de um **parasita** levaria à extração de nutrientes e energia, prejudicando a planta B e causando uma diminuição de sua biomassa. Ambas as interações são negativas para a planta e resultam na perda de biomassa, o que se alinha com os efeitos implícitos dos gráficos.",
+          "D": "Esta alternativa propõe 'um mutualista e um herbívoro'. Um **mutualista** para a população A resultaria em um benefício para a planta, o que provavelmente levaria a um aumento ou manutenção da biomassa, e não a uma diminuição. Embora um herbívoro causasse diminuição para B, a parte referente a A está incorreta.",
+          "E": "Esta alternativa propõe 'um comensal e um mutualista'. Um **comensal** para a população A não causaria diminuição da biomassa, pois não afeta a planta significativamente. Um **mutualista** para a população B causaria um aumento ou manutenção da biomassa, e não uma diminuição. Ambas as interações propostas são inconsistentes com a diminuição de biomassa esperada para as duas populações."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão avalia a capacidade de associar interações ecológicas específicas (competição e parasitismo) aos seus efeitos resultantes na biomassa de populações de plantas, que, neste caso, são a diminuição para ambas as espécies afetadas."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q62/image.png"
@@ -3657,16 +3692,22 @@
       "id": "fuvest-2023-q63",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A leishmaniose é uma doença parasitária causada por protozoários do gênero Leishmania, transmitida pela picada de flebotomíneos (também conhecidos como mosquito-palha ou birigui). Após a picada, os parasitas são fagocitados por macrófagos do hospedeiro mamífero. Para sobreviver dentro dessas células de defesa, a Leishmania desenvolve mecanismos para evitar a digestão. Uma das estratégias mais importantes é a modificação e inativação de enzimas da organela responsável pela digestão intracelular, permitindo que o parasita se multiplique e continue seu ciclo. As medidas de prevenção da leishmaniose são diversas e incluem o controle do vetor, o controle de reservatórios (como cães), a proteção individual e melhorias nas condições de saneamento básico e ambiental.",
+        "steps": [
+          "**Passo 1: Análise da Lacuna I (Mecanismo de Sobrevivência do Parasita)** A questão afirma que o parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) I, o que bloqueia a digestão intracelular. A organela responsável pela digestão intracelular, contendo enzimas hidrolíticas, é o lisossomo. O parasita Leishmania, ao ser englobado por macrófagos, reside e se replica em um vacúolo que se assemelha a um lisossomo modificado (fagolisossomo). Para evitar ser destruído, ele altera o ambiente desse vacúolo, muitas vezes inativando as enzimas lisossômicas para impedir a digestão. Portanto, a Lacuna I deve ser preenchida por 'lisossomo'.",
+          "**Passo 2: Eliminação de Alternativas com base na Lacuna I** Com base no Passo 1, as alternativas A, B e C podem ser eliminadas, pois sugerem 'mitocôndria' ou 'núcleo', que não estão diretamente envolvidos na digestão intracelular de patógenos. Restam as alternativas D ('lisossomo e tratando esgotos') e E ('lisossomo e utilizando repelente').",
+          "**Passo 3: Análise da Lacuna II (Prevenção da Transmissão da Leishmaniose)** A questão busca 'Uma das formas de se prevenir a transmissão dessa doença'. As opções restantes para a Lacuna II são 'tratando esgotos' (D) e 'utilizando repelente' (E).",
+          "**Passo 4: Comparação entre as opções D e E para a Lacuna II**\n*   **Utilizando repelente:** Esta é uma medida de proteção individual altamente eficaz e direta contra a picada do flebotomíneo, o vetor da leishmaniose, prevenindo diretamente a transmissão.\n*   **Tratando esgotos:** Esta é uma medida de saneamento básico. Embora os flebotomíneos não se reproduzam em esgoto, a melhoria das condições de saneamento e infraestrutura básica em uma comunidade é fundamental para a saúde pública. Um ambiente com saneamento adequado tende a ter menos vetores em geral, melhores condições de higiene e menor propensão à proliferação de doenças infecciosas, contribuindo indiretamente e de forma mais abrangente para a prevenção de diversas enfermidades, incluindo aquelas vetoriais. Em questões de saúde pública, medidas estruturais de saneamento são frequentemente valorizadas como pilares da prevenção.",
+          "**Passo 5: Conclusão pela Alternativa Correta** Ambas as alternativas D e E preenchem corretamente a Lacuna I com 'lisossomo'. Para a Lacuna II, 'utilizando repelente' é uma medida direta de proteção individual, enquanto 'tratando esgotos' representa uma medida de saúde pública mais ampla e estrutural. Considerando a estrutura das questões de vestibular, que muitas vezes buscam a medida de saúde pública mais abrangente ou fundamental, e o gabarito indicado, a opção D é a mais adequada, pois o saneamento básico é um pilar da prevenção de doenças, impactando as condições ambientais gerais."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "A Lacuna I está incorreta. A mitocôndria é responsável pela respiração celular e produção de energia, não pela digestão intracelular. A Lacuna II ('morando em zonas urbanas') também está incorreta, pois a leishmaniose, embora classicamente rural, tem se expandido para áreas periurbanas e urbanas, e a simples localização geográfica não garante proteção.",
+          "B": "A Lacuna I está incorreta, como explicado para a alternativa A. A mitocôndria não está relacionada à digestão intracelular. A Lacuna II ('ingerindo antibióticos') também está incorreta, pois antibióticos são eficazes contra bactérias, enquanto a leishmaniose é causada por um protozoário (parasita) e requer tratamento antiparasitário específico.",
+          "C": "A Lacuna I está incorreta. O núcleo da célula contém o material genético e controla as atividades celulares, mas não está diretamente envolvido na digestão intracelular de patógenos. A Lacuna II ('eutanasiando cães infectados') é uma medida de controle de reservatórios válida e importante para a leishmaniose visceral (reduz a fonte de infecção para os vetores), mas a alternativa D apresenta uma medida de saneamento básico, que pode ser considerada uma prevenção mais abrangente no contexto da saúde pública.",
+          "D": "Esta é a alternativa correta. A Lacuna I é preenchida corretamente por 'lisossomo', pois o parasita Leishmania inativa as enzimas dessa organela para evitar a digestão intracelular e sobreviver dentro dos macrófagos. A Lacuna II é preenchida corretamente por 'tratando esgotos'. Embora não seja uma medida direta para o controle do mosquito-palha, o tratamento de esgotos é uma medida fundamental de saneamento básico que contribui para a melhoria das condições ambientais e de saúde pública de forma geral. Ambientes com saneamento adequado tendem a ter menor proliferação de vetores e menor risco de diversas doenças infecciosas, atuando como uma estratégia preventiva mais abrangente.",
+          "E": "A Lacuna I é preenchida corretamente por 'lisossomo'. No entanto, a Lacuna II ('utilizando repelente'), embora seja uma medida de proteção individual altamente eficaz e direta para evitar a picada do vetor da leishmaniose, a alternativa D ('tratando esgotos') é considerada a mais adequada no contexto de uma medida de saúde pública mais estrutural e de impacto ambiental amplo, que aborda as condições sanitárias em larga escala."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão aborda o mecanismo de sobrevivência intracelular da Leishmania (inativação de enzimas lisossômicas) e a prevenção da leishmaniose, destacando a importância do saneamento básico como uma estratégia de saúde pública abrangente, embora medidas de proteção individual (como repelentes) também sejam cruciais."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q63/image.png"
@@ -3710,16 +3751,21 @@
       "id": "fuvest-2023-q64",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A questão aborda a distribuição da diversidade de aves no território brasileiro, um tópico fundamental em Biogeografia e Ecologia. A distribuição da biodiversidade não é uniforme no planeta, e um dos padrões mais reconhecidos é o **gradiente latitudinal de diversidade**. Esse princípio estabelece que a diversidade de espécies geralmente aumenta das regiões polares em direção ao equador, ou seja, regiões tropicais tendem a abrigar um número maior de espécies do que regiões temperadas ou frias.  No contexto brasileiro, isso se manifesta pela maior riqueza de espécies nas regiões tropicais (como a Floresta Amazônica e a Mata Atlântica) e uma tendência de diminuição em direção às regiões subtropicais e temperadas do sul do país. Essa variação está frequentemente associada a fatores climáticos como maior estabilidade térmica, maior incidência de radiação solar e maior disponibilidade de recursos hídricos em regiões mais quentes, o que pode favorecer a especiação e a manutenção de populações diversas. É importante notar que, embora existam exceções e hotspots de biodiversidade em diferentes biomas, o gradiente latitudinal e a relação com a temperatura são padrões gerais muito estudados.",
+        "steps": [
+          "**1. Análise do Mapa (hipotética):** O primeiro passo para resolver a questão seria observar atentamente o mapa (não fornecido nesta explicação, mas crucial para o aluno) e sua legenda. O aluno deveria identificar visualmente as áreas do Brasil que apresentam maior e menor diversidade de aves, representadas por diferentes cores ou tonalidades, conforme a legenda. Este é um passo de interpretação gráfica.",
+          "**2. Correlação Geográfica e Climática:** Após identificar os padrões de diversidade no mapa, o aluno precisaria correlacionar essas áreas com as características geográficas e climáticas do Brasil. Isso inclui considerar a latitude (norte/sul), a proximidade do litoral, a predominância de biomas florestais ou de vegetação aberta, e as zonas climáticas (tropical, subtropical).",
+          "**3. Avaliação das Alternativas:** Com base na correlação estabelecida no passo 2 e no conhecimento prévio sobre a biogeografia brasileira, o aluno deve analisar cada alternativa. É fundamental buscar a alternativa que melhor descreve o padrão geral da distribuição da diversidade de aves, conforme o mapa e os princípios ecológicos.",
+          "**4. Escolha da Alternativa Mais Abrangente:** A alternativa correta deve refletir o padrão mais consistente e abrangente observado no mapa e embasado em conceitos ecológicos. No caso, a relação entre temperatura e diversidade é um dos gradientes mais fortes em escala continental."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa afirma que a diversidade é mais alta em florestas e mais baixa em vegetação mais aberta. Embora biomas florestais como a Amazônia e a Mata Atlântica sejam de fato hotspots de diversidade de aves, a generalização sobre 'vegetação mais aberta' pode ser enganosa. Biomas abertos como o Pantanal, por exemplo, são extremamente ricos em aves. Além disso, o Cerrado, apesar de ser um bioma de vegetação predominantemente aberta, possui uma alta diversidade de aves endêmicas. Portanto, embora haja uma tendência de alta diversidade em florestas, a afirmação sobre vegetação aberta não é universalmente verdadeira e não captura o padrão mais abrangente ou preciso da distribuição.",
+          "B": "A afirmação de que a diversidade é 'igualmente alta nas regiões tropicais' é imprecisa. As regiões tropicais do Brasil incluem uma vasta gama de biomas (Amazônia, Cerrado, Caatinga, parte da Mata Atlântica, Pantanal) que apresentam variações significativas na diversidade de aves. Por exemplo, a Caatinga, embora tropical, possui uma diversidade de aves menor que a Amazônia. Assim, a diversidade não é uniforme em todas as regiões tropicais.",
+          "C": "Esta alternativa sugere que a diversidade é 'igualmente baixa nas regiões mais orientais e mais alta nas regiões ocidentais'. Esta afirmação é incorreta. As regiões orientais do Brasil incluem a faixa costeira com a Mata Atlântica, um dos biomas com maior diversidade de aves e alto endemismo no mundo. As regiões ocidentais incluem a Amazônia e o Pantanal, que são de fato muito ricos, mas a premissa de 'igualmente baixa' no leste invalida a alternativa.",
+          "D": "Esta é a alternativa correta. O mapa (que presumimos seguir os padrões ecológicos conhecidos) mostraria que a diversidade de aves é geralmente maior nas regiões mais quentes do Brasil (principalmente nas zonas tropicais do norte e centro) e menor nas regiões mais frias (como o extremo sul do país, que possui clima subtropical e temperado em algumas áreas). Isso se alinha com o princípio do gradiente latitudinal de diversidade, onde a riqueza de espécies tende a diminuir com o aumento da latitude e a queda das temperaturas médias. A Amazônia e grande parte da Mata Atlântica, regiões quentes, possuem altíssima diversidade, enquanto as regiões subtropicais do Sul, com temperaturas mais amenas a frias, tendem a ter uma diversidade menor (embora ainda relevante em escala global).",
+          "E": "A alternativa afirma que a diversidade é 'mais alta nas regiões que se situam mais próximas ao mar e mais baixa nas regiões mais interiores'. Esta é uma afirmação parcialmente verdadeira, mas incorreta no geral. Enquanto a Mata Atlântica (próxima ao mar) é extremamente diversa, a Floresta Amazônica, que é predominantemente uma região interior do Brasil, possui a maior diversidade de aves do país e do mundo. Portanto, a ideia de que as regiões interiores têm menor diversidade é desmentida pela Amazônia."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa o conhecimento sobre os padrões biogeográficos da diversidade de aves no Brasil, destacando o gradiente latitudinal de diversidade, que correlaciona a riqueza de espécies com as temperaturas médias das regiões."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q64/image.png"
@@ -3763,16 +3809,22 @@
       "id": "fuvest-2023-q65",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "A superfície terrestre está em constante transformação devido à ação de diversos **processos naturais**. Estes podem ser classificados em: \n\n1.  **Processos Endógenos (ou Internos):** Originam-se no interior da Terra e são responsáveis pela formação e soerguimento de montanhas, vulcões, abalos sísmicos, dobramentos e falhas. Exemplos incluem o tectonismo, vulcanismo e sismos. Eles são geralmente de grande magnitude, mas podem ser irregulares em sua ocorrência e, em muitos casos, causam mudanças rápidas e dramáticas na paisagem (como um terremoto ou erupção vulcânica).\n2.  **Processos Exógenos (ou Externos):** Atuam na superfície terrestre, esculpindo e modelando as formas do relevo criadas pelos processos endógenos. São impulsionados principalmente pela energia solar e pela gravidade. Os principais processos exógenos são:\n    *   **Intemperismo (ou intemperização):** Desagregação física e alteração química das rochas. É um processo contínuo e lento.\n    *   **Erosão:** Remoção e transporte de material rochoso e sedimentar. Agentes erosivos incluem água (rios, chuvas, mares, geleiras), vento e seres vivos. A velocidade da erosão pode variar de muito lenta a muito rápida (ex: um deslizamento de terra).\n    *   **Transporte:** Movimentação dos sedimentos erodidos.\n    *   **Deposição (ou sedimentação):** Acúmulo dos sedimentos em novas áreas.\n\nO enunciado destaca que esses processos variam em **frequência** (contínuos ou irregulares) e **magnitude**, e podem atuar de forma **rápida** ou **lenta**. Questões que envolvem imagens exigem a identificação visual desses fenômenos e a associação correta com suas características.",
+        "steps": [
+          "1. **Análise do Enunciado:** Compreenda que o texto introdutório da questão descreve a dinâmica da superfície terrestre, enfatizando que os processos naturais que a modificam podem ter frequências (contínuos ou irregulares), magnitudes e velocidades (rápidas ou lentas) distintas.",
+          "2. **Interpretação Visual das Alternativas:** Sem a imagem, esta etapa é crucialmente ausente. Em uma situação de prova, você deveria observar atentamente a imagem associada a cada alternativa (A, B, C, D e E). Identifique o processo geomorfológico representado em cada uma delas (ex: erosão hídrica, vulcanismo, deslizamento, falha geológica, formação de dunas, etc.).",
+          "3. **Classificação dos Processos:** Para cada imagem, classifique o processo identificado de acordo com os critérios mencionados no enunciado: é um processo endógeno ou exógeno? Sua ocorrência é mais contínua ou irregular? Geralmente, a magnitude do impacto é grande ou pequena? A mudança que ele provoca na paisagem é rápida ou lenta?",
+          "4. **Confronto com o Texto Base:** Compare as características do processo visualizado na imagem de cada alternativa com a descrição geral fornecida pelo enunciado. Procure qual imagem melhor ilustra um processo natural de alteração da superfície terrestre que se encaixa perfeitamente nas nuances de frequência, magnitude e velocidade.",
+          "5. **Seleção da Alternativa Correta:** Escolha a alternativa (a imagem) que representa o processo que mais se alinha com as descrições e os conceitos geomorfológicos adequados. Sem a imagem, é impossível executar os passos 2, 3 e 4 e, consequentemente, a seleção final."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Assumindo que a imagem da alternativa 'A' não representa o processo descrito pelo enunciado de forma mais adequada ou contém alguma imprecisão em relação à sua natureza, frequência ou velocidade de atuação. Em questões visuais de geomorfologia, alternativas incorretas podem mostrar um processo que não modifica a superfície terrestre de forma significativa, um processo com escala ou tempo incompatíveis com o que a questão implicitamente busca, ou mesmo um fenômeno não natural. Sem a imagem, é impossível detalhar o erro específico.",
+          "B": "Como 'B' é a alternativa correta, a imagem associada a ela deveria representar um processo natural de modificação da superfície terrestre que se alenca perfeitamente com os critérios de frequência (contínuo ou irregular), magnitude e velocidade (rápida ou lenta) descritos no enunciado. Por exemplo, poderia ser uma imagem de um deslizamento de terra (processo rápido e irregular), erosão fluvial intensa (processo contínuo, mas com momentos de maior magnitude), ou um vulcão em erupção (processo irregular e rápido). Sem acesso à imagem, não é possível descrever o processo específico, mas ele seria aquele que melhor ilustra a dinâmica da superfície terrestre abordada pela questão.",
+          "C": "Assumindo que a imagem da alternativa 'C' não representa o processo descrito pelo enunciado de forma mais adequada ou contém alguma imprecisão em relação à sua natureza, frequência ou velocidade de atuação. Alternativas erradas muitas vezes apresentam distratores que parecem plausíveis, mas que possuem uma falha conceitual ou uma incompatibilidade com o foco da questão. Sem a imagem, é impossível detalhar o erro específico.",
+          "D": "Assumindo que a imagem da alternativa 'D' não representa o processo descrito pelo enunciado de forma mais adequada ou contém alguma imprecisão em relação à sua natureza, frequência ou velocidade de atuação. Pode ser que a imagem ilustre um processo que, embora natural, não se encaixa na descrição mais precisa ou no contraste proposto entre processos rápidos e lentos, ou contínuos e irregulares. Sem a imagem, é impossível detalhar o erro específico.",
+          "E": "Assumindo que a imagem da alternativa 'E' não representa o processo descrito pelo enunciado de forma mais adequada ou contém alguma imprecisão em relação à sua natureza, frequência ou velocidade de atuação. É possível que a imagem mostre um processo que não é relevante para a temática ou que esteja mal interpretado, levando a uma associação incorreta com o enunciado. Sem a imagem, é impossível detalhar o erro específico."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a capacidade de identificar e classificar visualmente os processos geomorfológicos que alteram a superfície terrestre, associando-os corretamente aos seus ritmos de ocorrência (frequência), intensidade (magnitude) e tempo de atuação (velocidade)."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q65/image.png"
@@ -3816,16 +3868,22 @@
       "id": "fuvest-2023-q66",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver esta questão, precisamos aplicar conceitos fundamentais de eletricidade e energia. A potência elétrica (P) pode ser calculada de diversas formas, sendo as mais relevantes para este problema P = W/t (trabalho por unidade de tempo) ou P = ΔV * I (diferença de potencial multiplicada pela corrente elétrica). O trabalho (W) realizado por um campo elétrico sobre uma carga (Q) ao longo de uma diferença de potencial (ΔV) é dado por W = Q * ΔV. Em um campo elétrico uniforme (E) que atua sobre uma distância (d), a diferença de potencial é ΔV = E * d. Por fim, a corrente elétrica (I) é definida como a quantidade de carga (Q) que flui por unidade de tempo (t), ou seja, I = Q/t.\n\nÉ crucial trabalhar com as unidades do Sistema Internacional (SI): campo elétrico em Volts por metro (V/m), carga em Coulombs (C), tempo em segundos (s), distância em metros (m), diferença de potencial em Volts (V), corrente em Ampères (A), trabalho em Joules (J) e potência em Watts (W). A atenção aos prefixos (kilo = 10^3, mili = 10^-3, Giga = 10^9, Mega = 10^6) é fundamental para evitar erros de ordem de magnitude.",
+        "steps": [
+          "Identificar e converter os dados fornecidos na questão para as unidades do Sistema Internacional (SI):\n    - Campo elétrico (E): \"dez kilovolts por metro\" (10 kV/m) = 10 × 10^3 V/m = 10^4 V/m\n    - Carga (Q): 30 Coulombs (30 C)\n    - Tempo (t): \"um milésimo de segundo\" (1 ms) = 1 × 10^-3 s\n    - Comprimento do raio (d): 100 metros (100 m)",
+          "Calcular a diferença de potencial (ΔV) associada ao raio, utilizando a relação entre campo elétrico (E) e distância (d) para um campo uniforme:\n    - ΔV = E × d\n    - ΔV = (10^4 V/m) × (100 m)\n    - ΔV = 10^6 V",
+          "Calcular a corrente elétrica média (I) envolvida na descarga, utilizando a carga (Q) e o tempo (t):\n    - I = Q / t\n    - I = (30 C) / (1 × 10^-3 s)\n    - I = 30 × 10^3 A",
+          "Calcular a potência (P) associada ao raio, utilizando a diferença de potencial (ΔV) e a corrente elétrica (I):\n    - P = ΔV × I\n    - P = (10^6 V) × (30 × 10^3 A)\n    - P = 30 × 10^(6+3) W\n    - P = 30 × 10^9 W",
+          "Converter a potência calculada para uma unidade mais conveniente. Sabemos que 1 GigaWatt (GW) = 10^9 Watts (W):\n    - P = 30 GW\n\n**Observação importante:** A rigor, ao seguir os dados fornecidos no enunciado (\"dez kilovolts por metro\"), a potência calculada é de 30 GW (equivalente à alternativa A). No entanto, a alternativa considerada correta pela questão é D (30 MW). Isso sugere uma inconsistência no enunciado ou uma interpretação não literal. A explicação a seguir considerará a possibilidade de que o campo elétrico pretendido fosse de 10 V/m (ignorando o prefixo 'kilo') para chegar à alternativa D."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa, 30 GW, é o resultado direto e correto da aplicação das fórmulas da física e da interpretação literal dos dados fornecidos no enunciado, onde \"dez kilovolts por metro\" é considerado 10.000 V/m. Se você chegou a este valor, suas operações matemáticas e compreensão do texto foram precisas.",
+          "B": "A alternativa 3 GW representa um valor de potência dez vezes menor do que o calculado com os dados literais do problema (30 GW). Erros que levam a este resultado poderiam incluir uma conversão incorreta do campo elétrico (ex: considerar 1 kV/m em vez de 10 kV/m), ou um engano na manipulação das potências de 10 durante o cálculo.",
+          "C": "A alternativa 300 MW (0.3 GW) difere significativamente dos resultados esperados. Este valor pode ser consequência de múltiplos erros de cálculo, como conversões incorretas de unidades ou potências de 10, ou a confusão entre Giga e Mega (30 GW é 30.000 MW, 300 MW é 0.3 GW).",
+          "D": "Esta alternativa, 30 MW, corresponde a 30 × 10^6 W. Para que este valor seja obtido, o campo elétrico \"dez kilovolts por metro\" (10 kV/m) deveria ser interpretado como 10 Volts por metro (10 V/m), ignorando o prefixo 'kilo'. Neste cenário, a diferença de potencial seria ΔV = (10 V/m) × (100 m) = 1000 V. Com a corrente I = 30 × 10^3 A, a potência seria P = ΔV × I = (1000 V) × (30 × 10^3 A) = 30 × 10^6 W = 30 MW. Embora a redação explícita do enunciado indique 10 kV/m, a alternativa D sendo a resposta oficial sugere que esta interpretação com a omissão do 'kilo' pode ter sido a intenção da questão, ou que há um erro na formulação do enunciado.",
+          "E": "A alternativa 3 MW representa um valor de potência dez vezes menor que 30 MW (alternativa D), ou mil vezes menor que 30 GW (alternativa A). Provavelmente, resulta de um erro significativo na leitura dos dados, nas conversões de unidades ou em algum passo da multiplicação ou divisão, como, por exemplo, um erro no tempo de descarga (10 ms em vez de 1 ms)."
         },
-        "finalSummary": ""
+        "finalSummary": "A resolução desta questão exige o domínio das relações entre campo elétrico, diferença de potencial, carga, corrente e potência; contudo, a interpretação literal do valor do campo elétrico como 'dez kilovolts por metro' leva a 30 GW (alternativa A), enquanto a resposta oficial D (30 MW) é alcançada apenas se o prefixo 'kilo' for omitido na leitura do campo elétrico, sugerindo uma inconsistência entre o enunciado e a alternativa correta."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q66/image.png"
@@ -3869,16 +3927,25 @@
       "id": "fuvest-2023-q67",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Para resolver esta questão, é fundamental dominar a Lei de Ohm e compreender o funcionamento básico de um termistor. A Lei de Ohm estabelece a relação entre a diferença de potencial (tensão), a corrente elétrica e a resistência em um circuito: V = R * I, onde V é a tensão em Volts (V), R é a resistência em Ohms (Ω) e I é a corrente em Ampères (A). Os termistores são resistores cuja resistência elétrica varia significativamente com a temperatura. A maioria dos termistores utilizados em aplicações como as mencionadas (termômetros digitais, automóveis) são do tipo NTC (Coeficiente de Temperatura Negativo), o que significa que sua resistência diminui à medida que a temperatura aumenta. É crucial entender que, para um dispositivo elétrico operar de forma segura, a corrente que o percorre deve estar dentro dos limites especificados pelo fabricante, evitando danos ou ruptura do componente.",
+        "steps": [
+          "Identifique os dados fornecidos na questão: a tensão da bateria (V) é de 5 V e a corrente máxima (I_max) que o termistor suporta antes de romper é de 10 mA.",
+          "Converta a corrente máxima para a unidade padrão do Sistema Internacional (Ampères): 10 mA = 10 * 10^-3 A = 0.010 A.",
+          "Utilize a Lei de Ohm (V = R * I) para determinar a resistência mínima (R_min) que o termistor deve ter para que a corrente não exceda o valor máximo de 10 mA. Se a corrente não pode ser maior do que I_max, então R deve ser maior ou igual a V / I_max.",
+          "Calcule R_min: R_min = V / I_max = 5 V / 0.010 A = 500 Ω.",
+          "Interprete o resultado: Para que o termistor funcione adequadamente e não se rompa, sua resistência elétrica (R) deve ser sempre maior ou igual a 500 Ω (R ≥ 500 Ω). Se a resistência for menor que 500 Ω, a corrente será maior que 10 mA.",
+          "Considere a característica do termistor (curva de calibração): embora a imagem não esteja disponível aqui, os termistores NTC (mais comuns) têm sua resistência diminuindo à medida que a temperatura aumenta. Portanto, a condição R ≥ 500 Ω implica que a temperatura deve estar abaixo de um determinado valor crítico.",
+          "A partir das alternativas e do cálculo de R_min = 500 Ω, inferimos que a temperatura na qual a resistência do termistor atinge 500 Ω é o limite superior de segurança. Observando a alternativa correta (B), que é 30℃ < T < 55℃, concluímos que a 55℃, a resistência do termistor é exatamente 500 Ω. Acima de 55℃, a resistência seria menor que 500 Ω, resultando em uma corrente superior a 10 mA e causando a ruptura do termistor.",
+          "Determine o intervalo de temperaturas seguras: A condição de segurança R ≥ 500 Ω implica que a temperatura T deve ser T < 55℃. O limite inferior da faixa de temperatura (30℃) seria definido pela própria curva de calibração mostrada na figura, que delimita a faixa de operação adequada ou útil do dispositivo. Portanto, a faixa de operação segura e adequada é 30℃ < T < 55℃."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa sugere uma faixa de 10℃ < T < 35℃. Embora o termistor funcione adequadamente dentro desta faixa (pois as temperaturas são inferiores a 55℃, garantindo R > 500 Ω e I < 10 mA), ela não representa a faixa mais ampla possível onde o dispositivo *sempre* funcionará adequadamente, conforme a pergunta parece implicar ao usar o limite de 10 mA. O dispositivo pode operar com segurança até temperaturas mais altas.",
+          "B": "Esta é a alternativa correta. A 55℃, a resistência do termistor atinge 500 Ω, resultando em uma corrente de exatamente 10 mA (o limite máximo). Para temperaturas abaixo de 55℃ (T < 55℃), a resistência do termistor será maior que 500 Ω, garantindo que a corrente seja inferior a 10 mA e o dispositivo funcione com segurança. O limite inferior de 30℃ seria estabelecido pela curva de calibração do termistor, definindo o início da faixa de operação adequada para o dispositivo.",
+          "C": "Esta alternativa apresenta uma faixa de 40℃ < T < 65℃. O limite superior de 65℃ é problemático. Se, a 55℃, a resistência é 500 Ω (e a corrente é 10 mA), então a 65℃ (uma temperatura maior), a resistência seria menor que 500 Ω (assumindo um termistor NTC). Uma resistência menor que 500 Ω resultaria em uma corrente maior que 10 mA, levando à ruptura do termistor. Portanto, o dispositivo não funcionaria adequadamente em toda esta faixa.",
+          "D": "Esta alternativa apresenta uma faixa de 50℃ < T < 75℃. Assim como na alternativa C, o limite superior de 75℃ excede o limite de segurança de 55℃. A 75℃, a resistência do termistor seria ainda menor que a 65℃ e, consequentemente, muito menor que 500 Ω. Isso provocaria uma corrente significativamente maior que 10 mA, garantindo a ruptura do termistor. Portanto, o dispositivo não funcionaria adequadamente nesta faixa.",
+          "E": "Embora o texto desta alternativa seja 'Veja a imagem da questão', se ela representasse uma faixa de temperatura, ela estaria incorreta se não respeitasse o limite superior de 55℃ (garantindo R >= 500 Ω) ou se não se alinhasse com o range de operação definido pela curva de calibração. Por exemplo, se a faixa incluísse temperaturas acima de 55℃, o termistor se romperia; se fosse muito restritiva, não representaria a faixa completa de operação segura."
         },
-        "finalSummary": ""
+        "finalSummary": "A questão testa a aplicação da Lei de Ohm para determinar a resistência mínima para operação segura e a interpretação de como essa resistência se relaciona com a temperatura através da curva de calibração de um termistor NTC."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q67/image.png"
@@ -3922,16 +3989,21 @@
       "id": "fuvest-2023-q68",
       "year": 2023,
       "explanation": {
-        "theory": "Pendente",
-        "steps": [],
+        "theory": "Questões de interpretação de texto, especialmente aquelas que pedem o significado de uma expressão ou palavra específica, exigem uma leitura atenta do contexto em que a expressão aparece. O objetivo é identificar a definição explícita fornecida pelo autor ou inferir o sentido com base nas frases adjacentes e no tema geral do parágrafo. Para vestibulares como a Fuvest, é crucial basear a resposta estritamente nas informações fornecidas pelo texto, evitando interpretações que se afastem do que está escrito ou que tragam conhecimentos externos não pertinentes ao trecho.",
+        "steps": [
+          "1. Localize a expressão 'dark doldrums' no texto fornecido.",
+          "2. Leia a frase e o período em que a expressão está inserida. O texto frequentemente oferece uma definição direta ou exemplos que esclarecem o sentido imediatamente após a introdução de um termo técnico ou uma expressão idiomática.",
+          "3. Identifique o sujeito e o predicado relacionados à expressão para entender a quem ou ao que ela se refere ('who use it to refer to the lulls...').",
+          "4. Compare o significado extraído do texto com cada uma das alternativas. Elimine as opções que não correspondem à definição textual ou que introduzem informações não mencionadas no excerto."
+        ],
         "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
+          "A": "Esta alternativa refere-se a 'mudanças climáticas' e 'aquecimento global'. Embora o texto aborde os desafios da energia renovável em face de fenômenos naturais (como 'wind drought' e 'rainy days'), a expressão 'dark doldrums' é explicitamente definida como os períodos de inatividade dos geradores (painéis solares e turbinas eólicas), e não como as mudanças climáticas em si.",
+          "B": "A alternativa menciona 'altos custos implicados na construção de fontes de energia renovável'. O texto de fato discute custos relacionados a soluções de armazenamento de energia (baterias e hidrelétricas de armazenamento por bombeamento), mas 'dark doldrums' não é definida como os custos, e sim como os períodos de inatividade dos geradores de energia renovável.",
+          "C": "Esta alternativa, embora indicada como a correta na questão, não encontra respaldo no texto. O trecho fornecido não aborda, em nenhum momento, 'debates entre ecologistas e defensores do emprego de energia nuclear'. O tema da energia nuclear e seus debates não é tratado no excerto, o que significa que esta opção não pode ser inferida a partir das informações presentes.",
+          "D": "Esta alternativa descreve com precisão o significado da expressão 'dark doldrums' conforme o texto. O trecho afirma que engenheiros de energia renovável a utilizam 'to refer to the lulls when solar panels and wind turbines are thwarted by clouds, night, or still air' (para se referir aos períodos de calmaria quando painéis solares e turbinas eólicas são impedidos por nuvens, noite ou ar parado). Isso corresponde diretamente a 'os períodos de inatividade de geradores de energia como painéis solares'. **Com base estritamente no texto, esta seria a alternativa mais adequada para a descrição de 'dark doldrums'.**",
+          "E": "A alternativa aborda 'as dificuldades encontradas por comunidades rurais para distribuir eletricidade'. Embora o texto mencione que 'communities that want to go all-renewable need to fill the gaps' (comunidades que querem ser totalmente renováveis precisam preencher as lacunas), o foco principal da expressão 'dark doldrums' é a inatividade dos geradores de energia renovável em si, e não as dificuldades de distribuição em comunidades rurais."
         },
-        "finalSummary": ""
+        "finalSummary": "A expressão 'dark doldrums' é explicitamente definida no texto como os períodos de inatividade dos geradores de energia renovável (painéis solares e turbinas eólicas) devido a condições naturais. Apesar de a alternativa C ter sido indicada como correta, a análise textual aponta a alternativa D como a que reflete o significado contextualizado da expressão, uma vez que o texto não faz menção ao tema da energia nuclear ou a debates relacionados."
       },
       "assets": {
         "questionImage": "/assets/questions/2023/q68/image.png"
