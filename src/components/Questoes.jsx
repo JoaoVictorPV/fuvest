@@ -163,10 +163,10 @@ export function Questoes() {
         // Se não houver explicação, ainda assim a questão deve aparecer (o aluno lê pela imagem).
         const all = Array.isArray(data.questions) ? data.questions : [];
 
-        // Sorteia as questões para não ser sempre na mesma ordem
-        const shuffled = [...all].sort(() => Math.random() - 0.5);
+        // Ordena as questões por número para navegação sequencial
+        const sorted = [...all].sort((a, b) => a.number - b.number);
         
-        setQuestions(shuffled);
+        setQuestions(sorted);
         setCurrentIndex(0);
         resetState();
       } catch (err) {
@@ -259,6 +259,13 @@ export function Questoes() {
       setCurrentIndex(currentIndex - 1);
       resetState();
     }
+  };
+
+  const jumpToRandomQuestion = () => {
+    if (questions.length === 0) return;
+    const randomIdx = Math.floor(Math.random() * questions.length);
+    setCurrentIndex(randomIdx);
+    resetState();
   };
 
   if (loading) return <div className="p-8 text-center text-slate-500">Carregando banco de questões...</div>;
@@ -489,10 +496,10 @@ export function Questoes() {
                   </>
                 ) : (
                   <button
-                    onClick={nextQuestion}
+                    onClick={jumpToRandomQuestion}
                     className="w-full md:w-auto bg-crimson-600 text-white px-12 py-4 rounded-2xl font-black text-lg hover:bg-crimson-700 transition-all duration-300 shadow-xl shadow-crimson-900/20 flex items-center justify-center hover:-translate-y-1"
                   >
-                    {currentIndex === questions.length - 1 ? 'Concluir Prova' : 'Próxima Questão'} <ChevronRight size={24} className="ml-2" />
+                    Próxima Aleatória <ChevronRight size={24} className="ml-2" />
                   </button>
                 )}
               </div>
