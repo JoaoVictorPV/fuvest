@@ -816,9 +816,9 @@ def main():
     page_images = render_pdf_to_images(pdf_path, args.year)
     if not page_images: sys.exit(1)
 
-    # Força modo visual para 2021 devido encoding problemático do PDF
-    if args.year == 2021:
-        print("[WARN] Ano 2021: Usando Gemini Vision devido a encoding problemático do PDF.")
+    # Força modo visual para anos antigos (2015-2021) devido encoding problemático
+    if args.year in [2015, 2017, 2018, 2021]:
+        print(f"[WARN] Ano {args.year}: Usando Gemini Vision devido a encoding problemático do PDF.")
         questions_with_assets = run_vision_pipeline(pdf_path, args.year, page_images)
     else:
         print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
