@@ -84,6 +84,9 @@ def _is_garbled_text(text: str) -> bool:
     t = (text or "").strip()
     if not t:
         return True
+    # Caractere de substituição (encoding ruim)
+    if "�" in t:
+        return True
     # Menos restritivo para PDFs com encoding especial
     letters = sum(ch.isalpha() for ch in t)
     ratio = letters / max(1, len(t))
@@ -131,6 +134,11 @@ def _sanitize_option_text(text: str) -> str:
     if not t:
         return "(Veja a imagem da questão)"
     return t
+
+
+def _is_placeholder_text(text: str) -> bool:
+    t = (text or "").strip().lower()
+    return "veja a imagem da quest" in t
 
 
 def _parse_question_targets_from_text(text: str):
@@ -528,7 +536,11 @@ def build_question_rect_index(pdf_path: str, dpi: int = 200, min_q=1, max_q=90):
         def build_col(col_items, col_x0, col_x1):
             out = []
             for idx2, (qnum, y0) in enumerate(col_items):
-                y1 = col_items[idx2 + 1][1] if idx2 + 1 < len(col_items) else page_h
+                # Evita recorte curto por falso-positivo de marcador logo abaixo.
+                j = idx2 + 1
+                while j < len(col_items) and (col_items[j][1] - y0) < 60:
+                    j += 1
+                y1 = col_items[j][1] if j < len(col_items) else page_h
                 pad_pt = 8
                 x0p = max(0, col_x0 - pad_pt)
                 x1p = min(page_w, col_x1 + pad_pt)
@@ -547,6 +559,74 @@ def build_question_rect_index(pdf_path: str, dpi: int = 200, min_q=1, max_q=90):
                 idx[qnum] = {"page": i + 1, "rect": rect_pt, "bbox": bbox_px}
     doc.close()
     return idx
+
+
+def _has_option_marker_in_text(text: str) -> bool:
+    t = (text or "")
+    # Detecta a) / A) / (a) / (A) etc.
+    return bool(re.search(r"(?im)(?:^|\n)\s*\(?[A-Ea-e]\)?\s*[\).\-–:]\s+", t))
+
+
+def expand_suspicious_bboxes(doc: fitz.Document, rect_index: dict, *, dpi: int = 200, year: int | None = None,
+                             min_h_px: int = 500, step_px: int = 300, max_steps: int = 6):
+    """Correção incremental de recortes curtos.
+
+    Para anos problemáticos (ex.: 2021), algumas bboxes ficam pequenas (h muito baixo),
+    cortando alternativas. Para cada questão suspeita:
+      - expande a bbox para baixo em passos
+      - para quando encontrar marcadores de alternativas ou atingir o fim da página
+    """
+    # Só aplica por padrão ao 2021 (evita mexer nos anos bons)
+    if year is not None and year != 2021:
+        return rect_index
+
+    scale = dpi / 72.0
+    for qnum, info in rect_index.items():
+        bbox = info.get("bbox") or {}
+        if not bbox:
+            continue
+
+        page_num = int(info.get("page") or 0)
+        if page_num <= 0:
+            continue
+        page = doc.load_page(page_num - 1)
+        page_h_px = int(page.rect.height * scale)
+
+        # Decide se é suspeito por altura OU por não conter marcador de alternativa no texto do próprio PDF.
+        current_rect = info.get("rect")
+        current_txt = ""
+        try:
+            if current_rect:
+                current_txt = page.get_text("text", clip=fitz.Rect(*current_rect)) or ""
+        except Exception:
+            current_txt = ""
+
+        h_now = int(bbox.get("h") or 0)
+        suspicious = (h_now < min_h_px) or (not _has_option_marker_in_text(current_txt))
+        if not suspicious:
+            continue
+
+        # tenta expandir a bbox (em px)
+        x = int(bbox.get("x") or 0)
+        y = int(bbox.get("y") or 0)
+        w = int(bbox.get("w") or 1)
+        base_h = int(bbox.get("h") or 1)
+
+        for _ in range(max_steps):
+            new_h = min(page_h_px - y, base_h + step_px)
+            if new_h <= base_h:
+                break
+            # converte p/ pontos (rect_pt) e extrai texto
+            rect_pt = [x / scale, y / scale, (x + w) / scale, (y + new_h) / scale]
+            txt = page.get_text("text", clip=fitz.Rect(*rect_pt)) or ""
+            if _has_option_marker_in_text(txt):
+                # atualiza
+                info["rect"] = rect_pt
+                info["bbox"] = {"x": x, "y": y, "w": w, "h": new_h}
+                break
+            base_h = new_h
+
+    return rect_index
 
 
 def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
@@ -583,19 +663,21 @@ def extract_question_text_from_pdf(doc: fitz.Document, page_num: int, rect_pt):
     base_x0 = min(x for (x, _) in lines)
     opt_x_max = base_x0 + 60
     cont_x_max = base_x0 + 85
-    opt_head_re = re.compile(r"^\(?([A-E])\)?\s*$")
-    opt_inline_re = re.compile(r"^\(?([A-E])\)?\s*[\).\-–:]\s*(.*)$")
+    # Aceita alternativas maiúsculas e minúsculas (A-E / a-e)
+    # Aceita formatos: a) a. (a) a - a: etc.
+    opt_head_re = re.compile(r"^\(?([A-Ea-e])\)?\s*$")
+    opt_inline_re = re.compile(r"^\(?([A-Ea-e])\)?\s*[\).\-–:]\s*(.*)$")
     opt_lines = []
     for i, (x0, txt) in enumerate(lines):
         if x0 > opt_x_max:
             continue
         m = opt_inline_re.match(txt)
         if m:
-            opt_lines.append((i, m.group(1), (m.group(2) or "").strip()))
+            opt_lines.append((i, m.group(1).upper(), (m.group(2) or "").strip()))
             continue
         m2 = opt_head_re.match(txt)
         if m2:
-            opt_lines.append((i, m2.group(1), ""))
+            opt_lines.append((i, m2.group(1).upper(), ""))
     if not opt_lines:
         stem = " ".join([t for (_, t) in lines]).strip()
         if len(stem) < 20:
@@ -880,6 +962,8 @@ def main():
     print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
     rect_index = build_question_rect_index(pdf_path, dpi=200)
     doc = fitz.open(pdf_path)
+    # Correção incremental de recortes curtos (foco no 2021)
+    rect_index = expand_suspicious_bboxes(doc, rect_index, dpi=200, year=args.year)
     try:
         refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
     except Exception as e:
@@ -898,9 +982,14 @@ def main():
             stem = "(Veja a imagem da questão)"
             options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
 
-        # Se o texto do PDF vier ruim, tenta OCR local na imagem recortada da questão.
-        if _is_garbled_text(stem):
-            garbled_count += 1
+        # OCR local: fallback quando PDF vier com encoding ruim OU quando as alternativas do PDF
+        # não forem detectadas (ex.: 2021 com muitos placeholders em options).
+        options_placeholder_count = sum(1 for o in (options or []) if _is_placeholder_text(o.get("text", "")))
+        need_ocr = _is_garbled_text(stem) or (OCR_READY and args.year == 2021 and options_placeholder_count >= 3)
+
+        if need_ocr:
+            if _is_garbled_text(stem):
+                garbled_count += 1
             if OCR_READY and ocr_image and parse_alternatives_from_ocr and extract_stem_from_ocr:
                 try:
                     page_idx = int(info["page"]) - 1
@@ -918,10 +1007,18 @@ def main():
                             if ocr_txt:
                                 o_stem = extract_stem_from_ocr(ocr_txt)
                                 o_opts = parse_alternatives_from_ocr(ocr_txt)
-                                if o_stem and len(o_stem) >= 20:
+
+                                # Atualiza stem se vier melhor do OCR
+                                if o_stem and len(o_stem) >= 20 and not _is_garbled_text(o_stem):
                                     stem = _normalize_spaces(o_stem)
+
+                                # Atualiza alternativas se o OCR encontrar algo textual (>= 3 opções)
                                 if o_opts:
-                                    options = [{"key": k, "text": _sanitize_option_text(o_opts.get(k, ""))} for k in ["A","B","C","D","E"]]
+                                    new_options = [{"key": k, "text": _sanitize_option_text(o_opts.get(k, ""))} for k in ["A","B","C","D","E"]]
+                                    new_ph = sum(1 for o in new_options if _is_placeholder_text(o.get("text", "")))
+                                    old_ph = sum(1 for o in (options or []) if _is_placeholder_text(o.get("text", "")))
+                                    if new_ph < old_ph:
+                                        options = new_options
                                 ocr_used += 1
                 except Exception as e:
                     print(f"[OCR] Falha OCR local Q{qnum}: {e}", flush=True)

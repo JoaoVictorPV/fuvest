@@ -4,7 +4,7 @@
     "provaPdf": "p17.pdf",
     "gabaritoPdf": "g17.pdf"
   },
-  "generatedAt": "2025-12-26T08:40:10.938412",
+  "generatedAt": "2025-12-26T18:47:36.326483",
   "questions": [
     {
       "number": 1,
@@ -15,27 +15,27 @@
         "w": 848,
         "h": 1694
       },
-      "stem": "Examine este cartaz, cuja finalidade é divulgar uma exposição de obras de Pablo Picasso. Nas expressões “Mão erudita” e “Olho selvagem”, que compõem o texto do anúncio, os adjetivos “erudita” e “selvagem” sugerem que as obras do referido artista conjugam, respectivamente, a) civilização e barbárie. b) requinte e despojamento. c) modernidade e primitivismo. d) liberdade e autoritarismo. e) tradição e transgressão. TEXTO PARA AS QUESTÕES 02 E 03 A adoção do cardápio indígena introduziu nas cozinhas e zonas de serviço das moradas brasileiras equipamentos desconhecidos no Reino. Instalou nos alpendres roceiros a prensa de espremer mandioca ralada para farinha. Nos inventários paulistas é comum a menção de tal fato. No inventário de Pedro Nunes, por exemplo, efetuado em 1623, fala se num sítio nas bandas do Ipiranga “com seu alpendre e duas camarinhas no dito alpendre com a prensa no dito sítio” que deveria comprimir nos tipitis toda a massa proveniente do mandiocal também inventariado. Mas a farinha não exigia somente a prensa – pedia, também, raladores, cochos de lavagem e forno ou fogão. Era normal, então, a casa de fazer farinha, no quintal, ao lado dos telheiros e próxima à cozinha. Carlos A. C. Lemos, Cozinhas, etc. 02",
+      "stem": "Examine este cartaz, cuja finalidade é divulgar uma exposição de obras de Pablo Picasso. Nas expressões “Mão erudita” e “Olho selvagem”, que compõem o texto do anúncio, os adjetivos “erudita” e “selvagem” sugerem que as obras do referido artista conjugam, respectivamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "civilização e barbárie."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "requinte e despojamento."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "modernidade e primitivismo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "liberdade e autoritarismo."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "tradição e transgressão."
         }
       ],
       "answer": {
@@ -68,27 +68,27 @@
         "w": 848,
         "h": 583
       },
-      "stem": "TEXTO PARA AS QUESTÕES 02 E 03\nTEXTO PARA AS QUESTÕES 02 E 03 A adoção do cardápio indígena introduziu nas cozinhas e zonas de serviço das moradas brasileiras equipamentos desconhecidos no Reino. Instalou nos alpendres roceiros a prensa de espremer mandioca ralada para farinha. Nos inventários paulistas é comum a menção de tal fato. No inventário de Pedro Nunes, por exemplo, efetuado em 1623, fala \u0002se num sítio nas bandas do Ipiranga “com seu alpendre e duas camarinhas no dito alpendre com a prensa no dito sítio” que deveria comprimir nos tipitis toda a massa proveniente do mandiocal também inventariado. Mas a farinha não exigia somente a prensa – pedia, também, raladores, cochos de lavagem e forno ou fogão. Era normal, então, a casa de fazer farinha, no quintal, ao lado dos telheiros e próxima à cozinha. Carlos A. C. Lemos, Cozinhas, etc.\n\nTraduz corretamente uma relação espacial expressa no texto o que se encontra em: a) A prensa é paralela aos tipitis. b) A casa de fazer farinha é adjacente aos telheiros. c) As duas camarinhas são transversais à cozinha. d) O alpendre é perpendicular às zonas de serviço. e) O mandiocal e o Ipiranga são equidistantes do sítio. V PAG 02 Caderno",
+      "stem": "TEXTO PARA AS QUESTÕES 02 E 03\nTEXTO PARA AS QUESTÕES 02 E 03 A adoção do cardápio indígena introduziu nas cozinhas e zonas de serviço das moradas brasileiras equipamentos desconhecidos no Reino. Instalou nos alpendres roceiros a prensa de espremer mandioca ralada para farinha. Nos inventários paulistas é comum a menção de tal fato. No inventário de Pedro Nunes, por exemplo, efetuado em 1623, fala \u0002se num sítio nas bandas do Ipiranga “com seu alpendre e duas camarinhas no dito alpendre com a prensa no dito sítio” que deveria comprimir nos tipitis toda a massa proveniente do mandiocal também inventariado. Mas a farinha não exigia somente a prensa – pedia, também, raladores, cochos de lavagem e forno ou fogão. Era normal, então, a casa de fazer farinha, no quintal, ao lado dos telheiros e próxima à cozinha. Carlos A. C. Lemos, Cozinhas, etc.\n\nTraduz corretamente uma relação espacial expressa no texto o que se encontra em:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A prensa é paralela aos tipitis."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "A casa de fazer farinha é adjacente aos telheiros."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "As duas camarinhas são transversais à cozinha."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "O alpendre é perpendicular às zonas de serviço."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O mandiocal e o Ipiranga são equidistantes do sítio."
         }
       ],
       "answer": {
@@ -121,27 +121,27 @@
         "w": 848,
         "h": 1158
       },
-      "stem": "TEXTO PARA AS QUESTÕES 02 E 03\nTEXTO PARA AS QUESTÕES 02 E 03 A adoção do cardápio indígena introduziu nas cozinhas e zonas de serviço das moradas brasileiras equipamentos desconhecidos no Reino. Instalou nos alpendres roceiros a prensa de espremer mandioca ralada para farinha. Nos inventários paulistas é comum a menção de tal fato. No inventário de Pedro Nunes, por exemplo, efetuado em 1623, fala \u0002se num sítio nas bandas do Ipiranga “com seu alpendre e duas camarinhas no dito alpendre com a prensa no dito sítio” que deveria comprimir nos tipitis toda a massa proveniente do mandiocal também inventariado. Mas a farinha não exigia somente a prensa – pedia, também, raladores, cochos de lavagem e forno ou fogão. Era normal, então, a casa de fazer farinha, no quintal, ao lado dos telheiros e próxima à cozinha. Carlos A. C. Lemos, Cozinhas, etc.\n\nAlém de “tipitis”, constituem contribuição indígena para a língua portuguesa do Brasil as seguintes palavras empregadas no texto: a) “cardápio” e “roceiros”. b) “alpendre” e “fogão”. c) “mandioca” e “Ipiranga”. d) “sítio” e “forno”. e) “prensa” e “quintal”. TEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema. 04",
+      "stem": "TEXTO PARA AS QUESTÕES 02 E 03\nTEXTO PARA AS QUESTÕES 02 E 03 A adoção do cardápio indígena introduziu nas cozinhas e zonas de serviço das moradas brasileiras equipamentos desconhecidos no Reino. Instalou nos alpendres roceiros a prensa de espremer mandioca ralada para farinha. Nos inventários paulistas é comum a menção de tal fato. No inventário de Pedro Nunes, por exemplo, efetuado em 1623, fala \u0002se num sítio nas bandas do Ipiranga “com seu alpendre e duas camarinhas no dito alpendre com a prensa no dito sítio” que deveria comprimir nos tipitis toda a massa proveniente do mandiocal também inventariado. Mas a farinha não exigia somente a prensa – pedia, também, raladores, cochos de lavagem e forno ou fogão. Era normal, então, a casa de fazer farinha, no quintal, ao lado dos telheiros e próxima à cozinha. Carlos A. C. Lemos, Cozinhas, etc.\n\nAlém de “tipitis”, constituem contribuição indígena para a língua portuguesa do Brasil as seguintes palavras empregadas no texto:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "“cardápio” e “roceiros”."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "“alpendre” e “fogão”."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "“mandioca” e “Ipiranga”."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "“sítio” e “forno”."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "“prensa” e “quintal”."
         }
       ],
       "answer": {
@@ -174,27 +174,27 @@
         "w": 848,
         "h": 1116
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\nAtente para as seguintes afirmações, extraídas e adaptadas de um estudo do crítico Augusto Meyer sobre José de Alencar: I. “Nesta obra, assim como nos ‘poemas americanos’ dos nossos poetas, palpita um sentimento sincero de distância poética e exotismo, de coisa notável por estranha para nós, embora a rotulemos como nativa.” II. “Mais do que diante de um relato, estamos diante de um poema, cujo conteúdo se concentra a cada passo na magia do ritmo e na graça da imagem.” III. “O tema do bom selvagem foi, neste caso, aproveitado para um romance histórico, que reproduz o enredo típico das narrativas de capa e espada, oriundas da novela de cavalaria.” É compatível com o trecho de Iracema aqui reproduzido, considerado no contexto dessa obra, o que se afirma em a) I, apenas. b) III, apenas. c) I e II, apenas. d) II e III, apenas. e) I, II e III. V G 02/28 V 10010001 derno Reserva 02 5 3",
+      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\nAtente para as seguintes afirmações, extraídas e adaptadas de um estudo do crítico Augusto Meyer sobre José de Alencar: I. “Nesta obra, assim como nos ‘poemas americanos’ dos nossos poetas, palpita um sentimento sincero de distância poética e exotismo, de coisa notável por estranha para nós, embora a rotulemos como nativa.” II. “Mais do que diante de um relato, estamos diante de um poema, cujo conteúdo se concentra a cada passo na magia do ritmo e na graça da imagem.” III. “O tema do bom selvagem foi, neste caso, aproveitado para um romance histórico, que reproduz o enredo típico das narrativas de capa e espada, oriundas da novela de cavalaria.” É compatível com o trecho de Iracema aqui reproduzido, considerado no contexto dessa obra, o que se afirma em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, apenas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "III, apenas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II, apenas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III, apenas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, II e III. V G 02/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -227,27 +227,27 @@
         "w": 848,
         "h": 622
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\n] 05 No texto, corresponde a uma das convenções com que o Indianismo construía suas representações do indígena a) o emprego de sugestões de cunho mitológico compatíveis com o contexto. b) a caracterização da mulher como um ser dócil e desprovido de vontade própria. c) a ênfase na efemeridade da vida humana sob os trópicos. d) o uso de vocabulário primitivo e singelo, de extração oral popular. e) a supressão de interdições morais relativas às práticas eróticas. 06",
+      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\n] 05 No texto, corresponde a uma das convenções com que o Indianismo construía suas representações do indígena",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "o emprego de sugestões de cunho mitológico compatíveis com o contexto."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "a caracterização da mulher como um ser dócil e desprovido de vontade própria."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "a ênfase na efemeridade da vida humana sob os trópicos."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "o uso de vocabulário primitivo e singelo, de extração oral popular."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "a supressão de interdições morais relativas às práticas eróticas."
         }
       ],
       "answer": {
@@ -280,27 +280,27 @@
         "w": 848,
         "h": 1651
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\nÉ correto afirmar que, no texto, o narrador a) prioriza a ordem direta da frase, como se pode verificar nos dois primeiros parágrafos do texto. b) usa o verbo “correr” (2º parágrafo) com a mesma acepção que se verifica na frase “Travam das armas os rápidos guerreiros, e correm ao campo” (também extraída do romance Iracema). c) recorre à adjetivação de caráter objetivo para tornar a cena mais real. d) emprega, a partir do segundo parágrafo, o presente do indicativo, visando dar maior vivacidade aos fatos narrados, aproximando os do leitor. e) atribui, nos trechos “aqui lhe sorri” e “lhe entram n’alma”, valor possessivo ao pronome “lhe”. V PAG 03 Caderno",
+      "stem": "TEXTO PARA AS QUESTÕES DE 04 A 06\nTEXTO PARA AS QUESTÕES DE 04 A 06 Nasceu o dia e expirou. Já brilha na cabana de Araquém o fogo, companheiro da noite. Correm lentas e silenciosas no azul do céu, as estrelas, filhas da lua, que esperam a volta da mãe ausente. Martim se embala docemente; e como a alva rede que vai e vem, sua vontade oscila de um a outro pensamento. Lá o espera a virgem loura dos castos afetos; aqui lhe sorri a virgem morena dos ardentes amores. Iracema recosta\u0002se langue ao punho da rede; seus olhos negros e fúlgidos, ternos olhos de sabiá, buscam o estrangeiro, e lhe entram n’alma. O cristão sorri; a virgem palpita; como o saí, fascinado pela serpente, vai declinando o lascivo talhe, que se debruça enfim sobre o peito do guerreiro. José de Alencar, Iracema.\n\nÉ correto afirmar que, no texto, o narrador",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "prioriza a ordem direta da frase, como se pode verificar nos dois primeiros parágrafos do texto."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "usa o verbo “correr” (2º parágrafo) com a mesma acepção que se verifica na frase “Travam das armas os rápidos guerreiros, e correm ao campo” (também extraída do romance Iracema)."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "recorre à adjetivação de caráter objetivo para tornar a cena mais real."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "emprega, a partir do segundo parágrafo, o presente do indicativo, visando dar maior vivacidade aos fatos narrados, aproximando os do leitor."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "atribui, nos trechos “aqui lhe sorri” e “lhe entram n’alma”, valor possessivo ao pronome “lhe”."
         }
       ],
       "answer": {
@@ -333,27 +333,27 @@
         "w": 848,
         "h": 571
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nDe acordo com o texto, a boa tradução precisa a) evitar a transposição fiel dos conteúdos do texto original. b) desconsiderar as características da linguagem primeira para poder atingir a língua de chegada. c) desviar se da norma padrão tanto da língua original quanto da língua de chegada. d) privilegiar a inventividade, ainda que em detrimento das peculiaridades do texto original. e) buscar, na língua de chegada, soluções que correspondam ao texto original. 08",
+      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nDe acordo com o texto, a boa tradução precisa",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "evitar a transposição fiel dos conteúdos do texto original."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "desconsiderar as características da linguagem primeira para poder atingir a língua de chegada."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "desviar se da norma padrão tanto da língua original quanto da língua de chegada."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "privilegiar a inventividade, ainda que em detrimento das peculiaridades do texto original."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "buscar, na língua de chegada, soluções que correspondam ao texto original."
         }
       ],
       "answer": {
@@ -386,27 +386,27 @@
         "w": 848,
         "h": 520
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nTendo em vista que algumas das recomendações do autor, relativas à prática da tradução, fogem do senso comum, pode se qualificá las com o seguinte termo, de uso relativamente recente: a) dubitativas. b) contraintuitivas. c) autocomplacentes. d) especulativas. e) aleatórias. 09",
+      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nTendo em vista que algumas das recomendações do autor, relativas à prática da tradução, fogem do senso comum, pode se qualificá las com o seguinte termo, de uso relativamente recente:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "dubitativas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "contraintuitivas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "autocomplacentes."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "especulativas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "aleatórias."
         }
       ],
       "answer": {
@@ -439,27 +439,27 @@
         "w": 848,
         "h": 655
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nO prefixo presente na palavra “transpostos” tem o mesmo sentido do prefixo que ocorre em a) ultrapassado. b) retrocedido. c) infracolocado. d) percorrido. e) introvertido. V G 03/28 V 10010001 derno Reserva 03 7 0",
+      "stem": "TEXTO PARA AS QUESTÕES DE 07 A 09\nTEXTO PARA AS QUESTÕES DE 07 A 09 Evidentemente, não se pode esperar que Dostoiévski seja traduzido por outro Dostoiévski, mas desde que o tradutor procure penetrar nas peculiaridades da linguagem primeira, aplique \u0003se com afinco e faça com que sua criatividade orientada pelo original permita, paradoxalmente, afastar\u0003se do texto para ficar mais próximo deste, um passo importante será dado. Deixando de lado a fidelidade mecânica, frase por frase, tratando o original como um conjunto de blocos a serem transpostos, e transgredindo sem receio, quando necessário, as normas do “escrever bem”, o tradutor poderá trazê \u0003lo com boa margem de fidelidade para a língua com a qual está trabalhando. Boris Schnaiderman, Dostoiévski Prosa Poesia.\n\nO prefixo presente na palavra “transpostos” tem o mesmo sentido do prefixo que ocorre em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "ultrapassado."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "retrocedido."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "infracolocado."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "percorrido."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "introvertido. V G 03/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -545,27 +545,27 @@
         "w": 848,
         "h": 538
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 10 A 12\nTEXTO PARA AS QUESTÕES DE 10 A 12 CAPÍTULO LIII . . . . . . . Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa; d d l\n\nNo último período do texto, o ritmo que o narrador imprime ao relato de seus amores corresponde sobretudo ao que se encontra expresso em a) “prólogo de uma vida de delícias” (L. 13 14). b) “prazeres que rematavam em dor” (L. 14 15). c) “hipocrisia paciente e sistemática” (L. 16). d) “paixão sem freio” (L. 17). e) “o livro daquele prólogo” (L. 21 22). V PAG 04 Caderno",
+      "stem": "TEXTO PARA AS QUESTÕES DE 10 A 12\nTEXTO PARA AS QUESTÕES DE 10 A 12 CAPÍTULO LIII . . . . . . . Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa; d d l\n\nNo último período do texto, o ritmo que o narrador imprime ao relato de seus amores corresponde sobretudo ao que se encontra expresso em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "“prólogo de uma vida de delícias” (L. 13 14)."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "“prazeres que rematavam em dor” (L. 14 15)."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "“hipocrisia paciente e sistemática” (L. 16)."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "“paixão sem freio” (L. 17)."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "“o livro daquele prólogo” (L. 21 22)."
         }
       ],
       "answer": {
@@ -598,27 +598,27 @@
         "w": 848,
         "h": 690
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 10 A 12\nTEXTO PARA AS QUESTÕES DE 10 A 12 CAPÍTULO LIII . . . . . . . Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa; d d l\n\nDentre os recursos expressivos empregados no texto, tem papel preponderante a a) metonímia (uso de uma palavra fora do seu contexto semântico normal, com base na relação de contiguidade existente entre ela e o referente). b) hipérbole (ênfase expressiva resultante do exagero da significação linguística). c) alegoria (sequência de metáforas logicamente ordenadas). d) sinestesia (associação de palavras ou expressões em que ocorre combinação de sensações diferentes numa só impressão). e) prosopopeia (atribuição de sentimentos humanos ou de palavras a seres inanimados ou a animais). 13",
+      "stem": "TEXTO PARA AS QUESTÕES DE 10 A 12\nTEXTO PARA AS QUESTÕES DE 10 A 12 CAPÍTULO LIII . . . . . . . Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento; — era o que dizia, e era verdade. Há umas plantas que nascem e crescem depressa; d d l\n\nDentre os recursos expressivos empregados no texto, tem papel preponderante a",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "metonímia (uso de uma palavra fora do seu contexto semântico normal, com base na relação de contiguidade existente entre ela e o referente)."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "hipérbole (ênfase expressiva resultante do exagero da significação linguística)."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "alegoria (sequência de metáforas logicamente ordenadas)."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "sinestesia (associação de palavras ou expressões em que ocorre combinação de sensações diferentes numa só impressão)."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "prosopopeia (atribuição de sentimentos humanos ou de palavras a seres inanimados ou a animais)."
         }
       ],
       "answer": {
@@ -651,27 +651,27 @@
         "w": 848,
         "h": 1584
       },
-      "stem": "Se pudesse mudar se, gritaria bem alto que o roubavam. Aparentemente resignado, sentia um ódio imenso a qualquer coisa que era ao mesmo tempo a campina seca, o patrão, os soldados e os agentes da prefeitura. Tudo na verdade era contra ele. Estava acostumado, tinha a casca muito grossa, mas às vezes se arreliava. Não havia paciência que suportasse tanta coisa. Um dia um homem faz besteira e se desgraça. Graciliano Ramos, Vidas secas. Tendo em vista as causas que a provocam, a revolta que vem à consciência de Fabiano, apresentada no texto como ainda contida e genérica, encontrará foco e uma expressão coletiva militante e organizada, em época posterior à publicação de Vidas secas, no movimento a) carismático de Juazeiro do Norte, orientado pelo Padre Cícero Romão Batista. b) das Ligas Camponesas, sob a liderança de Francisco Julião. c) do Cangaço, quando chefiado por Virgulino Ferreira da Silva (Lampião). d) messiânico de Canudos, conduzido por Antônio Conselheiro. e) da Coluna Prestes, encabeçado por Luís Carlos Prestes. V G 04/28 V 10010001 derno Reserva 04 9 7",
+      "stem": "Se pudesse mudar se, gritaria bem alto que o roubavam. Aparentemente resignado, sentia um ódio imenso a qualquer coisa que era ao mesmo tempo a campina seca, o patrão, os soldados e os agentes da prefeitura. Tudo na verdade era contra ele. Estava acostumado, tinha a casca muito grossa, mas às vezes se arreliava. Não havia paciência que suportasse tanta coisa. Um dia um homem faz besteira e se desgraça. Graciliano Ramos, Vidas secas. Tendo em vista as causas que a provocam, a revolta que vem à consciência de Fabiano, apresentada no texto como ainda contida e genérica, encontrará foco e uma expressão coletiva militante e organizada, em época posterior à publicação de Vidas secas, no movimento",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "carismático de Juazeiro do Norte, orientado pelo Padre Cícero Romão Batista."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "das Ligas Camponesas, sob a liderança de Francisco Julião."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "do Cangaço, quando chefiado por Virgulino Ferreira da Silva (Lampião)."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "messiânico de Canudos, conduzido por Antônio Conselheiro."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "da Coluna Prestes, encabeçado por Luís Carlos Prestes. V G 04/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -704,19 +704,19 @@
         "w": 848,
         "h": 741
       },
-      "stem": "Considerando se o excerto no contexto de Mayombe, os paralelos que nele são estabelecidos entre aspectos da natureza e da vida humana podem ser interpretados como uma a) reflexão relacionada ao próprio Comandante Sem Medo e a seu dilema característico entre a valorização do indivíduo e o engajamento em um projeto eminentemente coletivo. b) caracterização flagrante da dificuldade de aceder ao plano do raciocínio abstrato, típica da atitude pragmática do militante revolucionário. c) figuração da harmonia que reina no mundo natural, em contraste com as dissensões que caracterizam as relações humanas, notadamente nas zonas urbanizadas. V PAG 05 Caderno",
+      "stem": "Considerando se o excerto no contexto de Mayombe, os paralelos que nele são estabelecidos entre aspectos da natureza e da vida humana podem ser interpretados como uma",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "reflexão relacionada ao próprio Comandante Sem Medo e a seu dilema característico entre a valorização do indivíduo e o engajamento em um projeto eminentemente coletivo."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "caracterização flagrante da dificuldade de aceder ao plano do raciocínio abstrato, típica da atitude pragmática do militante revolucionário."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "figuração da harmonia que reina no mundo natural, em contraste com as dissensões que caracterizam as relações humanas, notadamente nas zonas urbanizadas."
         },
         {
           "key": "D",
@@ -810,27 +810,27 @@
         "w": 848,
         "h": 1172
       },
-      "stem": "Mayombe refere se a uma região montanhosa em Angola, dominada por floresta pluvial densa, rica em árvores de grande porte, e localizada em área de baixa latitude (4o40’S). Levando em conta essas características geográficas e vegetacionais, é correto afirmar que a) esse tipo de vegetação predomina na maior parte do continente africano, circundando áreas de savana e deserto. b) se trata da única floresta pluvial sobre áreas montanhosas, pois esse tipo de floresta não ocorre em outras áreas do mundo. c) a vegetação da região é semelhante à da floresta encontrada, no Brasil, na mesma faixa latitudinal. d) nessa mesma faixa latitudinal, no Brasil, há regiões áridas, de altas altitudes, em que predominam ervas rasteiras. e) tais florestas pluviais só ocorrem no hemisfério sul, devido ao regime de chuvas e às altas temperaturas nesse hemisfério, onde ocupam todo tipo de relevo. V G 05/28 V 10010001 derno Reserva 05 1 4",
+      "stem": "Mayombe refere se a uma região montanhosa em Angola, dominada por floresta pluvial densa, rica em árvores de grande porte, e localizada em área de baixa latitude (4o40’S). Levando em conta essas características geográficas e vegetacionais, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "esse tipo de vegetação predomina na maior parte do continente africano, circundando áreas de savana e deserto."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "se trata da única floresta pluvial sobre áreas montanhosas, pois esse tipo de floresta não ocorre em outras áreas do mundo."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "a vegetação da região é semelhante à da floresta encontrada, no Brasil, na mesma faixa latitudinal."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "nessa mesma faixa latitudinal, no Brasil, há regiões áridas, de altas altitudes, em que predominam ervas rasteiras."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "tais florestas pluviais só ocorrem no hemisfério sul, devido ao regime de chuvas e às altas temperaturas nesse hemisfério, onde ocupam todo tipo de relevo. V G 05/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -863,27 +863,27 @@
         "w": 848,
         "h": 912
       },
-      "stem": "Analise as seguintes afirmações relativas à arquitetura das igrejas sob a estética do Barroco: I. Unem se, no edifício, diferentes artes, para assaltar de uma vez os sentidos, de modo que o público não possa escapar. II. O arquiteto procurava surpreender o observador, suscitando nele uma reação forte de maravilhamento. III. A arquitetura e a ornamentação dos templos deviam encenar, entre outras coisas, a preeminência da Igreja. A experiência que se expressa no poema de Drummond registra, em boa medida, as reações do eu lírico ao que se encontra registrado em a) I, apenas. b) II, apenas. c) II e III, apenas. d) I e III, apenas. e) I, II e III. V PAG 06 Caderno",
+      "stem": "Analise as seguintes afirmações relativas à arquitetura das igrejas sob a estética do Barroco: I. Unem se, no edifício, diferentes artes, para assaltar de uma vez os sentidos, de modo que o público não possa escapar. II. O arquiteto procurava surpreender o observador, suscitando nele uma reação forte de maravilhamento. III. A arquitetura e a ornamentação dos templos deviam encenar, entre outras coisas, a preeminência da Igreja. A experiência que se expressa no poema de Drummond registra, em boa medida, as reações do eu lírico ao que se encontra registrado em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, apenas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "II, apenas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III, apenas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e III, apenas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, II e III."
         }
       ],
       "answer": {
@@ -916,27 +916,27 @@
         "w": 848,
         "h": 912
       },
-      "stem": "Um aspecto do poema em que se manifesta a persistência de um valor afirmado também no Modernismo da década de 1920 é o a) destaque dado às características regionais. b) uso da variante oral popular da linguagem. c) elogio do sincretismo religioso. d) interesse pelo passado da arte no Brasil. e) delineamento do poema em feitio de oração. V G 06/28 V 10010001 derno Reserva 06 3 1",
+      "stem": "Um aspecto do poema em que se manifesta a persistência de um valor afirmado também no Modernismo da década de 1920 é o",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "destaque dado às características regionais."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "uso da variante oral popular da linguagem."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "elogio do sincretismo religioso."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "interesse pelo passado da arte no Brasil."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "delineamento do poema em feitio de oração. V G 06/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -969,27 +969,27 @@
         "w": 848,
         "h": 385
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nSegundo uma das conclusões dos experimentos relatados no texto, as plantas de ervilha demonstraram a) sensibilidade aos gestos humanos agressivos. b) ter sistemas nervosos complexos. c) graus distintos de tolerância à umidade do solo. d) capacidade de escolhas adaptativas conforme o meio. e) comportamento previsível no processo de florescimento. 20",
+      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nSegundo uma das conclusões dos experimentos relatados no texto, as plantas de ervilha demonstraram",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "sensibilidade aos gestos humanos agressivos."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ter sistemas nervosos complexos."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "graus distintos de tolerância à umidade do solo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "capacidade de escolhas adaptativas conforme o meio."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "comportamento previsível no processo de florescimento."
         }
       ],
       "answer": {
@@ -1022,27 +1022,27 @@
         "w": 848,
         "h": 947
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nsobra; mas outra hora vinha e engolia aquela, como tudo 20 mais, para deixar à tona as agitações e o resto, e o resto do resto, que é o fastio e a saciedade: tal foi o livro daquele prólogo. Machado de Assis, Memórias póstumas de Brás Cubas. 10 Considerado no contexto de Memórias póstumas de Brás Cubas, o “livro” dos amores de Brás Cubas e Virgília, apresentado no breve capítulo aqui reproduzido, configura uma a) demonstração da tese naturalista que postula o fundamento biológico das relações amorosas. b) versão mais intensa e prolongada da típica sequência de animação e enfado, característica da trajetória de Brás Cubas. c) incorporação, ao romance realista, dos triângulos amorosos, cuja criação se dera durante o período romântico. d) manifestação da liberdade que a condição de defunto autor dava a Brás Cubas, permitindo lhe tratar de assuntos proibidos em sua época. e) crítica à devassidão que grassava entre as famílias da elite do Império, em particular, na Corte. 11",
+      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nsobra; mas outra hora vinha e engolia aquela, como tudo 20 mais, para deixar à tona as agitações e o resto, e o resto do resto, que é o fastio e a saciedade: tal foi o livro daquele prólogo. Machado de Assis, Memórias póstumas de Brás Cubas. 10 Considerado no contexto de Memórias póstumas de Brás Cubas, o “livro” dos amores de Brás Cubas e Virgília, apresentado no breve capítulo aqui reproduzido, configura uma",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "demonstração da tese naturalista que postula o fundamento biológico das relações amorosas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "versão mais intensa e prolongada da típica sequência de animação e enfado, característica da trajetória de Brás Cubas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "incorporação, ao romance realista, dos triângulos amorosos, cuja criação se dera durante o período romântico."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "manifestação da liberdade que a condição de defunto autor dava a Brás Cubas, permitindo lhe tratar de assuntos proibidos em sua época."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "crítica à devassidão que grassava entre as famílias da elite do Império, em particular, na Corte."
         }
       ],
       "answer": {
@@ -1075,27 +1075,27 @@
         "w": 848,
         "h": 542
       },
-      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nDe acordo com os experimentos relatados no texto, em condições adversas, as plantas de ervilha priorizaram o crescimento de raízes nos vasos que apresentaram níveis de nutrientes a) abundantes. b) estáveis. c) básicos. d) ideais. e) variáveis. V PAG 07 Caderno",
+      "stem": "TEXTO PARA AS QUESTÕES DE 19 A 21\nTEXTO PARA AS QUESTÕES DE 19 A 21 Plants not only remember when you touch them, but they can also make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor. In a set of experiments, Dr. Shemesh, from Tel \u0002Hai College in Israel, and Alex Kacelnik, from Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer? When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The New York Times, June 30, 2016. Adaptado.\n\nDe acordo com os experimentos relatados no texto, em condições adversas, as plantas de ervilha priorizaram o crescimento de raízes nos vasos que apresentaram níveis de nutrientes",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "abundantes."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "estáveis."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "básicos."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "ideais."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "variáveis."
         }
       ],
       "answer": {
@@ -1128,27 +1128,27 @@
         "w": 848,
         "h": 679
       },
-      "stem": "TEXTO PARA AS QUESTÕES 22 E 23\nTEXTO PARA AS QUESTÕES 22 E 23 A study carried out by Lauren Sherman of the University of California and her colleagues investigated how use of the “like” button in social media affects the brains of teenagers lying in body scanners. Thirty\u0002two teens who had Instagram accounts were asked to lie down in a functional magnetic resonance imaging (fMRI) scanner. This let Dr. Sherman monitor their brain activity while they were perusing both their own Instagram photos and photos that they were told had been added by other teenagers in the experiment. In reality, Dr. Sherman had collected all the other photos, which included neutral images of food and friends as well as many depicting risky behaviours like drinking, smoking and drug use, from other peoples’ Instagram accounts. The researchers told participants they were viewing photographs that 50 other teenagers had already seen and endorsed with a “like” in the laboratory. The participants were more likely themselves to “like” photos already depicted as having been “liked” a lot than they were photos depicted with fewer previous “likes”. When she looked at the fMRI results, Dr. Sherman found that activity in the nucleus accumbens, a hub of reward circuitry in the brain, increased with the number of “likes” that a photo had. The Economist, June 13, 2016. Adaptado.\n\nSegundo o texto, como resultado parcial da pesquisa, observou se que a) fotos com imagens neutras provocaram menor impacto do que as que retratavam comportamento perigoso. b) os participantes mostraram tendência a “curtir” uma imagem que já havia recebido número considerável de “curtidas”. c) os adolescentes demonstraram certo desconforto, quando solicitados a avaliar fotos produzidas por eles próprios. d) as tarefas propostas aos participantes apresentaram limitações, por terem foco exclusivo na rede Instagram. e) a metodologia adotada no experimento confirmou conclusões de estudos anteriores sobre redes sociais. 23",
+      "stem": "TEXTO PARA AS QUESTÕES 22 E 23\nTEXTO PARA AS QUESTÕES 22 E 23 A study carried out by Lauren Sherman of the University of California and her colleagues investigated how use of the “like” button in social media affects the brains of teenagers lying in body scanners. Thirty\u0002two teens who had Instagram accounts were asked to lie down in a functional magnetic resonance imaging (fMRI) scanner. This let Dr. Sherman monitor their brain activity while they were perusing both their own Instagram photos and photos that they were told had been added by other teenagers in the experiment. In reality, Dr. Sherman had collected all the other photos, which included neutral images of food and friends as well as many depicting risky behaviours like drinking, smoking and drug use, from other peoples’ Instagram accounts. The researchers told participants they were viewing photographs that 50 other teenagers had already seen and endorsed with a “like” in the laboratory. The participants were more likely themselves to “like” photos already depicted as having been “liked” a lot than they were photos depicted with fewer previous “likes”. When she looked at the fMRI results, Dr. Sherman found that activity in the nucleus accumbens, a hub of reward circuitry in the brain, increased with the number of “likes” that a photo had. The Economist, June 13, 2016. Adaptado.\n\nSegundo o texto, como resultado parcial da pesquisa, observou se que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "fotos com imagens neutras provocaram menor impacto do que as que retratavam comportamento perigoso."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "os participantes mostraram tendência a “curtir” uma imagem que já havia recebido número considerável de “curtidas”."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "os adolescentes demonstraram certo desconforto, quando solicitados a avaliar fotos produzidas por eles próprios."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "as tarefas propostas aos participantes apresentaram limitações, por terem foco exclusivo na rede Instagram."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "a metodologia adotada no experimento confirmou conclusões de estudos anteriores sobre redes sociais."
         }
       ],
       "answer": {
@@ -1181,27 +1181,27 @@
         "w": 848,
         "h": 626
       },
-      "stem": "TEXTO PARA AS QUESTÕES 22 E 23\nTEXTO PARA AS QUESTÕES 22 E 23 A study carried out by Lauren Sherman of the University of California and her colleagues investigated how use of the “like” button in social media affects the brains of teenagers lying in body scanners. Thirty\u0002two teens who had Instagram accounts were asked to lie down in a functional magnetic resonance imaging (fMRI) scanner. This let Dr. Sherman monitor their brain activity while they were perusing both their own Instagram photos and photos that they were told had been added by other teenagers in the experiment. In reality, Dr. Sherman had collected all the other photos, which included neutral images of food and friends as well as many depicting risky behaviours like drinking, smoking and drug use, from other peoples’ Instagram accounts. The researchers told participants they were viewing photographs that 50 other teenagers had already seen and endorsed with a “like” in the laboratory. The participants were more likely themselves to “like” photos already depicted as having been “liked” a lot than they were photos depicted with fewer previous “likes”. When she looked at the fMRI results, Dr. Sherman found that activity in the nucleus accumbens, a hub of reward circuitry in the brain, increased with the number of “likes” that a photo had. The Economist, June 13, 2016. Adaptado.\n\nConforme o texto, a região do cérebro que se mostrou mais ativa, quando da análise dos resultados da ressonância, corresponde a um sistema de a) memória recente. b) defesa. c) recompensa. d) repetição. e) inibição. V G 07/28 V 10010001 derno Reserva 07 5 8",
+      "stem": "TEXTO PARA AS QUESTÕES 22 E 23\nTEXTO PARA AS QUESTÕES 22 E 23 A study carried out by Lauren Sherman of the University of California and her colleagues investigated how use of the “like” button in social media affects the brains of teenagers lying in body scanners. Thirty\u0002two teens who had Instagram accounts were asked to lie down in a functional magnetic resonance imaging (fMRI) scanner. This let Dr. Sherman monitor their brain activity while they were perusing both their own Instagram photos and photos that they were told had been added by other teenagers in the experiment. In reality, Dr. Sherman had collected all the other photos, which included neutral images of food and friends as well as many depicting risky behaviours like drinking, smoking and drug use, from other peoples’ Instagram accounts. The researchers told participants they were viewing photographs that 50 other teenagers had already seen and endorsed with a “like” in the laboratory. The participants were more likely themselves to “like” photos already depicted as having been “liked” a lot than they were photos depicted with fewer previous “likes”. When she looked at the fMRI results, Dr. Sherman found that activity in the nucleus accumbens, a hub of reward circuitry in the brain, increased with the number of “likes” that a photo had. The Economist, June 13, 2016. Adaptado.\n\nConforme o texto, a região do cérebro que se mostrou mais ativa, quando da análise dos resultados da ressonância, corresponde a um sistema de",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "memória recente."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "defesa."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "recompensa."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "repetição."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "inibição. V G 07/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -1234,27 +1234,27 @@
         "w": 848,
         "h": 1356
       },
-      "stem": "Esta imagem integra o manuscrito de uma das mais notáveis obras da cultura medieval. A alternativa que melhor caracteriza o documento é: a) Fábula que enuncia o ideal eclesiástico, mescla a aventura cavalheiresca, o amor romântico e as aspirações religiosas que simbolizaram o espírito das cruzadas. b) Poema inacabado que narra a viagem de formação de um cavaleiro e a busca do cálice sagrado; sua composição mistura elementos pagãos e cristãos. c) Cordel muito popular, elaborado com base nos épicos celtas e lendas bretãs, divulgado para a conversão de fiéis durante a expansão do Cristianismo pelo Oriente. d) Peça teatral que serviu para fortalecer o espírito nacionalista da Inglaterra, unindo a figura de um governante invencível a um símbolo cristão. e) Romance que condensa vários textos, empregado pela Igreja para encorajar a aristocracia a assumir uma função idealizada na luta contra os inimigos de Deus. 25",
+      "stem": "Esta imagem integra o manuscrito de uma das mais notáveis obras da cultura medieval. A alternativa que melhor caracteriza o documento é:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Fábula que enuncia o ideal eclesiástico, mescla a aventura cavalheiresca, o amor romântico e as aspirações religiosas que simbolizaram o espírito das cruzadas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Poema inacabado que narra a viagem de formação de um cavaleiro e a busca do cálice sagrado; sua composição mistura elementos pagãos e cristãos."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Cordel muito popular, elaborado com base nos épicos celtas e lendas bretãs, divulgado para a conversão de fiéis durante a expansão do Cristianismo pelo Oriente."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Peça teatral que serviu para fortalecer o espírito nacionalista da Inglaterra, unindo a figura de um governante invencível a um símbolo cristão."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Romance que condensa vários textos, empregado pela Igreja para encorajar a aristocracia a assumir uma função idealizada na luta contra os inimigos de Deus."
         }
       ],
       "answer": {
@@ -1287,27 +1287,27 @@
         "w": 848,
         "h": 918
       },
-      "stem": "Em relação à ética e à justiça na vida política da Grécia Clássica, é correto afirmar: a) Tratava se de virtudes que se traduziam na observância da lei, dos costumes e das convenções instituídas pela pólis. b) Foram prerrogativas democráticas que não estavam limitadas aos cidadãos e que também foram estendidas aos comerciantes e estrangeiros. c) Eram princípios fundamentais da política externa, mas suspensos temporariamente após a declaração formal de guerra. d) Foram introduzidas pelos legisladores para reduzir o poder assentado em bases religiosas e para estabelecer critérios racionais de distribuição. e) Adquiriram importância somente no período helenístico, quando houve uma significativa incorporação de elementos da cultura romana. V PAG 08 Caderno",
+      "stem": "Em relação à ética e à justiça na vida política da Grécia Clássica, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Tratava se de virtudes que se traduziam na observância da lei, dos costumes e das convenções instituídas pela pólis."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Foram prerrogativas democráticas que não estavam limitadas aos cidadãos e que também foram estendidas aos comerciantes e estrangeiros."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Eram princípios fundamentais da política externa, mas suspensos temporariamente após a declaração formal de guerra."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Foram introduzidas pelos legisladores para reduzir o poder assentado em bases religiosas e para estabelecer critérios racionais de distribuição."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Adquiriram importância somente no período helenístico, quando houve uma significativa incorporação de elementos da cultura romana."
         }
       ],
       "answer": {
@@ -1340,27 +1340,27 @@
         "w": 848,
         "h": 944
       },
-      "stem": "Em uma significativa passagem da tragédia Macbeth, de Shakespeare, seu personagem principal declara: “Ouso tudo o que é próprio de um homem; quem ousa fazer mais do que isso não o é”. De acordo com muitos intérpretes, essa postura revela, com extraordinária clareza, toda a audácia da experiência renascentista. Com relação à cultura humanista, é correto afirmar que a) o mecenato de príncipes, de instituições e de famílias ricas e poderosas evitou os constrangimentos, prisão e tortura de artistas e de cientistas. b) a presença majoritária de temáticas religiosas nas artes plásticas demonstrava as dificuldades de assimilar as conquistas científicas produzidas naquele momento. c) a observação da natureza, os experimentos e a pesquisa empírica contribuíram para o rompimento de alguns dos dogmas fundamentais da Igreja. d) a reflexão dedutiva e o cálculo matemático limitaram se à pesquisa teórica e somente seriam aplicados na chamada revolução científica do século XVII. e) a avidez de conhecimento e de poder favoreceu a renovação das universidades e a valorização dos saberes transmitidos pela cultura letrada. 27",
+      "stem": "Em uma significativa passagem da tragédia Macbeth, de Shakespeare, seu personagem principal declara: “Ouso tudo o que é próprio de um homem; quem ousa fazer mais do que isso não o é”. De acordo com muitos intérpretes, essa postura revela, com extraordinária clareza, toda a audácia da experiência renascentista. Com relação à cultura humanista, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "o mecenato de príncipes, de instituições e de famílias ricas e poderosas evitou os constrangimentos, prisão e tortura de artistas e de cientistas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "a presença majoritária de temáticas religiosas nas artes plásticas demonstrava as dificuldades de assimilar as conquistas científicas produzidas naquele momento."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "a observação da natureza, os experimentos e a pesquisa empírica contribuíram para o rompimento de alguns dos dogmas fundamentais da Igreja."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "a reflexão dedutiva e o cálculo matemático limitaram se à pesquisa teórica e somente seriam aplicados na chamada revolução científica do século XVII."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "a avidez de conhecimento e de poder favoreceu a renovação das universidades e a valorização dos saberes transmitidos pela cultura letrada."
         }
       ],
       "answer": {
@@ -1393,27 +1393,27 @@
         "w": 848,
         "h": 1329
       },
-      "stem": "Os ensaios sediciosos do final do século XVIII anunciam a erosão de um modo de vida. A crise geral do Antigo Regime desdobra se nas áreas periféricas do sistema atlântico – pois é essa a posição da América portuguesa –, apontando para a emergência de novas alternativas de ordenamento da vida social. István Jancsó, “A Sedução da Liberdade”. In: Fernando Novais, História da Vida Privada no Brasil, v.1. São Paulo: Companhia das Letras, 1997. Adaptado. A respeito das rebeliões contra o poder colonial português na América, no período mencionado no texto, é correto afirmar que, a) em 1789 e 1798, diferentemente do que se dera com as revoltas anteriores, os sediciosos tinham o claro propósito de abolir o tráfico transatlântico de escravos para o Brasil. b) da mesma forma que as contestações ocorridas no Maranhão em 1684, a sedição de 1798 teve por alvo o monopólio exercido pela companhia exclusiva de comércio que operava na Bahia. c) em 1789 e 1798, tal como ocorrera na Guerra dos Mascates, os sediciosos esperavam contar com o suporte da França revolucionária. d) tal como ocorrera na Guerra dos Emboabas, a sedição de 1789 opôs os mineradores recém chegados à capitania aos empresários há muito estabelecidos na região. e) em 1789 e 1798, seus líderes projetaram a possibilidade de rompimento definitivo das relações políticas com a metrópole, diferentemente do que ocorrera com as sedições anteriores. V G 08/28 V 10010001 derno Reserva 08 7 5",
+      "stem": "Os ensaios sediciosos do final do século XVIII anunciam a erosão de um modo de vida. A crise geral do Antigo Regime desdobra se nas áreas periféricas do sistema atlântico – pois é essa a posição da América portuguesa –, apontando para a emergência de novas alternativas de ordenamento da vida social. István Jancsó, “A Sedução da Liberdade”. In: Fernando Novais, História da Vida Privada no Brasil, v.1. São Paulo: Companhia das Letras, 1997. Adaptado. A respeito das rebeliões contra o poder colonial português na América, no período mencionado no texto, é correto afirmar que,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "em 1789 e 1798, diferentemente do que se dera com as revoltas anteriores, os sediciosos tinham o claro propósito de abolir o tráfico transatlântico de escravos para o Brasil."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "da mesma forma que as contestações ocorridas no Maranhão em 1684, a sedição de 1798 teve por alvo o monopólio exercido pela companhia exclusiva de comércio que operava na Bahia."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "em 1789 e 1798, tal como ocorrera na Guerra dos Mascates, os sediciosos esperavam contar com o suporte da França revolucionária."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "tal como ocorrera na Guerra dos Emboabas, a sedição de 1789 opôs os mineradores recém chegados à capitania aos empresários há muito estabelecidos na região."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "em 1789 e 1798, seus líderes projetaram a possibilidade de rompimento definitivo das relações políticas com a metrópole, diferentemente do que ocorrera com as sedições anteriores. V G 08/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -1446,27 +1446,27 @@
         "w": 848,
         "h": 1428
       },
-      "stem": "Encontram se assinaladas no mapa, sobre as fronteiras dos países atuais, as rotas eurasianas de comércio a longa distância que, no início da Idade Moderna, cruzavam o Império Otomano, demarcado pelo quadro. A respeito dessas rotas, das regiões que elas atravessavam e das relações de poder que elas envolviam, é correto afirmar que a) a China, com baixo grau de desenvolvimento político e econômico, era exportadora de produtos primários para a Europa. b) a Índia era uma economia fracamente vinculada ao comércio a longa distância, em vista da pouca demanda por seus produtos. c) a Europa, a despeito do poder otomano, exercia domínio incontestável sobre o conjunto das atividades comerciais eurasianas. d) a África Ocidental se encontrava em posição subordinada ao poderio otomano, funcionando como sua principal fonte de escravos. e) o Império Otomano, ao intermediar as trocas a longa distância, forçou os europeus a buscar rotas alternativas de acesso ao Oriente. 30",
+      "stem": "Encontram se assinaladas no mapa, sobre as fronteiras dos países atuais, as rotas eurasianas de comércio a longa distância que, no início da Idade Moderna, cruzavam o Império Otomano, demarcado pelo quadro. A respeito dessas rotas, das regiões que elas atravessavam e das relações de poder que elas envolviam, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "a China, com baixo grau de desenvolvimento político e econômico, era exportadora de produtos primários para a Europa."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "a Índia era uma economia fracamente vinculada ao comércio a longa distância, em vista da pouca demanda por seus produtos."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "a Europa, a despeito do poder otomano, exercia domínio incontestável sobre o conjunto das atividades comerciais eurasianas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "a África Ocidental se encontrava em posição subordinada ao poderio otomano, funcionando como sua principal fonte de escravos."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "o Império Otomano, ao intermediar as trocas a longa distância, forçou os europeus a buscar rotas alternativas de acesso ao Oriente."
         }
       ],
       "answer": {
@@ -1552,27 +1552,27 @@
         "w": 848,
         "h": 845
       },
-      "stem": "No Brasil, do mesmo modo que em muitos outros países latino a reforma e de compromisso com as mudanças. De maneira geral, realidades econômicas e sociais resultantes do desenvolvimento suas manifestações especificamente brasileiras. Emília Viotti da Costa, “Brasil: a era da reforma, 1870 1889”. In: Leslie A respeito das mudanças ocorridas na última década do Império a) eleitoral, que, ao instituir o voto direto para os cargos eletiv analfabetos, reduziu notavelmente a participação eleitoral do b) religiosa, com a adoção do ultramontanismo como política papal, o que permitiu ao Império ganhar suporte internacion c) fiscal, com a incorporação integral das demandas federativas de tributação provincial e municipal. d) burocrática, que rompeu as relações de patronato empreg adoção de um sistema unificado de concursos para preenchi e) militar, que abriu espaço para que o alto comando do Exér protagonismo na gestão dos negócios internos do Império. V PAG 09 Caderno",
+      "stem": "No Brasil, do mesmo modo que em muitos outros países latino a reforma e de compromisso com as mudanças. De maneira geral, realidades econômicas e sociais resultantes do desenvolvimento suas manifestações especificamente brasileiras. Emília Viotti da Costa, “Brasil: a era da reforma, 1870 1889”. In: Leslie A respeito das mudanças ocorridas na última década do Império",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "eleitoral, que, ao instituir o voto direto para os cargos eletiv analfabetos, reduziu notavelmente a participação eleitoral do"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "religiosa, com a adoção do ultramontanismo como política papal, o que permitiu ao Império ganhar suporte internacion"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "fiscal, com a incorporação integral das demandas federativas de tributação provincial e municipal."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "burocrática, que rompeu as relações de patronato empreg adoção de um sistema unificado de concursos para preenchi"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "militar, que abriu espaço para que o alto comando do Exér protagonismo na gestão dos negócios internos do Império."
         }
       ],
       "answer": {
@@ -1605,27 +1605,27 @@
         "w": 848,
         "h": 778
       },
-      "stem": "Leia o texto e observe a imagem. Numa guerra não se matam milhares de pessoas. Mata se alguém que adora espaguete, outro que é gay, outro que tem uma namorada. Uma acumulação de pequenas memórias... . Nós que aqui estamos, por vós esperamos. Direção de Marcelo Masagão. Brasil, 1999. A partir do texto e da imagem, pode se afirmar corretamente qu a) a história das guerras se resume a um teatro de combates tra b) os relatos que abordam os conflitos apenas com base nos tra c) o fim dos impérios, a xenofobia e a consolidação do projeto f d) a banalização da morte e a experiência do exílio expressam a e) as políticas de inclusão foram capazes de controlar os fluxos 32",
+      "stem": "Leia o texto e observe a imagem. Numa guerra não se matam milhares de pessoas. Mata se alguém que adora espaguete, outro que é gay, outro que tem uma namorada. Uma acumulação de pequenas memórias... . Nós que aqui estamos, por vós esperamos. Direção de Marcelo Masagão. Brasil, 1999. A partir do texto e da imagem, pode se afirmar corretamente qu",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "a história das guerras se resume a um teatro de combates tra"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "os relatos que abordam os conflitos apenas com base nos tra"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "o fim dos impérios, a xenofobia e a consolidação do projeto f"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "a banalização da morte e a experiência do exílio expressam a"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "as políticas de inclusão foram capazes de controlar os fluxos"
         }
       ],
       "answer": {
@@ -1658,27 +1658,27 @@
         "w": 848,
         "h": 1495
       },
-      "stem": "Mas o pecado maior contra a Civilização e o Progresso, contra o Bom Senso e o Bom Gosto e até os Bons Costumes, que estaria sendo cometido pelo grupo de regionalistas a quem se deve a ideia ou a organização deste Congresso, estaria em procurar reanimar não só a arte arcaica dos quitutes finos e caros em que se esmeraram, nas velhas casas patriarcais, algumas senhoras das mais ilustres famílias da região, e que está sendo esquecida pelos doces dos confeiteiros franceses e italianos, como a arte popular como a do barro, a do cesto, a da palha de Ouricuri, a de piaçava, a dos cachimbos e dos santos de pau, a das esteiras, a dos ex votos, a das redes, a das rendas e bicos, a dos brinquedos de meninos feitos de sabugo de milho, de canudo de mamão, de lata de doce de goiaba, de quenga de coco, de cabaça que é, no Nordeste, o preparado do doce, do bolo, do quitute de tabuleiro, feito por mãos negras e pardas com uma perícia que iguala, e às vezes excede, a das sinhás brancas. Gilberto Freyre. Manifesto regionalista (7ª ed.). Recife: FUNDAJ, Ed. Massangana, 1996. De acordo com o texto de Gilberto Freyre, o Manifesto regionalista, publicado em 1926, a) opunha se ao cosmopolitismo dos modernistas, especialmente por refutar a alteração nos hábitos alimentares nordestinos. b) traduzia um projeto político centralizador e antidemocrático associado ao retorno de instituições monárquicas. c) exaltava os valores utilitaristas do moderno capitalismo industrial, pois reconhecia a importância da tradição agrária brasileira. d) preconizava a defesa do mandonismo político e da integração de brancos e negros sob a forma da democracia racial. e) promovia o desenvolvimento de uma cultura brasileira autêntica pelo retorno a seu passado e a suas tradições e riquezas locais. V PAG 10 Caderno",
+      "stem": "Mas o pecado maior contra a Civilização e o Progresso, contra o Bom Senso e o Bom Gosto e até os Bons Costumes, que estaria sendo cometido pelo grupo de regionalistas a quem se deve a ideia ou a organização deste Congresso, estaria em procurar reanimar não só a arte arcaica dos quitutes finos e caros em que se esmeraram, nas velhas casas patriarcais, algumas senhoras das mais ilustres famílias da região, e que está sendo esquecida pelos doces dos confeiteiros franceses e italianos, como a arte popular como a do barro, a do cesto, a da palha de Ouricuri, a de piaçava, a dos cachimbos e dos santos de pau, a das esteiras, a dos ex votos, a das redes, a das rendas e bicos, a dos brinquedos de meninos feitos de sabugo de milho, de canudo de mamão, de lata de doce de goiaba, de quenga de coco, de cabaça que é, no Nordeste, o preparado do doce, do bolo, do quitute de tabuleiro, feito por mãos negras e pardas com uma perícia que iguala, e às vezes excede, a das sinhás brancas. Gilberto Freyre. Manifesto regionalista (7ª ed.). Recife: FUNDAJ, Ed. Massangana, 1996. De acordo com o texto de Gilberto Freyre, o Manifesto regionalista, publicado em 1926,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "opunha se ao cosmopolitismo dos modernistas, especialmente por refutar a alteração nos hábitos alimentares nordestinos."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "traduzia um projeto político centralizador e antidemocrático associado ao retorno de instituições monárquicas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "exaltava os valores utilitaristas do moderno capitalismo industrial, pois reconhecia a importância da tradição agrária brasileira."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "preconizava a defesa do mandonismo político e da integração de brancos e negros sob a forma da democracia racial."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "promovia o desenvolvimento de uma cultura brasileira autêntica pelo retorno a seu passado e a suas tradições e riquezas locais."
         }
       ],
       "answer": {
@@ -1711,27 +1711,27 @@
         "w": 848,
         "h": 1499
       },
-      "stem": "Não nos esqueçamos de que este é um tempo de abertura. Vivemos sob o signo da anistia que é esquecimento, ou devia ser. Tempo que pede contenção e paciência. Sofremos todo ímpeto agressivo. Adocemos os gestos. O tempo é de perdão. (...) Esqueçamos tudo isto, mas cuidado! Não nos esqueçamos de enfrentar, agora, a tarefa em que fracassamos ontem e que deu lugar a tudo isto. Não nos esqueçamos de organizar a defesa das instituições democráticas contra novos golpistas militares e civis para que em tempo algum do futuro ninguém tenha outra vez de enfrentar e sofrer, e depois esquecer os conspiradores, os torturadores, os censores e todos os culpados e coniventes que beberam nosso sangue e pedem nosso esquecimento. Darcy Ribeiro. “Réquiem”, Ensaios insólitos. Porto Alegre: L&PM, 1979. O texto remete à anistia e à reflexão sobre os impasses da abertura política no Brasil, no período final do regime militar, implantado com o golpe de 1964. Com base nessas referências, escolha a alternativa correta. a) A presença de censores na redação dos jornais somente foi extinta em 1988, quando promulgada a nova Constituição. b) O projeto de lei pela anistia ampla, geral e irrestrita foi uma proposta defendida pelos militares como forma de apaziguar os atos de exceção. c) Durante a transição democrática, foram conquistados o bipartidarismo, as eleições livres e gerais e a convocação da Assembleia Constituinte. d) A lei de anistia aprovada pelo Congresso beneficiou presos políticos e exilados, e também agentes da repressão. e) O esquecimento e o perdão mencionados integravam a pauta da Teologia da Libertação, uma importante diretriz da Igreja Católica. V G 10/28 V 10010001 derno Reserva 10 4 0",
+      "stem": "Não nos esqueçamos de que este é um tempo de abertura. Vivemos sob o signo da anistia que é esquecimento, ou devia ser. Tempo que pede contenção e paciência. Sofremos todo ímpeto agressivo. Adocemos os gestos. O tempo é de perdão. (...) Esqueçamos tudo isto, mas cuidado! Não nos esqueçamos de enfrentar, agora, a tarefa em que fracassamos ontem e que deu lugar a tudo isto. Não nos esqueçamos de organizar a defesa das instituições democráticas contra novos golpistas militares e civis para que em tempo algum do futuro ninguém tenha outra vez de enfrentar e sofrer, e depois esquecer os conspiradores, os torturadores, os censores e todos os culpados e coniventes que beberam nosso sangue e pedem nosso esquecimento. Darcy Ribeiro. “Réquiem”, Ensaios insólitos. Porto Alegre: L&PM, 1979. O texto remete à anistia e à reflexão sobre os impasses da abertura política no Brasil, no período final do regime militar, implantado com o golpe de 1964. Com base nessas referências, escolha a alternativa correta.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A presença de censores na redação dos jornais somente foi extinta em 1988, quando promulgada a nova Constituição."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "O projeto de lei pela anistia ampla, geral e irrestrita foi uma proposta defendida pelos militares como forma de apaziguar os atos de exceção."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Durante a transição democrática, foram conquistados o bipartidarismo, as eleições livres e gerais e a convocação da Assembleia Constituinte."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "A lei de anistia aprovada pelo Congresso beneficiou presos políticos e exilados, e também agentes da repressão."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O esquecimento e o perdão mencionados integravam a pauta da Teologia da Libertação, uma importante diretriz da Igreja Católica. V G 10/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -1764,27 +1764,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Um elemento essencial para a evolução da dieta humana foi a transição para a agricultura como o modo primordial de subsistência. A Revolução Neolítica estreitou dramaticamente o nicho alimentar ao diminuir a variedade de mantimentos disponíveis; com a virada para a agricultura intensiva, houve um claro declínio na nutrição humana. Por sua vez, a industrialização recente do sistema alimentar mundial resultou em uma outra transição nutricional, na qual as nações em desenvolvimento estão experimentando, simultaneamente, subnutrição e obesidade. George J. Armelagos, “Brain Evolution, the Determinates of Food Choice, and the Omnivore’s Dilemma”, Critical Reviews in Food Science and Nutrition, 2014. Adaptado. A respeito dos resultados das transformações nos sistemas alimentares descritas pelo autor, é correto afirmar: a) A quantidade absoluta de mantimentos disponíveis para as sociedades humanas diminuiu após a Revolução Neolítica. b) A invenção da agricultura, ao diversificar a cesta de mantimentos, melhorou o balanço nutricional das sociedades sedentárias. c) Os ganhos de produtividade agrícola obtidos com as revoluções Neolítica e Industrial trouxeram simplificação das dietas alimentares. d) As populações das nações em desenvolvimento estão sofrendo com a obesidade, por consumirem alimentos de melhor qualidade nutricional. e) A dieta humana pouco variou ao longo do tempo, mantendo se inalterada da Revolução Neolítica à Revolução Industrial. V PAG 11 Caderno",
+      "stem": "Um elemento essencial para a evolução da dieta humana foi a transição para a agricultura como o modo primordial de subsistência. A Revolução Neolítica estreitou dramaticamente o nicho alimentar ao diminuir a variedade de mantimentos disponíveis; com a virada para a agricultura intensiva, houve um claro declínio na nutrição humana. Por sua vez, a industrialização recente do sistema alimentar mundial resultou em uma outra transição nutricional, na qual as nações em desenvolvimento estão experimentando, simultaneamente, subnutrição e obesidade. George J. Armelagos, “Brain Evolution, the Determinates of Food Choice, and the Omnivore’s Dilemma”, Critical Reviews in Food Science and Nutrition, 2014. Adaptado. A respeito dos resultados das transformações nos sistemas alimentares descritas pelo autor, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A quantidade absoluta de mantimentos disponíveis para as sociedades humanas diminuiu após a Revolução Neolítica."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "A invenção da agricultura, ao diversificar a cesta de mantimentos, melhorou o balanço nutricional das sociedades sedentárias."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os ganhos de produtividade agrícola obtidos com as revoluções Neolítica e Industrial trouxeram simplificação das dietas alimentares."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "As populações das nações em desenvolvimento estão sofrendo com a obesidade, por consumirem alimentos de melhor qualidade nutricional."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "A dieta humana pouco variou ao longo do tempo, mantendo se inalterada da Revolução Neolítica à Revolução Industrial."
         }
       ],
       "answer": {
@@ -1817,27 +1817,27 @@
         "w": 848,
         "h": 1264
       },
-      "stem": "Várias cidades europeias sofreram inundações em 2016. A inund mais de 6 metros, mas não ultrapassou a inundação histórica de As figuras mostram as transformações do curso do rio Sena e d Neolítico até os dias atuais. De acordo com as informações apresentadas, é correto afirmar: a) Ao se compararem as inundações ocorridas em 2016 e em 19 ausência, à época, de tecnologia que eliminasse a ascensão d b) As inundações excepcionais que ocorrem no sítio urbano d fluvial do rio Sena, agravadas com a ocupação humana de s anastomosado para meandrante. c) A instalação do homem às margens do rio Sena alterou a prec no curso fluvial, o que dificultou a infiltração das águas, provo d) As inundações excepcionais do sítio urbano de Paris vêm oco às margens do rio Sena, transformando drasticamente a paisa anastomosado para retilíneo. e) Na observação das alterações do curso do rio Sena ao longo d à Idade Média, enquanto que, da Idade Média aos dias atuai constante a densidade de ocupação. 36",
+      "stem": "Várias cidades europeias sofreram inundações em 2016. A inund mais de 6 metros, mas não ultrapassou a inundação histórica de As figuras mostram as transformações do curso do rio Sena e d Neolítico até os dias atuais. De acordo com as informações apresentadas, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Ao se compararem as inundações ocorridas em 2016 e em 19 ausência, à época, de tecnologia que eliminasse a ascensão d"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "As inundações excepcionais que ocorrem no sítio urbano d fluvial do rio Sena, agravadas com a ocupação humana de s anastomosado para meandrante."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A instalação do homem às margens do rio Sena alterou a prec no curso fluvial, o que dificultou a infiltração das águas, provo"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "As inundações excepcionais do sítio urbano de Paris vêm oco às margens do rio Sena, transformando drasticamente a paisa anastomosado para retilíneo."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Na observação das alterações do curso do rio Sena ao longo d à Idade Média, enquanto que, da Idade Média aos dias atuai constante a densidade de ocupação."
         }
       ],
       "answer": {
@@ -1923,27 +1923,27 @@
         "w": 848,
         "h": 1027
       },
-      "stem": "Anamorfose geográfica representa superfícies dos países em áre Observe as seguintes anamorfoses: Nas alternativas apresentadas, os títulos que identificam de form anamorfoses I e II são, respectivamente: a) Transporte aéreo e Transporte ferroviário. b) População urbana e População rural. c) População total e Produto Interno Bruto. d) Ocorrência de HIV e Ocorrência de malária. e) Exportação de armas e Importação de armas. 38",
+      "stem": "Anamorfose geográfica representa superfícies dos países em áre Observe as seguintes anamorfoses: Nas alternativas apresentadas, os títulos que identificam de form anamorfoses I e II são, respectivamente:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Transporte aéreo e Transporte ferroviário."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "População urbana e População rural."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "População total e Produto Interno Bruto."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Ocorrência de HIV e Ocorrência de malária."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Exportação de armas e Importação de armas."
         }
       ],
       "answer": {
@@ -1976,27 +1976,27 @@
         "w": 848,
         "h": 1242
       },
-      "stem": "Em 2015, os Estados Unidos (EUA), país que não é membro da OPEP, tornaram se o maior produtor mundial de petróleo, superando grandes produtores históricos mundiais, de acordo com a publicação Statistical Review of World Energy (BP) 2015. Sobre essa fonte de energia, é correto afirmar: a) A queda da oferta de petróleo, em 2015, pelos países não membros da OPEP é resultado do uso de fontes de energia alternativas, como os biocombustíveis, e também da expansão das termelétricas. b) O Brasil, país que não é membro da OPEP, destaca se pela exploração de jazidas de petróleo em rochas vulcânicas do embasamento cristalino do pré sal. c) O crescimento da produção de petróleo nos EUA, que levou esse país à condição de maior produtor mundial em 2015, deu se pela exploração das jazidas de óleo de xisto. d) A elevação da produção de petróleo em países da OPEP, como Arábia Saudita, Rússia e China, é resultado da alta dos preços dessa commodity em 2015. e) A exploração das jazidas de óleo de xisto do subsolo oceânico foram fatores para a industrialização de países, como México, Japão e EUA. V PAG 13 Caderno",
+      "stem": "Em 2015, os Estados Unidos (EUA), país que não é membro da OPEP, tornaram se o maior produtor mundial de petróleo, superando grandes produtores históricos mundiais, de acordo com a publicação Statistical Review of World Energy (BP) 2015. Sobre essa fonte de energia, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A queda da oferta de petróleo, em 2015, pelos países não membros da OPEP é resultado do uso de fontes de energia alternativas, como os biocombustíveis, e também da expansão das termelétricas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "O Brasil, país que não é membro da OPEP, destaca se pela exploração de jazidas de petróleo em rochas vulcânicas do embasamento cristalino do pré sal."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "O crescimento da produção de petróleo nos EUA, que levou esse país à condição de maior produtor mundial em 2015, deu se pela exploração das jazidas de óleo de xisto."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "A elevação da produção de petróleo em países da OPEP, como Arábia Saudita, Rússia e China, é resultado da alta dos preços dessa commodity em 2015."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "A exploração das jazidas de óleo de xisto do subsolo oceânico foram fatores para a industrialização de países, como México, Japão e EUA."
         }
       ],
       "answer": {
@@ -2029,27 +2029,27 @@
         "w": 848,
         "h": 1242
       },
-      "stem": "A figura mostra corte transversal A B em área serrana embasada por rochas metamórficas entre os municípios de Apiaí e Iporanga, no Vale do Ribeira, sul do estado de São Paulo. As rochas representadas são de idade pré cambriana e formam estruturas em um sistema de a) soleiras e diques. b) dobras anticlinais e sinclinais. c) plataformas e bacias sedimentares. d) intrusões e extrusões. e) falhas verticais e horizontais. V G 13/28 V 10010001 derno Reserva 13 0 1",
+      "stem": "A figura mostra corte transversal A B em área serrana embasada por rochas metamórficas entre os municípios de Apiaí e Iporanga, no Vale do Ribeira, sul do estado de São Paulo. As rochas representadas são de idade pré cambriana e formam estruturas em um sistema de",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "soleiras e diques."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "dobras anticlinais e sinclinais."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "plataformas e bacias sedimentares."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "intrusões e extrusões."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "falhas verticais e horizontais. V G 13/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -2082,27 +2082,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Segundo relatório do Painel Intergovernamental de Mudanças Climáticas (IPCC), inúmeras gigatoneladas de gases do efeito estufa de origem antropogênica (oriundos de atividades humanas) vêm sendo lançadas na atmosfera há séculos. A figura mostra as emissões em 2010 por setor econômico. Com base na figura e em seus conhecimentos, aponte a afirmação correta. a) Os setores econômicos de Construção e Produção de outras energias, juntos, possuem menores emissões de gases do efeito estufa antropogênicos do que o setor de Transporte, tendo como principal exemplo ocorrências no sudeste asiático. b) As maiores emissões de CH4 de origem antropogênica devem se ao setor econômico da Agricultura e outros usos da terra, em razão das queimadas, principalmente no Brasil e em países africanos. c) As maiores emissões de gases do efeito estufa de origem antropogênica vinculadas à Produção de eletricidade e calor ocorrem nos países de baixo IDH, pois estes não possuem políticas ambientais definidas. d) Um quarto do conjunto de gases do efeito estufa de origem antropogênica lançados na atmosfera é proveniente do setor econômico de Produção de eletricidade e calor, em que predomina a emissão do CO2, ocorrendo com grande intensidade nos EUA e na China. e) A Indústria possui parcela significativa na emissão de gases do efeito estufa de origem antropogênica, na qual o N2O é o componente majoritário na produção em refinarias de petróleo do Oriente Médio e da Rússia. V PAG 14 Caderno",
+      "stem": "Segundo relatório do Painel Intergovernamental de Mudanças Climáticas (IPCC), inúmeras gigatoneladas de gases do efeito estufa de origem antropogênica (oriundos de atividades humanas) vêm sendo lançadas na atmosfera há séculos. A figura mostra as emissões em 2010 por setor econômico. Com base na figura e em seus conhecimentos, aponte a afirmação correta.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os setores econômicos de Construção e Produção de outras energias, juntos, possuem menores emissões de gases do efeito estufa antropogênicos do que o setor de Transporte, tendo como principal exemplo ocorrências no sudeste asiático."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "As maiores emissões de CH4 de origem antropogênica devem se ao setor econômico da Agricultura e outros usos da terra, em razão das queimadas, principalmente no Brasil e em países africanos."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "As maiores emissões de gases do efeito estufa de origem antropogênica vinculadas à Produção de eletricidade e calor ocorrem nos países de baixo IDH, pois estes não possuem políticas ambientais definidas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Um quarto do conjunto de gases do efeito estufa de origem antropogênica lançados na atmosfera é proveniente do setor econômico de Produção de eletricidade e calor, em que predomina a emissão do CO2, ocorrendo com grande intensidade nos EUA e na China."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "A Indústria possui parcela significativa na emissão de gases do efeito estufa de origem antropogênica, na qual o N2O é o componente majoritário na produção em refinarias de petróleo do Oriente Médio e da Rússia."
         }
       ],
       "answer": {
@@ -2135,27 +2135,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Em 1932, o Estado Brasileiro instalou campos de concentração de flagelados no Ceará, desde a região do Cariri até Fortaleza, destinados a isolar os retirantes que saíam do interior. No total, esses campos chegaram a concentrar mais de 73 mil pessoas vivendo sob condições precárias. Sobre o tema das secas no Nordeste, é correto afirmar que a) o chamado “Polígono das Secas”, abrangendo a Zona da Mata, desde a Bahia até o Maranhão, foi oficialmente demarcado nos anos 1930, no contexto da grande seca. b) grandes levas de retirantes flagelados do Ceará saíam do sertão e se direcionavam ao agreste nordestino, em busca de trabalho nos canaviais, ou às capitais do Sudeste, à procura de emprego no comércio. c) o projeto de transposição de águas do rio São Francisco, implantado na atualidade como medida de combate à seca, resultará em desassoreamento desse canal fluvial. d) a ocorrência de campos para flagelados explica se pela ausência de políticas de combate às secas, implantadas apenas em 1960 pela Sudene Superintendência de Desenvolvimento do Nordeste. e) a explicação do fenômeno de migração para as cidades como decorrente da pobreza no sertão e exclusivamente relacionada à seca é insuficiente, pois omite a lógica da concentração fundiária e suas consequências. V G 14/28 V 10010001 derno Reserva 14 2 8",
+      "stem": "Em 1932, o Estado Brasileiro instalou campos de concentração de flagelados no Ceará, desde a região do Cariri até Fortaleza, destinados a isolar os retirantes que saíam do interior. No total, esses campos chegaram a concentrar mais de 73 mil pessoas vivendo sob condições precárias. Sobre o tema das secas no Nordeste, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "o chamado “Polígono das Secas”, abrangendo a Zona da Mata, desde a Bahia até o Maranhão, foi oficialmente demarcado nos anos 1930, no contexto da grande seca."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "grandes levas de retirantes flagelados do Ceará saíam do sertão e se direcionavam ao agreste nordestino, em busca de trabalho nos canaviais, ou às capitais do Sudeste, à procura de emprego no comércio."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "o projeto de transposição de águas do rio São Francisco, implantado na atualidade como medida de combate à seca, resultará em desassoreamento desse canal fluvial."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "a ocorrência de campos para flagelados explica se pela ausência de políticas de combate às secas, implantadas apenas em 1960 pela Sudene Superintendência de Desenvolvimento do Nordeste."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "a explicação do fenômeno de migração para as cidades como decorrente da pobreza no sertão e exclusivamente relacionada à seca é insuficiente, pois omite a lógica da concentração fundiária e suas consequências. V G 14/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -2188,27 +2188,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "O desmatamento atual na Amazônia cresceu em relação a 2015. Metade da área devastada fica no estado do Pará, atingindo áreas privadas ou de posse, sendo ainda registrados focos em unidades de conservação, assentamentos de reforma agrária e terras indígenas. Imazon. Boletim do desmatamento da Amazônia Legal, 2016. Adaptado. Tal situação coloca em risco o compromisso firmado pelo Brasil na 21ª Conferência das Nações Unidas sobre Mudança Climática (COP 21), ocorrida em 2015. O desmatamento na Amazônia tem raízes históricas ligadas a processos que ocorrem desde 1970. Com base nos dados e em seus conhecimentos, aponte a afirmação correta. a) O desmatamento, apesar de atingir áreas de unidades de conservação, que incluem florestas, parques nacionais e terras indígenas, viabiliza a ampliação do número de assentamentos da reforma agrária. b) As grandes obras privadas implantadas na Amazônia valorizam as terras, atraindo enorme contingente populacional, que por sua vez origina regiões metropolitanas que degradam a floresta. c) A grilagem de terras em regiões de grandes projetos de infraestrutura, a extração ilegal de madeira e a construção de rodovias estão entre as causas do desmatamento na Amazônia. d) A extração ilegal de madeira na Amazônia vem sendo monitorada por países estrangeiros devido às exigências na COP 21, pois eles são os maiores beneficiários dos acordos da Conferência. e) Os grandes projetos de infraestrutura causam degradação da floresta amazônica, com intensidade moderada e temporária, auxiliando a regularização fundiária. V PAG 15 Caderno",
+      "stem": "O desmatamento atual na Amazônia cresceu em relação a 2015. Metade da área devastada fica no estado do Pará, atingindo áreas privadas ou de posse, sendo ainda registrados focos em unidades de conservação, assentamentos de reforma agrária e terras indígenas. Imazon. Boletim do desmatamento da Amazônia Legal, 2016. Adaptado. Tal situação coloca em risco o compromisso firmado pelo Brasil na 21ª Conferência das Nações Unidas sobre Mudança Climática (COP 21), ocorrida em 2015. O desmatamento na Amazônia tem raízes históricas ligadas a processos que ocorrem desde 1970. Com base nos dados e em seus conhecimentos, aponte a afirmação correta.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "O desmatamento, apesar de atingir áreas de unidades de conservação, que incluem florestas, parques nacionais e terras indígenas, viabiliza a ampliação do número de assentamentos da reforma agrária."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "As grandes obras privadas implantadas na Amazônia valorizam as terras, atraindo enorme contingente populacional, que por sua vez origina regiões metropolitanas que degradam a floresta."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A grilagem de terras em regiões de grandes projetos de infraestrutura, a extração ilegal de madeira e a construção de rodovias estão entre as causas do desmatamento na Amazônia."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "A extração ilegal de madeira na Amazônia vem sendo monitorada por países estrangeiros devido às exigências na COP 21, pois eles são os maiores beneficiários dos acordos da Conferência."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os grandes projetos de infraestrutura causam degradação da floresta amazônica, com intensidade moderada e temporária, auxiliando a regularização fundiária."
         }
       ],
       "answer": {
@@ -2241,27 +2241,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Em 1948, quando começaram a demolir as casas térreas para construir os edifícios, nós, os pobres, que residíamos nas habitações coletivas, fomos despejados e ficamos residindo debaixo das pontes. É por isso que eu denomino a favela como o quarto de despejo de uma cidade. Carolina Maria de Jesus, escritora e moradora da Favela do Canindé, nos anos 1950. Quarto de despejo. Adaptado. Levando em conta o texto e o mapa, considere as seguintes afirmações: I. O custo da moradia em áreas mais valorizadas e a desigualdade social são fatores que explicam a grande concentração do número de favelas nas áreas periféricas do sul e do norte do município, de 1960 a 1980. II. A favela é definida como uma forma de moradia precária devido à existência de elevadas taxas de analfabetismo e baixos índices de desenvolvimento humano de sua população, fatores predominantes na região central da cidade até 1980. III. Em todas as regiões do município, o maior crescimento do número de favelas se deu de 1981 a 1990, em função da saída e do fechamento de indústrias e da crise econômica que levaram ao desemprego. Está correto o que se afirma em a) I, apenas. b) II, apenas. c) I e III, apenas. d) II e III, apenas. e) I, II e III. V G 15/28 V 10010001 derno Reserva 15 4 5",
+      "stem": "Em 1948, quando começaram a demolir as casas térreas para construir os edifícios, nós, os pobres, que residíamos nas habitações coletivas, fomos despejados e ficamos residindo debaixo das pontes. É por isso que eu denomino a favela como o quarto de despejo de uma cidade. Carolina Maria de Jesus, escritora e moradora da Favela do Canindé, nos anos 1950. Quarto de despejo. Adaptado. Levando em conta o texto e o mapa, considere as seguintes afirmações: I. O custo da moradia em áreas mais valorizadas e a desigualdade social são fatores que explicam a grande concentração do número de favelas nas áreas periféricas do sul e do norte do município, de 1960 a 1980. II. A favela é definida como uma forma de moradia precária devido à existência de elevadas taxas de analfabetismo e baixos índices de desenvolvimento humano de sua população, fatores predominantes na região central da cidade até 1980. III. Em todas as regiões do município, o maior crescimento do número de favelas se deu de 1981 a 1990, em função da saída e do fechamento de indústrias e da crise econômica que levaram ao desemprego. Está correto o que se afirma em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, apenas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "II, apenas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e III, apenas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III, apenas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, II e III. V G 15/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -2294,27 +2294,27 @@
         "w": 848,
         "h": 1080
       },
-      "stem": "O período que vai de 1956 a 1967 é considerado como a primeira fase da industrialização pesada no Brasil. Barjas Negri. Concentração e desconcentração industrial em São Paulo 1880 1990. Campinas: Unicamp, 1996. Sobre as características da industrialização brasileira no período de 1956 a 1967, é correto afirmar que a) houve uma associação entre investimentos no setor estatal e a entrada de capital estrangeiro, que propiciaram a instalação de plantas produtoras de bens de capital. b) a instituição do Plano de Metas, que teve como principal finalidade incrementar a incipiente industrialização do Rio de Janeiro e de São Paulo, marcou politicamente esse momento do processo. c) partiu do Estado Brasileiro, de caráter fortemente centralizador e nacionalista, a criação das condições para a nascente indústria têxtil que se instalava no país, por meio de diversos incentivos e isenções fiscais. d) ocorreu a implantação de multinacionais do setor automobilístico, que se concentraram em São Paulo, principalmente ao longo do eixo da Estrada de Ferro Santos Jundiaí, em direção a Ribeirão Preto. e) se trata de uma fase marcada pela política de “substituição de importações”, uma vez que se deu um incremento da indústria nacional, pela abundância de mão de obra. 46 Programa de Despoluição d",
+      "stem": "O período que vai de 1956 a 1967 é considerado como a primeira fase da industrialização pesada no Brasil. Barjas Negri. Concentração e desconcentração industrial em São Paulo 1880 1990. Campinas: Unicamp, 1996. Sobre as características da industrialização brasileira no período de 1956 a 1967, é correto afirmar que",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "houve uma associação entre investimentos no setor estatal e a entrada de capital estrangeiro, que propiciaram a instalação de plantas produtoras de bens de capital."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "a instituição do Plano de Metas, que teve como principal finalidade incrementar a incipiente industrialização do Rio de Janeiro e de São Paulo, marcou politicamente esse momento do processo."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "partiu do Estado Brasileiro, de caráter fortemente centralizador e nacionalista, a criação das condições para a nascente indústria têxtil que se instalava no país, por meio de diversos incentivos e isenções fiscais."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "ocorreu a implantação de multinacionais do setor automobilístico, que se concentraram em São Paulo, principalmente ao longo do eixo da Estrada de Ferro Santos Jundiaí, em direção a Ribeirão Preto."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "se trata de uma fase marcada pela política de “substituição de importações”, uma vez que se deu um incremento da indústria nacional, pela abundância de mão de obra. 46 Programa de Despoluição d"
         }
       ],
       "answer": {
@@ -2347,27 +2347,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Em julho de 2016, a Unesco reconheceu o conjunto da Pampulha, situado em Belo Horizonte (MG), como patrimônio cultural da humanidade, em função de sua importância como exemplar de arquitetura moderna. No Brasil, há outros exemplos de patrimônio da humanidade reconhecidos pela Unesco. O patrimônio da humanidade situado no Brasil, cuja localização, bioma e importância estão corretamente identificados, é: Patrimônio Localização Bioma Importância Sítio Parque arqueológico a) Nacional do Paraná Pampa (pintura Iguaçu rupestre) Parque Nacional de Sítio natural b) Pernambuco Caatinga Monte científico Pascoal Centro Arquitetura c) Histórico de Goiás Pampa colonial/barroca Diamantina Parque Sítio Nacional arqueológico d) Piauí Caatinga Serra da (pintura Capivara rupestre) Ruínas de Santa Arquitetura e) São Miguel Cerrado Catarina colonial/barroca das Missões ão da Baía de Guanabara (PDBG) – Esquema simplificado encontra se no sudeste da Baía de Guanabara, pois possui maior atamento de esgoto. o das águas, poluição essa causada pela introdução de substâncias as naturais no ambiente aquático existente. o de as ETEs existentes reciclarem apenas o lodo proveniente dos s sem tratamento no mar. na Baía de Guanabara, tais como plásticos, latas e óleos, acaba o a taxa de oxigênio dissolvido na água. ação dos fungos lançados no mar, principalmente aqueles gerados V G 16/28 V 10010001 derno Reserva 16 6 2",
+      "stem": "Em julho de 2016, a Unesco reconheceu o conjunto da Pampulha, situado em Belo Horizonte (MG), como patrimônio cultural da humanidade, em função de sua importância como exemplar de arquitetura moderna. No Brasil, há outros exemplos de patrimônio da humanidade reconhecidos pela Unesco. O patrimônio da humanidade situado no Brasil, cuja localização, bioma e importância estão corretamente identificados, é: Patrimônio Localização Bioma Importância Sítio Parque arqueológico",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Nacional do Paraná Pampa Iguaçu Parque Nacional de Sítio natural"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Pernambuco Caatinga Monte científico Pascoal Centro"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Histórico de Goiás Pampa Diamantina Parque Sítio Nacional arqueológico"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Piauí Caatinga Serra da (pintura Capivara rupestre) Ruínas de"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "São Miguel Cerrado das Missões ão da Baía de Guanabara (PDBG) – Esquema simplificado encontra se no sudeste da Baía de Guanabara, pois possui maior atamento de esgoto. o das águas, poluição essa causada pela introdução de substâncias as naturais no ambiente aquático existente. o de as ETEs existentes reciclarem apenas o lodo proveniente dos s sem tratamento no mar. na Baía de Guanabara, tais como plásticos, latas e óleos, acaba o a taxa de oxigênio dissolvido na água. ação dos fungos lançados no mar, principalmente aqueles gerados V G 16/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -2400,27 +2400,27 @@
         "w": 848,
         "h": 1194
       },
-      "stem": "Programa de Despoluição d Leia o texto e observe a ilustração. O Programa de Despoluição da Baía de Guanabara – PDBG – foi concebido para melhorar as condições sanitárias e ambientais da Região Metropolitana do Rio de Janeiro. Verifique a distribuição, a situação e as fases de operação das Estações de Tratamento de Esgoto (ETEs) do PDBG. Considerando essas informações, é correto afirmar: a) A área mais atendida em relação à mitigação da poluição enco número de estações que atuam em todos os níveis de tratam b) O tratamento do esgoto objetiva a diminuição da poluição das artificiais ou pelo aumento da concentração de substâncias n c) A Baía de Guanabara encontra se ainda poluída, em razão de dejetos, sendo os materiais do nível primário despejados sem d) A elevada concentração de resíduos sólidos despejados na B por provocar intensa eutrofização das águas, aumentando a t e) O tratamento de esgoto existente concentra se na eliminação pelos dejetos de origem industrial. V PAG 16 Caderno",
+      "stem": "Programa de Despoluição d Leia o texto e observe a ilustração. O Programa de Despoluição da Baía de Guanabara – PDBG – foi concebido para melhorar as condições sanitárias e ambientais da Região Metropolitana do Rio de Janeiro. Verifique a distribuição, a situação e as fases de operação das Estações de Tratamento de Esgoto (ETEs) do PDBG. Considerando essas informações, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A área mais atendida em relação à mitigação da poluição enco número de estações que atuam em todos os níveis de tratam"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "O tratamento do esgoto objetiva a diminuição da poluição das artificiais ou pelo aumento da concentração de substâncias n"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A Baía de Guanabara encontra se ainda poluída, em razão de dejetos, sendo os materiais do nível primário despejados sem"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "A elevada concentração de resíduos sólidos despejados na B por provocar intensa eutrofização das águas, aumentando a t"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O tratamento de esgoto existente concentra se na eliminação pelos dejetos de origem industrial."
         }
       ],
       "answer": {
@@ -2453,27 +2453,27 @@
         "w": 848,
         "h": 886
       },
-      "stem": "Procurando bem Todo mundo tem pereba Marca de bexiga ou vacina E tem piriri, tem lombriga, tem ameba Só a bailarina que não tem Edu Lobo e Chico Buarque, Ciranda da bailarina. A bailarina dos versos não contrai as doenças causadas por dois parasitas de importância para a saúde pública: a lombriga (Ascaris lumbricoides) e a ameba (Entamoeba histolytica). Todo mundo, porém, pode se prevenir contra essas parasitoses, quando a) não nada em lagos em que haja caramujos e possibilidade de contaminação com esgoto. b) lava muito bem vegetais e frutas antes de ingeri los crus. c) utiliza calçados ao andar sobre solos em que haja possibilidade de contaminação com esgoto. d) evita picada de artrópodes que transmitem esses parasitas. e) não ingere carne bovina ou suína contaminada pelos ovos da lombriga e da ameba. 48",
+      "stem": "Procurando bem Todo mundo tem pereba Marca de bexiga ou vacina E tem piriri, tem lombriga, tem ameba Só a bailarina que não tem Edu Lobo e Chico Buarque, Ciranda da bailarina. A bailarina dos versos não contrai as doenças causadas por dois parasitas de importância para a saúde pública: a lombriga (Ascaris lumbricoides) e a ameba (Entamoeba histolytica). Todo mundo, porém, pode se prevenir contra essas parasitoses, quando",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "não nada em lagos em que haja caramujos e possibilidade de contaminação com esgoto."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "lava muito bem vegetais e frutas antes de ingeri los crus."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "utiliza calçados ao andar sobre solos em que haja possibilidade de contaminação com esgoto."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "evita picada de artrópodes que transmitem esses parasitas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "não ingere carne bovina ou suína contaminada pelos ovos da lombriga e da ameba."
         }
       ],
       "answer": {
@@ -2506,27 +2506,27 @@
         "w": 848,
         "h": 1379
       },
-      "stem": "A figura representa a estrutura de três populações de plantas arbóreas, A, B e C, por meio de pirâmides etárias. O comprimento das barras horizontais corresponde ao número de indivíduos da população em cada estágio, desde planta recém germinada (plântula) até planta senescente. A população que apresenta maior risco de extinção, a população que está em equilíbrio quanto à perda de indivíduos e a população que está começando a se expandir são, respectivamente, a) A, B, C. b) A, C, B. c) B, A, C. d) B, C, A. e) C, A, B. V PAG 17 Caderno",
+      "stem": "A figura representa a estrutura de três populações de plantas arbóreas, A, B e C, por meio de pirâmides etárias. O comprimento das barras horizontais corresponde ao número de indivíduos da população em cada estágio, desde planta recém germinada (plântula) até planta senescente. A população que apresenta maior risco de extinção, a população que está em equilíbrio quanto à perda de indivíduos e a população que está começando a se expandir são, respectivamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A, B, C."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "A, C, B."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "B, A, C."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "B, C, A."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "C, A, B."
         }
       ],
       "answer": {
@@ -2612,27 +2612,27 @@
         "w": 848,
         "h": 469
       },
-      "stem": "Assinale a alternativa que ordena corretamente três novidades evolutivas, de acordo com o seu surgimento no processo de evolução das plantas terrestres. a) Sistema vascular, semente, flor. b) Sistema vascular, flor, semente. c) Semente, sistema vascular, flor. d) Semente, flor, sistema vascular. e) Flor, sistema vascular, semente. 51",
+      "stem": "Assinale a alternativa que ordena corretamente três novidades evolutivas, de acordo com o seu surgimento no processo de evolução das plantas terrestres.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Sistema vascular, semente, flor."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Sistema vascular, flor, semente."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Semente, sistema vascular, flor."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Semente, flor, sistema vascular."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Flor, sistema vascular, semente."
         }
       ],
       "answer": {
@@ -2665,27 +2665,27 @@
         "w": 848,
         "h": 918
       },
-      "stem": "As moléculas de glicídios produzidas a partir da fotossíntese são utilizadas no local da produção ou transportadas, pelo floema, para utilização em outras partes da planta; são, ainda, convertidas em substância de reserva, que é armazenada. Aponte a alternativa que, corretamente, descreve o processo de transporte e o local de armazenamento dessas substâncias na planta. TRANSPORTE ARMAZENAMENTO Entrada Fluxo no floema no floema apenas nos órgãos a) transporte ativo unidirecional subterrâneos b) transporte ativo unidirecional em todos os órgãos c) transporte ativo bidirecional em todos os órgãos transporte d) bidirecional em todos os órgãos passivo transporte apenas nos órgãos e) unidirecional passivo subterrâneos V G 17/28 V 10010001 derno Reserva 17 8 9",
+      "stem": "As moléculas de glicídios produzidas a partir da fotossíntese são utilizadas no local da produção ou transportadas, pelo floema, para utilização em outras partes da planta; são, ainda, convertidas em substância de reserva, que é armazenada. Aponte a alternativa que, corretamente, descreve o processo de transporte e o local de armazenamento dessas substâncias na planta. TRANSPORTE ARMAZENAMENTO Entrada Fluxo no floema no floema apenas nos órgãos",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "transporte ativo unidirecional"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "transporte ativo unidirecional em todos os órgãos"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "transporte ativo bidirecional em todos os órgãos transporte"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "bidirecional em todos os órgãos passivo transporte apenas nos órgãos"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "unidirecional passivo subterrâneos V G 17/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -2718,27 +2718,27 @@
         "w": 848,
         "h": 617
       },
-      "stem": "Os primeiros vertebrados que conquistaram definitivamente o ambiente terrestre foram os I , que possuem II , aquisição evolutiva que permitiu o desenvolvimento do embrião fora da água. Indique a alternativa que completa corretamente essa frase. I II a) mamíferos anexos extraembrionários b) anfíbios ovo com casca impermeável c) anfíbios fertilização interna d) répteis ovo com casca impermeável e) répteis fertilização externa 53",
+      "stem": "Os primeiros vertebrados que conquistaram definitivamente o ambiente terrestre foram os I , que possuem II , aquisição evolutiva que permitiu o desenvolvimento do embrião fora da água. Indique a alternativa que completa corretamente essa frase. I II",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "mamíferos anexos extraembrionários"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "anfíbios ovo com casca impermeável"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "anfíbios fertilização interna"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "répteis ovo com casca impermeável"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "répteis fertilização externa"
         }
       ],
       "answer": {
@@ -2771,27 +2771,27 @@
         "w": 848,
         "h": 791
       },
-      "stem": "A reação da pessoa, ao pisar descalça sobre um espinho, é levantar o pé imediatamente, ainda antes de perceber que o pé está ferido. Analise as afirmações: I. Neurônios sensoriais são ativados, ao se pisar no espinho. II. Neurônios motores promovem o movimento coordenado para a retirada do pé. III. O sistema nervoso autônomo coordena o comportamento descrito. Está correto o que se afirma em a) I, II e III. b) I e II, apenas. c) I, apenas. d) II, apenas. e) III, apenas. 54",
+      "stem": "A reação da pessoa, ao pisar descalça sobre um espinho, é levantar o pé imediatamente, ainda antes de perceber que o pé está ferido. Analise as afirmações: I. Neurônios sensoriais são ativados, ao se pisar no espinho. II. Neurônios motores promovem o movimento coordenado para a retirada do pé. III. O sistema nervoso autônomo coordena o comportamento descrito. Está correto o que se afirma em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, II e III."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II, apenas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, apenas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "II, apenas."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "III, apenas."
         }
       ],
       "answer": {
@@ -2824,27 +2824,27 @@
         "w": 848,
         "h": 901
       },
-      "stem": "O DNA extranuclear (ou seja, de organelas citoplasmáticas) foi obtido de células somáticas de três organismos: uma planta, um fungo e um animal. Na tabela, qual das alternativas cita corretamente a procedência do DNA extranuclear obtido desses organismos? Planta Fungo Animal ribossomos e a) plastos ribossomos mitocôndrias plastos e plastos e b) ribossomos ribossomos ribossomos mitocôndrias ribossomos e c) mitocôndrias e plastos mitocôndrias mitocôndrias mitocôndrias d) mitocôndrias e plastos e plastos mitocôndrias e) mitocôndrias mitocôndrias e plastos V PAG 18 Caderno",
+      "stem": "O DNA extranuclear (ou seja, de organelas citoplasmáticas) foi obtido de células somáticas de três organismos: uma planta, um fungo e um animal. Na tabela, qual das alternativas cita corretamente a procedência do DNA extranuclear obtido desses organismos? Planta Fungo Animal ribossomos e",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "plastos ribossomos plastos e plastos e"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ribossomos ribossomos ribossomos"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "mitocôndrias mitocôndrias mitocôndrias"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "mitocôndrias e plastos e plastos mitocôndrias"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "mitocôndrias mitocôndrias e plastos"
         }
       ],
       "answer": {
@@ -2877,27 +2877,27 @@
         "w": 848,
         "h": 927
       },
-      "stem": "Recentemente, pesquisadores descobriram, no Brasil, uma larva de mosca que se alimenta das presas capturadas por uma planta carnívora chamada drósera. Essa planta, além do nitrogênio do solo, aproveita o nitrogênio proveniente das presas para a síntese proteica; já a síntese de carboidratos ocorre como nas demais plantas. As larvas da mosca, por sua vez, alimentam se dessas mesmas presas para obtenção da energia necessária a seus processos vitais. Com base nessas informações, é correto afirmar que a drósera a) e a larva da mosca são heterotróficas; a larva da mosca é um decompositor. b) e a larva da mosca são autotróficas; a drósera é um produtor. c) é heterotrófica e a larva da mosca é autotrófica; a larva da mosca é um consumidor. d) é autotrófica e a larva da mosca é heterotrófica; a drósera é um decompositor. e) é autotrófica e a larva da mosca é heterotrófica; a drósera é um produtor. 56",
+      "stem": "Recentemente, pesquisadores descobriram, no Brasil, uma larva de mosca que se alimenta das presas capturadas por uma planta carnívora chamada drósera. Essa planta, além do nitrogênio do solo, aproveita o nitrogênio proveniente das presas para a síntese proteica; já a síntese de carboidratos ocorre como nas demais plantas. As larvas da mosca, por sua vez, alimentam se dessas mesmas presas para obtenção da energia necessária a seus processos vitais. Com base nessas informações, é correto afirmar que a drósera",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "e a larva da mosca são heterotróficas; a larva da mosca é um decompositor."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "e a larva da mosca são autotróficas; a drósera é um produtor."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "é heterotrófica e a larva da mosca é autotrófica; a larva da mosca é um consumidor."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "é autotrófica e a larva da mosca é heterotrófica; a drósera é um decompositor."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "é autotrófica e a larva da mosca é heterotrófica; a drósera é um produtor."
         }
       ],
       "answer": {
@@ -2930,27 +2930,27 @@
         "w": 848,
         "h": 1338
       },
-      "stem": "O esquema representa, de maneira simplificada, a circulação sanguínea em peixes. Pode se afirmar corretamente que, nos peixes, a) o coração recebe somente sangue pobre em oxigênio. b) ocorre mistura de sangue pobre e de sangue rico em oxigênio, como nos répteis. c) o sangue mantém constante a concentração de gases ao longo do percurso. d) a circulação é dupla, como ocorre em todos os demais vertebrados. e) o sistema circulatório é aberto, pois o sangue tem contato direto com as brânquias. V G 18/28 V 10010001 derno Reserva 18 0 6",
+      "stem": "O esquema representa, de maneira simplificada, a circulação sanguínea em peixes. Pode se afirmar corretamente que, nos peixes,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "o coração recebe somente sangue pobre em oxigênio."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ocorre mistura de sangue pobre e de sangue rico em oxigênio, como nos répteis."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "o sangue mantém constante a concentração de gases ao longo do percurso."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "a circulação é dupla, como ocorre em todos os demais vertebrados."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "o sistema circulatório é aberto, pois o sangue tem contato direto com as brânquias. V G 18/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -3087,29 +3087,29 @@
         "x": 804,
         "y": 424,
         "w": 848,
-        "h": 72
+        "h": 1914
       },
-      "stem": "EUA 4 9 21 126 França 9 9 20 59 Índia 7 6 3 2",
+      "stem": "EUA 4 9 21 126 França 9 9 20 59 Índia 7 6 3 2 Itália 8 8 10 26 Japão 7 7 7 20 Reino Unido 10 16 64 115 Rússia 6 6 8 20 Ronald Findlay e Kevin O’Rourke. Power and Plenty: Trade, War, and the World Economy in the Second Millennium. Princeton: Princeton University Press, 2007. Adaptado. Com base na tabela, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A industrialização acelerada da Alemanha e dos Estados Unidos ocorreu durante a Primeira Revolução Industrial, mantendo se relativamente inalterada durante a Segunda Revolução Industrial."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os países do Sul e do Leste da Europa apresentaram níveis de industrialização equivalentes aos dos países do Norte da Europa e dos Estados Unidos durante a Segunda Revolução Industrial."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A Primeira Revolução Industrial teve por epicentro o Reino Unido, acompanhado em menor grau pela Bélgica, ambos mantendo níveis elevados durante a Segunda Revolução Industrial."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os níveis de industrialização verificados na Ásia em meados do século XVIII acompanharam o movimento geral de industrialização do Atlântico Norte ocorrido na segunda metade do século XIX."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O Japão se destacou como o país asiático de mais rápida industrialização no curso da Primeira Revolução Industrial, perdendo força, no entanto, durante a Segunda Revolução Industrial. no americanos, as décadas de 1870 e 1880 foram um período de eral, podemos dizer que tal movimento foi uma reação às novas ento capitalista não só como fenômeno mundial mas também em eslie Bethell, História da América Latina, v.5. São Paulo: Edusp, 2002. Adaptado. ério do Brasil, cabe destacar a reforma etivos do Império, ao mesmo tempo em que proibiu o voto dos ral dos setores populares. tica oficial para as relações entre o Estado brasileiro e o poder cional. ivas do movimento republicano por meio da revisão dos critérios pregadas para a composição da administração imperial, com a nchimento de cargos públicos. Exército, vitorioso na Guerra do Paraguai, assumisse um maior io. V G 09/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -3142,27 +3142,27 @@
         "w": 848,
         "h": 972
       },
-      "stem": "Helena, cuja massa é 50 kg, pratica o esporte radical bungee jumping. Em um treino, ela se solta da beirada de um viaduto, com velocidade inicial nula, presa a uma faixa elástica de comprimento natural L0 = 15 m e constante elástica k = 250 N/m. Quando a faixa está esticada 10 m além de seu comprimento natural, o módulo da velocidade de Helena é a) 0 m/s b) 5 m/s c) 10 m/s d) 15 m/s e) 20 m/s Note e adote: Aceleração da gravidade: 10 m/s2. A faixa é perfeitamente elástica; sua massa e efeitos dissipativos devem ser ignorados. V G 19/28 V 10010001 derno Reserva 19 2 3",
+      "stem": "Helena, cuja massa é 50 kg, pratica o esporte radical bungee jumping. Em um treino, ela se solta da beirada de um viaduto, com velocidade inicial nula, presa a uma faixa elástica de comprimento natural L0 = 15 m e constante elástica k = 250 N/m. Quando a faixa está esticada 10 m além de seu comprimento natural, o módulo da velocidade de Helena é",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "0 m/s"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "5 m/s"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "10 m/s"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "15 m/s"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "20 m/s"
         }
       ],
       "answer": {
@@ -3195,27 +3195,27 @@
         "w": 848,
         "h": 962
       },
-      "stem": "As figuras representam arranjos de fios longos, retilíneos, paralelos e percorridos por correntes elétricas de mesma intensidade. Os fios estão orientados perpendicularmente ao plano desta página e dispostos segundo os vértices de um quadrado. A única diferença entre os arranjos está no sentido das correntes: os fios são percorridos por correntes que entram ou saem do plano da página. O campo magnético total é nulo no centro do quadrado apenas em a) I. b) II. c) I e II. d) II e III. e) III e IV. 62",
+      "stem": "As figuras representam arranjos de fios longos, retilíneos, paralelos e percorridos por correntes elétricas de mesma intensidade. Os fios estão orientados perpendicularmente ao plano desta página e dispostos segundo os vértices de um quadrado. A única diferença entre os arranjos está no sentido das correntes: os fios são percorridos por correntes que entram ou saem do plano da página. O campo magnético total é nulo no centro do quadrado apenas em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "II."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "III e IV."
         }
       ],
       "answer": {
@@ -3248,7 +3248,7 @@
         "w": 848,
         "h": 1311
       },
-      "stem": "Na bateria de um telefone celular e em seu carregador, estão registradas as seguintes especificações: Com a bateria sendo carregada em uma rede de 127 V, a potência máxima que o carregador pode fornecer e a carga máxima que pode ser armazenada na bateria são, respectivamente, próximas de a) 25,4 W e 5940 C. b) 25,4 W e 4,8 C. c) 6,5 W e 21960 C. d) 6,5 W e 5940 C. e) 6,1 W e 4,8 C. Note e adote: AC: corrente alternada; DC: corrente contínua. V PAG 20 Caderno",
+      "stem": "Na bateria de um telefone celular e em seu carregador, estão registradas as seguintes especificações: Com a bateria sendo carregada em uma rede de 127 V, a potência máxima que o carregador pode fornecer e a carga máxima que pode ser armazenada na bateria são, respectivamente, próximas de",
       "options": [
         {
           "key": "A",
@@ -3301,27 +3301,27 @@
         "w": 848,
         "h": 972
       },
-      "stem": "A figura representa uma onda harmônica transversal, que se propaga no sentido positivo do eixo x, em dois instantes de tempo: t = 3 s (linha cheia) e t = 7 s (linha tracejada). Dentre as alternativas, a que pode corresponder à velocidade de propagação dessa onda é a) 0,14 m/s b) 0,25 m/s c) 0,33 m/s d) 1,00 m/s e) 2,00 m/s 64",
+      "stem": "A figura representa uma onda harmônica transversal, que se propaga no sentido positivo do eixo x, em dois instantes de tempo: t = 3 s (linha cheia) e t = 7 s (linha tracejada). Dentre as alternativas, a que pode corresponder à velocidade de propagação dessa onda é",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,14 m/s"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,25 m/s"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,33 m/s"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "1,00 m/s"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "2,00 m/s"
         }
       ],
       "answer": {
@@ -3354,27 +3354,27 @@
         "w": 848,
         "h": 1805
       },
-      "stem": "Japão 7 7 7 20 Reino Unido 10 16 64 115 Rússia 6 6 8 20 Ronald Findlay e Kevin O’Rourke. Power and Plenty: Trade, War, and the World Economy in the Second Millennium. Princeton: Princeton University Press, 2007. Adaptado. Com base na tabela, é correto afirmar: a) A industrialização acelerada da Alemanha e dos Estados Unidos ocorreu durante a Primeira Revolução Industrial, mantendo se relativamente inalterada durante a Segunda Revolução Industrial. b) Os países do Sul e do Leste da Europa apresentaram níveis de industrialização equivalentes aos dos países do Norte da Europa e dos Estados Unidos durante a Segunda Revolução Industrial. c) A Primeira Revolução Industrial teve por epicentro o Reino Unido, acompanhado em menor grau pela Bélgica, ambos mantendo níveis elevados durante a Segunda Revolução Industrial. d) Os níveis de industrialização verificados na Ásia em meados do século XVIII acompanharam o movimento geral de industrialização do Atlântico Norte ocorrido na segunda metade do século XIX. e) O Japão se destacou como o país asiático de mais rápida industrialização no curso da Primeira Revolução Industrial, perdendo força, no entanto, durante a Segunda Revolução Industrial. no americanos, as décadas de 1870 e 1880 foram um período de eral, podemos dizer que tal movimento foi uma reação às novas ento capitalista não só como fenômeno mundial mas também em eslie Bethell, História da América Latina, v.5. São Paulo: Edusp, 2002. Adaptado. ério do Brasil, cabe destacar a reforma etivos do Império, ao mesmo tempo em que proibiu o voto dos ral dos setores populares. tica oficial para as relações entre o Estado brasileiro e o poder cional. ivas do movimento republicano por meio da revisão dos critérios pregadas para a composição da administração imperial, com a nchimento de cargos públicos. Exército, vitorioso na Guerra do Paraguai, assumisse um maior io. V G 09/28 V 10010001 derno Reserva 09 9 2",
+      "stem": "Japão 7 7 7 20 Reino Unido 10 16 64 115 Rússia 6 6 8 20 Ronald Findlay e Kevin O’Rourke. Power and Plenty: Trade, War, and the World Economy in the Second Millennium. Princeton: Princeton University Press, 2007. Adaptado. Com base na tabela, é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A industrialização acelerada da Alemanha e dos Estados Unidos ocorreu durante a Primeira Revolução Industrial, mantendo se relativamente inalterada durante a Segunda Revolução Industrial."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os países do Sul e do Leste da Europa apresentaram níveis de industrialização equivalentes aos dos países do Norte da Europa e dos Estados Unidos durante a Segunda Revolução Industrial."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A Primeira Revolução Industrial teve por epicentro o Reino Unido, acompanhado em menor grau pela Bélgica, ambos mantendo níveis elevados durante a Segunda Revolução Industrial."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Os níveis de industrialização verificados na Ásia em meados do século XVIII acompanharam o movimento geral de industrialização do Atlântico Norte ocorrido na segunda metade do século XIX."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O Japão se destacou como o país asiático de mais rápida industrialização no curso da Primeira Revolução Industrial, perdendo força, no entanto, durante a Segunda Revolução Industrial. no americanos, as décadas de 1870 e 1880 foram um período de eral, podemos dizer que tal movimento foi uma reação às novas ento capitalista não só como fenômeno mundial mas também em eslie Bethell, História da América Latina, v.5. São Paulo: Edusp, 2002. Adaptado. ério do Brasil, cabe destacar a reforma etivos do Império, ao mesmo tempo em que proibiu o voto dos ral dos setores populares. tica oficial para as relações entre o Estado brasileiro e o poder cional. ivas do movimento republicano por meio da revisão dos critérios pregadas para a composição da administração imperial, com a nchimento de cargos públicos. Exército, vitorioso na Guerra do Paraguai, assumisse um maior io. V G 09/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -3407,27 +3407,27 @@
         "w": 848,
         "h": 1343
       },
-      "stem": "Em uma aula de laboratório de física, utilizando se o arranjo experimental esquematizado na figura, foi medido o índice de refração de um material sintético chamado poliestireno. Nessa experiência, radiação eletromagnética, proveniente de um gerador de micro ondas, propaga se no ar e incide perpendicularmente em um dos lados de um bloco de poliestireno, cuja seção reta é um triângulo retângulo, que tem um dos ângulos medindo 25o, conforme a figura. Um detetor de micro ondas indica que a radiação eletromagnética sai do bloco propagando se no ar em uma direção que forma um ângulo de 15o com a de incidência. A partir desse resultado, conclui se que o índice de refração do poliestireno em relação ao ar para essa micro onda é, aproximadamente, a) 1,3 b) 1,5 c) 1,7 d) 2,0 e) 2,2 Note e adote: Índice de refração do ar: 1,0 sen 15o 0,3 sen 25o 0,4 sen 40o 0,6 66",
+      "stem": "Em uma aula de laboratório de física, utilizando se o arranjo experimental esquematizado na figura, foi medido o índice de refração de um material sintético chamado poliestireno. Nessa experiência, radiação eletromagnética, proveniente de um gerador de micro ondas, propaga se no ar e incide perpendicularmente em um dos lados de um bloco de poliestireno, cuja seção reta é um triângulo retângulo, que tem um dos ângulos medindo 25o, conforme a figura. Um detetor de micro ondas indica que a radiação eletromagnética sai do bloco propagando se no ar em uma direção que forma um ângulo de 15o com a de incidência. A partir desse resultado, conclui se que o índice de refração do poliestireno em relação ao ar para essa micro onda é, aproximadamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "1,3"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "1,5"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "1,7"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "2,0"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "2,2"
         }
       ],
       "answer": {
@@ -3460,27 +3460,27 @@
         "w": 848,
         "h": 930
       },
-      "stem": "No início do século XX, Pierre Curie e colaboradores, em uma experiência para determinar características do recém descoberto elemento químico rádio, colocaram uma pequena quantidade desse material em um calorímetro e verificaram que 1,30 grama de água líquida ia do ponto de congelamento ao ponto de ebulição em uma hora. A potência média liberada pelo rádio nesse período de tempo foi, aproximadamente, a) 0,06 W b) 0,10 W c) 0,14 W d) 0,18 W e) 0,22 W Note e adote: Calor específico da água: 1 cal/(g oC) 1 cal = 4 J Temperatura de congelamento da água: 0 oC Temperatura de ebulição da água: 100 oC Considere que toda a energia emitida pelo rádio foi absorvida pela água e empregada exclusivamente para elevar sua temperatura. V PAG 21 Caderno",
+      "stem": "No início do século XX, Pierre Curie e colaboradores, em uma experiência para determinar características do recém descoberto elemento químico rádio, colocaram uma pequena quantidade desse material em um calorímetro e verificaram que 1,30 grama de água líquida ia do ponto de congelamento ao ponto de ebulição em uma hora. A potência média liberada pelo rádio nesse período de tempo foi, aproximadamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,06 W"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,10 W"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,14 W"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,18 W"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,22 W"
         }
       ],
       "answer": {
@@ -3511,13 +3511,13 @@
         "x": 804,
         "y": 109,
         "w": 848,
-        "h": 138
+        "h": 654
       },
-      "stem": "Um objeto metálico, X, eletricamente isolado, tem carga negativa 5,0 10 12 C. Um segundo objeto metálico, Y,",
+      "stem": "Um objeto metálico, X, eletricamente isolado, tem carga negativa 5,0 10 12 C. Um segundo objeto metálico, Y, neutro, mantido em contato com a Terra, é aproximado do primeiro e ocorre uma faísca entre ambos, sem que eles se toquem. A duração da faísca é 0,5 s e sua intensidade é 10 11 A. No final desse processo, as cargas elétricas totais dos objetos X e Y são, respectivamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "zero e zero."
         },
         {
           "key": "B",
@@ -3566,27 +3566,27 @@
         "w": 848,
         "h": 1619
       },
-      "stem": "Na estratosfera, há um ciclo constante de criação e destruição do ozônio. A equação que representa a destruição do ozônio pela ação da luz ultravioleta solar (UV) é O gráfico representa a energia potencial de ligação entre um dos átomos de oxigênio que constitui a molécula de O3 e os outros dois, como função da distância de separação r. A frequência dos fótons da luz ultravioleta que corresponde à energia de quebra de uma ligação da molécula de ozônio para formar uma molécula de O2 e um átomo de oxigênio é, aproximadamente, a) 1 1015 Hz b) 2 1015 Hz c) 3 1015 Hz d) 4 1015 Hz e) 5 1015 Hz Note e adote: E = hf E é a energia do fóton. f é a frequência da luz. Constante de Planck, h = 6 10 34 J s V G 21/28 V 10010001 derno Reserva 21 9 8",
+      "stem": "Na estratosfera, há um ciclo constante de criação e destruição do ozônio. A equação que representa a destruição do ozônio pela ação da luz ultravioleta solar (UV) é O gráfico representa a energia potencial de ligação entre um dos átomos de oxigênio que constitui a molécula de O3 e os outros dois, como função da distância de separação r. A frequência dos fótons da luz ultravioleta que corresponde à energia de quebra de uma ligação da molécula de ozônio para formar uma molécula de O2 e um átomo de oxigênio é, aproximadamente,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "1 1015 Hz"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "2 1015 Hz"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "3 1015 Hz"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "4 1015 Hz"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "5 1015 Hz"
         }
       ],
       "answer": {
@@ -3619,27 +3619,27 @@
         "w": 848,
         "h": 1156
       },
-      "stem": "Dependendo do pH do solo, os nutrientes nele existentes podem sofrer transformações químicas que dificultam sua absorção pelas plantas. O quadro mostra algumas dessas transformações, em função do pH do solo. Para que o solo possa fornecer todos os elementos citados na tabela, o seu pH deverá estar entre a) 4 e 6. b) 4 e 8. c) 6 e 7. d) 6 e 11. e) 8,5 e 11. 70",
+      "stem": "Dependendo do pH do solo, os nutrientes nele existentes podem sofrer transformações químicas que dificultam sua absorção pelas plantas. O quadro mostra algumas dessas transformações, em função do pH do solo. Para que o solo possa fornecer todos os elementos citados na tabela, o seu pH deverá estar entre",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "4 e 6."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "4 e 8."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "6 e 7."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "6 e 11."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,5 e 11."
         }
       ],
       "answer": {
@@ -3672,27 +3672,27 @@
         "w": 848,
         "h": 1121
       },
-      "stem": "Em ambientes naturais e na presença de água e gás oxigênio, a pirita, um mineral composto principalmente por dissulfeto de ferro (FeS2), sofre processos de intemperismo, o que envolve transformações químicas que acontecem ao longo do tempo. Um desses processos pode ser descrito pelas transformações sucessivas, representadas pelas seguintes equações químicas: Considerando a equação química que representa a transformação global desse processo, as lacunas da frase “No intemperismo sofrido pela pirita, a razão entre as quantidades de matéria do FeS2 (s) e do O2 (g) é __________, e, durante o processo, o pH do solo __________” podem ser corretamente preenchidas por a) 1/4; diminui. b) 1/4; não se altera. c) 2/15; aumenta. d) 4/15; diminui. e) 4/15; não se altera. V PAG 22 Caderno",
+      "stem": "Em ambientes naturais e na presença de água e gás oxigênio, a pirita, um mineral composto principalmente por dissulfeto de ferro (FeS2), sofre processos de intemperismo, o que envolve transformações químicas que acontecem ao longo do tempo. Um desses processos pode ser descrito pelas transformações sucessivas, representadas pelas seguintes equações químicas: Considerando a equação química que representa a transformação global desse processo, as lacunas da frase “No intemperismo sofrido pela pirita, a razão entre as quantidades de matéria do FeS2 (s) e do O2 (g) é __________, e, durante o processo, o pH do solo __________” podem ser corretamente preenchidas por",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "1/4; diminui."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "1/4; não se altera."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "2/15; aumenta."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "4/15; diminui."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "4/15; não se altera."
         }
       ],
       "answer": {
@@ -3725,7 +3725,7 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "Um estudante realizou um experimento para avaliar a reatividade dos metais Pb, Zn e Fe. Para isso, mergulhou, em separado, uma pequena placa de cada um desses metais em cada uma das soluções aquosas dos nitratos de chumbo, de zinco e de ferro. Com suas observações, elaborou a seguinte tabela, em que (sim) significa formação de sólido sobre a placa e (não) significa nenhuma evidência dessa formação: Metal Solução Pb Zn Fe Pb(NO3)2 (aq) (não) (sim) (sim) Zn(NO3)2 (aq) (não) (não) (não) Fe(NO3)2 (aq) (não) (sim) (não) A seguir, montou três diferentes pilhas galvânicas, conforme esquematizado. Nessas três montagens, o conteúdo do béquer I era uma solução aquosa de CuSO4 de mesma concentração, e essa solução era renovada na construção de cada pilha. O eletrodo onde ocorria a redução (ganho de elétrons) era o formado pela placa de cobre mergulhada em CuSO4 (aq). Em cada uma das três pilhas, o estudante utilizou, no béquer II, uma placa de um dos metais X (Pb, Zn ou Fe), mergulhada na solução aquosa de seu respectivo nitrato. O estudante mediu a força eletromotriz das pilhas, obtendo os valores: 0,44 V; 0,75 V e 1,07 V. A atribuição correta desses valores de força eletromotriz a cada uma das pilhas, de acordo com a reatividade dos metais testados, deve ser Metal X Pb Zn Fe a) 0,44 1,07 0,75 b) 0,44 0,75 1,07 c) 0,75 0,44 1,07 d) 0,75 1,07 0,44 e) 1,07 0,44 0,75 V G 22/28 V 10010001 derno Reserva 22 1 5",
+      "stem": "Um estudante realizou um experimento para avaliar a reatividade dos metais Pb, Zn e Fe. Para isso, mergulhou, em separado, uma pequena placa de cada um desses metais em cada uma das soluções aquosas dos nitratos de chumbo, de zinco e de ferro. Com suas observações, elaborou a seguinte tabela, em que (sim) significa formação de sólido sobre a placa e (não) significa nenhuma evidência dessa formação: Metal Solução Pb Zn Fe Pb(NO3)2 (aq) (não) (sim) (sim) Zn(NO3)2 (aq) (não) (não) (não) Fe(NO3)2 (aq) (não) (sim) (não) A seguir, montou três diferentes pilhas galvânicas, conforme esquematizado. Nessas três montagens, o conteúdo do béquer I era uma solução aquosa de CuSO4 de mesma concentração, e essa solução era renovada na construção de cada pilha. O eletrodo onde ocorria a redução (ganho de elétrons) era o formado pela placa de cobre mergulhada em CuSO4 (aq). Em cada uma das três pilhas, o estudante utilizou, no béquer II, uma placa de um dos metais X (Pb, Zn ou Fe), mergulhada na solução aquosa de seu respectivo nitrato. O estudante mediu a força eletromotriz das pilhas, obtendo os valores: 0,44 V; 0,75 V e 1,07 V. A atribuição correta desses valores de força eletromotriz a cada uma das pilhas, de acordo com a reatividade dos metais testados, deve ser Metal X Pb Zn Fe",
       "options": [
         {
           "key": "A",
@@ -3778,7 +3778,7 @@
         "w": 848,
         "h": 1064
       },
-      "stem": "Em uma aula experimental, dois grupos de alunos (G1 e G2) velocidade da reação de carbonato de cálcio com excesso de ác as mesmas nos dois procedimentos e, em cada um deles, os estu cálcio e o mesmo volume de solução de ácido clorídrico de mesm O grupo G1 acompanhou a transformação ao longo do tempo, re massa desse sistema (Figura 1 e Tabela). O grupo G2 acompanhou essa reação ao longo do tempo, porém (Figura 2). Comparando os dois experimentos, os volumes aproximados d 240 segundos devem ter sido, respectivamente, a) 0,14; 0,20 e 0,25 b) 0,14; 0,34 e 0,60 Note e adote: c) 0,34; 0,48 e 0,60 massa molar do CO2 d) 0,34; 0,48 e 0,88 volume molar do CO desconsidere a solu e) 0,62; 0,88 e 1,10 73",
+      "stem": "Em uma aula experimental, dois grupos de alunos (G1 e G2) velocidade da reação de carbonato de cálcio com excesso de ác as mesmas nos dois procedimentos e, em cada um deles, os estu cálcio e o mesmo volume de solução de ácido clorídrico de mesm O grupo G1 acompanhou a transformação ao longo do tempo, re massa desse sistema (Figura 1 e Tabela). O grupo G2 acompanhou essa reação ao longo do tempo, porém (Figura 2). Comparando os dois experimentos, os volumes aproximados d 240 segundos devem ter sido, respectivamente,",
       "options": [
         {
           "key": "A",
@@ -3790,11 +3790,11 @@
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,34; 0,48 e 0,60 massa molar do CO2"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "0,34; 0,48 e 0,88 volume molar do CO"
         },
         {
           "key": "E",
@@ -3831,27 +3831,27 @@
         "w": 848,
         "h": 1206
       },
-      "stem": "Nas mesmas condições de pressão e temperatura, 50 L de gás propano (C3H8) e 250 L de ar foram colocados em um reator, ao qual foi fornecida energia apenas suficiente para iniciar a reação de combustão. Após algum tempo, não mais se observou a liberação de calor, o que indicou que a reação havia se encerrado. Com base nessas observações experimentais, três afirmações foram feitas: I. Se tivesse ocorrido apenas combustão incompleta, restaria propano no reator. II. Para que todo o propano reagisse, considerando a combustão completa, seriam necessários, no mínimo, 750 L de ar. III. É provável que, nessa combustão, tenha se formado fuligem. Está correto apenas o que se afirma em a) I. b) III. c) I e II. d) I e III. e) II e III. Note e adote: Composição aproximada do ar em volume: 80% de N2 e 20% de O2. V PAG 23 Caderno",
+      "stem": "Nas mesmas condições de pressão e temperatura, 50 L de gás propano (C3H8) e 250 L de ar foram colocados em um reator, ao qual foi fornecida energia apenas suficiente para iniciar a reação de combustão. Após algum tempo, não mais se observou a liberação de calor, o que indicou que a reação havia se encerrado. Com base nessas observações experimentais, três afirmações foram feitas: I. Se tivesse ocorrido apenas combustão incompleta, restaria propano no reator. II. Para que todo o propano reagisse, considerando a combustão completa, seriam necessários, no mínimo, 750 L de ar. III. É provável que, nessa combustão, tenha se formado fuligem. Está correto apenas o que se afirma em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "III."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e III."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III."
         }
       ],
       "answer": {
@@ -3884,27 +3884,27 @@
         "w": 848,
         "h": 1206
       },
-      "stem": "Para aumentar o grau de conforto do motorista e contribuir para a segurança em dias chuvosos, alguns materiais podem ser aplicados no para brisa do veículo, formando uma película que repele a água. Nesse tratamento, ocorre uma transformação na superfície do vidro, a qual pode ser representada pela seguinte equação química não balanceada: Das alternativas apresentadas, a que representa o melhor material a ser aplicado ao vidro, de forma a evitar o acúmulo de água, é: Cl a) Si(CH3)2OH Cl b) Si(CH3)2O(CHOH)CH2NH2 Cl c) Si(CH3)2O(CHOH)5CH3 Cl d) Si(CH3)2OCH2(CH2)2CO2H Cl e) Si(CH3)2OCH2(CH2)10CH3 Note e adote: R = grupo de átomos ligado ao átomo de silício. V G 23/28 V 10010001 derno Reserva 23 3 2",
+      "stem": "Para aumentar o grau de conforto do motorista e contribuir para a segurança em dias chuvosos, alguns materiais podem ser aplicados no para brisa do veículo, formando uma película que repele a água. Nesse tratamento, ocorre uma transformação na superfície do vidro, a qual pode ser representada pela seguinte equação química não balanceada: Das alternativas apresentadas, a que representa o melhor material a ser aplicado ao vidro, de forma a evitar o acúmulo de água, é: Cl",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Si(CH3)2OH Cl"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Si(CH3)2O(CHOH)CH2NH2 Cl"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Si(CH3)2O(CHOH)5CH3 Cl"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Si(CH3)2OCH2(CH2)2CO2H Cl"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Si(CH3)2OCH2(CH2)10CH3"
         }
       ],
       "answer": {
@@ -3937,27 +3937,27 @@
         "w": 848,
         "h": 945
       },
-      "stem": "Sob certas condições, tanto o gás flúor quanto o gás cloro podem reagir com hidrogênio gasoso, formando, HCl, respectivamente, os haletos de hidrogênio HF e gasosos. Pode se estimar a variação de entalpia ( H) de cada uma dessas reações, utilizando se dados de energia de ligação. A tabela apresenta os valores de energia de ligação dos reagentes e produtos dessas reações a 25 oC e 1 atm. Molécula H2 F2 Cl HF HCl 2 Energia de ligação (kJ/mol) 435 160 245 570 430 Com base nesses dados, um estudante calculou a variação de entalpia ( H) de cada uma das reações e concluiu, corretamente, que, nas condições empregadas, a) a formação de HF (g) é a reação que libera mais energia. b) ambas as reações são endotérmicas. HCl c) apenas a formação de (g) é endotérmica. d) ambas as reações têm o mesmo valor de H. HCl e) apenas a formação de (g) é exotérmica. 76",
+      "stem": "Sob certas condições, tanto o gás flúor quanto o gás cloro podem reagir com hidrogênio gasoso, formando, HCl, respectivamente, os haletos de hidrogênio HF e gasosos. Pode se estimar a variação de entalpia ( H) de cada uma dessas reações, utilizando se dados de energia de ligação. A tabela apresenta os valores de energia de ligação dos reagentes e produtos dessas reações a 25 oC e 1 atm. Molécula H2 F2 Cl HF HCl 2 Energia de ligação (kJ/mol) 435 160 245 570 430 Com base nesses dados, um estudante calculou a variação de entalpia ( H) de cada uma das reações e concluiu, corretamente, que, nas condições empregadas,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "a formação de HF (g) é a reação que libera mais energia."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ambas as reações são endotérmicas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "apenas a formação de (g) é endotérmica."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "ambas as reações têm o mesmo valor de H."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "apenas a formação de (g) é exotérmica."
         }
       ],
       "answer": {
@@ -3990,27 +3990,27 @@
         "w": 848,
         "h": 1329
       },
-      "stem": "Células a combustível são opções viáveis para gerar energia elétrica para motores e outros dispositivos. O esquema representa uma dessas células e as transformações que nela ocorrem. A corrente elétrica (i), em ampère (coulomb por segundo), gerada por uma célula a combustível que opera por 10 minutos e libera 4,80 kJ de energia durante esse período de tempo, é a) 3,32. b) 6,43. c) 12,9. d) 386. e) 772. Note e adote: Carga de um mol de elétrons = 96.500 coulomb. V PAG 24 Caderno",
+      "stem": "Células a combustível são opções viáveis para gerar energia elétrica para motores e outros dispositivos. O esquema representa uma dessas células e as transformações que nela ocorrem. A corrente elétrica (i), em ampère (coulomb por segundo), gerada por uma célula a combustível que opera por 10 minutos e libera 4,80 kJ de energia durante esse período de tempo, é",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "3,32."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "6,43."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "12,9."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "386."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "772."
         }
       ],
       "answer": {
@@ -4043,27 +4043,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "A hemoglobina (Hb) é a proteína responsável pelo transporte de oxigênio. Nesse processo, a hemoglobina se transforma em oxi hemoglobina (Hb(O2)n). Nos fetos, há um tipo de hemoglobina diferente da do adulto, chamada de hemoglobina fetal. O transporte de oxigênio pode ser representado pelo seguinte equilíbrio: Hb + nO2 Hb(O2)n, em que Hb representa tanto a hemoglobina do adulto quanto a hemoglobina fetal. A figura mostra a porcentagem de saturação de Hb por O2 em função da pressão parcial de oxigênio no sangue humano, em determinado pH e em determinada temperatura. A porcentagem de saturação pode ser entendida como: Hb(O2)n % de saturação = x 100 Hb(O2)n + Hb Com base nessas informações, um estudante fez as seguintes afirmações: I. Para uma pressão parcial de O2 de 30 mmHg, a hemoglobina fetal transporta mais oxigênio do que a hemoglobina do adulto. II. Considerando o equilíbrio de transporte de oxigênio, no caso de um adulto viajar do litoral para um local de grande altitude, a concentração de Hb em seu sangue deverá aumentar, após certo tempo, para que a concentração de Hb(O2)n seja mantida. III. Nos adultos, a concentração de hemoglobina associada a oxigênio é menor no pulmão do que nos tecidos. É correto apenas o que o estudante afirmou em a) I. b) II. c) I e II. d) I e III. e) II e III. Note e adote: pO2 (pulmão) > pO2 (tecidos). V G 24/28 V 10010001 derno Reserva 24 5 9",
+      "stem": "A hemoglobina (Hb) é a proteína responsável pelo transporte de oxigênio. Nesse processo, a hemoglobina se transforma em oxi hemoglobina (Hb(O2)n). Nos fetos, há um tipo de hemoglobina diferente da do adulto, chamada de hemoglobina fetal. O transporte de oxigênio pode ser representado pelo seguinte equilíbrio: Hb + nO2 Hb(O2)n, em que Hb representa tanto a hemoglobina do adulto quanto a hemoglobina fetal. A figura mostra a porcentagem de saturação de Hb por O2 em função da pressão parcial de oxigênio no sangue humano, em determinado pH e em determinada temperatura. A porcentagem de saturação pode ser entendida como: Hb(O2)n % de saturação = x 100 Hb(O2)n + Hb Com base nessas informações, um estudante fez as seguintes afirmações: I. Para uma pressão parcial de O2 de 30 mmHg, a hemoglobina fetal transporta mais oxigênio do que a hemoglobina do adulto. II. Considerando o equilíbrio de transporte de oxigênio, no caso de um adulto viajar do litoral para um local de grande altitude, a concentração de Hb em seu sangue deverá aumentar, após certo tempo, para que a concentração de Hb(O2)n seja mantida. III. Nos adultos, a concentração de hemoglobina associada a oxigênio é menor no pulmão do que nos tecidos. É correto apenas o que o estudante afirmou em",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "II."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e III."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III. V G 24/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -4149,27 +4149,27 @@
         "w": 848,
         "h": 2229
       },
-      "stem": "No preparo de certas massas culinárias, como pães, é comum adicionar se um fermento que, dependendo da receita, pode ser o químico, composto principalmente por hidrogenocarbonato de sódio (NaHCO3), ou o fermento biológico, formado por leveduras. Os fermentos adicionados, sob certas condições, são responsáveis pela produção de dióxido de carbono, o que auxilia a massa a crescer. Para explicar a produção de dióxido de carbono, as seguintes afirmações foram feitas. I. Tanto o fermento químico quanto o biológico reagem com os carboidratos presentes na massa culinária, sendo o dióxido de carbono um dos produtos dessa reação. II. O hidrogenocarbonato de sódio, presente no fermento químico, pode se decompor com o aquecimento, ocorrendo a formação de carbonato de sódio (Na2CO3), água e dióxido de carbono. III. As leveduras, que formam o fermento biológico, metabolizam os carboidratos presentes na massa culinária, produzindo, entre outras substâncias, o dióxido de carbono. IV. Para que ambos os fermentos produzam dióxido de carbono, é necessário que a massa culinária seja aquecida a temperaturas altas (cerca de 200 oC), alcançadas nos fornos domésticos e industriais. Dessas afirmações, as que explicam corretamente a produção de dióxido de carbono pela adição de fermento à massa culinária são, apenas, a) I e II. b) II e III. c) III e IV. d) I, II e IV. e) I, III e IV. V G 25/28 V 10010001 derno Reserva 25 7 6",
+      "stem": "No preparo de certas massas culinárias, como pães, é comum adicionar se um fermento que, dependendo da receita, pode ser o químico, composto principalmente por hidrogenocarbonato de sódio (NaHCO3), ou o fermento biológico, formado por leveduras. Os fermentos adicionados, sob certas condições, são responsáveis pela produção de dióxido de carbono, o que auxilia a massa a crescer. Para explicar a produção de dióxido de carbono, as seguintes afirmações foram feitas. I. Tanto o fermento químico quanto o biológico reagem com os carboidratos presentes na massa culinária, sendo o dióxido de carbono um dos produtos dessa reação. II. O hidrogenocarbonato de sódio, presente no fermento químico, pode se decompor com o aquecimento, ocorrendo a formação de carbonato de sódio (Na2CO3), água e dióxido de carbono. III. As leveduras, que formam o fermento biológico, metabolizam os carboidratos presentes na massa culinária, produzindo, entre outras substâncias, o dióxido de carbono. IV. Para que ambos os fermentos produzam dióxido de carbono, é necessário que a massa culinária seja aquecida a temperaturas altas (cerca de 200 oC), alcançadas nos fornos domésticos e industriais. Dessas afirmações, as que explicam corretamente a produção de dióxido de carbono pela adição de fermento à massa culinária são, apenas,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "I e II."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "II e III."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "III e IV."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, II e IV."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "I, III e IV. V G 25/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -4202,27 +4202,27 @@
         "w": 848,
         "h": 535
       },
-      "stem": "Sejam e dois números inteiros positivos. Diz se que e são equivalentes se a soma dos divisores positivos de coincide com a soma dos divisores positivos de . Constituem dois inteiros positivos equivalentes: a) e . b) e . c) e . d) e . e) e . 81",
+      "stem": "Sejam e dois números inteiros positivos. Diz se que e são equivalentes se a soma dos divisores positivos de coincide com a soma dos divisores positivos de . Constituem dois inteiros positivos equivalentes:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "e ."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "e ."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "e ."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "e ."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "e ."
         }
       ],
       "answer": {
@@ -4255,7 +4255,7 @@
         "w": 848,
         "h": 1032
       },
-      "stem": "O paralelepípedo reto retângulo , representado na figura, tem medida dos lados , e . O seno do ângulo é igual a a) b) c) d) e) 82",
+      "stem": "O paralelepípedo reto retângulo , representado na figura, tem medida dos lados , e . O seno do ângulo é igual a",
       "options": [
         {
           "key": "A",
@@ -4308,7 +4308,7 @@
         "w": 848,
         "h": 753
       },
-      "stem": "João tem para comprar canetas em lojas. Na loja , as canetas são vendidas em dúzias, cada dúzia custa e há apenas dúzias em estoque. Na loja , as canetas são vendidas em pares, cada par custa e há pares em estoque. Na loja , as canetas são vendidas avulsas, cada caneta custa e há canetas em estoque. O maior número de canetas que João pode comprar nas lojas , e utilizando no máximo é igual a a) b) c) d) e) V PAG 26 Caderno",
+      "stem": "João tem para comprar canetas em lojas. Na loja , as canetas são vendidas em dúzias, cada dúzia custa e há apenas dúzias em estoque. Na loja , as canetas são vendidas em pares, cada par custa e há pares em estoque. Na loja , as canetas são vendidas avulsas, cada caneta custa e há canetas em estoque. O maior número de canetas que João pode comprar nas lojas , e utilizando no máximo é igual a",
       "options": [
         {
           "key": "A",
@@ -4361,7 +4361,7 @@
         "w": 848,
         "h": 778
       },
-      "stem": "Cláudia, Paulo, Rodrigo e Ana brincam entre si de amigo secreto (ou amigo oculto). Cada nome é escrito em um pedaço de papel, que é colocado em uma urna, e cada participante retira um deles ao acaso. A probabilidade de que nenhum participante retire seu próprio nome é a) b) c) d) e) 84",
+      "stem": "Cláudia, Paulo, Rodrigo e Ana brincam entre si de amigo secreto (ou amigo oculto). Cada nome é escrito em um pedaço de papel, que é colocado em uma urna, e cada participante retira um deles ao acaso. A probabilidade de que nenhum participante retire seu próprio nome é",
       "options": [
         {
           "key": "A",
@@ -4414,7 +4414,7 @@
         "w": 848,
         "h": 1495
       },
-      "stem": "O retângulo , representado na figura, tem lados de comprimento e . O ponto pertence ao lado e . Os pontos , e pertencem aos lados , e , respectivamente. O segmento é paralelo a e intercepta no ponto . O segmento é paralelo a . Sendo ! o comprimento de , o maior valor da soma das áreas do retângulo , do triângulo e do triângulo ! \" #, , para variando no intervalo aberto é a) b) c) d) e) V G 26/28 V 10010001 derno Reserva 26 9 3",
+      "stem": "O retângulo , representado na figura, tem lados de comprimento e . O ponto pertence ao lado",
       "options": [
         {
           "key": "A",
@@ -4434,7 +4434,7 @@
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "V G 26/28 V 10010001 derno Reserva"
         }
       ],
       "answer": {
@@ -4465,9 +4465,9 @@
         "x": 804,
         "y": 289,
         "w": 848,
-        "h": 71
+        "h": 234
       },
-      "stem": "País 1750 1800 1860 1913 Alemanha 8 8 15 85 Bélgica 9 10 28 88",
+      "stem": "País 1750 1800 1860 1913 Alemanha 8 8 15 85 Bélgica 9 10 28 88 China 8 6 4 3 Espanha 7 7 11 22 EUA 4 9 21 126 França 9 9 20 59 Índia 7 6 3 2 Itália 8 8 10 26",
       "options": [
         {
           "key": "A",
@@ -4520,7 +4520,7 @@
         "w": 848,
         "h": 688
       },
-      "stem": "Considere as funções e , em que o domínio de é o conjunto dos números reais e o domínio de é o conjunto dos números reais maiores do que . Seja , em que . Então, é igual a a) b) ! c) d) e) 87",
+      "stem": "Considere as funções e , em que o domínio de é o conjunto dos números reais e o domínio de é o conjunto dos números reais maiores do que . Seja , em que . Então, é igual a",
       "options": [
         {
           "key": "A",
@@ -4528,7 +4528,7 @@
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "!"
         },
         {
           "key": "C",
@@ -4573,15 +4573,15 @@
         "w": 848,
         "h": 555
       },
-      "stem": "# O polinômio \" $ % $ possui uma raiz complexa & cuja parte imaginária é positiva. A parte real de # & é igual a a) $ b) $% c) d) e) V PAG 27 Caderno",
+      "stem": "# O polinômio \" $ % $ possui uma raiz complexa & cuja parte imaginária é positiva. A parte real de # & é igual a",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "$"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "$%"
         },
         {
           "key": "C",
@@ -4624,9 +4624,9 @@
         "x": 804,
         "y": 316,
         "w": 848,
-        "h": 71
+        "h": 261
       },
-      "stem": "Alemanha 8 8 15 85 Bélgica 9 10 28 88 China 8 6 4 3",
+      "stem": "Alemanha 8 8 15 85 Bélgica 9 10 28 88 China 8 6 4 3 Espanha 7 7 11 22 EUA 4 9 21 126 França 9 9 20 59 Índia 7 6 3 2 Itália 8 8 10 26 Japão 7 7 7 20 Reino Unido 10 16 64 115",
       "options": [
         {
           "key": "A",

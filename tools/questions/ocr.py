@@ -1,6 +1,11 @@
-"""
+"""tools/questions/ocr.py
+
 Módulo OCR local para fallback quando o PDF tem encoding ruim.
-Usa Tesseract (pytesseract) com idioma português.
+Usa Tesseract (pytesseract).
+
+Objetivo:
+- suportar alternativas A-E e a-e (muito comum nas provas)
+- preferir OCR em português, mas permitir "por+eng" quando disponível
 """
 import os
 import re
@@ -68,15 +73,21 @@ def init_ocr():
 def best_ocr_lang(preferred: str = "por") -> str:
     """Retorna o melhor idioma disponível no Tesseract.
 
-    - Prioriza "por" se estiver instalado.
-    - Caso contrário, usa "eng".
+    Preferência:
+    1) por+eng (quando ambos estiverem instalados)
+    2) por
+    3) eng
     """
     if not OCR_AVAILABLE:
         return "eng"
     try:
-        langs = pytesseract.get_languages(config="")
+        langs = set(pytesseract.get_languages(config=""))
+        if "por" in langs and "eng" in langs:
+            return "por+eng"
         if preferred in langs:
             return preferred
+        if "por" in langs:
+            return "por"
         if "eng" in langs:
             return "eng"
     except Exception:
@@ -126,11 +137,11 @@ def parse_alternatives_from_ocr(text):
     if not text:
         return None
     
-    # Padrões para alternativas
+    # Padrões para alternativas (A-E e a-e)
     patterns = [
-        r'\(([A-E])\)\s*(.+?)(?=\([A-E]\)|$)',  # (A) texto
-        r'([A-E])\)\s*(.+?)(?=[A-E]\)|$)',       # A) texto
-        r'^([A-E])\s*[.\-–:]\s*(.+?)(?=^[A-E]|$)',  # A. texto ou A - texto
+        r'\(([A-Ea-e])\)\s*(.+?)(?=\([A-Ea-e]\)|$)',  # (a) texto
+        r'([A-Ea-e])\)\s*(.+?)(?=[A-Ea-e]\)|$)',       # a) texto
+        r'^([A-Ea-e])\s*[.\-–:]\s*(.+?)(?=^[A-Ea-e]|$)',  # a. texto ou a - texto
     ]
     
     options = {}
@@ -138,7 +149,7 @@ def parse_alternatives_from_ocr(text):
         matches = re.findall(pattern, text, re.MULTILINE | re.DOTALL)
         if matches and len(matches) >= 3:  # Pelo menos 3 alternativas
             for key, value in matches:
-                key = key.upper().strip()
+                key = (key or "").upper().strip()
                 if key in 'ABCDE':
                     options[key] = value.strip()[:500]  # Limita tamanho
             if len(options) >= 3:
@@ -163,7 +174,7 @@ def extract_stem_from_ocr(text):
     text = re.sub(r'^\s*\d{1,2}\s*[.\)]\s*', '', text)
     
     # Encontra onde começam as alternativas
-    alt_match = re.search(r'\n\s*\(?[A-E]\)?\s*[.\-–:]?\s*\w', text)
+    alt_match = re.search(r'\n\s*\(?[A-Ea-e]\)?\s*[.\-–:\)]?\s*\w', text)
     if alt_match:
         text = text[:alt_match.start()]
     

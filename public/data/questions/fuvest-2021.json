@@ -4,7 +4,7 @@
     "provaPdf": "p21.pdf",
     "gabaritoPdf": "g21.pdf"
   },
-  "generatedAt": "2025-12-26T08:40:45.210828",
+  "generatedAt": "2025-12-26T19:17:10.338494",
   "questions": [
     {
       "number": 1,
@@ -15,7 +15,7 @@
         "w": 848,
         "h": 555
       },
-      "stem": "/100 &' ( )*+,-' . 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8",
+      "stem": "1/100 [Tp F/V/S7/r NY U NY E NY T P/ Universidade de São Paulo",
       "options": [
         {
           "key": "A",
@@ -66,29 +66,29 @@
         "x": 804,
         "y": 981,
         "w": 848,
-        "h": 155
+        "h": 1357
       },
-      "stem": "# 3 $ % 2 $ ' % + 4 - 4 5 6 2",
+      "stem": "Clit a. ——— ———E o O quadrinho aborda o tema de números primos, sobre os quais é correto afirmar:",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "T +Q."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ST +50."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Todo número da forma 2\" + 1,n E N, é primo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "57 +5Q."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O número do quadrinho, 143, é um número primo."
         }
       ],
       "answer": {
@@ -121,7 +121,7 @@
         "w": 848,
         "h": 931
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "iS Ss Ss VOCÊ DIZ PRIMO. VOCÊ ISSO PRA TODO É UM CARA MUNDO AQUI NA ÍMPAR!",
       "options": [
         {
           "key": "A",
@@ -172,29 +172,29 @@
         "x": 804,
         "y": 1091,
         "w": 848,
-        "h": 45
+        "h": 1247
       },
-      "stem": "$ % 2 $ ' % + 4 - 4 5 6 2",
+      "stem": "(A) Todos os números primos são impares.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "T +Q."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ST +50."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Todo número da forma 2\" + 1,n E N, é primo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "57 +5Q."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O número do quadrinho, 143, é um número primo."
         }
       ],
       "answer": {
@@ -225,13 +225,13 @@
         "x": 0,
         "y": 830,
         "w": 848,
-        "h": 44
+        "h": 793
       },
-      "stem": ". 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8",
+      "stem": ". Só abra este caderno quando o fiscal autoriza . Verifique se o seu nome está correto na capa des",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "deverá seguir as orientações"
         },
         {
           "key": "B",
@@ -278,29 +278,29 @@
         "x": 804,
         "y": 1091,
         "w": 848,
-        "h": 68
+        "h": 1247
       },
-      "stem": "$ % 2 $ ' % + 4 - 4 5 6 2 8 $) % 2 7 9 : ; < = #",
+      "stem": "(A) Todos os números primos são impares.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "T +Q."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ST +50."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Todo número da forma 2\" + 1,n E N, é primo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "57 +5Q."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O número do quadrinho, 143, é um número primo."
         }
       ],
       "answer": {
@@ -331,29 +331,29 @@
         "x": 804,
         "y": 1125,
         "w": 848,
-        "h": 45
+        "h": 1213
       },
-      "stem": "$ ' % + 4 - 4 5 6 2 8 $) % 2 7 9 : ; < = #",
+      "stem": "(B) Existem, no máximo, 7 trilhões de números primos.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "T +Q."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "ST +50."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Todo número da forma 2\" + 1,n E N, é primo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "57 +5Q."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O número do quadrinho, 143, é um número primo."
         }
       ],
       "answer": {
@@ -386,7 +386,7 @@
         "w": 848,
         "h": 759
       },
-      "stem": "u / p > ==EI N J J @ DM N J L= > = C KD C GJC I D F IB ? L J LDW k C C J @ DM N J & v5 '-)w '*2' ( 8 ( *x41 =F I JC D L= > yz d D @ ? E J M L J K > D R J W { 5 2)8 O 1 ( 0)81 J L= R DMB ZX D IJ L= > ED L= AB = C G a = C / | }                                                                                     ¡          ¡     ¢              PAG 01 Caderno",
+      "stem": ". Preencha a folha de respostas com cuidado, u",
       "options": [
         {
           "key": "A",
@@ -439,11 +439,11 @@
         "w": 848,
         "h": 793
       },
-      "stem": ". / 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8 ; / <= > ?@ ?AB = C = D C = B EDF = = C GH I D > > =GD E J I J K J L= J D O )*P5 / QE @ D > F = J D @ ? C IJ M L= C J MJ = R =EG BJ ?C U/ VB>J EG= J K > D RJ W C XD Y-4141' J IDFB E?IJ Z X FJ G= > ?J M L= IDE C B M G J = L = J K J> =M ND C L= G=M =IDF \\/ VB>J Z XD L J K > D R J] ^ ND >JC/ _J` = J D I J EL? L J GD @ D > E=I ? L JC K =M D @ ?C IJM / bcd e IJ EL? L J G D cJ e KDL= K J> G?> L JC . g N / h XD N JR = > H G=F KD JL? I ? DE J M K J ^/ bcd e I J EL? L J GD cJ e L = R = > H C = SB ?> JC D > ? =EG J Z a = K > DI =L? F=EGD C L= ` ? D C C = SB>J EZJ J L DG J LD C K J> g/ n =F `> =f C = L= AB = J i j <k l m C = > = C = >RJ J D L ? L=EG?@ ? IJZXD = I DEG > DM = LD K > DI= C C DW R ?CJ ELD J L B>J EG= J > = J M ?[J Z XD L J K > D RJ W C = > H I DM =G J L J K @ ? E C L= > = ID EN=I ? F=EGD @J I ?J M W K J>J BC D =o I MB C L?R B M SJ L J E=F B G? M ?[J L J K J>J ABJ ?C A B = > D B G >JC q / d Kr C J JB GD > ?[ J ZXD LD @ ? C IJ M L J C J MJ W R = > ?@ ?AB = C AB = C G a = C D ` t =G?RJC W I DF ^ J M G= > E J G?RJ C IJ L J/ QE u / p > ==EI N J J @ DM N J L= > = C KD C GJC I D F IB ? L J LDW k C C J @ DM N J & v5 '-)w '*2' ( 8 ( *x41 =F I JC D L= >",
+      "stem": ". Só abra este caderno quando o fiscal autoriza . Verifique se o seu nome está correto na capa des",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "deverá seguir as orientações"
         },
         {
           "key": "B",
@@ -545,7 +545,7 @@
         "w": 848,
         "h": 524
       },
-      "stem": "! \" ! \" ' #$ % & ) ( ' #* % + ) ( ' #, % & ) ' #- % + ) #. % & / ) 12",
+      "stem": "11 Sef: R > Re g: R — R sido funções dadas por f(x) = c + x?, onde c € R, e g(x) = x, seus graficos se intersectam quando, e somente quando,",
       "options": [
         {
           "key": "A",
@@ -557,15 +557,15 @@
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "c"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "c"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "c"
         }
       ],
       "answer": {
@@ -596,29 +596,29 @@
         "x": 0,
         "y": 583,
         "w": 848,
-        "h": 150
+        "h": 492
       },
-      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $",
+      "stem": "12 Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm. A partir desta peça, ele precisa extrair o maior quadrado possível,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,0 cm."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,5 cm."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,0 cm."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,5 cm."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "10,0 cm."
         }
       ],
       "answer": {
@@ -651,7 +651,7 @@
         "w": 848,
         "h": 251
       },
-      "stem": "13 Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km. O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e entdo retorna ao Polo Norte por esse meridiano",
+      "stem": "13 Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km. O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45ºL e então retorna ao Polo Norte por esse meridiano",
       "options": [
         {
           "key": "A",
@@ -704,7 +704,7 @@
         "w": 848,
         "h": 1416
       },
-      "stem": "K L M NO P QM R O S O L T UVM L W XY Z [Z \\]^_ ^ X Z` ^ XY abZ a Y ^ cZ d \\ e [fg h` e i jk l K L M NO P Q M R O m UnnoK O VO Lp q `^re Y ^ _^ X Z ` ^ XY abZ a Y ^ c Z d \\ e [fg h` e ik il K L M NO P Q M R O sMt uv p M v q `^r e Y ^ _^ Zb wxyzl { 3 ! ! A ! | #$ % } 29 ! !",
+      "stem": "Tm DO oO mw O O M O MO 14 Projeção de Mercator",
       "options": [
         {
           "key": "A",
@@ -814,23 +814,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Ao bloco dos BRICS."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Aos novos integrantes da OCDE."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A paises excluidos da OMC."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "A paises da OPEP."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "A paises membros da OTAN."
         }
       ],
       "answer": {
@@ -863,27 +863,27 @@
         "w": 848,
         "h": 1521
       },
-      "stem": "              ¡ ¢£ ¤¥¦§ ¨© ¨ª « £ ¢ ­ ®® ¯ ¯ ¯ °¡ ¥ ¢ ±² ³ ± ª ° ´ ¤ ª ® µ¶ « ·· ¸®° ¹º ± £ ± º ¤ °  R Q S SQ ZY R Y M N _ M X O _Y NO ` M  V S O Y X Y S S Q V NY Q L R O _Y _O { O  M O NY _ M O » ¼  ½¼    c X Y Z Z O  N M R V _Q ¾ c ¿ NO Q LX O P O MX  R Q S c O R M N  M N _ Y X M _O _Q L _ Y ÀO P Q _Y Á MU V M S M\\ d Q _Y Q X Â N X O T Y { O M O NY e  Y [ SQ R Q S SQ Z Y RY L Q Z Q S O P c Q L Y [ S Q Q L R Q Q L W Q X M ` M X O Z Q N R Q c } X Y S S Q RY O ` M S ZO S  y Kz  ] Y  Q S O _ Y L W Y S MN R SVLb Q L Q Z O S Q Z Y R Y Lc X V ÃO T M YP ÄN X MO _ VS O N RQ O L Z YT MZ Q N R O\\ b Q L W S YTYXO `MLLV S O L N O L V WQS` ^X M Qe y { z  ] Y  Q S O _ Y L Q Z S O  ] Y _ O W S Q L Q N \\ O _ Q ` O P  O L  Q Y P Å  M X O L Q L Q V Q L R V _ Y R S O  X Y N  Q X M Z Q N R Y _ O  Q Y P Y  M O _ Y R Q S S M R Å S M Y [ S O L M P Q M S Y e yz  ÄZ MN ^X M Y WQ PY L YQ S V MZ Q N R Y _ O X S Y L RO c Q Y _ Y _ MO »  ¼ ½ ¼   R Q TQ L V O Y SM Q Z N O { O XM O K Z O Â NM XO e yz  ÄZ MN ^XM Y X Y Z O _ MT Q S Ä N XMO _ O XS Y LR O X Y N RMN Q N ROP c Q Y _ Y  QX Â N X OTY { O MO N Y WS YT Y X Y V MZ W OXR Y L O R} N O  QSS O Æ O X  O e y ~ z  ] Y  Q S O _ Y L W Q P O O [ Q S R V S O _ Q ` O P  O L c M Z W Y S R O N R Q W O S O Y X Y N  Q X M Z Q N R Y _ Y N X P Q Y _ Y W P O N Q R O  Q S S O Q a W P Y S O _ Y N O S Q  M ] Y e V G 05/28 V 10000000 derno Reserva 05 9 4",
+      "stem": "17 Terremoto no estado da Bahia S-IMARANHAO",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "São gerados por intrusões e maremotos, cuja violência"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "São gerados em razão da presença de falhas geológicas e seu"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Têm início pelo soerguimento da crosta, e o do dia"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Têm início com a divergência da crosta continental, e o do"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "São gerados pela abertura de falhas, importante para o"
         }
       ],
       "answer": {
@@ -1022,23 +1022,23 @@
         "w": 848,
         "h": 1355
       },
-      "stem": "20 O acordo entre o Mercosul e a Unido Europeia esta sendo discutido ha cerca de 20 anos e prevé, entre outros elementos, a reducdo progressiva das tarifas de exportagdo entre os blocos. O Brasil, que é um grande exportador de produtos de origem agricola para o mercado europeu, teria reducdo tarifaria para a exportacdo de produtos como carnes, acucar e etanol, dentre outros. Para a ratificacdo do acordo, o parlamento europeu aprovou uma resolucdo que manifesta a importancia do compromisso dos paises do Mercosul com a implementagdo do Acordo de Paris. A relutancia em ratificar 0 acordo entre Mercosul e Unido Europeia, por parte de alguns paises da UE em 2020, deveu-se, entre outros fatores,",
+      "stem": "20 O acordo entre o Mercosul e a União Europeia está sendo",
       "options": [
         {
           "key": "A",
-          "text": "a desigual condi¢ao climatica para produc¢ao de vinhos nos"
+          "text": "à desigual condição climática para produção de vinhos nos"
         },
         {
           "key": "B",
-          "text": "as politicas de incentivo a agricultura familiar na América"
+          "text": "às políticas de incentivo à agricultura familiar na América"
         },
         {
           "key": "C",
-          "text": "a difusdo de SAFs, criados com o proposito de produgado"
+          "text": "à difusão de SAFs, criados com o propósito de produção"
         },
         {
           "key": "D",
-          "text": "as declaragdes que cogitaram a retirada do Brasil da OMC"
+          "text": "às declarações que cogitaram a retirada do Brasil da OMC"
         },
         {
           "key": "E",
@@ -1075,7 +1075,7 @@
         "w": 848,
         "h": 395
       },
-      "stem": "v wx yz G { J | } ~  G    ~J J  x J J   G  J  z G   y z G x z x y  J |   G  z x  J     J y xK    J  J  ~ J x G    ~  ~ J x  y y ~ x ~ {  K ~ {G J  ~ { ~ KJ   G    { G  G J G yz x{J  J  G        {  FJ  J  z G  J y x KG xJ G yz G   G y G    x z  yz J   y    x y J z    yy    J z   y y   w ~K  xJ y G  J x y  J J    x   J   G   w ~K  wJ  z J J z J x  J G w¡   J ~K  ¢ s £ k l ¤ sb¥¥ ¦¦ ¦ ll f ¥ ^/+$ / \" ; 8 $/ / # \"$\" \"&(2( * \" * ) ! \"%\" 1 V 0/ $ $ &/ \" 8 ($ ! \"$ =",
+      "stem": "21 O Sistema Aquifero Guarani abrange parte dos territórios da",
       "options": [
         {
           "key": "A",
@@ -1128,7 +1128,7 @@
         "w": 848,
         "h": 543
       },
-      "stem": "22 O Monte Everest é 0 pico mais elevado do planeta, localizado na cordilheira do Himalaia, na fronteira da China e Nepal, com 8.848 metros de altitude. Possui cinco estagdes meteorolégicas em diferentes altitudes funcionando desde 2019, entre elas a esta¢do mais elevada do planeta (8.430 m), que registra dados valiosos para a climatologia. Esse projeto foi liderado pelo Dr. Paul",
+      "stem": "22 O Monte Everest é o pico mais elevado do planeta, localizado na",
       "options": [
         {
           "key": "A",
@@ -1181,7 +1181,7 @@
         "w": 848,
         "h": 340
       },
-      "stem": "23 Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome cientifico Bothrops jararaca) encontra-se com as ocorréncias registradas em uma extensa faixa do Brasil relativa a diferentes",
+      "stem": "23 Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome",
       "options": [
         {
           "key": "A",
@@ -1234,27 +1234,27 @@
         "w": 848,
         "h": 771
       },
-      "stem": "o +, f l m & +, % +, b + b # ' p b + + , ' ! b # - g b # b - ' ! b # b - & * g +, b # b - ' f! i +, b # - g b # b - ' i ! i + , b # g + , b # +q b ' k! i + , b # b - & * g b # + q b ' 25",
+      "stem": "24 Na transição do Cerrado para a Mata Atlântica, ocorre uma substituição da vegetação, que resulta em mudanças na frequência de certas características das plantas. Identifique duas mudanças decorrentes dessa transição.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Aumento da frequência de caules e galhos tortuosos;"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Aumento da frequência de plantas que germinam e"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Diminuição da frequência de caules e galhos tortuosos;"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Diminuição da frequência de plantas epífitas; diminuição"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Diminuição da frequência de plantas que germinam e"
         }
       ],
       "answer": {
@@ -1287,27 +1287,27 @@
         "w": 848,
         "h": 1517
       },
-      "stem": "r + , s + , % & ' r ) s t u! * + , - +, ' f & +q - ( b ! ekv * u + , ( ' ! & * u +, ( + , ' f! e k v * t + , ( ) ' i ! & * u +, ( ' k! % * t + , ( + , ' wx yz z { |x yz } ~x   | z z   z x  z | x | x    x  z  x  {  z   x yx   z  { x  | z  z  |z x  x  x { z z { |{  V G 08/28 V 10000000 derno Reserva 08 5 5",
+      "stem": "NO OE EEE Sb das IDLE EEG 25 O tempo de decomposição dos diferentes resíduos sólidos",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "garrafas PET fazem parte do grupo Y, e sua destinação"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "embalagens de papel fazem parte do grupo Y, e sua"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "garrafas PET fazem parte do grupo X, e sua destinação"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "embalagens de papel fazem parte do grupo Y, e sua"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "garrafas de vidro fazem parte do grupo X, e sua destinação"
         }
       ],
       "answer": {
@@ -1340,19 +1340,19 @@
         "w": 848,
         "h": 481
       },
-      "stem": "(A) as elevadas condigdes de umidade provenientes do derretimento de neve.",
+      "stem": "(A) as elevadas condições de umidade provenientes do",
       "options": [
         {
           "key": "A",
-          "text": "as elevadas condigdes de umidade provenientes do"
+          "text": "as elevadas condições de umidade provenientes do"
         },
         {
           "key": "B",
-          "text": "a ocorréncia de chuvas intensas, que aumentam os riscos"
+          "text": "à ocorrência de chuvas intensas, que aumentam os riscos"
         },
         {
           "key": "C",
-          "text": "As temperaturas reduzidas e a baixa concentracdo de"
+          "text": "às temperaturas reduzidas e à baixa concentração de"
         },
         {
           "key": "D",
@@ -1360,7 +1360,7 @@
         },
         {
           "key": "E",
-          "text": "a elevada pressdo atmosférica, que produz ventos"
+          "text": "à elevada pressão atmosférica, que produz ventos"
         }
       ],
       "answer": {
@@ -1391,29 +1391,29 @@
         "x": 0,
         "y": 1123,
         "w": 848,
-        "h": 150
+        "h": 1215
       },
-      "stem": "& ' # ( ) * + ,--. / 01. 2 ,3 4 , 5 3 / , / 6",
+      "stem": "C 27 d Uma variedade de milho (Milho Bt) foi modificada com a : inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato (",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Aumento do valor nutri- | Possibilidade de desenvol-"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Menor tempo de matura- | Possibilidade de invasão"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Facilitação da polinização | Risco de extinção local de"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Economia de água pela | Maior exposição dos"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Maior produtividade das | Possibilidade de"
         }
       ],
       "answer": {
@@ -1444,29 +1444,29 @@
         "x": 804,
         "y": 95,
         "w": 848,
-        "h": 116
+        "h": 906
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "@@@ = 6 A ( ; < < B C ! D A # B C ! D A B E F D A $ G H! D 6 6 % G F ! D 6 6",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Ligado ao X recessivo"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Ligado ao X recessivo"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Ligado ao Y"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Autossômico recessivo"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Autossômico recessivo"
         }
       ],
       "answer": {
@@ -1550,29 +1550,29 @@
         "x": 0,
         "y": 95,
         "w": 848,
-        "h": 1243
+        "h": 1843
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "30 O gás carbônico atmosférico reage com a água do mar",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Pteridófitas, angiospermas e gimnospermas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Gimnospermas, pteridófitas e angiospermas."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Pteridófitas, gimnospermas e angiospermas."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "O processo (I) resulta em diminuição da alcalinidade da"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "O processo (I) resulta em aumento da alcalinidade da água"
         }
       ],
       "answer": {
@@ -1711,15 +1711,15 @@
         "w": 848,
         "h": 1086
       },
-      "stem": "33 No que diz respeito a infeccdes sexualmente transmissiveis (ISTs), identifique a relacdo correta entre grupo causador, um dos seus sintomas e se possui ou nao vacina preventiva. IST Causador Um dos pos- | Possui siveis sintomas | vacina?",
+      "stem": "33 No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um",
       "options": [
         {
           "key": "A",
-          "text": "Neisseria Ardor na ure-"
+          "text": "= ;"
         },
         {
           "key": "B",
-          "text": "; HCV Comprometi- -"
+          "text": "| HCV Comprometi- ."
         },
         {
           "key": "C",
@@ -1764,19 +1764,19 @@
         "w": 848,
         "h": 1740
       },
-      "stem": "grandes capitalistas do Sudeste animou o mercado imobilidrio. José de Sousa Martins. O Poder do Atraso. Adaptado. Os",
+      "stem": "grandes capitalistas do Sudeste animou o mercado imobiliário. José de Sousa Martins. O Poder do Atraso. Adaptado. Os",
       "options": [
         {
           "key": "A",
-          "text": "| Brasil Expans&o dos siste- | Aprovacao do direi-"
+          "text": "|Brasil Expansão dos siste- | Aprovação do direi-"
         },
         {
           "key": "B",
-          "text": "(Cc"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "territoriais e sociais, observadas nas areas onde a politica de (D"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
@@ -1821,23 +1821,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "incentivou a exploração metálica em outras regiões do"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "contribuiu para o declínio do império asteca, além de"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "acelerou a extinção de formas de acúmulo de capital"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "conectou o continente americano com partes do extremo"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "aumentou a circulação de moeda nas redes mundiais da"
         }
       ],
       "answer": {
@@ -1923,27 +1923,27 @@
         "w": 848,
         "h": 988
       },
-      "stem": "Q V 37 O > ; <J<CB @ L< ZCQ X =B< L < ^= @HB U A<B ;@=@; ?> =BT@ L@ Q <= ­ NO P ±= >M @ U>;B C > J ? < L < ? = @ R@ UK < @ HH@ U @ =B@ L < B C B\\=@ J ? > > BJ M> H ? BC > J ? <H > H ? @ ? @BH J@ B J LmH ? = B@ Q =BC W = B@] N^ P d> H > J M < UMBC > J ? < L > = >U @ V G > H ; <C > = ; B@BH > L B Q U <C W? B ;@H ; < C Q@eH > H @C> =B ;@J<HI > C L>? =BC > J ? < L@H = >U @ VG> H ; < C <H Q @eH > H > E =<Q > E H] NFP F<J ° E \\@Vi< > J ? = > L > H > J M < UMBC > J ? < @ \\ = e ; < U @ > BJ L E H ? =B@U I = > HQ <JH WM>U Q <= ? <=J@= < ^ = @HB U @ ²³ C@ B < = >;<J<CB @ L< C EJ L<] N d P F= > H; BC > J ? < Q=< \\ = > H HB M < L @ Le M B L@ > b ?> =J @ > Q = > Q < J L > = k J ;B @ L> E C@ > ; <J<C B@ @ \\=< > bQ < = ? @ L <= @ ] N hP l >LE V i< ; <J ? eJ E@ L< ? = WA B ; < L > > H ;= @ M <H > Q < U e ? B ;@ H Q m R U B ;@H M < U? @ L@H g @ UA @R> ? BT@ Vi < > ;@ Q @ ; B ? @ Vi < Q =<ABHHB<J @ U L > ? = @ R @ UK@ L <= > H Q <R= > H ] V G 11/28 V 10000000 derno Reserva 11 4 7",
+      "stem": "extlaliviSta É Mais a proauçaão Inaqustilal. 37",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Prevalecimento do trabalho assalariado imigrante e"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Desenvolvimento de relações comerciais e diplomáticas"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Conjugação entre desenvolvimento agrícola e industrial,"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Crescimento — progressivo — da dívida externa e"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Redução contínua do tráfico de escravos e políticas"
         }
       ],
       "answer": {
@@ -1974,9 +1974,9 @@
         "x": 0,
         "y": 98,
         "w": 848,
-        "h": 469
+        "h": 1969
       },
-      "stem": "! \" # $ % & ' % ' ( ) ' % % ' ' * + $ + \" ( ) ' , ' , - ' . /, 0 \" ( ) ' ' 1",
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
@@ -2027,25 +2027,25 @@
         "x": 0,
         "y": 801,
         "w": 848,
-        "h": 113
+        "h": 1114
       },
-      "stem": "9 8 : ; <=> 8 : 9 ? < @ A ? 7 ? :A87 B <C DEEEF < B G < H G8 7 8 9 8",
+      "stem": "39 Uma das folhas de ontem estampou (...) o programa da recepção presidencial em que, diante do corpo diplomático, da mais fina sociedade do Rio de Janeiro, aqueles que deviam dar",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "A crítica permite compreender que, apesar da mudança de"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "O discurso elogia os esforços para compatibilizar a cultura"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "A eclosão da Primeira Guerra Mundial contribuiu para a"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "O programa musical adotado na recepção revelava"
         },
         {
           "key": "E",
@@ -2080,9 +2080,9 @@
         "x": 804,
         "y": 95,
         "w": 848,
-        "h": 113
+        "h": 215
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": ", 5 4 ' ' + +   ' , 3 \" 2 ' % ( ) $ ",
       "options": [
         {
           "key": "A",
@@ -2188,7 +2188,7 @@
         "w": 848,
         "h": 223
       },
-      "stem": "42 Leia com atencdo os dados do quadro e da tabela, relativos a epidemi Quadro: Municipio de Sao Paulo: Caracteri Grupo Distritos Caracteristicas Classes Socia",
+      "stem": "42 Leia com atenção os dados do quadro e da tabela, relativos à epidemi Quadro: Município de São Paulo: Caracterí Grupo Distritos Características Classes Socia",
       "options": [
         {
           "key": "A",
@@ -2241,7 +2241,7 @@
         "w": 848,
         "h": 736
       },
-      "stem": "ç í î ïðð ñ ò óô ï õ ïö î ï ö ÷ñ øù ö úû ö ø ñü ý ù ðù ö û ÿõ ú û ñ øû þ î ïÿ ö û ò ðù ñ ú ÿî ÿû ü û ï ÿø ñù ö ù òð ïò ù ï ï ù ðõ ï ù ïû î ïõ ö ù ð û ó ô ï ú û ö üù ö ú ï ö ÷û ú ï ï ñù û î ï õ ÷ù îù ñ ù ø ÿ öòû ð÷û û ö ö ô ï û ö ï ö ù ð û ó ù ö ù ÿ÷û ö ù õ ÷ðù ï ö ü û î ùúù ø õ ïö ÿ ÿ õ ï ÷ ù ø ò ï ú û öñ û ú ïøÿ õ û ó ô ï û ö ø ñ ü ý ù ðù ö ðù ö ïü û ø ñ û ö ù ÷ïú û ö ÿ û ö ñ ù ö ÷ ù ö ù ðù ö ÷ ï ñù ú ù ðù õ ó û ù ö ÷ù ùø ñ ù û ö ø ñü ý ù ðù ö ÿ ÿ ï ù ðõ ù ø ï ñ ñ ù ïö ø û ö ÷ð û ú ï ö ö ù ûø ï ù ð õ û ú ï ö ò ïð ÿ ø ñü ý ù ðù ö û ö ø ñ ü ý ù ð ù ö ú ï ö üû îù ú ù ø õ ï ö ø ù ö øï õ ï î û öï ÿ ú ù ò ù ð ï ù ð û ø ü ý ù ö ï ø û ï ð øû ü òï öö ù ü ÿ ÿ ÿ ª ¥  ¦ ¦ £  £   ! ¶¥ «£ \"  £ ¥ª # ¯ « ¥  $ª   % «   & §'   V PAG 13 Caderno",
+      "stem": "43 Leia o texto: Ec",
       "options": [
         {
           "key": "A",
@@ -2294,7 +2294,7 @@
         "w": 848,
         "h": 447
       },
-      "stem": "44 [No Brasil], a transiggo da predomindncia indigena para a africana na composi¢do da forca de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos, e iam acrescentando outros a4 medida que capital e crédito tornavam-se disponiveis. Em fins do século XVI, a mado de obra dos engenhos era mista do ponto de vista racial, e a propor¢do foi mudando crescentemente em favor dos africanos importados e sua prole. Stuart Schwartz, Segredos internos. Sao Paulo: Companhia das Letras,",
+      "stem": "44 [No Brasil], a transição da predominância indígena para a",
       "options": [
         {
           "key": "A",
@@ -2345,29 +2345,29 @@
         "x": 0,
         "y": 688,
         "w": 848,
-        "h": 45
+        "h": 387
       },
-      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $",
+      "stem": "Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm. A partir desta peça, ele precisa extrair o maior quadrado possível,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,0 cm."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,5 cm."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,0 cm."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,5 cm."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "10,0 cm."
         }
       ],
       "answer": {
@@ -2400,11 +2400,11 @@
         "w": 848,
         "h": 2223
       },
-      "stem": ")- v 46 Um video bastante popular na Internet mostra um curioso experimento em que uma garrafa de 4gua pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa. palito 1 O “truque” sd é possivel pelo uso de outros palitos, formando um tipo de trelica. A figura a direita da foto mostra uma visdo lateral do conjunto, destacando duas das forcas que atuam sobre o palito 1. Nesta figura, Féa forca que o palito 2 exerce sobre o palito 1 (aplicada a uma distancia L do ponto A na borda da mesa), Péa componente vertical da forga que a corda exerce sobre o palito 1 (aplicada a uma distancia d do ponto A) e 8 é o angulo entre a direcdo da forga F ea vertical. Para que 0 conjunto se mantenha estatico, porém na iminéncia de rotacionar, a relagdo entre os médulos de F e P deve ser: (a) fe] = Lcos(@) (a) |F| = Lsen(@) (C) |F| = |P| cos(@) (0) iF| _ |P zcost#) c= se Note e adote:",
+      "stem": "- v 46 Um video bastante popular na Internet mostra um curioso",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "|F| = EE"
         },
         {
           "key": "B",
@@ -2451,9 +2451,9 @@
         "x": 0,
         "y": 1390,
         "w": 848,
-        "h": 113
+        "h": 948
       },
-      "stem": "#$ % 47 ) == = C ! ) #* % 5= ) = = = C!) #, % 5 7 ) = == C! )",
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
@@ -2506,7 +2506,7 @@
         "w": 848,
         "h": 639
       },
-      "stem": "S $ . T U V # W . X!$ 3 1 Y ( 3 4 $ # . $ Y Z 4 [ V $ # + . TZ 3 4 4\\ % ] ' . ! / ) 0 * 3 T 7 8 9: : ; < 8 9: = ) 2 * T ^ _ : ` ? L < ;<: < ; a J b ; = c d J Q F L 9G8 C ) + * ^ 4 c P e ? f g h < L ; ?C R ) 5* Z 1 DE:F :G ; HI8 <; JG ;KL < ; <: = M A N O P Q? C ) 6* 1 4",
+      "stem": "48 Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão",
       "options": [
         {
           "key": "A",
@@ -2518,11 +2518,11 @@
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "30 1 més = 30 dias."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "45 Aceleração da gravidade: g = 10 m/s”."
         },
         {
           "key": "E",
@@ -2559,7 +2559,7 @@
         "w": 848,
         "h": 902
       },
-      "stem": "), Sy 49 Ondas estacionarias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogénea, fixa em dois pontos separados por uma distancia L, e pondo-a a vibrar. A extremidade a direita 6 acoplada a um gerador de frequéncias, enquanto a outra extremidade esta sujeita a uma forga tensional produzida ao se pendurar a corda um objeto de massa my mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequéncia do gerador para f;, obtém-se na corda uma onda estacionaria que vibra em seu primeiro harménico.",
+      "stem": "D, 5, 49 Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa",
       "options": [
         {
           "key": "A",
@@ -2610,29 +2610,29 @@
         "x": 804,
         "y": 1152,
         "w": 848,
-        "h": 112
+        "h": 1186
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "v 50 Um mol de um gas ideal percorre o processo cíclico ABCA em um diagrama P-V, conforme mostrado na figura, sendo que a",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Nenhuma delas."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Apenas |."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Apenas Il."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Apenas Ill."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Apenas le Il."
         }
       ],
       "answer": {
@@ -2665,7 +2665,7 @@
         "w": 848,
         "h": 529
       },
-      "stem": "N1 823 6 51 : 6 OP B QQ R STU V W X9B YP Y P B PP P Q Z [ \" & L G G ) ! ! ' L \" & L + , -' \" & ' % + / $ \\] ^ _ ` ) # G C + . * - C \\a ` + / ! ' $ * $ -' + 33",
+      "stem": "Fonte: doi: 10.3389/fphys.2020.00035 Sobre a determinação do sexo em tartarugas-de-couro, é",
       "options": [
         {
           "key": "A",
@@ -2673,19 +2673,19 @@
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "O maior nível de transcrição do gene da aromatase"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Em temperaturas entre 28 e 30 °C, a maioria dos embriões"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Há equilíbrio no nascimento de machos e fêmeas a 26 °C."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "A atividade da aromatase depende da quantidade de"
         }
       ],
       "answer": {
@@ -2775,23 +2775,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Circuito (1)"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Circuito (2) Suponha que as lâmpadas funcionem"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Circuito (3) de maneira ôhmica, ou seja, da mesma"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Circuito (4) forma que um resistor."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Circuito (5)"
         }
       ],
       "answer": {
@@ -2824,11 +2824,11 @@
         "w": 848,
         "h": 1069
       },
-      "stem": "54 Uma esfera metalica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma regido em que ha um campo elétrico uniforme e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxilio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a a¢do da gravidade, a uma altura total h, sem nunca abandonar a regido de campo elétrico uniforme. iso] + h 1 [- Ss Feeeeteese Feet eee es +q",
+      "stem": "54 Uma esfera metálica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida",
       "options": [
         {
           "key": "A",
-          "text": "mghe qEh"
+          "text": "mgh e qEh"
         },
         {
           "key": "B",
@@ -2840,7 +2840,7 @@
         },
         {
           "key": "D",
-          "text": "—mghe-—qEh"
+          "text": "—mgh e —qEh"
         },
         {
           "key": "E",
@@ -2875,9 +2875,9 @@
         "x": 0,
         "y": 1126,
         "w": 848,
-        "h": 148
+        "h": 249
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "A energia irradiada pelo Sol provém da conversão de massa em",
       "options": [
         {
           "key": "A",
@@ -2930,27 +2930,27 @@
         "w": 848,
         "h": 544
       },
-      "stem": "o oo oO Mm. Scientific American. 1 July 2020. Adaptado. Segundo o texto, conhecer a composi¢ao de elementos quimicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,",
+      "stem": "o oo oO Mm. Scientific American. 1 July 2020. Adaptado. Segundo o texto, conhecer a composição de elementos quimicos que constituem as estrelas é fundamental, pois ela,",
       "options": [
         {
           "key": "A",
-          "text": "fornece evidéncias da ligagdo entre as idades das estrelas."
+          "text": "fornece evidências da ligação entre as idades das estrelas."
         },
         {
           "key": "B",
-          "text": "sugere a exist€ncia de planetas rochosos formados por"
+          "text": "sugere a existência de planetas rochosos formados por"
         },
         {
           "key": "C",
-          "text": "influencia na possibilidade de presenca de vida em outros"
+          "text": "influencia na possibilidade de presença de vida em outros"
         },
         {
           "key": "D",
-          "text": "determina condigdes cosmoldgicas da evolugdo de"
+          "text": "determina condições cosmológicas da evolução de"
         },
         {
           "key": "E",
-          "text": "possibilita a sintese de moléculas em nuvens de gas e poeira"
+          "text": "possibilita a síntese de moléculas em nuvens de gás e poeira"
         }
       ],
       "answer": {
@@ -2983,27 +2983,27 @@
         "w": 848,
         "h": 374
       },
-      "stem": "« $ ­ d ® C ¯ & ° ± k ' 2 &$ ' &- ' & 0 ' & 1 ' & ' ² 58",
+      "stem": "tLusSTIICA, 57 No texto, o astrofísico Martin Asplund emprega a frase “The sun is a fundamental yardstick” (L. 15), por considerar o Sol",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "um mistério."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "uma estrutura."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "um processo."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "um sistema."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "um parâmetro."
         }
       ],
       "answer": {
@@ -3040,23 +3040,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "verificar se sua composição se assemelha à do Sol."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "selecionar galáxias compostas por estrelas padrão."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "calcular níveis de radiação estelar e de energia gravitacional."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "medir a densidade e grau de opacidade de nêutrons."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "testar a circulação atmosférica em torno dos astros."
         }
       ],
       "answer": {
@@ -3142,27 +3142,27 @@
         "w": 848,
         "h": 563
       },
-      "stem": "z U [Z\\[U] _ XZ WZXfV b c_ _ ^ Y n_Xd cY d Z hZX u U _U ZV [_XdZ b ZX] XZa gZ [U dZ h_y_g^ YZ` ] `^ y Z X Z {^ Z ] a _X_ U` _d UgZ` bZ V [ Z` ] _ ` Ywd c_` `Ubc_c` k l ` u U WUV[Z dZ a XZ`` u U Z [ ZV ` u U V_ W_Ywgc_o k p l W _h U X ZbZY _ b UY^ Vcb _ s u U d U` Y _c` [wY cdU`o k T l ` u U a_^ [_d_` aUX b ZX[_ cYa XZhc`cr cgcd_d Zo k v l y_X_V [ZY _ W ^Vb cUV _gc d_dZ dZ yX^a U`o k l a XUYUh ZY c y^ _g d_d Z d Z Z\\ aX Z`` u Uo V PAG 18 Caderno",
+      "stem": "No texto, a referência a um jardim de verão ao entardecer, x repleto de vagalumes, sugere que, para os adolescentes, as ° midias sociais (A",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "são fonte de pressão e tensão na familia. *"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "favorecem a comunicação dos mais tímidos. iD"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "são pautadas por certa imprevisibilidade."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "garantem a funcionalidade de grupos."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "(E) promovem igualdade de expressão."
         }
       ],
       "answer": {
@@ -3193,9 +3193,9 @@
         "x": 804,
         "y": 102,
         "w": 848,
-        "h": 113
+        "h": 215
       },
-      "stem": "# | & # \" 5 # & & | # \"% % \"",
+      "stem": "61 | ain't gonna work on Maggie's farm no more | ain't gonna work on Maggie's farm no more Well, | wake up in the morning Fold my hands and pray for rain",
       "options": [
         {
           "key": "A",
@@ -3248,27 +3248,27 @@
         "w": 848,
         "h": 902
       },
-      "stem": "Zc_ U ` a XUh j X r cU` _ g[ZXV _[ch_ {^ Z YZgm UX Z\\aX Z``_ _ cdZc_ bUV [ cd _ ZY b _ d _ ^ Y d U` [Xf` a XUh j Xr cU`] V _ UXd Z Y ZY { ^ Z _a_ X Zb ZY] j k l `a ZX[Z x _¡ dZ `b UVWc_ V s _¡ WU b Uo kp l XZb ca c[_s u U ¡ c V yX_[cd u U ¡ Z`a ZX_V s_o kTl r `ZXh_s u U ¡ bZX[Z x _ ¡ Z\\ a ZXcfV bc_o k v l \\_ yZXU¡ m_X YUV c_ ¡ d Z`_aX Uh _s u Uo k l X y^gm U ¡ d Z`a X Z x U ¡ [ZcYU` c_o V G 18/28 V 10000000 derno Reserva 18 8 6",
+      "stem": "r, v 62 Leia os provérbios: 1. Don’t count your chickens before they lay eggs. 2. Don't bite the hand that feeds you. 3. Every cloud has a silver lining.",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Esperteza; desconfiança; foco."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Precipitação; ingratidão; esperança."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Observação; certeza; experiência."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Exagero; harmonia; desaprovação."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Orgulho; desprezo; teimosia."
         }
       ],
       "answer": {
@@ -3301,23 +3301,23 @@
         "w": 848,
         "h": 437
       },
-      "stem": "63 No fragmento “ao tropegar, cravava sua propria adaga no peito.” (L. 8-9), a oracgdo em negrito abrange, simultaneamente, as nogdes de",
+      "stem": "63 No fragmento “ao tropeçar, cravava sua própria adaga no peito.” (L. 8-9), a oração em negrito abrange, simultaneamente,",
       "options": [
         {
           "key": "A",
-          "text": "proporcdo e explicacdo."
+          "text": "proporção e explicação."
         },
         {
           "key": "B",
-          "text": "causa e proporcao."
+          "text": "causa e proporção."
         },
         {
           "key": "C",
-          "text": "tempo e consequéncia."
+          "text": "tempo e consequência."
         },
         {
           "key": "D",
-          "text": "explicagao e consequéncia."
+          "text": "explicação e consequência."
         },
         {
           "key": "E",
@@ -3352,9 +3352,9 @@
         "x": 804,
         "y": 353,
         "w": 848,
-        "h": 44
+        "h": 1985
       },
-      "stem": "57 89:;< 8 6 4 ; 231 5 4 8 1 8 4 1 1 = 34>3 >48 9 :; ?; 1 =@8 9; >4A 82 ; B CDEF / G H I J -IH K /",
+      "stem": "ultado. ificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. ; no século XIX à do final do século XX. As imagens correspondentes tificadas em: Revitalização de áreas centrais https://www.chicagodetours.com Suburbanização https://operamundi.uol.com.br",
       "options": [
         {
           "key": "A",
@@ -3407,11 +3407,11 @@
         "w": 848,
         "h": 598
       },
-      "stem": "Em “Seu carisma seduziu a editora DC Comics, que impés o acréscimo de um quadrinho.” (L. 12-13), 0 vocdbulo “que” possui a mesma funcdo sintatica desempenhada no texto por (A) “imével” (L. 2). (B) “Robin” (L. 5). (C) “seus pais” (L. 9). (D) “se” (L. 12). (E) “vivo” (L. 15). v (C",
+      "stem": "Em “Seu carisma seduziu a editora DC Comics, que impôs o",
       "options": [
         {
           "key": "A",
-          "text": "“imével” (L. 2)."
+          "text": "“imóvel” (L. 2)."
         },
         {
           "key": "B",
@@ -3427,7 +3427,7 @@
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "MTE o pag 19/"
         }
       ],
       "answer": {
@@ -3458,21 +3458,21 @@
         "x": 804,
         "y": 957,
         "w": 848,
-        "h": 120
+        "h": 1381
       },
-      "stem": "(Veja a imagem da questão)",
+      "stem": "Uh ES LBA Sd a O RE EE sos nana (E) | Autossômico recessivo | 12,5% em qualquer caso 29",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "(D) j"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "(E) Y"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "v"
         },
         {
           "key": "D",
@@ -3480,7 +3480,7 @@
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Autossômico recessivo | 12,5% em qualquer caso"
         }
       ],
       "answer": {
@@ -3511,29 +3511,29 @@
         "x": 0,
         "y": 688,
         "w": 848,
-        "h": 79
+        "h": 387
       },
-      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $ 2 8 ! \" 9: 2",
+      "stem": "Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm. A partir desta peça, ele precisa extrair o maior quadrado possível,",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,0 cm."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "8,5 cm."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,0 cm."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "9,5 cm."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "10,0 cm."
         }
       ],
       "answer": {
@@ -3566,15 +3566,15 @@
         "w": 848,
         "h": 501
       },
-      "stem": "Cecilia Meireles, Romanceiro aa Inconjidencia.",
+      "stem": "Cecilia Meireles, Romanceiro da Inconfidência.",
       "options": [
         {
           "key": "A",
-          "text": "sao, vao, podiam, eram."
+          "text": "são, vão, podiam, eram."
         },
         {
           "key": "B",
-          "text": "seriam, iriam, podiam, serdo."
+          "text": "seriam, iriam, podiam, serão."
         },
         {
           "key": "C",
@@ -3582,7 +3582,7 @@
         },
         {
           "key": "D",
-          "text": "sao, vao, poderiam, eram."
+          "text": "são, vão, poderiam, eram."
         },
         {
           "key": "E",
@@ -3619,27 +3619,27 @@
         "w": 848,
         "h": 849
       },
-      "stem": "69 im A “estranha poténcia” que a voz lirica ressalta nas palavras decorre de uma combinacao entre Es: e",
+      "stem": "69 im A “estranha potência” que a voz lírica ressalta nas palavras",
       "options": [
         {
           "key": "A",
-          "text": "fluidez nos ventos do presente e contetido fixo no passado. re"
+          "text": "fluidez nos ventos do presente e conteúdo fixo no passado. e"
         },
         {
           "key": "B",
-          "text": "forma abstrata no espaco e presenga concreta na historia. re:"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "leveza impalpavel na arte e vigor nos documentos antigos. (A"
+          "text": "leveza impalpável na arte e vigor nos documentos antigos. (A"
         },
         {
           "key": "D",
-          "text": "sonoridade ruidosa nos ares e significado estavel no papel. |"
+          "text": "sonoridade ruidosa nos ares e significado estável no papel."
         },
         {
           "key": "E",
-          "text": "lirismo irrefletido da poesia e peso justo dos acontecimentos."
+          "text": "v"
         }
       ],
       "answer": {
@@ -3670,29 +3670,29 @@
         "x": 804,
         "y": 243,
         "w": 848,
-        "h": 71
+        "h": 2095
       },
-      "stem": "! * 0* 6' / ) , ) * 2 ) &' * 7 0 : ' $ , 7 ) , ; 09051 /) ' * <= ) *+ 0 9+ 0 * ' 8 ) 9 , 9+ 0 *",
+      "stem": "aracterísticas distritais por volta de 1918. sses Sociais Tipos de Moradia Benefícios Existentes",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "Obtiveram o direito à educação e acesso as escolas filosóficas"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "Em Esparta, recebiam educação física na infância, tinham"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "Adquiriram poderes políticos como cidadãs apenas com o"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Em Atenas, podiam participar de algumas discussões na"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Tornaram-se legisladoras e integrantes do conselho dos"
         }
       ],
       "answer": {
@@ -3723,9 +3723,9 @@
         "x": 804,
         "y": 1028,
         "w": 848,
-        "h": 146
+        "h": 244
       },
-      "stem": "< ¨$ ! ; % )( ©2( 6 ( 2  ( 0 , 8 ¨' ) $ ! ; % )( © 2( 8",
+      "stem": "s s Ma eee EE uu OO nd NN EE DE EN NEE 71 | — Traíste-me, Sem Medo. Tu traíste-me. (...) Sabes o que tu és afinal, Sem Medo? Es um ciumento. Chego a pensar se não és homossexual. Tu querias-me só, como tu. Um",
       "options": [
         {
           "key": "A",
@@ -3778,27 +3778,27 @@
         "w": 848,
         "h": 468
       },
-      "stem": "J U 72 WX YZW [ \\]^_ `W aW bcd`_ W ef ^ W b` _ f a f ` fY cf g h Wa bWiWa aj Zd f a k l Y_ a a]mW n a \\oa c dc \\dZ f a W p YZWaa h Wa WX `Wac fq \\ W b _ cW p c_ k ZWa YWi c dm f XW bc W k Y _Z r s d bi_X YZWW ba t _u f ZX f g t _u db _ e W b adm _u dZZW` \\ c]m W n v rw s fn cdm W^u o Zd b i f ` W dZ f u _ e Wb` d`_u X fb a f v rx s d y b_Zz b i d f u X W b cd Z f u Y Z W [\\ `d i f `_u fn d W bf ` f v r{ s i_X Ynf i | b i d f u d b m W bg t _u o_ o_u i Wy f v r s f Z Z _ y z b i d f u W b c Z W c W b d X W b c _ u db if Y f ^ u f b d X f n W a if v 73",
+      "stem": "Bernardo Carvalho, Nove noites. Adaptado. 72 Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto, respectivamente, por",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "incompreensão; armação; inofensivo; irredutível."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "altivez; brincadeira; ofendido; mansa."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "ignorância; mentira; prejudicado; alienada."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "complacência; invenção; bobo; cega."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "arrogância; entretenimento; incapaz; animalesca."
         }
       ],
       "answer": {
@@ -3835,23 +3835,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "fabular do romance, inspirado nas lendas e tradições"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "investigativo do romance, embasado em testemunhos"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "político do romance, a respeito das condições de vida dos"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "etnográfico do romance, através do registro da cultura dos"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "MT OU Elenco fe"
         }
       ],
       "answer": {
@@ -3884,7 +3884,7 @@
         "w": 848,
         "h": 572
       },
-      "stem": "74 Na cena apresentada, que explora o desconforto gerado pela dificil interlocugdo com o indigena, o narrador",
+      "stem": "74 Na cena apresentada, que explora o desconforto gerado pela",
       "options": [
         {
           "key": "A",
@@ -3892,7 +3892,7 @@
         },
         {
           "key": "B",
-          "text": "explora a sua posigdo ameacadora de homem branco, ao"
+          "text": "explora a sua posição ameaçadora de homem branco, ao"
         },
         {
           "key": "C",
@@ -3904,7 +3904,7 @@
         },
         {
           "key": "E",
-          "text": "sente-se frustrado com a reacgdo de Leusipo, que nao se"
+          "text": "sente-se frustrado com a reação de Leusipo, que não se"
         }
       ],
       "answer": {
@@ -3937,11 +3937,11 @@
         "w": 848,
         "h": 1003
       },
-      "stem": "LD J SJ> J EG?> J KM =E J ? EG= S> ? L JL= LD =oJ F = / dC C ? FW L J KD > B F @ ?C IJ M B FJ 75 ( 5 LD cJ e IJ EL? L J GD cJ e K J > J I MB C ?RD L J jl p = L J i j <k l m/ d ?FJS = F EXD C = > H >JC @ ?E J M ? L J L= C W E D C G= > F D C L J M =? / B = C = D I J L= > ED =C GH IDF KM =GD / kM = L= R = I DEG= > s$ J/ QE @ D >F= J D @ ?C I JM L= C JMJ = R = EG BJ ?C L ?R = >ST EI ?JC / LDW B G? M ?[ J ELD I J E=G J = C @ = >D S> H @ ? IJ L= ( 8& ( 1 1: * 9/ L= >JCB>J/ B ZX D L J @ DM N J L= > = C KD C G J C J IDF K J E N J L J L= C G = ~                                                                                      £         ¡             G 01/28 V 10000000 derno Reserva 01 1 6",
+      "stem": "do a garantir a plena integridade do exame. Assim, ida por um fiscal uma foto do(a) candidato(a) para",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "ausente da prova."
         },
         {
           "key": "B",
@@ -3990,7 +3990,7 @@
         "w": 848,
         "h": 684
       },
-      "stem": "! \" # $ % & ' $ \" ( ) * +,- . * / 00, 1 2 2 3 4 1 2 *) 2 35 67 89 : ; <= >? 8 @",
+      "stem": "76 Remissão Tua memória, pasto de poesia, tua poesia, pasto dos vulgares, vão se engastando numa coisa fria",
       "options": [
         {
           "key": "A",
@@ -4043,15 +4043,15 @@
         "w": 848,
         "h": 868
       },
-      "stem": "e 8f 87g 8 5 h/ i1 ,j k J F H Y N D CD E F E B J B IB HB C D E B ^ E H M D D UV W H B lN [ DB H KC MFBF LB ^ DB H B C I B C I B P U ] W H B B [ ^ N H B H M B N B H B C I B B E F E Z B P U Q W H M E F D B F CD L M B H C I B J E ` F M B P U c W H M E FDB F E F D HN X H C I B E I ^ B P Ud W H FD B E Y B E F H L H \\ D J I ^ B P V PAG 22 Caderno",
+      "stem": "Seep IMIISQUISVTO: À 77 (C",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "da quebra de expectativa gerada pela polissemia. (D"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "da ambiguidade causada pela antonimia."
         },
         {
           "key": "C",
@@ -4059,11 +4059,11 @@
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "do contraste introduzido pela neologia."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "do estranhamento devido à morfologia."
         }
       ],
       "answer": {
@@ -4096,27 +4096,27 @@
         "w": 848,
         "h": 1367
       },
-      "stem": "mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao pais o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca a altura de uma instituig¢Go social. Mas o Corta-jaca de que eu ouvira falar ha muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as dancas selvagens, a irma& gémea do batuque, do catereté e do samba. Mas nas recep¢ées presidenciais o “Corta-jaca” é executado com todas as honras da musica de Wagner, e nGo se quer que a consciéncia deste pais se revolte, que as nossas faces se enrubescam e que a mocidade se ria!",
+      "stem": "mais fina sociedade do Rio de Janeiro, aqueles que deviam dar",
       "options": [
         {
           "key": "A",
-          "text": "A critica permite compreender que, apesar da mudan¢a de"
+          "text": "A crítica permite compreender que, apesar da mudança de"
         },
         {
           "key": "B",
-          "text": "O discurso elogia os esforcos para compatibilizar a cultura"
+          "text": "O discurso elogia os esforços para compatibilizar a cultura"
         },
         {
           "key": "C",
-          "text": "A eclosdo da Primeira Guerra Mundial contribuiu para a"
+          "text": "A eclosão da Primeira Guerra Mundial contribuiu para a"
         },
         {
           "key": "D",
-          "text": "O programa musical adotado na recepcdo revelava"
+          "text": "O programa musical adotado na recepção revelava"
         },
         {
           "key": "E",
-          "text": "A apresentagdo do maxixe Corta-jaca indicava uma"
+          "text": "A apresentação do maxixe Corta-jaca indicava uma"
         }
       ],
       "answer": {
@@ -4149,27 +4149,27 @@
         "w": 848,
         "h": 617
       },
-      "stem": "ª B DB O SlN I B HN D B T U LP « WG C D E N [ I E Y B H U V W E F D J D E F P U ] W D F B B C B I BL DB N E B U L P ­ WP U Q W C H D N[ F F N Z H C D S I T G D J D E H R B S B O wM B D T U L P ­ W P U cW D J D R \\ B E F b L I H B [ DB E M N D B U L P ® WP Ud W lN L B I \\ C B I B L DB M E N D B U LP ­ v W P V G 22/28 V 10000000 derno Reserva 22 9 5",
+      "stem": "79 Na oração “que ela dura” (v. 4), o pronome sublinhado",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "não tem referente."
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "retoma a palavra \"usina\" (v. 1)."
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "pode ser substituído por “ele”, referindo-se a “açúcar” (v. 1)."
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "refere-se à \"mais instável das brancuras\" (v. 2)."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "equivale à palavra \"censura\" (v. 10)."
         }
       ],
       "answer": {
@@ -4202,7 +4202,7 @@
         "w": 848,
         "h": 422
       },
-      "stem": "8 ! \" # $$ % && $ \" ' ( ! () (* + & ( ,- ' $ '- ( . / / / 0 / 1 /",
+      "stem": "80 Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar.",
       "options": [
         {
           "key": "A",
@@ -4255,7 +4255,7 @@
         "w": 848,
         "h": 808
       },
-      "stem": "SMa Cllotdls UE ayutal Pury.",
+      "stem": "SMa Listas UF aYLULAI Pury.",
       "options": [
         {
           "key": "A",
@@ -4308,7 +4308,7 @@
         "w": 848,
         "h": 1985
       },
-      "stem": "ultado. rifica¢Go, a fronteira e a reestrutura¢do do espaco urbano, 1986. Adaptado. ; no século XIX a do final do século XX. As imagens correspondentes tificadas em: Revitalizacao de areas centrais https://www.chicagodetours.com Suburbanizagao https://operamundi.uol.com.br a i Vale do Silicio https://collbusinessnews.com.br/jornadas",
+      "stem": "ultado. ificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. ; no século XIX à do final do século XX. As imagens correspondentes tificadas em: Revitalização de áreas centrais https://www.chicagodetours.com Suburbanização https://operamundi.uol.com.br",
       "options": [
         {
           "key": "A",
@@ -4365,23 +4365,23 @@
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "1x HO e 1x -CH) Es"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "2 x OH\" (A"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "2 x HO"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "1x -CH; e 1x OH\" (B"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "1x HO e 1x OH-"
         }
       ],
       "answer": {
@@ -4414,27 +4414,27 @@
         "w": 848,
         "h": 1006
       },
-      "stem": "oo ovo 84 Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parametro de qualidade e tendo como referéncia os teores recomendados por Orgdos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel",
+      "stem": "oo ovo 84 Um frasco contendo 500 g de mel produzido no Brasil foi",
       "options": [
         {
           "key": "A",
-          "text": "6 recomendado como mel de mesa, assim como para outros"
+          "text": "é recomendado como mel de mesa, assim como para outros"
         },
         {
           "key": "B",
-          "text": "nado pode ser usado como mel de mesa, mas pode ser usado"
+          "text": "não pode ser usado como mel de mesa, mas pode ser usado"
         },
         {
           "key": "C",
-          "text": "pode ser usado para fins industriais, segundo a legislagdo"
+          "text": "pode ser usado para fins industriais, segundo a legislação"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "não pode ser usado nem como mel de mesa nem para fins"
         },
         {
           "key": "E",
-          "text": "nao pode ser usado para qualquer aplicacdo, tanto segundo"
+          "text": "não pode ser usado para qualquer aplicação, tanto segundo"
         }
       ],
       "answer": {
@@ -4467,27 +4467,27 @@
         "w": 848,
         "h": 1282
       },
-      "stem": "v Observe a representacdo a seguir, em que os circulos brancos representam uma espécie quimica (molécula ou ion molecular) e os circulos coloridos, outra.",
+      "stem": "v Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou ion molecular) e os círculos coloridos, outra.",
       "options": [
         {
           "key": "A",
-          "text": "combustdo de um hidrocarboneto com oxigénio em fase"
+          "text": "combustão de um hidrocarboneto com oxigênio em fase"
         },
         {
           "key": "B",
-          "text": "formacgao de um polimero a partir de duas espécies de"
+          "text": "formação de um polímero a partir de duas espécies de"
         },
         {
           "key": "C",
-          "text": "fusdo de uma mistura de dois sais com aumento da tem-"
+          "text": "fusão de uma mistura de dois sais com aumento da tem-"
         },
         {
           "key": "D",
-          "text": "solidificagdo da Agua pura com diminuicdo da temperatura."
+          "text": "solidificação da água pura com diminuição da temperatura."
         },
         {
           "key": "E",
-          "text": "producao de anéis aromaticos em solvente organico."
+          "text": "produção de anéis aromáticos em solvente orgânico."
         }
       ],
       "answer": {
@@ -4520,7 +4520,7 @@
         "w": 848,
         "h": 947
       },
-      "stem": "! \" # # $ % & ' ( ) * + ( , - . / 0 1 2 , - 3 - 0 2 1 4 5 + - / ( / - 2 / , 0 ,",
+      "stem": "No fragmento a seguir, o autor explora conceitos químicos na Pa forma de poesia: tu",
       "options": [
         {
           "key": "A",
@@ -4573,7 +4573,7 @@
         "w": 848,
         "h": 442
       },
-      "stem": "; / ; 2 / 87 4 .6 I H / / / / 7 / 8 4=6 . / ? 2 J 8 / / / ? K / ; / LJ 4> 6 M / / ; / H / / C / / 2 V PAG 23 Caderno",
+      "stem": "metálica, ao contrário dos demais membros da família, que formam apenas óxidos.",
       "options": [
         {
           "key": "A",
@@ -4585,15 +4585,15 @@
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "K, por ter raio atômico atipicamente grande, sendo maior"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "Cs, por pertencer à família 2 da tabela periódica, enquanto"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Fr, por reagir violentamente com a água, devido ao seu"
         }
       ],
       "answer": {
@@ -4626,27 +4626,27 @@
         "w": 848,
         "h": 1537
       },
-      "stem": "8 ! \"# ! $ % & ! \" ' & # ( # ) # * # ! # 90",
+      "stem": "A reação de Maillard, que ocorre entre aminoácidos e",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "OH o"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "o NH"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "fe)"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "NH) fe)"
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "o NH,"
         }
       ],
       "answer": {
@@ -4679,7 +4679,7 @@
         "w": 848,
         "h": 1007
       },
-      "stem": "\" 5 : ; 6 7 8 9 < 2 5 > 2 = 7 8 9 ? 2 @ A",
+      "stem": "permitem ao Sol emitir radiação luminosa a uma potência de",
       "options": [
         {
           "key": "A",
@@ -4691,15 +4691,15 @@
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "tenha sido mantida desde o nascimento do Sol, cerca de 5 x 10º"
         },
         {
           "key": "D",
-          "text": "(Veja a imagem da questão)"
+          "text": "1037kg."
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Vv"
         }
       ],
       "answer": {
@@ -4732,7 +4732,7 @@
         "w": 848,
         "h": 750
       },
-      "stem": "' - 4 ' M + ' ' M ! P Q V PAG 26 Caderno",
+      "stem": "A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas",
       "options": [
         {
           "key": "A",

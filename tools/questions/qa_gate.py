@@ -6,6 +6,8 @@ import os
 import sys
 import json
 import argparse
+import re
+import unicodedata
 
 if sys.stdout.encoding != 'utf-8':
     import io
@@ -15,6 +17,23 @@ PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..
 DATA_DIR = os.path.join(PROJECT_ROOT, "public", "data", "questions")
 ASSETS_DIR = os.path.join(PROJECT_ROOT, "public", "assets", "questions")
 PAGES_DIR = os.path.join(PROJECT_ROOT, "public", "assets", "pages")
+
+
+def _norm(s: str) -> str:
+    s = (s or "").strip().lower()
+    # remove acentos e normaliza unicode
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+
+def _is_placeholder(text: str) -> bool:
+    t = _norm(text)
+    if not t:
+        return True
+    # cobre variações: "questao" / "questão" / "quest�o" (mesmo se vier com encoding ruim)
+    return "veja a imagem da quest" in t
 
 def check_year(year):
     """Executa todas as verificações para um ano."""
@@ -90,19 +109,18 @@ def check_year(year):
         results["warnings"].append(f"Diretorio de paginas nao encontrado: {pages_dir}")
     
     # 7. Qualidade do texto
-    placeholder = "(Veja a imagem da questao)"
     stems_placeholder = 0
     options_placeholder = 0
     total_options = 0
     
     for q in questions:
         stem = q.get("stem", "")
-        if not stem or stem == placeholder or len(stem) < 20:
+        if _is_placeholder(stem) or len((stem or "").strip()) < 20:
             stems_placeholder += 1
         
         for opt in q.get("options", []):
             total_options += 1
-            if opt.get("text", "") == placeholder or not opt.get("text"):
+            if _is_placeholder(opt.get("text", "")):
                 options_placeholder += 1
     
     stem_pct = (stems_placeholder / max(1, len(questions))) * 100
@@ -115,6 +133,17 @@ def check_year(year):
         results["warnings"].append(f"{stem_pct:.1f}% dos enunciados sao placeholders")
     if opt_pct > 50:
         results["warnings"].append(f"{opt_pct:.1f}% das alternativas sao placeholders")
+
+    # 7b. BBoxes suspeitas
+    small_bbox = []
+    for q in questions:
+        bbox = q.get("bbox") or {}
+        h = int(bbox.get("h") or 0)
+        if h > 0 and h < 300:
+            small_bbox.append(q.get("number"))
+    results["checks"]["small_bboxes"] = small_bbox
+    if len(small_bbox) >= 5:
+        results["warnings"].append(f"{len(small_bbox)} bboxes com altura suspeita (<300px) — possivel recorte curto")
     
     # 8. Enrichment
     enriched = 0
@@ -150,6 +179,7 @@ def print_report(results):
     print(f"  - Paginas: {checks.get('page_count', 0)}")
     print(f"  - Enunciados placeholder: {checks.get('stems_placeholder_pct', 0)}%")
     print(f"  - Alternativas placeholder: {checks.get('options_placeholder_pct', 0)}%")
+    print(f"  - BBoxes pequenas: {len(checks.get('small_bboxes', []))}")
     print(f"  - Enrichment: {checks.get('enriched_pct', 0)}%")
     
     if results["errors"]:
