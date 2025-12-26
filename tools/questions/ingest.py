@@ -70,10 +70,12 @@ def _is_garbled_text(text: str) -> bool:
     t = (text or "").strip()
     if not t:
         return True
+    # Menos restritivo para PDFs com encoding especial
     letters = sum(ch.isalpha() for ch in t)
     ratio = letters / max(1, len(t))
     weird = sum(ch in "'&$%{}[]\\" for ch in t)
-    if (len(t) > 40 and ratio < 0.25) or weird > 10:
+    # Aumenta tolerância para aceitar mais textos
+    if (len(t) > 100 and ratio < 0.15) or weird > 20:
         return True
     return False
 
@@ -812,50 +814,55 @@ def main():
     page_images = render_pdf_to_images(pdf_path, args.year)
     if not page_images: sys.exit(1)
 
-    print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
-    rect_index = build_question_rect_index(pdf_path, dpi=200)
-    doc = fitz.open(pdf_path)
-    try:
-        refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
-    except Exception as e:
-        print(f"[WARN] Falha ao extrair blocos de referência: {e}", flush=True)
-        refs_by_qnum, refs_by_label = {}, {}
-    all_questions = []
-    garbled_count = 0
-    for qnum in sorted(rect_index.keys()):
-        info = rect_index[qnum]
-        stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
-        if stem is None or options is None:
-            stem = "(Veja a imagem da questão)"
-            options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
-        if _is_garbled_text(stem):
-            garbled_count += 1
-            stem = "(Veja a imagem da questão)"
-            options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
-        for opt in options:
-            if not (opt.get("text") or "").strip():
-                opt["text"] = "(Veja a imagem da questão)"
-        refs = []
-        refs.extend(refs_by_qnum.get(qnum, []) or [])
-        m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", (stem or "").upper())
-        if m:
-            label = m.group(1)
-            if label in refs_by_label:
-                refs.append(refs_by_label[label])
-        if refs:
-            stem = _apply_refs_to_stem(stem, refs)
-        all_questions.append({
-            "number": qnum,
-            "page": info["page"],
-            "bbox": info["bbox"],
-            "stem": stem,
-            "options": options,
-            "_references": refs,
-        })
-    doc.close()
-    print(f"\n[CHECK] Garbled stems: {garbled_count}/90. (não usamos vision/OCR de prova)", flush=True)
-    questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
-    questions_with_assets = apply_reference_assets(questions_with_assets, args.year, page_images)
+    # Força modo visual para 2021 devido encoding problemático do PDF
+    if args.year == 2021:
+        print("[WARN] Ano 2021: Usando Gemini Vision devido a encoding problemático do PDF.")
+        questions_with_assets = run_vision_pipeline(pdf_path, args.year, page_images)
+    else:
+        print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
+        rect_index = build_question_rect_index(pdf_path, dpi=200)
+        doc = fitz.open(pdf_path)
+        try:
+            refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
+        except Exception as e:
+            print(f"[WARN] Falha ao extrair blocos de referência: {e}", flush=True)
+            refs_by_qnum, refs_by_label = {}, {}
+        all_questions = []
+        garbled_count = 0
+        for qnum in sorted(rect_index.keys()):
+            info = rect_index[qnum]
+            stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
+            if stem is None or options is None:
+                stem = "(Veja a imagem da questão)"
+                options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+            if _is_garbled_text(stem):
+                garbled_count += 1
+                stem = "(Veja a imagem da questão)"
+                options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+            for opt in options:
+                if not (opt.get("text") or "").strip():
+                    opt["text"] = "(Veja a imagem da questão)"
+            refs = []
+            refs.extend(refs_by_qnum.get(qnum, []) or [])
+            m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", (stem or "").upper())
+            if m:
+                label = m.group(1)
+                if label in refs_by_label:
+                    refs.append(refs_by_label[label])
+            if refs:
+                stem = _apply_refs_to_stem(stem, refs)
+            all_questions.append({
+                "number": qnum,
+                "page": info["page"],
+                "bbox": info["bbox"],
+                "stem": stem,
+                "options": options,
+                "_references": refs,
+            })
+        doc.close()
+        print(f"\n[CHECK] Garbled stems: {garbled_count}/90. (não usamos vision/OCR de prova)", flush=True)
+        questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
+        questions_with_assets = apply_reference_assets(questions_with_assets, args.year, page_images)
 
     gabarito_path = os.path.join(PROVAS_DIR, f"g{str(args.year)[-2:]}.pdf")
     gabarito = extract_gabarito(gabarito_path) if os.path.exists(gabarito_path) else {}
