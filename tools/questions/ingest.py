@@ -478,7 +478,8 @@ def _detect_question_markers_from_pdf_page(page: fitz.Page):
     # 2021+ tende a vir mais "pra dentro"; então deixamos bem permissivo.
     margin_pt = 520
 
-    num_re = re.compile(r"^(\d{1,2})(?:[\.)])?$")
+    # Suporta formatos: "1", "1.", "1)", "{1}", "{01}"
+    num_re = re.compile(r"^\{?(\d{1,2})\}?(?:[\.)])?$")
 
     # agrupa por linha usando (block,line)
     lines = {}

@@ -123,7 +123,11 @@ export function Questoes() {
     perYear: {
       "2019": { correct: 0, wrong: 0, answered: 0 },
       "2021": { correct: 0, wrong: 0, answered: 0 },
-      "2022": { correct: 0, wrong: 0, answered: 0 }
+      "2022": { correct: 0, wrong: 0, answered: 0 },
+      "2023": { correct: 0, wrong: 0, answered: 0 },
+      "2024": { correct: 0, wrong: 0, answered: 0 },
+      "2025": { correct: 0, wrong: 0, answered: 0 },
+      "2026": { correct: 0, wrong: 0, answered: 0 }
     }
   });
 
@@ -135,7 +139,11 @@ export function Questoes() {
       perYear: {
         "2019": { correct: 0, wrong: 0, answered: 0 },
         "2021": { correct: 0, wrong: 0, answered: 0 },
-        "2022": { correct: 0, wrong: 0, answered: 0 }
+        "2022": { correct: 0, wrong: 0, answered: 0 },
+        "2023": { correct: 0, wrong: 0, answered: 0 },
+        "2024": { correct: 0, wrong: 0, answered: 0 },
+        "2025": { correct: 0, wrong: 0, answered: 0 },
+        "2026": { correct: 0, wrong: 0, answered: 0 }
       }
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -318,6 +326,10 @@ export function Questoes() {
             <option value={2019}>Fuvest 2019</option>
             <option value={2021}>Fuvest 2021</option>
             <option value={2022}>Fuvest 2022</option>
+            <option value={2023}>Fuvest 2023</option>
+            <option value={2024}>Fuvest 2024</option>
+            <option value={2025}>Fuvest 2025</option>
+            <option value={2026}>Fuvest 2026</option>
           </select>
         </div>
       </div>
