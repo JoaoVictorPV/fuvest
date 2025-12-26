@@ -334,7 +334,6 @@ export function Questoes() {
           >
             <option value={2019}>Fuvest 2019</option>
             <option value={2020}>Fuvest 2020</option>
-            <option value={2021}>Fuvest 2021</option>
             <option value={2022}>Fuvest 2022</option>
             <option value={2023}>Fuvest 2023</option>
             <option value={2024}>Fuvest 2024</option>
