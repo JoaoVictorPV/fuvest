@@ -6,6 +6,9 @@ pymupdf
 # Para manipulação de imagens (recorte, salvamento)
 pillow
 
+# OCR local (fallback para PDFs com camada de texto ruim)
+pytesseract
+
 # SDK oficial do Google para a API do Gemini (pacote atualizado)
 google-genai
 

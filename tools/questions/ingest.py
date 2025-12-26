@@ -8,7 +8,19 @@ import hashlib
 from datetime import datetime
 import re
 from dotenv import load_dotenv
-import google.generativeai as genai
+try:
+    import google.generativeai as genai
+except Exception:
+    genai = None
+
+# OCR local (sem Google) para fallback quando PDF vier com encoding ruim
+try:
+    from ocr import ocr_image, parse_alternatives_from_ocr, extract_stem_from_ocr, OCR_READY
+except Exception:
+    OCR_READY = False
+    ocr_image = None
+    parse_alternatives_from_ocr = None
+    extract_stem_from_ocr = None
 
 # --- Configuração de Codificação ---
 if sys.stdout.encoding != 'utf-8':
@@ -32,6 +44,8 @@ gemini_text_model = None
 
 def get_gemini_vision_model():
     global gemini_vision_model
+    if genai is None:
+        raise RuntimeError("google.generativeai não está instalado. (Gemini desabilitado)")
     if gemini_vision_model is not None:
         return gemini_vision_model
 
@@ -294,6 +308,8 @@ def _auto_trim_whitespace(img: Image.Image, pad: int = 10):
 
 def get_gemini_text_model():
     global gemini_text_model
+    if genai is None:
+        raise RuntimeError("google.generativeai não está instalado. (Gemini desabilitado)")
     if gemini_text_model is not None:
         return gemini_text_model
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
@@ -345,15 +361,51 @@ def render_pdf_to_images(pdf_path, year, dpi=200, skip_first_page=True):
         return []
 
 
+def _is_cover_or_instructions_page(page: fitz.Page) -> bool:
+    """Heurística simples pra evitar tratar capa/instruções como questões.
+
+    IMPORTANTE: vários anos têm cabeçalho com "FUVEST"/"PROVA" em TODAS as páginas.
+    Então esta heurística só deve valer para as primeiras páginas.
+    """
+    try:
+        # Só consideramos capa/instruções nas 2 primeiras páginas.
+        # Depois disso, o risco de falso-positivo (por cabeçalho repetido) é alto.
+        if getattr(page, "number", 999) > 1:
+            return False
+        t = _normalize_spaces(page.get_text("text") or "").upper()
+        if not t:
+            return False
+        # Heurística mais precisa:
+        # - "FUVEST" e "PROVA" aparecem em cabeçalhos de páginas normais, então NÃO usamos.
+        # - se tiver INSTRUÇÕES / "SÓ ABRA" / "FISCAL" etc, então é capa.
+        strong = [
+            "INSTRU",
+            "SÓ ABRA",
+            "SO ABRA",
+            "FISCAL",
+            "FOLHA ÓPTICA",
+            "FOLHA OPTICA",
+            "CANETA",
+        ]
+        return any(k in t for k in strong)
+    except Exception:
+        return False
+
+
 def _detect_question_markers_from_pdf_page(page: fitz.Page):
     words = page.get_text("words") or []
     if not words:
+        return []
+
+    # Evita falsos positivos em capa/instruções
+    if _is_cover_or_instructions_page(page):
         return []
     rect = page.rect
     page_w = rect.width
     mid_x = page_w / 2.0
     margin_pt = 520
-    num_re = re.compile(r"^\{?(\d{1,2})\}?(?:[\.)])?$")
+    # Permite 01, 02 etc (alguns PDFs usam 2 dígitos para as primeiras questões)
+    num_re = re.compile(r"^\{?0*(\d{1,2})\}?(?:[\.)])?$")
     lines = {}
     for w in words:
         x0, y0, x1, y1, txt, block_no, line_no = w[0], w[1], w[2], w[3], w[4], w[5], w[6]
@@ -367,7 +419,11 @@ def _detect_question_markers_from_pdf_page(page: fitz.Page):
         items_sorted = sorted(items, key=lambda t: t[0])
         tokens = [t[4] for t in items_sorted]
         joined = "".join(tokens)
-        if len(joined) > 4:
+        joined = re.sub(r"\s+", "", joined)
+        joined = re.sub(r"[\x00-\x1f]", "", joined)
+        # Remove caracteres invisíveis comuns em PDFs antigos
+        joined = joined.replace("\u00ad", "")
+        if len(joined) > 8:
             continue
         m = num_re.match(joined)
         if not m:
@@ -583,6 +639,9 @@ def crop_assets(questions, year, page_image_paths, bbox_index=None, padding=15):
             bbox = bbox_index[q_num]["bbox"]
         else:
             bbox = question.get("bbox")
+        # IMPORTANTÍSSIMO: page_images pode estar "pulando" páginas dependendo do render.
+        # Para evitar offset, sempre indexamos pela posição real na lista.
+        # O render gera arquivos nomeados pelo page_num + 1 do PDF.
         page_idx = int(question.get("page", 0)) - 1
         if not all([q_num, bbox, page_idx >= 0]):
             question['asset_path'] = "/assets/questions/holder.png"
@@ -750,7 +809,7 @@ def extract_gabarito(gabarito_pdf_path):
         n = int(num_str)
         if 1 <= n <= 90:
             gabarito[n] = letter
-    if len(gabarito) < 90:
+    if len(gabarito) < 90 and genai is not None:
         gabarito = extract_gabarito_via_gemini(gabarito_pdf_path)
     if len(gabarito) < 90:
         missing = [i for i in range(1, 91) if i not in gabarito]
@@ -813,58 +872,92 @@ def main():
         recrop_only(pdf_path, args.year, dpi=200)
         return
 
-    page_images = render_pdf_to_images(pdf_path, args.year)
+    # Para padronização e evitar offsets: NUNCA pular capa aqui.
+    # (as páginas completas são usadas pelo botão "Ver Página" e pelo recorte)
+    page_images = render_pdf_to_images(pdf_path, args.year, skip_first_page=False)
     if not page_images: sys.exit(1)
 
-    # Força modo visual para anos antigos (2015-2021) devido encoding problemático
-    if args.year in [2015, 2017, 2018, 2021]:
-        print(f"[WARN] Ano {args.year}: Usando Gemini Vision devido a encoding problemático do PDF.")
-        questions_with_assets = run_vision_pipeline(pdf_path, args.year, page_images)
-    else:
-        print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
-        rect_index = build_question_rect_index(pdf_path, dpi=200)
-        doc = fitz.open(pdf_path)
-        try:
-            refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
-        except Exception as e:
-            print(f"[WARN] Falha ao extrair blocos de referência: {e}", flush=True)
-            refs_by_qnum, refs_by_label = {}, {}
-        all_questions = []
-        garbled_count = 0
-        for qnum in sorted(rect_index.keys()):
-            info = rect_index[qnum]
-            stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
-            if stem is None or options is None:
-                stem = "(Veja a imagem da questão)"
-                options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+    print("\n[*] Gerando índice determinístico (page/rect/bbox) via PyMuPDF...", flush=True)
+    rect_index = build_question_rect_index(pdf_path, dpi=200)
+    doc = fitz.open(pdf_path)
+    try:
+        refs_by_qnum, refs_by_label = _extract_reference_blocks(doc, dpi=200)
+    except Exception as e:
+        print(f"[WARN] Falha ao extrair blocos de referência: {e}", flush=True)
+        refs_by_qnum, refs_by_label = {}, {}
+
+    all_questions = []
+    garbled_count = 0
+    ocr_used = 0
+
+    for qnum in sorted(rect_index.keys()):
+        info = rect_index[qnum]
+        stem, options = extract_question_text_from_pdf(doc, info["page"], info["rect"])
+
+        if stem is None or options is None:
+            stem = "(Veja a imagem da questão)"
+            options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
+
+        # Se o texto do PDF vier ruim, tenta OCR local na imagem recortada da questão.
+        if _is_garbled_text(stem):
+            garbled_count += 1
+            if OCR_READY and ocr_image and parse_alternatives_from_ocr and extract_stem_from_ocr:
+                try:
+                    page_idx = int(info["page"]) - 1
+                    if 0 <= page_idx < len(page_images):
+                        with Image.open(page_images[page_idx]) as img:
+                            bbox = info["bbox"]
+                            pad = 15
+                            x = max(0, bbox['x'] - pad)
+                            y = max(0, bbox['y'] - pad)
+                            w = min(img.width - x, bbox['w'] + (pad * 2))
+                            h = min(img.height - y, bbox['h'] + (pad * 2))
+                            cropped = img.crop((x, y, x + w, y + h))
+                            cropped = _auto_trim_whitespace(cropped, pad=12)
+                            ocr_txt = ocr_image(cropped, lang="por")
+                            if ocr_txt:
+                                o_stem = extract_stem_from_ocr(ocr_txt)
+                                o_opts = parse_alternatives_from_ocr(ocr_txt)
+                                if o_stem and len(o_stem) >= 20:
+                                    stem = _normalize_spaces(o_stem)
+                                if o_opts:
+                                    options = [{"key": k, "text": _sanitize_option_text(o_opts.get(k, ""))} for k in ["A","B","C","D","E"]]
+                                ocr_used += 1
+                except Exception as e:
+                    print(f"[OCR] Falha OCR local Q{qnum}: {e}", flush=True)
+
+            # Se ainda estiver ruim, usa placeholder
             if _is_garbled_text(stem):
-                garbled_count += 1
                 stem = "(Veja a imagem da questão)"
                 options = [{"key": k, "text": "(Veja a imagem da questão)"} for k in ["A", "B", "C", "D", "E"]]
-            for opt in options:
-                if not (opt.get("text") or "").strip():
-                    opt["text"] = "(Veja a imagem da questão)"
-            refs = []
-            refs.extend(refs_by_qnum.get(qnum, []) or [])
-            m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", (stem or "").upper())
-            if m:
-                label = m.group(1)
-                if label in refs_by_label:
-                    refs.append(refs_by_label[label])
-            if refs:
-                stem = _apply_refs_to_stem(stem, refs)
-            all_questions.append({
-                "number": qnum,
-                "page": info["page"],
-                "bbox": info["bbox"],
-                "stem": stem,
-                "options": options,
-                "_references": refs,
-            })
-        doc.close()
-        print(f"\n[CHECK] Garbled stems: {garbled_count}/90. (não usamos vision/OCR de prova)", flush=True)
-        questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
-        questions_with_assets = apply_reference_assets(questions_with_assets, args.year, page_images)
+
+        for opt in options:
+            if not (opt.get("text") or "").strip():
+                opt["text"] = "(Veja a imagem da questão)"
+
+        refs = []
+        refs.extend(refs_by_qnum.get(qnum, []) or [])
+        m = re.search(r"\bTEXTO\s+([IVX]{1,5})\b", (stem or "").upper())
+        if m:
+            label = m.group(1)
+            if label in refs_by_label:
+                refs.append(refs_by_label[label])
+        if refs:
+            stem = _apply_refs_to_stem(stem, refs)
+
+        all_questions.append({
+            "number": qnum,
+            "page": info["page"],
+            "bbox": info["bbox"],
+            "stem": stem,
+            "options": options,
+            "_references": refs,
+        })
+
+    doc.close()
+    print(f"\n[CHECK] Garbled stems: {garbled_count}/90 | OCR used: {ocr_used}/90", flush=True)
+    questions_with_assets = crop_assets(all_questions, args.year, page_images, bbox_index=rect_index)
+    questions_with_assets = apply_reference_assets(questions_with_assets, args.year, page_images)
 
     gabarito_path = os.path.join(PROVAS_DIR, f"g{str(args.year)[-2:]}.pdf")
     gabarito = extract_gabarito(gabarito_path) if os.path.exists(gabarito_path) else {}

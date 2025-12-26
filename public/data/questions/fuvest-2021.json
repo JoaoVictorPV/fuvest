@@ -4,40 +4,40 @@
     "provaPdf": "p21.pdf",
     "gabaritoPdf": "g21.pdf"
   },
-  "generatedAt": "2025-12-25T22:36:09.958030",
+  "generatedAt": "2025-12-26T08:40:45.210828",
   "questions": [
     {
       "number": 1,
-      "stem": "A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si. O ponto X indica um condomínio residencial, e o ponto Y indica a entrada de um parque. Três moradores realizam caminhos diferentes para chegar ao ponto Y, partindo do ponto X, ilustrados com cores diferentes. Se a, b e c representam as distâncias percorridas por esses moradores nesses caminhos, é correto afirmar que",
+      "page": 1,
+      "bbox": {
+        "x": 0,
+        "y": 319,
+        "w": 848,
+        "h": 555
+      },
+      "stem": "/100 &' ( )*+,-' . 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8",
       "options": [
         {
           "key": "A",
-          "text": "a = b = c."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "b = c < a."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "c < b < a."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "b < c = a."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "c < a = b."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 55,
-        "w": 451,
-        "h": 420
-      },
-      "page": 1,
       "answer": {
         "correct": "C"
       },
@@ -61,7 +61,14 @@
     },
     {
       "number": 2,
-      "stem": "Qual dos gráficos representa uma relação entre as grandezas x e y em que y sempre diminui na medida em que x aumenta?",
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 981,
+        "w": 848,
+        "h": 155
+      },
+      "stem": "# 3 $ % 2 $ ' % + 4 - 4 5 6 2",
       "options": [
         {
           "key": "A",
@@ -84,13 +91,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 504,
-        "w": 450,
-        "h": 428
-      },
-      "page": 2,
       "answer": {
         "correct": "E"
       },
@@ -114,36 +114,36 @@
     },
     {
       "number": 3,
-      "stem": "O quadrinho aborda o tema de números primos, sobre os quais é correto afirmar:",
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 931
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "Todos os números primos são ímpares."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Existem, no máximo, 7 trilhões de números primos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Todo número da forma 2ⁿ + 1, n ∈ N, é primo."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Entre 24 e 36, existem somente 2 números primos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "O número do quadrinho, 143, é um número primo."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 515,
-        "y": 55,
-        "w": 468,
-        "h": 497
-      },
-      "page": 2,
       "answer": {
         "correct": "A"
       },
@@ -167,36 +167,36 @@
     },
     {
       "number": 4,
-      "stem": "Três triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado. Seus centros são os vértices de um pentágono irregular, que está destacado na figura. Se T é a área de cada um dos triângulos e Q a área de cada um dos quadrados, a área desse pentágono é",
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 1091,
+        "w": 848,
+        "h": 45
+      },
+      "stem": "$ % 2 $ ' % + 4 - 4 5 6 2",
       "options": [
         {
           "key": "A",
-          "text": "T + Q."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "½ T + ½ Q."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "T + ½ Q."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "⅓ T + ¼ Q."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "⅓ T + ½ Q."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 515,
-        "y": 558,
-        "w": 470,
-        "h": 365
-      },
-      "page": 2,
       "answer": {
         "correct": "C"
       },
@@ -220,11 +220,18 @@
     },
     {
       "number": 5,
-      "stem": "Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. Se P era o valor de uma mercadoria antes da adoção da máquina, o novo valor V deve ser calculado por",
+      "page": 1,
+      "bbox": {
+        "x": 0,
+        "y": 830,
+        "w": 848,
+        "h": 44
+      },
+      "stem": ". 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8",
       "options": [
         {
           "key": "A",
-          "text": "V = P + 0,06"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
@@ -232,24 +239,17 @@
         },
         {
           "key": "C",
-          "text": "V = 1,6 · P"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "V = P / 0,94"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "V = 0,94 · P"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 47,
-        "w": 446,
-        "h": 250
-      },
-      "page": 1,
       "answer": {
         "correct": "E"
       },
@@ -273,7 +273,14 @@
     },
     {
       "number": 6,
-      "stem": "Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. Qual é a diferença entre as quantidades de arremessos acertados e errados dessa jogadora?",
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 1091,
+        "w": 848,
+        "h": 68
+      },
+      "stem": "$ % 2 $ ' % + 4 - 4 5 6 2 8 $) % 2 7 9 : ; < = #",
       "options": [
         {
           "key": "A",
@@ -296,13 +303,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 327,
-        "w": 446,
-        "h": 172
-      },
-      "page": 2,
       "answer": {
         "correct": "C"
       },
@@ -326,7 +326,14 @@
     },
     {
       "number": 7,
-      "stem": "Alice quer construir um paralelepípedo reto retângulo de dimensões 60 cm x 24 cm x 18 cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. Quantos cubos serão necessários para construir esse paralelepípedo?",
+      "page": 2,
+      "bbox": {
+        "x": 804,
+        "y": 1125,
+        "w": 848,
+        "h": 45
+      },
+      "stem": "$ ' % + 4 - 4 5 6 2 8 $) % 2 7 9 : ; < = #",
       "options": [
         {
           "key": "A",
@@ -349,13 +356,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 527,
-        "w": 446,
-        "h": 187
-      },
-      "page": 2,
       "answer": {
         "correct": "A"
       },
@@ -379,36 +379,36 @@
     },
     {
       "number": 8,
-      "stem": "Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras. A quantidade de códigos distintos possíveis está entre",
+      "page": 1,
+      "bbox": {
+        "x": 0,
+        "y": 1579,
+        "w": 848,
+        "h": 759
+      },
+      "stem": "u / p > ==EI N J J @ DM N J L= > = C KD C GJC I D F IB ? L J LDW k C C J @ DM N J & v5 '-)w '*2' ( 8 ( *x41 =F I JC D L= > yz d D @ ? E J M L J K > D R J W { 5 2)8 O 1 ( 0)81 J L= R DMB ZX D IJ L= > ED L= AB = C G a = C / | }                                                                                     ¡          ¡     ¢              PAG 01 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "10 bilhões e 100 bilhões."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "100 bilhões e 1 trilhão."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "1 trilhão e 10 trilhões."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "10 trilhões e 100 trilhões."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "100 trilhões e 1 quatrilhão."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 737,
-        "w": 442,
-        "h": 163
-      },
-      "page": 1,
       "answer": {
         "correct": "D"
       },
@@ -432,36 +432,36 @@
     },
     {
       "number": 9,
-      "stem": "Na figura, os segmentos AC e DE são paralelos entre si e perpendiculares ao segmento CD; o ponto B pertence ao segmento AC; F é o ponto médio do segmento AB; e ABE é um triângulo equilátero. Além disso, o segmento BC mede 10 unidades de comprimento e o segmento AE mede 6 unidades de comprimento. A medida do segmento DF, em unidades de comprimento, é igual a",
+      "page": 1,
+      "bbox": {
+        "x": 0,
+        "y": 830,
+        "w": 848,
+        "h": 793
+      },
+      "stem": ". / 0 12)1 -' ( - 314-)&5 6*1&45 5 78'31 9 1* ( 5)8 ; / <= > ?@ ?AB = C = D C = B EDF = = C GH I D > > =GD E J I J K J L= J D O )*P5 / QE @ D > F = J D @ ? C IJ M L= C J MJ = R =EG BJ ?C U/ VB>J EG= J K > D RJ W C XD Y-4141' J IDFB E?IJ Z X FJ G= > ?J M L= IDE C B M G J = L = J K J> =M ND C L= G=M =IDF \\/ VB>J Z XD L J K > D R J] ^ ND >JC/ _J` = J D I J EL? L J GD @ D > E=I ? L JC K =M D @ ?C IJM / bcd e IJ EL? L J G D cJ e KDL= K J> G?> L JC . g N / h XD N JR = > H G=F KD JL? I ? DE J M K J ^/ bcd e I J EL? L J GD cJ e L = R = > H C = SB ?> JC D > ? =EG J Z a = K > DI =L? F=EGD C L= ` ? D C C = SB>J EZJ J L DG J LD C K J> g/ n =F `> =f C = L= AB = J i j <k l m C = > = C = >RJ J D L ? L=EG?@ ? IJZXD = I DEG > DM = LD K > DI= C C DW R ?CJ ELD J L B>J EG= J > = J M ?[J Z XD L J K > D RJ W C = > H I DM =G J L J K @ ? E C L= > = ID EN=I ? F=EGD @J I ?J M W K J>J BC D =o I MB C L?R B M SJ L J E=F B G? M ?[J L J K J>J ABJ ?C A B = > D B G >JC q / d Kr C J JB GD > ?[ J ZXD LD @ ? C IJ M L J C J MJ W R = > ?@ ?AB = C AB = C G a = C D ` t =G?RJC W I DF ^ J M G= > E J G?RJ C IJ L J/ QE u / p > ==EI N J J @ DM N J L= > = C KD C GJC I D F IB ? L J LDW k C C J @ DM N J & v5 '-)w '*2' ( 8 ( *x41 =F I JC D L= >",
       "options": [
         {
           "key": "A",
-          "text": "14."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "15."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "16."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "17."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "18."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 508,
-        "y": 47,
-        "w": 446,
-        "h": 347
-      },
-      "page": 1,
       "answer": {
         "correct": "E"
       },
@@ -485,7 +485,14 @@
     },
     {
       "number": 10,
-      "stem": "A região hachurada do plano cartesiano x0y contida no círculo de centro na origem O e raio 1, mostrada na figura, pode ser descrita por",
+      "page": 3,
+      "bbox": {
+        "x": 804,
+        "y": 935,
+        "w": 848,
+        "h": 1403
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
@@ -508,13 +515,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 508,
-        "y": 407,
-        "w": 442,
-        "h": 493
-      },
-      "page": 3,
       "answer": {
         "correct": "B"
       },
@@ -538,36 +538,36 @@
     },
     {
       "number": 11,
-      "stem": "Se f: ℝ → ℝ e g: ℝ → ℝ são funções dadas por f(x) = c + x², onde c ∈ ℝ, e g(x) = x, seus gráficos se intersectam quando, e somente quando,",
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 103,
+        "w": 848,
+        "h": 524
+      },
+      "stem": "! \" ! \" ' #$ % & ) ( ' #* % + ) ( ' #, % & ) ' #- % + ) #. % & / ) 12",
       "options": [
         {
           "key": "A",
-          "text": "c ≤ ¼."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "c ≥ ¼."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "c ≤ ½."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "c ≥ ½."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "c ≤ 1."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 62,
-        "y": 62,
-        "w": 405,
-        "h": 175
-      },
-      "page": 4,
       "answer": {
         "correct": "A"
       },
@@ -591,36 +591,36 @@
     },
     {
       "number": 12,
-      "stem": "Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm. A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo. A medida do lado do quadrado desejado pelo marceneiro está mais próxima de",
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 583,
+        "w": 848,
+        "h": 150
+      },
+      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $",
       "options": [
         {
           "key": "A",
-          "text": "8,0 cm."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "8,5 cm."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "9,0 cm."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "9,5 cm."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "10,0 cm."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 62,
-        "y": 269,
-        "w": 408,
-        "h": 200
-      },
-      "page": 4,
       "answer": {
         "correct": "A"
       },
@@ -644,36 +644,36 @@
     },
     {
       "number": 13,
-      "stem": "Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km. O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e então retorna ao Polo Norte por esse meridiano tem comprimento total de",
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 1099,
+        "w": 848,
+        "h": 251
+      },
+      "stem": "13 Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km. O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e entdo retorna ao Polo Norte por esse meridiano",
       "options": [
         {
           "key": "A",
-          "text": "15.000 km."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "20.000 km."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "25.000 km."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "30.000 km."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "35.000 km."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 62,
-        "y": 497,
-        "w": 408,
-        "h": 192
-      },
-      "page": 4,
       "answer": {
         "correct": "B"
       },
@@ -697,36 +697,36 @@
     },
     {
       "number": 14,
-      "stem": "Sobre as projeções cartográficas apresentadas, suas formas e dimensões, é correto afirmar:",
+      "page": 4,
+      "bbox": {
+        "x": 804,
+        "y": 102,
+        "w": 848,
+        "h": 1416
+      },
+      "stem": "K L M NO P QM R O S O L T UVM L W XY Z [Z \\]^_ ^ X Z` ^ XY abZ a Y ^ cZ d \\ e [fg h` e i jk l K L M NO P Q M R O m UnnoK O VO Lp q `^re Y ^ _^ X Z ` ^ XY abZ a Y ^ c Z d \\ e [fg h` e ik il K L M NO P Q M R O sMt uv p M v q `^r e Y ^ _^ Zb wxyzl { 3 ! ! A ! | #$ % } 29 ! !",
       "options": [
         {
           "key": "A",
-          "text": "Interesses geopolíticos e comerciais forçaram distorções na projeção de Mercator, para fazer parecer mais curto o caminho ao novo continente, elemento corrigido a partir do século XIX, na projeção de Gall-Peters."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "As três projeções apresentam distorções, uma vez que a Terra tem forma aproximada de um geoide e sua projeção num plano ficará distorcida."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "As projeções de Mercator e Gall-Peters apresentam distorções pela falta de recursos técnicos no período em que foram feitas, mas o avanço computacional do século XX permitiu o fim das distorções na projeção de Robinson."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "A projeção de Gall-Peters não apresentava distorções no momento de sua elaboração, mas a descoberta da Antártica e da Oceania, logo após sua proposição, forçou a adaptação e induziu distorções."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Todas as projeções apresentam distorções, uma vez que o formato da Terra não era conhecido até o século XX, o que gerou dúvidas sobre como essa projeção deveria ser executada."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 514,
-        "y": 62,
-        "w": 430,
-        "h": 855
-      },
-      "page": 4,
       "answer": {
         "correct": "C"
       },
@@ -749,56 +749,14 @@
       }
     },
     {
-      "id": "fuvest-2021-q15",
       "number": 15,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
-      "options": [
-        {
-          "key": "A",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "B",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "C",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "D",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "E",
-          "text": "(Veja a imagem da questão)"
-        }
-      ],
-      "answer": {
-        "correct": "C"
+      "page": 5,
+      "bbox": {
+        "x": 0,
+        "y": 95,
+        "w": 848,
+        "h": 547
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q15/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 5
-    },
-    {
-      "id": "fuvest-2021-q16",
-      "number": 16,
-      "year": 2021,
       "stem": "(Veja a imagem da questão)",
       "options": [
         {
@@ -825,106 +783,7 @@
       "answer": {
         "correct": "E"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q16/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 5
-    },
-    {
-      "id": "fuvest-2021-q17",
-      "number": 17,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
-      "options": [
-        {
-          "key": "A",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "B",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "C",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "D",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "E",
-          "text": "(Veja a imagem da questão)"
-        }
-      ],
-      "answer": {
-        "correct": "A"
-      },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q17/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 5
-    },
-    {
-      "number": 18,
-      "stem": "A linha de fronteira hoje possui uma definição essencialmente econômica – como a fronteira da lucratividade – mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais. Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum. Na realidade, ambas estão associadas à acumulação e expansão do capital. Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado. Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX. As imagens correspondentes a cada um dos momentos apresentados pelo excerto são identificadas em:",
-      "options": [
-        {
-          "key": "A",
-          "text": "Marcha para o Oeste e Revitalização de áreas centrais"
-        },
-        {
-          "key": "B",
-          "text": "Independência dos EUA e Suburbanização"
-        },
-        {
-          "key": "C",
-          "text": "Festa do chá de Boston e Vale do Silício"
-        },
-        {
-          "key": "D",
-          "text": "Guerra de Secessão e Construção do muro que separa EUA e México"
-        },
-        {
-          "key": "E",
-          "text": "Descobrimento dos EUA e O gueto e a segregação urbana"
-        }
-      ],
-      "bbox": {
-        "x": 58,
-        "y": 59,
-        "w": 842,
-        "h": 859
-      },
-      "page": 6,
-      "answer": {
-        "correct": "C"
-      },
-      "id": "fuvest-2021-q18",
+      "id": "fuvest-2021-q15",
       "year": 2021,
       "explanation": {
         "theory": "Pendente",
@@ -939,14 +798,19 @@
         "finalSummary": ""
       },
       "assets": {
-        "questionImage": "/assets/questions/2021/q18/image.png"
+        "questionImage": "/assets/questions/2021/q15/image.png"
       }
     },
     {
-      "id": "fuvest-2021-q19",
-      "number": 19,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "number": 16,
+      "page": 5,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 767
+      },
+      "stem": "[L Q S T Q Y Z O W O X Y Z _ O _ Y L _ Q     L W O^ L Q L _ Q LROX O _ Y L Q Z O ZO S QPY N Y Z O W O S Q ` Q S Q Z  L Q y Kz K Y [P Y XY _ Y L { | e y { z K Y L N YTY L M N RQS O N R Q L _ O  ~ e yz K W O^ L Q L Q aX P V ^ _ Y L _ O   e yz K W O^ L Q L _ O  ~  e y~z K W O^ L Q L Z Q Z [ S Y L _ O  Ke 17",
       "options": [
         {
           "key": "A",
@@ -972,9 +836,8 @@
       "answer": {
         "correct": "B"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q19/image.png"
-      },
+      "id": "fuvest-2021-q16",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -987,12 +850,72 @@
         },
         "finalSummary": ""
       },
-      "page": 7
+      "assets": {
+        "questionImage": "/assets/questions/2021/q16/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q20",
-      "number": 20,
+      "number": 17,
+      "page": 5,
+      "bbox": {
+        "x": 804,
+        "y": 817,
+        "w": 848,
+        "h": 1521
+      },
+      "stem": "              ¡ ¢£ ¤¥¦§ ¨© ¨ª « £ ¢ ­ ®® ¯ ¯ ¯ °¡ ¥ ¢ ±² ³ ± ª ° ´ ¤ ª ® µ¶ « ·· ¸®° ¹º ± £ ± º ¤ °  R Q S SQ ZY R Y M N _ M X O _Y NO ` M  V S O Y X Y S S Q V NY Q L R O _Y _O { O  M O NY _ M O » ¼  ½¼    c X Y Z Z O  N M R V _Q ¾ c ¿ NO Q LX O P O MX  R Q S c O R M N  M N _ Y X M _O _Q L _ Y ÀO P Q _Y Á MU V M S M\\ d Q _Y Q X Â N X O T Y { O M O NY e  Y [ SQ R Q S SQ Z Y RY L Q Z Q S O P c Q L Y [ S Q Q L R Q Q L W Q X M ` M X O Z Q N R Q c } X Y S S Q RY O ` M S ZO S  y Kz  ] Y  Q S O _ Y L W Y S MN R SVLb Q L Q Z O S Q Z Y R Y Lc X V ÃO T M YP ÄN X MO _ VS O N RQ O L Z YT MZ Q N R O\\ b Q L W S YTYXO `MLLV S O L N O L V WQS` ^X M Qe y { z  ] Y  Q S O _ Y L Q Z S O  ] Y _ O W S Q L Q N \\ O _ Q ` O P  O L  Q Y P Å  M X O L Q L Q V Q L R V _ Y R S O  X Y N  Q X M Z Q N R Y _ O  Q Y P Y  M O _ Y R Q S S M R Å S M Y [ S O L M P Q M S Y e yz  ÄZ MN ^X M Y WQ PY L YQ S V MZ Q N R Y _ O X S Y L RO c Q Y _ Y _ MO »  ¼ ½ ¼   R Q TQ L V O Y SM Q Z N O { O XM O K Z O Â NM XO e yz  ÄZ MN ^XM Y X Y Z O _ MT Q S Ä N XMO _ O XS Y LR O X Y N RMN Q N ROP c Q Y _ Y  QX Â N X OTY { O MO N Y WS YT Y X Y V MZ W OXR Y L O R} N O  QSS O Æ O X  O e y ~ z  ] Y  Q S O _ Y L W Q P O O [ Q S R V S O _ Q ` O P  O L c M Z W Y S R O N R Q W O S O Y X Y N  Q X M Z Q N R Y _ Y N X P Q Y _ Y W P O N Q R O  Q S S O Q a W P Y S O _ Y N O S Q  M ] Y e V G 05/28 V 10000000 derno Reserva 05 9 4",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2021-q17",
       "year": 2021,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q17/image.png"
+      }
+    },
+    {
+      "number": 18,
+      "page": 6,
+      "bbox": {
+        "x": 0,
+        "y": 91,
+        "w": 848,
+        "h": 2247
+      },
       "stem": "(Veja a imagem da questão)",
       "options": [
         {
@@ -1019,9 +942,8 @@
       "answer": {
         "correct": "C"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q20/image.png"
-      },
+      "id": "fuvest-2021-q18",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -1034,13 +956,126 @@
         },
         "finalSummary": ""
       },
-      "page": 7
+      "assets": {
+        "questionImage": "/assets/questions/2021/q18/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q21",
-      "number": 21,
+      "number": 19,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 95,
+        "w": 848,
+        "h": 498
+      },
+      "stem": "!\" \" #$ %&\" \" '( %) \" * $ +\"% ( ,\"-./ * \" /0( *\"* 1",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2021-q19",
       "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q19/image.png"
+      }
+    },
+    {
+      "number": 20,
+      "page": 7,
+      "bbox": {
+        "x": 0,
+        "y": 983,
+        "w": 848,
+        "h": 1355
+      },
+      "stem": "20 O acordo entre o Mercosul e a Unido Europeia esta sendo discutido ha cerca de 20 anos e prevé, entre outros elementos, a reducdo progressiva das tarifas de exportagdo entre os blocos. O Brasil, que é um grande exportador de produtos de origem agricola para o mercado europeu, teria reducdo tarifaria para a exportacdo de produtos como carnes, acucar e etanol, dentre outros. Para a ratificacdo do acordo, o parlamento europeu aprovou uma resolucdo que manifesta a importancia do compromisso dos paises do Mercosul com a implementagdo do Acordo de Paris. A relutancia em ratificar 0 acordo entre Mercosul e Unido Europeia, por parte de alguns paises da UE em 2020, deveu-se, entre outros fatores,",
+      "options": [
+        {
+          "key": "A",
+          "text": "a desigual condi¢ao climatica para produc¢ao de vinhos nos"
+        },
+        {
+          "key": "B",
+          "text": "as politicas de incentivo a agricultura familiar na América"
+        },
+        {
+          "key": "C",
+          "text": "a difusdo de SAFs, criados com o proposito de produgado"
+        },
+        {
+          "key": "D",
+          "text": "as declaragdes que cogitaram a retirada do Brasil da OMC"
+        },
+        {
+          "key": "E",
+          "text": "aos graves problemas ambientais no Brasil, tais como"
+        }
+      ],
+      "answer": {
+        "correct": "E"
+      },
+      "id": "fuvest-2021-q20",
+      "year": 2021,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q20/image.png"
+      }
+    },
+    {
+      "number": 21,
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 98,
+        "w": 848,
+        "h": 395
+      },
+      "stem": "v wx yz G { J | } ~  G    ~J J  x J J   G  J  z G   y z G x z x y  J |   G  z x  J     J y xK    J  J  ~ J x G    ~  ~ J x  y y ~ x ~ {  K ~ {G J  ~ { ~ KJ   G    { G  G J G yz x{J  J  G        {  FJ  J  z G  J y x KG xJ G yz G   G y G    x z  yz J   y    x y J z    yy    J z   y y   w ~K  xJ y G  J x y  J J    x   J   G   w ~K  wJ  z J J z J x  J G w¡   J ~K  ¢ s £ k l ¤ sb¥¥ ¦¦ ¦ ll f ¥ ^/+$ / \" ; 8 $/ / # \"$\" \"&(2( * \" * ) ! \"%\" 1 V 0/ $ $ &/ \" 8 ($ ! \"$ =",
       "options": [
         {
           "key": "A",
@@ -1066,9 +1101,8 @@
       "answer": {
         "correct": "A"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q21/image.png"
-      },
+      "id": "fuvest-2021-q21",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -1081,13 +1115,20 @@
         },
         "finalSummary": ""
       },
-      "page": 7
+      "assets": {
+        "questionImage": "/assets/questions/2021/q21/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q22",
       "number": 22,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 1358,
+        "w": 848,
+        "h": 543
+      },
+      "stem": "22 O Monte Everest é 0 pico mais elevado do planeta, localizado na cordilheira do Himalaia, na fronteira da China e Nepal, com 8.848 metros de altitude. Possui cinco estagdes meteorolégicas em diferentes altitudes funcionando desde 2019, entre elas a esta¢do mais elevada do planeta (8.430 m), que registra dados valiosos para a climatologia. Esse projeto foi liderado pelo Dr. Paul",
       "options": [
         {
           "key": "A",
@@ -1111,11 +1152,10 @@
         }
       ],
       "answer": {
-        "correct": "E"
+        "correct": "B"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q22/image.png"
-      },
+      "id": "fuvest-2021-q22",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -1128,40 +1168,42 @@
         },
         "finalSummary": ""
       },
-      "page": 7
+      "assets": {
+        "questionImage": "/assets/questions/2021/q22/image.png"
+      }
     },
     {
       "number": 23,
-      "stem": "Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome científico Bothrops jararaca) encontra-se com as ocorrências registradas em uma extensa faixa do Brasil relativa a diferentes Biomas, onde se alimenta de anfíbios, roedores e outros animais. A espécie ocorre nas áreas apontadas, sendo encontrada em zonas florestadas ou modificadas pela ação humana. Brasil: Distribuição da Bothrops jararaca (Veja a imagem da questão) ● Ocorrências da Espécie (Bothrops jararaca) Fonte: Atlas de Serpentes Brasileiras (2019) e IBGE (2020). Adaptado. Sobre as serpentes Bothrops jararaca e os principais biomas de ocorrência, é correto afirmar:",
+      "page": 8,
+      "bbox": {
+        "x": 0,
+        "y": 98,
+        "w": 848,
+        "h": 340
+      },
+      "stem": "23 Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome cientifico Bothrops jararaca) encontra-se com as ocorréncias registradas em uma extensa faixa do Brasil relativa a diferentes",
       "options": [
         {
           "key": "A",
-          "text": "São típicas das áreas que alcançam até 500 m de altitude nos Biomas do Pantanal, Pampa, Cerrado e Caatinga; as áreas do Pampa são as mais degradadas do país em função da urbanização crescente, ameaçando a ocorrência da jararaca."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "São generalizadas nos mais diversos biomas, concentrando-se na Caatinga; esse bioma encontra-se atualmente como o mais ameaçado pela expansão das fronteiras agrícolas na produção para exportação."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "São típicas das áreas mais planas da faixa leste do Brasil, cujos terrenos são recobertos pelo Bioma do Cerrado; a ocorrência desta espécie deve-se às áreas com ocupação humana, o que atrai ratos que fazem parte da alimentação da jararaca."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Possuem área de ocorrência restrita ao Bioma da Amazônia, caracterizado pela ocorrência de sapos; nesse bioma, as planícies fluviais favorecem a proliferação da jararaca."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "São típicas da Mata Atlântica, podendo ocorrer também em áreas de Pampa, Cerrado e Caatinga e ocupar terrenos que alcançam até 1000 m de altitude; o Bioma da Mata Atlântica encontra-se atualmente ameaçado pela ocupação humana."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 56,
-        "y": 56,
-        "w": 427,
-        "h": 748
-      },
-      "page": 8,
       "answer": {
         "correct": "B"
       },
@@ -1185,36 +1227,36 @@
     },
     {
       "number": 24,
-      "stem": "Na transição do Cerrado para a Mata Atlântica, ocorre uma substituição da vegetação, que resulta em mudanças na frequência de certas características das plantas. Identifique duas mudanças decorrentes dessa transição.",
+      "page": 8,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 771
+      },
+      "stem": "o +, f l m & +, % +, b + b # ' p b + + , ' ! b # - g b # b - ' ! b # b - & * g +, b # b - ' f! i +, b # - g b # b - ' i ! i + , b # g + , b # +q b ' k! i + , b # b - & * g b # + q b ' 25",
       "options": [
         {
           "key": "A",
-          "text": "Aumento da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Aumento da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; diminuição da frequência de plantas que apresentam folhas largas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Diminuição da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Diminuição da frequência de plantas epífitas; diminuição da frequência de plantas com adaptações a queimadas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Diminuição da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; aumento da frequência de plantas com adaptações a queimadas."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 521,
-        "y": 56,
-        "w": 425,
-        "h": 421
-      },
-      "page": 8,
       "answer": {
         "correct": "E"
       },
@@ -1238,36 +1280,36 @@
     },
     {
       "number": 25,
-      "stem": "O tempo de decomposição dos diferentes resíduos sólidos condiciona a destinação de cada tipo, visando a diminuir os impactos ambientais causados por seu descarte. O gráfico mostra dois grupos de resíduos sólidos (X e Y) produzidos pela população humana, com diferentes tempos de decomposição. (Veja a imagem da questão) Com base nessas informações e nos seus conhecimentos, é correto afirmar que as",
+      "page": 8,
+      "bbox": {
+        "x": 804,
+        "y": 821,
+        "w": 848,
+        "h": 1517
+      },
+      "stem": "r + , s + , % & ' r ) s t u! * + , - +, ' f & +q - ( b ! ekv * u + , ( ' ! & * u +, ( + , ' f! e k v * t + , ( ) ' i ! & * u +, ( ' k! % * t + , ( + , ' wx yz z { |x yz } ~x   | z z   z x  z | x | x    x  z  x  {  z   x yx   z  { x  | z  z  |z x  x  x { z z { |{  V G 08/28 V 10000000 derno Reserva 08 5 5",
       "options": [
         {
           "key": "A",
-          "text": "garrafas PET fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é a incineração."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "garrafas PET fazem parte do grupo X, e sua destinação recomendada é o aterro sanitário."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "garrafas de vidro fazem parte do grupo X, e sua destinação recomendada é a incineração."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 521,
-        "y": 508,
-        "w": 430,
-        "h": 413
-      },
-      "page": 8,
       "answer": {
         "correct": "B"
       },
@@ -1291,36 +1333,36 @@
     },
     {
       "number": 26,
-      "stem": "Os gráficos mostram a variação nas taxas de emigração, imigração, mortalidade e natalidade de uma dada população de mamíferos ao longo de 20 anos. Com base nesses gráficos, o tamanho dessa população deve",
+      "page": 7,
+      "bbox": {
+        "x": 804,
+        "y": 1857,
+        "w": 848,
+        "h": 481
+      },
+      "stem": "(A) as elevadas condigdes de umidade provenientes do derretimento de neve.",
       "options": [
         {
           "key": "A",
-          "text": "diminuir nos 5 primeiros anos e manter-se constante no restante do período considerado."
+          "text": "as elevadas condigdes de umidade provenientes do"
         },
         {
           "key": "B",
-          "text": "manter-se constante nos 5 primeiros anos e diminuir no restante do período considerado."
+          "text": "a ocorréncia de chuvas intensas, que aumentam os riscos"
         },
         {
           "key": "C",
-          "text": "diminuir continuamente ao longo do período considerado."
+          "text": "As temperaturas reduzidas e a baixa concentracdo de"
         },
         {
           "key": "D",
-          "text": "manter-se constante ao longo do período considerado."
+          "text": "aos dias mais curtos nessa altitude, o que reduz o brilho"
         },
         {
           "key": "E",
-          "text": "aumentar nos 5 primeiros anos e diminuir no restante do período considerado."
+          "text": "a elevada pressdo atmosférica, que produz ventos"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 55,
-        "w": 439,
-        "h": 434
-      },
-      "page": 7,
       "answer": {
         "correct": "A"
       },
@@ -1344,36 +1386,36 @@
     },
     {
       "number": 27,
-      "stem": "Uma variedade de milho (Milho Bt) foi modificada com a inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato digestório dos insetos, levando-os à morte. Em aves e mamíferos que também se alimentam de milho, as proteínas Cry são inativadas durante a digestão ácida, perdendo sua ação sobre esses animais. A alternativa que indica corretamente um aspecto positivo e um negativo dos efeitos desta modificação genética do milho para o ser humano é:",
+      "page": 9,
+      "bbox": {
+        "x": 0,
+        "y": 1123,
+        "w": 848,
+        "h": 150
+      },
+      "stem": "& ' # ( ) * + ,--. / 01. 2 ,3 4 , 5 3 / , / 6",
       "options": [
         {
           "key": "A",
-          "text": "Aspecto positivo: Aumento do valor nutricional do milho. | Aspecto negativo: Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Aspecto positivo: Menor tempo de maturação dos grãos. | Aspecto negativo: Possibilidade de invasão da vegetação nativa pela planta transgênica."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Aspecto positivo: Facilitação da polinização das plantas. | Aspecto negativo: Risco de extinção local de aves e mamíferos insetívoros."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Aspecto positivo: Economia de água pela redução da irrigação. | Aspecto negativo: Maior exposição dos agricultores a agrotóxicos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Aspecto positivo: Maior produtividade das lavouras de milho. | Aspecto negativo: Possibilidade de surgimento de lagartas resistentes à proteína Cry."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 492,
-        "w": 439,
-        "h": 440
-      },
-      "page": 9,
       "answer": {
         "correct": "A"
       },
@@ -1397,36 +1439,36 @@
     },
     {
       "number": 28,
-      "stem": "A genealogia a seguir representa uma família em que aparecem pessoas afetadas por adrenoleucodistrofia. A mulher III.2 está grávida e ainda não sabe o sexo do bebê. Legenda: Homem não afetado Mulher não afetada Homem afetado I. II. III. A relação correta entre o padrão de herança desta forma de adrenoleucodistrofia e a probabilidade de que a criança seja afetada é:",
+      "page": 9,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 116
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "Padrão de herança: Ligado ao X recessivo | Probabilidade de ser afetada: 50% caso seja menino"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Padrão de herança: Ligado ao X recessivo | Probabilidade de ser afetada: 25% caso seja menino"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Padrão de herança: Ligado ao Y | Probabilidade de ser afetada: 100% caso seja menino"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Padrão de herança: Autossômico recessivo | Probabilidade de ser afetada: 75% em qualquer caso"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Padrão de herança: Autossômico recessivo | Probabilidade de ser afetada: 12,5% em qualquer caso"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 525,
-        "y": 55,
-        "w": 439,
-        "h": 396
-      },
-      "page": 9,
       "answer": {
         "correct": "E"
       },
@@ -1450,7 +1492,14 @@
     },
     {
       "number": 29,
-      "stem": "Considere dois genes (A e B) localizados em cromossomos diferentes e seus respectivos alelos (A, a, B, b). Uma representação possível desses alelos durante a mitose, imediatamente antes da metáfase, é:",
+      "page": 4,
+      "bbox": {
+        "x": 804,
+        "y": 1473,
+        "w": 848,
+        "h": 316
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
@@ -1473,13 +1522,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 525,
-        "y": 452,
-        "w": 439,
-        "h": 441
-      },
-      "page": 4,
       "answer": {
         "correct": "B"
       },
@@ -1503,36 +1545,36 @@
     },
     {
       "number": 30,
-      "stem": "O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I): (I) CO₂ + H₂O ⇌ H₂CO₃ ⇌ HCO₃⁻ + H⁺ As condições ambientais causadas pelo aumento de gás carbônico na atmosfera influenciam em processos caracterizados pela reação (II) durante o desenvolvimento de diversos organismos marinhos: (II) Ca²⁺ + CO₃²⁻ ⇌ CaCO₃ Tendo por base essas afirmações, assinale a alternativa correta: Note e adote: Considere o bicarbonato solúvel e o carbonato de cálcio insolúvel.",
+      "page": 10,
+      "bbox": {
+        "x": 0,
+        "y": 95,
+        "w": 848,
+        "h": 1243
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "O processo (I) resulta em diminuição da alcalinidade da água do mar, comprometendo a estruturação de recifes por interferir na formação dos esqueletos calcários dos corais, conforme a reação (II)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "O processo (I) resulta em aumento da alcalinidade da água do mar, comprometendo processos de contração muscular de vertebrados marinhos por diminuir o cálcio livre disponível, como demonstrado em (II)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "O processo (I) não altera a alcalinidade da água do mar, mas compromete o processo de formação de conchas de moluscos marinhos, nos quais a estrutura básica é o carbonato de cálcio, produto da reação (II)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "O processo (I) resulta em diminuição da alcalinidade da água do mar, aumentando o pH e beneficiando o processo demonstrado em (II), o que favorece o crescimento de recifes de algas calcárias."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "O processo (I) resulta em aumento da alcalinidade da água do mar, beneficiando os processos de fermentação por bactérias marinhas em regiões de recifes de coral, que são formados pelo processo (II)."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 70,
-        "w": 427,
-        "h": 527
-      },
-      "page": 10,
       "answer": {
         "correct": "B"
       },
@@ -1556,36 +1598,36 @@
     },
     {
       "number": 31,
-      "stem": "Considere três espécies de plantas (X, Y e Z) e suas características: - A planta X não possui flores, mas é polinizada pelo vento. Além disso, não possui frutos, mas suas sementes são dispersas por aves. - A planta Y não possui flores, nem sementes, nem frutos. - A planta Z possui flores e é polinizada por aves. Além disso, possui frutos e suas sementes são dispersas por aves. A que grupos pertencem as plantas X, Y e Z, respectivamente?",
+      "page": 10,
+      "bbox": {
+        "x": 0,
+        "y": 1409,
+        "w": 848,
+        "h": 929
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "Pteridófitas, angiospermas e gimnospermas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Gimnospermas, pteridófitas e angiospermas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Pteridófitas, gimnospermas e angiospermas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Angiospermas, gimnospermas e pteridófitas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Gimnospermas, angiospermas e pteridófitas."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 48,
-        "y": 620,
-        "w": 427,
-        "h": 254
-      },
-      "page": 10,
       "answer": {
         "correct": "B"
       },
@@ -1609,36 +1651,36 @@
     },
     {
       "number": 32,
-      "stem": "A determinação do sexo em embriões de tartaruga-de-couro depende da temperatura a que o ovo foi exposto. Isso está relacionado à ação da enzima aromatase, que converte a testosterona em estradiol. A expressão gênica e a atividade dessa enzima nas gônadas são dependentes da temperatura, conforme indicado na figura. (Veja a imagem da questão) Fonte: doi: 10.3389/fphys.2020.000035 Sobre a determinação do sexo em tartarugas-de-couro, é correto afirmar:",
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 717
+      },
+      "stem": "! \" & L # G G $ $ * ' L$ + M \" & % ) * ' + ! L$ & C ' % & $ $ ) + N1 823 6 51 : 6 OP B QQ R STU V W X9B YP Y P B PP P Q Z",
       "options": [
         {
           "key": "A",
-          "text": "A atividade máxima da aromatase determina diferenciação sexual masculina."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "O maior nível de transcrição do gene da aromatase coincide com a menor atividade da enzima."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Em temperaturas entre 28 e 30 °C, a maioria dos embriões diferenciam-se em fêmeas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Há equilíbrio no nascimento de machos e fêmeas a 26 °C."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "A atividade da aromatase depende da quantidade de estradiol disponível."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 515,
-        "y": 70,
-        "w": 428,
-        "h": 462
-      },
-      "page": 10,
       "answer": {
         "correct": "D"
       },
@@ -1662,36 +1704,36 @@
     },
     {
       "number": 33,
-      "stem": "No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva. (Veja a imagem da questão)",
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 1252,
+        "w": 848,
+        "h": 1086
+      },
+      "stem": "33 No que diz respeito a infeccdes sexualmente transmissiveis (ISTs), identifique a relacdo correta entre grupo causador, um dos seus sintomas e se possui ou nao vacina preventiva. IST Causador Um dos pos- | Possui siveis sintomas | vacina?",
       "options": [
         {
           "key": "A",
-          "text": "IST: Gonorreia; Causador: Neisseria gonorrhoeae (bactéria); Um dos possíveis sintomas: Ardor na uretra e secreção purulenta; Possui vacina?: Sim"
+          "text": "Neisseria Ardor na ure-"
         },
         {
           "key": "B",
-          "text": "IST: Hepatite C; Causador: HCV (bactéria); Um dos possíveis sintomas: Comprometimento da função do fígado; Possui vacina?: Não"
+          "text": "; HCV Comprometi- -"
         },
         {
           "key": "C",
-          "text": "IST: AIDS; Causador: HIV (vírus); Um dos possíveis sintomas: Erupção cutânea; Possui vacina?: Sim"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "IST: Sífilis; Causador: Treponema pallidum (verme); Um dos possíveis sintomas: Ferida na genitália externa (cancro); Possui vacina?: Não"
+          "text": "Treponema _| Ferida na geni-"
         },
         {
           "key": "E",
-          "text": "IST: Condiloma acuminado (crista de galo); Causador: HPV (vírus); Um dos possíveis sintomas: Verrugas na região genital; Possui vacina?: Sim"
+          "text": "| Condiloma"
         }
       ],
-      "bbox": {
-        "x": 515,
-        "y": 549,
-        "w": 428,
-        "h": 307
-      },
-      "page": 10,
       "answer": {
         "correct": "E"
       },
@@ -1714,22 +1756,27 @@
       }
     },
     {
-      "id": "fuvest-2021-q34",
       "number": 34,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "page": 5,
+      "bbox": {
+        "x": 0,
+        "y": 598,
+        "w": 848,
+        "h": 1740
+      },
+      "stem": "grandes capitalistas do Sudeste animou o mercado imobilidrio. José de Sousa Martins. O Poder do Atraso. Adaptado. Os",
       "options": [
         {
           "key": "A",
-          "text": "(Veja a imagem da questão)"
+          "text": "| Brasil Expans&o dos siste- | Aprovacao do direi-"
         },
         {
           "key": "B",
-          "text": "(Veja a imagem da questão)"
+          "text": "(Cc"
         },
         {
           "key": "C",
-          "text": "(Veja a imagem da questão)"
+          "text": "territoriais e sociais, observadas nas areas onde a politica de (D"
         },
         {
           "key": "D",
@@ -1737,15 +1784,14 @@
         },
         {
           "key": "E",
-          "text": "(Veja a imagem da questão)"
+          "text": "Vv"
         }
       ],
       "answer": {
         "correct": "C"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q34/image.png"
-      },
+      "id": "fuvest-2021-q34",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -1758,13 +1804,20 @@
         },
         "finalSummary": ""
       },
-      "page": 5
+      "assets": {
+        "questionImage": "/assets/questions/2021/q34/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q35",
       "number": 35,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "page": 11,
+      "bbox": {
+        "x": 0,
+        "y": 1162,
+        "w": 848,
+        "h": 1176
+      },
+      "stem": "O > b Q U<=@ Vi< L@ Q =@ ? @ @C > = B; @J @ Q >U<H > H Q@J Kj BH J< H X ; E U < Y [Z ? >M > \\=@ J L > B CQ <= ?k J; B@ J @ K B H ?j =B @ C EJ LB@ U Q <= D E > NO P BJ ; >J ? B M<E @ > bQ U<=@ Vi< C > ? WU B; @ > C <E ? = @H = >\\BG > H L < \\U < R<I ; <C< OE H ? = W U B@ > cHB@I @ UX C L > A@ ; B U B ? @= @ l >M < U E Vi < ZJ L E H ? =B@ U B J\\ U> H@] N ^P ;<J ? =B REBE Q@= @ < L > ; U eJ B< L < B CQ X=B< @H ?> ;@I @ UX C L > ; @ E H@= BC Q@; ? < @C R B > J ? @ U J< U B ? <=@ U L@ O C X =B; @ ;<C @ A<=C@ Vi< L > ;B L @ L > H > C W = > @ H @ ?X > J ? i < L > HQ< M<@ L @H] NF P @; >U> =<E @ > b? BJ Vi< L > A<= C@H L > @; m C E U < L > ; @ Q B ? @ U C >=;@J ? B U > C > H; @ U @ \\ U < R @ U I HE R H ? B ? EBJ L<n< Q >U < ; @ Q B ? @ U BJ LEH ? = B@ U > AB J @J ; > B=<] NdP ; <J > ; ? <E < ; < J ? BJ > J ? > @C >=B ; @J< ; <C Q@= ?> H L< > b ? = > C < <=B > J ?> I <J L > @ Q= @ ? @ ? @C RX C > =@ > bQ U <=@ L@ I @ UX C L> @ ? =@B= \\=@J L > H ; <J ? BJ \\ > J ?> H L> @A=B; @J <H > H ; =@ M BT@ L<H @ < F@=B R> ] N hP @E C > J ? < E @ ; B =; E U@ V i < L > C < >L@ J @H = > L> H CE J LB@BH L@ > ; <J <CB@ > E =< Q > B@I @ UX C L> B CQ @; ? @= @H > H ? =E ? E =@H H<; B@BH BJ L e \\ > J @H Q >U< ; = > H;B C > J ? < L @ > bQ U <=@ Vi< L> H > E ? =@ R@ UK <] V PAG 11 Caderno",
       "options": [
         {
           "key": "A",
@@ -1790,74 +1843,33 @@
       "answer": {
         "correct": "B"
       },
+      "id": "fuvest-2021-q35",
+      "year": 2021,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
       "assets": {
         "questionImage": "/assets/questions/2021/q35/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 11
+      }
     },
     {
-      "id": "fuvest-2021-q36",
       "number": 36,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
-      "options": [
-        {
-          "key": "A",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "B",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "C",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "D",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "E",
-          "text": "(Veja a imagem da questão)"
-        }
-      ],
-      "answer": {
-        "correct": "E"
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 1300
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q36/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 11
-    },
-    {
-      "id": "fuvest-2021-q37",
-      "number": 37,
-      "year": 2021,
       "stem": "(Veja a imagem da questão)",
       "options": [
         {
@@ -1884,9 +1896,8 @@
       "answer": {
         "correct": "A"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q37/image.png"
-      },
+      "id": "fuvest-2021-q36",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -1899,40 +1910,95 @@
         },
         "finalSummary": ""
       },
-      "page": 11
+      "assets": {
+        "questionImage": "/assets/questions/2021/q36/image.png"
+      }
     },
     {
-      "number": 38,
-      "stem": "A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de “Período Regencial”. Trata-se de uma revolta que, junto a outras do mesmo período, tipifica",
+      "number": 37,
+      "page": 11,
+      "bbox": {
+        "x": 804,
+        "y": 1350,
+        "w": 848,
+        "h": 988
+      },
+      "stem": "Q V 37 O > ; <J<CB @ L< ZCQ X =B< L < ^= @HB U A<B ;@=@; ?> =BT@ L@ Q <= ­ NO P ±= >M @ U>;B C > J ? < L < ? = @ R@ UK < @ HH@ U @ =B@ L < B C B\\=@ J ? > > BJ M> H ? BC > J ? <H > H ? @ ? @BH J@ B J LmH ? = B@ Q =BC W = B@] N^ P d> H > J M < UMBC > J ? < L > = >U @ V G > H ; <C > = ; B@BH > L B Q U <C W? B ;@H ; < C Q@eH > H @C> =B ;@J<HI > C L>? =BC > J ? < L@H = >U @ VG> H ; < C <H Q @eH > H > E =<Q > E H] NFP F<J ° E \\@Vi< > J ? = > L > H > J M < UMBC > J ? < @ \\ = e ; < U @ > BJ L E H ? =B@U I = > HQ <JH WM>U Q <= ? <=J@= < ^ = @HB U @ ²³ C@ B < = >;<J<CB @ L< C EJ L<] N d P F= > H; BC > J ? < Q=< \\ = > H HB M < L @ Le M B L@ > b ?> =J @ > Q = > Q < J L > = k J ;B @ L> E C@ > ; <J<C B@ @ \\=< > bQ < = ? @ L <= @ ] N hP l >LE V i< ; <J ? eJ E@ L< ? = WA B ; < L > > H ;= @ M <H > Q < U e ? B ;@ H Q m R U B ;@H M < U? @ L@H g @ UA @R> ? BT@ Vi < > ;@ Q @ ; B ? @ Vi < Q =<ABHHB<J @ U L > ? = @ R @ UK@ L <= > H Q <R= > H ] V G 11/28 V 10000000 derno Reserva 11 4 7",
       "options": [
         {
           "key": "A",
-          "text": "o impacto, no Brasil, de conflitos de fronteira com os países hispânicos recém-formados na América."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "a expansão de interesses imperialistas franceses e alemães em meio à geopolítica da Segunda Revolução Industrial."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "a capacidade negociadora das elites imperiais em evitar que questões regionais desembocassem em conflitos armados."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "a persistência, no contexto nacional brasileiro, de disputas entre jesuítas e governantes em torno da exploração do trabalho escravo."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "o caráter violento e socialmente excludente do processo de formação do Estado nacional brasileiro."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 54,
-        "y": 77,
-        "w": 423,
-        "h": 250
+      "answer": {
+        "correct": "D"
       },
+      "id": "fuvest-2021-q37",
+      "year": 2021,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q37/image.png"
+      }
+    },
+    {
+      "number": 38,
       "page": 12,
+      "bbox": {
+        "x": 0,
+        "y": 98,
+        "w": 848,
+        "h": 469
+      },
+      "stem": "! \" # $ % & ' % ' ( ) ' % % ' ' * + $ + \" ( ) ' , ' , - ' . /, 0 \" ( ) ' ' 1",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "B",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "C",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
       "answer": {
         "correct": "C"
       },
@@ -1956,36 +2022,36 @@
     },
     {
       "number": 39,
-      "stem": "Uma das folhas de ontem estampou (...) o programa da recepção presidencial em que, diante do corpo diplomático, da mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao país o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca à altura de uma instituição social. Mas o Corta-jaca de que eu ouvira falar há muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as danças selvagens, a irmã gêmea do batuque, do cateretê e do samba. Mas nas recepções presidenciais o “Corta-jaca” é executado com todas as honras da música de Wagner, e não se quer que a consciência deste país se revolte, que as nossas faces se enrubesçam e que a mocidade se ria! Discurso do senador Rui Barbosa, Diário do Congresso Nacional, 8/11/1914, p. 2789. A partir do texto, identifique a alternativa correta:",
+      "page": 12,
+      "bbox": {
+        "x": 0,
+        "y": 801,
+        "w": 848,
+        "h": 113
+      },
+      "stem": "9 8 : ; <=> 8 : 9 ? < @ A ? 7 ? :A87 B <C DEEEF < B G < H G8 7 8 9 8",
       "options": [
         {
           "key": "A",
-          "text": "A crítica permite compreender que, apesar da mudança do regime político, as elites republicanas permaneceram adeptas da cultura cosmopolita e europeia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "O discurso elogia os esforços para compatibilizar a cultura republicana com as práticas e tradições dos grupos populares."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "A eclosão da Primeira Guerra Mundial contribuiu para a difusão de uma política cultural de caráter nacionalista e excludente."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "O programa musical adotado na recepção revelava tendências modernistas ao conferir status de arte às danças populares."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "A apresentação do maxixe Corta-jaca indicava uma resposta para contornar a xenofobia e eugenia presentes na cultura oficial."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 54,
-        "y": 384,
-        "w": 423,
-        "h": 456
-      },
-      "page": 12,
       "answer": {
         "correct": "C"
       },
@@ -2009,36 +2075,36 @@
     },
     {
       "number": 40,
-      "stem": "A ascensão de regimes autoritários na Europa nas primeiras décadas do século XX teve o amparo de milícias que arregimentaram uma legião de indivíduos de origem social heterogênea. Dentre estes grupos, destaca(m)-se:",
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 113
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "A Tropa de Proteção (SS), que foi uma organização paramilitar incumbida de organizar as manifestações de massa em apoio ao nazismo."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Os Camisas Negras, que usaram ações violentas, intimidação e assassinatos contra opositores políticos de Mussolini."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "A Seção de Assalto (SA), que foi uma organização paramilitar responsável por assegurar os interesses nazistas nos territórios ocupados."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "As Falanges espanholas, que foram empregadas na realização de atentados contra monarquistas e membros da comunidade judaica."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "As milícias salazaristas, que atuaram para garantir a resistência contra os interesses portugueses na Ásia."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 505,
-        "y": 77,
-        "w": 438,
-        "h": 271
-      },
-      "page": 12,
       "answer": {
         "correct": "A"
       },
@@ -2062,36 +2128,36 @@
     },
     {
       "number": 41,
-      "stem": "A imagem é considerada uma das referências do movimento artístico e cultural denominado Renascimento. Analise-a atentamente. A Primavera, Sandro Botticelli, século XV. Essa imagem pode ser considerada renascentista porque",
+      "page": 12,
+      "bbox": {
+        "x": 804,
+        "y": 819,
+        "w": 848,
+        "h": 1519
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "representa as personagens de forma simbólica e recorre a temas da doutrina cristã."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "reforça a perspectiva teocêntrica, ao representar a Virgem Maria no centro da composição pictórica."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "retoma o tema da pureza da alma feminina estabelecendo uma releitura da narrativa sobre o pecado original."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "adota o contraste dramático entre tons claros e escuros em sintonia com as tensões religiosas do período."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "utiliza a técnica da perspectiva tridimensional, que provoca a ilusão de profundidade e de espaço."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 505,
-        "y": 384,
-        "w": 438,
-        "h": 456
-      },
-      "page": 12,
       "answer": {
         "correct": "E"
       },
@@ -2115,36 +2181,36 @@
     },
     {
       "number": 42,
-      "stem": "Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918. Quadro: Município de São Paulo: Características distritais por volta de 1918. Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918). Fonte: Claudio Bertolli Filho. A gripe espanhola em São Paulo, 1918. Epidemia e sociedade. Rio de Janeiro: Paz e Terra, 2003, p. 47 e p. 91 (adaptado). Considerando as informações apresentadas, é correto afirmar:",
+      "page": 13,
+      "bbox": {
+        "x": 0,
+        "y": 91,
+        "w": 848,
+        "h": 223
+      },
+      "stem": "42 Leia com atencdo os dados do quadro e da tabela, relativos a epidemi Quadro: Municipio de Sao Paulo: Caracteri Grupo Distritos Caracteristicas Classes Socia",
       "options": [
         {
           "key": "A",
-          "text": "A mortalidade gripal verificada nos distritos do Belenzinho e da Mooca foi resultado da alta concentração demográfica associada às condições de habitação e de serviços."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Os mais elevados índices de óbitos foram verificados entre os distritos que concentravam o maior contingente demográfico, independentemente do tipo de moradia e dos benefícios existentes."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "O número de óbitos gripais colhido no Bom Retiro atesta que não há correlação entre a topografia, o tipo de moradia e as origens sociais dos infectados."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Apesar da semelhança entre as condições sanitárias e residenciais nos distritos da Sé e da Liberdade, o índice de mortalidade verificado é significativamente distinto."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Os dados indicam que a epidemia alastrou-se por toda a cidade, com igual impacto sobre a população, não importando a classe, a profissão ou a topografia do distrito."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 110,
-        "w": 891,
-        "h": 557
-      },
-      "page": 13,
       "answer": {
         "correct": "D"
       },
@@ -2168,36 +2234,36 @@
     },
     {
       "number": 43,
-      "stem": "Leia o texto: A corrupção nos costumes das mulheres é ainda uma coisa prejudicial ao fim que se propõe o governo, e à boa conservação das leis do Estado (...). É o que aconteceu em Esparta (...). Tais são as observações feitas entre os lacedemônios: no tempo da sua dominação as mulheres resolviam quase todas as questões. De resto, que diferença existe em que as mulheres governem, ou que os magistrados sejam governados por mulheres? (...) as mulheres dos lacedemônios, mesmo no caso de perigo, fizeram-lhes o maior mal possível. Aristóteles, A política. Rio de Janeiro: Ediouro, s./d., p. 79-80. É correto afirmar sobre as mulheres na Grécia Antiga:",
+      "page": 13,
+      "bbox": {
+        "x": 0,
+        "y": 1602,
+        "w": 848,
+        "h": 736
+      },
+      "stem": "ç í î ïðð ñ ò óô ï õ ïö î ï ö ÷ñ øù ö úû ö ø ñü ý ù ðù ö û ÿõ ú û ñ øû þ î ïÿ ö û ò ðù ñ ú ÿî ÿû ü û ï ÿø ñù ö ù òð ïò ù ï ï ù ðõ ï ù ïû î ïõ ö ù ð û ó ô ï ú û ö üù ö ú ï ö ÷û ú ï ï ñù û î ï õ ÷ù îù ñ ù ø ÿ öòû ð÷û û ö ö ô ï û ö ï ö ù ð û ó ù ö ù ÿ÷û ö ù õ ÷ðù ï ö ü û î ùúù ø õ ïö ÿ ÿ õ ï ÷ ù ø ò ï ú û öñ û ú ïøÿ õ û ó ô ï û ö ø ñ ü ý ù ðù ö ðù ö ïü û ø ñ û ö ù ÷ïú û ö ÿ û ö ñ ù ö ÷ ù ö ù ðù ö ÷ ï ñù ú ù ðù õ ó û ù ö ÷ù ùø ñ ù û ö ø ñü ý ù ðù ö ÿ ÿ ï ù ðõ ù ø ï ñ ñ ù ïö ø û ö ÷ð û ú ï ö ö ù ûø ï ù ð õ û ú ï ö ò ïð ÿ ø ñü ý ù ðù ö û ö ø ñ ü ý ù ð ù ö ú ï ö üû îù ú ù ø õ ï ö ø ù ö øï õ ï î û öï ÿ ú ù ò ù ð ï ù ð û ø ü ý ù ö ï ø û ï ð øû ü òï öö ù ü ÿ ÿ ÿ ª ¥  ¦ ¦ £  £   ! ¶¥ «£ \"  £ ¥ª # ¯ « ¥  $ª   % «   & §'   V PAG 13 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "Obtiveram o direito à educação e acesso às escolas filosóficas da cidade-Estado de Atenas durante o período clássico."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Em Esparta, recebiam educação física na infância, tinham direito à herança e administravam as propriedades na ausência dos maridos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Adquiriram poderes políticos como cidadãs apenas com o estabelecimento do Império Macedônico, sob a liderança de Alexandre Magno."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Em Atenas, podiam participar de algumas discussões na Eclésia e possuíam direitos políticos durante o período da democracia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Tornaram-se legisladoras e integrantes do conselho dos mais velhos na cidade-Estado de Tebas."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 705,
-        "w": 891,
-        "h": 235
-      },
-      "page": 13,
       "answer": {
         "correct": "C"
       },
@@ -2221,36 +2287,36 @@
     },
     {
       "number": 44,
-      "stem": "No Brasil, a transição da predominância indígena para a africana na composição da força de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos e iam acrescentando outros à medida que capital e crédito tornavam-se disponíveis. Em fins do século XVI, a mão de obra dos engenhos era mista do ponto de vista racial, e a proporção foi mudando crescentemente em favor dos africanos importados e sua prole. Stuart Schwartz, Segredos internos. São Paulo: Companhia das Letras, 1988, p.68. Com base na leitura do trecho e em seus conhecimentos, pode- se afirmar corretamente que, no Brasil,",
+      "page": 14,
+      "bbox": {
+        "x": 0,
+        "y": 112,
+        "w": 848,
+        "h": 447
+      },
+      "stem": "44 [No Brasil], a transiggo da predomindncia indigena para a africana na composi¢do da forca de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos, e iam acrescentando outros a4 medida que capital e crédito tornavam-se disponiveis. Em fins do século XVI, a mado de obra dos engenhos era mista do ponto de vista racial, e a propor¢do foi mudando crescentemente em favor dos africanos importados e sua prole. Stuart Schwartz, Segredos internos. Sao Paulo: Companhia das Letras,",
       "options": [
         {
           "key": "A",
-          "text": "a implementação da escravidão de origem africana não fez desaparecer a escravidão indígena, pois o emprego de ambas podia variar segundo épocas e regiões específicas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "do ponto de vista senhorial, valia a pena pagar mais caro por escravos africanos porque estes viviam mais do que os escravos indígenas, que eram mais baratos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "o comércio de escravos africanos foi incompatível com o comércio de indígenas porque eram exercidos por diferentes traficantes, que concorriam entre si."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "havia créditos disponíveis para a compra de escravos africanos, mas não de escravos indígenas, pois a Igreja estava interessada na manutenção de boas relações com os nativos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "a escravização dos indígenas pelos portugueses foi inviabilizada pelo fato de que os povos nativos americanos eram contrários ao aprisionamento de seres humanos."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 60,
-        "w": 434,
-        "h": 481
-      },
-      "page": 14,
       "answer": {
         "correct": "E"
       },
@@ -2274,36 +2340,36 @@
     },
     {
       "number": 45,
-      "stem": "Considere as seguintes afirmações: I. Uma pessoa em um trampolim é lançada para o alto. No ponto mais alto de sua trajetória, sua aceleração será nula, o que dá a sensação de “gravidade zero”. II. A resultante das forças agindo sobre um carro andando em uma estrada em linha reta a uma velocidade constante tem módulo diferente de zero. III. As forças peso e normal atuando sobre um livro em repouso em cima de uma mesa horizontal formam um par ação- reação. De acordo com as Leis de Newton:",
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 688,
+        "w": 848,
+        "h": 45
+      },
+      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $",
       "options": [
         {
           "key": "A",
-          "text": "Somente as afirmações I e II são corretas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Somente as afirmações I e III são corretas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Somente as afirmações II e III são corretas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Todas as afirmações são corretas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Nenhuma das afirmações é correta."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 579,
-        "w": 434,
-        "h": 243
-      },
-      "page": 4,
       "answer": {
         "correct": "A"
       },
@@ -2327,7 +2393,14 @@
     },
     {
       "number": 46,
-      "stem": "Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa. (Veja a imagem da questão) O “truque” só é possível pelo uso de outros palitos, formando um tipo de treliça. A figura à direita da foto mostra uma visão lateral do conjunto, destacando duas das forças que atuam sobre o palito 1. Nesta figura, F é a força que o palito 2 exerce sobre o palito 1 (aplicada a uma distância L do ponto A na borda da mesa), P é a componente vertical da força que a corda exerce sobre o palito 1 (aplicada a uma distância d do ponto A) e θ é o ângulo entre a direção da força F e a vertical. Para que o conjunto se mantenha estático, porém na iminência de rotacionar, a relação entre os módulos de F e P deve ser: Note e adote: Despreze o peso dos palitos em relação aos módulos das forças F e P.",
+      "page": 14,
+      "bbox": {
+        "x": 804,
+        "y": 115,
+        "w": 848,
+        "h": 2223
+      },
+      "stem": ")- v 46 Um video bastante popular na Internet mostra um curioso experimento em que uma garrafa de 4gua pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa. palito 1 O “truque” sd é possivel pelo uso de outros palitos, formando um tipo de trelica. A figura a direita da foto mostra uma visdo lateral do conjunto, destacando duas das forcas que atuam sobre o palito 1. Nesta figura, Féa forca que o palito 2 exerce sobre o palito 1 (aplicada a uma distancia L do ponto A na borda da mesa), Péa componente vertical da forga que a corda exerce sobre o palito 1 (aplicada a uma distancia d do ponto A) e 8 é o angulo entre a direcdo da forga F ea vertical. Para que 0 conjunto se mantenha estatico, porém na iminéncia de rotacionar, a relagdo entre os médulos de F e P deve ser: (a) fe] = Lcos(@) (a) |F| = Lsen(@) (C) |F| = |P| cos(@) (0) iF| _ |P zcost#) c= se Note e adote:",
       "options": [
         {
           "key": "A",
@@ -2339,24 +2412,17 @@
         },
         {
           "key": "C",
-          "text": "|F| = |P| cos(θ)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "|F| = |P|L cos(θ) / d"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "|F| = |P|L sen(θ) / d"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 511,
-        "y": 60,
-        "w": 427,
-        "h": 650
-      },
-      "page": 14,
       "answer": {
         "correct": "C"
       },
@@ -2380,36 +2446,36 @@
     },
     {
       "number": 47,
-      "stem": "Os smartphones modernos vêm equipados com um acelerômetro, dispositivo que mede acelerações a que o aparelho está submetido. O gráfico foi gerado a partir de dados extraídos por um aplicativo do acelerômetro de um smartphone pendurado por um fio e colocado para oscilar sob a ação da gravidade. O gráfico mostra os dados de uma das componentes da aceleração (corrigidos por um valor de referência constante) em função do tempo. (Veja a imagem da questão) Com base nos dados do gráfico e considerando que o movimento do smartphone seja o de um pêndulo simples a ângulos pequenos, o comprimento do fio é de aproximadamente:",
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 1390,
+        "w": 848,
+        "h": 113
+      },
+      "stem": "#$ % 47 ) == = C ! ) #* % 5= ) = = = C!) #, % 5 7 ) = == C! )",
       "options": [
         {
           "key": "A",
-          "text": "5 cm"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "10 cm"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "50 cm"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "100 cm"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "150 cm"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 57,
-        "y": 51,
-        "w": 324,
-        "h": 481
-      },
-      "page": 4,
       "answer": {
         "correct": "B"
       },
@@ -2433,7 +2499,14 @@
     },
     {
       "number": 48,
-      "stem": "Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão de 10 litros por segundo. O restante do consumo seria complementado com painéis de energia solar que produzem 40 kWh de energia por mês cada um. Considerando que a miniusina hidrelétrica opere 24h por dia com 100% de eficiência, o número mínimo de painéis solares necessários para suprir a demanda da comunidade seria de:",
+      "page": 15,
+      "bbox": {
+        "x": 0,
+        "y": 1271,
+        "w": 848,
+        "h": 639
+      },
+      "stem": "S $ . T U V # W . X!$ 3 1 Y ( 3 4 $ # . $ Y Z 4 [ V $ # + . TZ 3 4 4\\ % ] ' . ! / ) 0 * 3 T 7 8 9: : ; < 8 9: = ) 2 * T ^ _ : ` ? L < ;<: < ; a J b ; = c d J Q F L 9G8 C ) + * ^ 4 c P e ? f g h < L ; ?C R ) 5* Z 1 DE:F :G ; HI8 <; JG ;KL < ; <: = M A N O P Q? C ) 6* 1 4",
       "options": [
         {
           "key": "A",
@@ -2456,13 +2529,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 57,
-        "y": 577,
-        "w": 324,
-        "h": 242
-      },
-      "page": 15,
       "answer": {
         "correct": "B"
       },
@@ -2486,15 +2552,22 @@
     },
     {
       "number": 49,
-      "stem": "Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa m₀ mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para f₁, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico. (Veja a imagem da questão) Ao trocarmos o objeto pendurado por outro de massa M, observa-se que a frequência do gerador para que a corda continue a vibrar no primeiro harmônico deve ser ajustada para 2f₁. Com isso, é correto concluir que a razão M/m₀ deve ser:",
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 902
+      },
+      "stem": "), Sy 49 Ondas estacionarias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogénea, fixa em dois pontos separados por uma distancia L, e pondo-a a vibrar. A extremidade a direita 6 acoplada a um gerador de frequéncias, enquanto a outra extremidade esta sujeita a uma forga tensional produzida ao se pendurar a corda um objeto de massa my mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequéncia do gerador para f;, obtém-se na corda uma onda estacionaria que vibra em seu primeiro harménico.",
       "options": [
         {
           "key": "A",
-          "text": "1/4"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "1/2"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
@@ -2509,13 +2582,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 513,
-        "y": 51,
-        "w": 369,
-        "h": 448
-      },
-      "page": 15,
       "answer": {
         "correct": "A"
       },
@@ -2539,36 +2605,36 @@
     },
     {
       "number": 50,
-      "stem": "Um mol de um gás ideal percorre o processo cíclico ABCA em um diagrama P–V, conforme mostrado na figura, sendo que a etapa AB é isobárica, a etapa BC é isocórica e a etapa CA é isotérmica. (Veja a imagem da questão) Considere as seguintes afirmações: I. O gás libera calor tanto na etapa BC quanto na etapa CA. II. O módulo do trabalho realizado pelo gás é não nulo tanto na etapa AB quanto na etapa BC. III. O gás tem sua temperatura aumentada tanto na etapa AB quanto na etapa CA. É correto o que se afirma em:",
+      "page": 15,
+      "bbox": {
+        "x": 804,
+        "y": 1152,
+        "w": 848,
+        "h": 112
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "Nenhuma delas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Apenas I."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Apenas II."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Apenas III."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Apenas I e II."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 513,
-        "y": 511,
-        "w": 364,
-        "h": 411
-      },
-      "page": 15,
       "answer": {
         "correct": "B"
       },
@@ -2592,7 +2658,14 @@
     },
     {
       "number": 51,
-      "stem": "O olho humano constitui uma complexa estrutura capaz de controlar a luz recebida e produzir imagens nítidas. Em pessoas com visão normal, o olho é capaz de acomodar o cristalino para focalizar sobre a retina a luz que vem dos objetos, desde que não estejam muito próximos. Pessoas míopes, por outro lado, apresentam dificuldades em enxergar de longe. Ao focalizar objetos situados além do chamado ponto remoto (PR), a imagem forma-se à frente da retina, conforme ilustrado na figura. Neste caso, lentes corretivas são necessárias a fim de que o indivíduo observe o objeto de forma nítida. Qual arranjo esquemático melhor descreve a correção realizada por uma lente receitada por um oftalmologista no caso de um indivíduo míope?",
+      "page": 10,
+      "bbox": {
+        "x": 804,
+        "y": 767,
+        "w": 848,
+        "h": 529
+      },
+      "stem": "N1 823 6 51 : 6 OP B QQ R STU V W X9B YP Y P B PP P Q Z [ \" & L G G ) ! ! ' L \" & L + , -' \" & ' % + / $ \\] ^ _ ` ) # G C + . * - C \\a ` + / ! ' $ * $ -' + 33",
       "options": [
         {
           "key": "A",
@@ -2615,13 +2688,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 40,
-        "y": 50,
-        "w": 430,
-        "h": 845
-      },
-      "page": 10,
       "answer": {
         "correct": "B"
       },
@@ -2645,36 +2711,36 @@
     },
     {
       "number": 52,
-      "stem": "Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, **inicialmente**, estavam eletricamente neutras. Conforme mostrado na figura, os balões estão próximos, mas jamais chegam a tocar as latas. Nessa configuração, as latas 1, 2 e 3 terão, respectivamente, carga total:",
+      "page": 16,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 515
+      },
+      "stem": "- . ' , . & ) / 0 1 2",
       "options": [
         {
           "key": "A",
-          "text": "1: zero; 2: negativa; 3: zero."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "1: positiva; 2: zero; 3: positiva."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "1: zero; 2: positiva; 3: zero."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "1: positiva; 2: negativa; 3: positiva."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "1: zero; 2: zero; 3: zero."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 500,
-        "y": 50,
-        "w": 440,
-        "h": 380
-      },
-      "page": 16,
       "answer": {
         "correct": "E"
       },
@@ -2698,36 +2764,36 @@
     },
     {
       "number": 53,
-      "stem": "Em uma luminária de mesa, há duas lâmpadas que podem ser acesas individualmente ou ambas ao mesmo tempo, com cada uma funcionando sob a tensão nominal determinada pelo fabricante, de modo que a intensidade luminosa de cada lâmpada seja sempre a mesma. Entre os circuitos apresentados, indique aquele que corresponde a um arranjo que permite o funcionamento conforme essa descrição.",
+      "page": 16,
+      "bbox": {
+        "x": 804,
+        "y": 1007,
+        "w": 848,
+        "h": 1331
+      },
+      "stem": "' ' O O ) ! / # ! 0 # ! 1 # ! P # ! Q # ! # , !/ # 4 5 67 7 8 95 67 : ! + # , !0 # K I F 5= L 8 MI 7 8 @ E RCF 8 9 8 @ N I = < ? 5= 7 C ! ,# , ! 1# 97 C 8= 7? > 8 S L C? <8T 5I @ 7 B 8T 9 8 C7 @C 8 ! -# , !P # N 5>C 8 MI 7 IC >7 @ ? @65> J ! # , !Q # V G 16/28 V 10000000 derno Reserva 16 4 2",
       "options": [
         {
           "key": "A",
-          "text": "Circuito (1)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Circuito (2)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Circuito (3)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Circuito (4)"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Circuito (5)"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 500,
-        "y": 440,
-        "w": 440,
-        "h": 455
-      },
-      "page": 16,
       "answer": {
         "correct": "B"
       },
@@ -2751,36 +2817,36 @@
     },
     {
       "number": 54,
-      "stem": "Uma esfera metálica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme E e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total h, sem nunca abandonar a região de campo elétrico uniforme. (Veja a imagem da questão) Ao longo do movimento descrito, os trabalhos realizados pela força gravitacional e pela força elétrica sobre a esfera são, respectivamente:",
+      "page": 17,
+      "bbox": {
+        "x": 0,
+        "y": 102,
+        "w": 848,
+        "h": 1069
+      },
+      "stem": "54 Uma esfera metalica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma regido em que ha um campo elétrico uniforme e também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxilio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a a¢do da gravidade, a uma altura total h, sem nunca abandonar a regido de campo elétrico uniforme. iso] + h 1 [- Ss Feeeeteese Feet eee es +q",
       "options": [
         {
           "key": "A",
-          "text": "mgh e qEh"
+          "text": "mghe qEh"
         },
         {
           "key": "B",
-          "text": "–mgh e"
+          "text": "-mghe0"
         },
         {
           "key": "C",
-          "text": "0 e –qEh"
+          "text": "0e—qEh"
         },
         {
           "key": "D",
-          "text": "–mgh e –qEh"
+          "text": "—mghe-—qEh"
         },
         {
           "key": "E",
-          "text": "mgh e"
+          "text": "mghe"
         }
       ],
-      "bbox": {
-        "x": 60,
-        "y": 60,
-        "w": 436,
-        "h": 455
-      },
-      "page": 17,
       "answer": {
         "correct": "D"
       },
@@ -2804,36 +2870,36 @@
     },
     {
       "number": 55,
-      "stem": "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente 4 × 10^26 W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de 5 × 10^9 anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de Note e adote: Velocidade da luz no vácuo: 3 × 10^8 m/s. Considere que um ano tem cerca de 3 × 10^7 s.",
+      "page": 17,
+      "bbox": {
+        "x": 0,
+        "y": 1126,
+        "w": 848,
+        "h": 148
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "10^7 kg."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "10^17 kg."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "10^27 kg."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "10^37 kg."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "10^47 kg."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 60,
-        "y": 492,
-        "w": 436,
-        "h": 242
-      },
-      "page": 17,
       "answer": {
         "correct": "B"
       },
@@ -2857,36 +2923,36 @@
     },
     {
       "number": 56,
-      "stem": "TEXTO PARA AS QUESTÕES DE 56 A 58 As astronomers gaze into the depths of space, they do so with unease: They don't know precisely what the universe is made of. Surprisingly, no one knows the stars’ exact chemical composition: how many carbon, nitrogen and oxygen atoms they have relative to hydrogen, the most common element. These numbers are crucial, because they affect how stars live and die, what types of planets form and even how readily life might arise on other worlds. Twenty years ago, astronomers expressed confidence in the numbers they had been working with. Now, not so much. The problem lies not in the far corners of the cosmos, but much closer to home. Astonishingly, scientists don’t know exactly what the sun is made of. As a result, they don’t know what the other stars are made of, either. “The sun is a fundamental yardstick,” says Martin Asplund, an astrophysicist at the Max Planck Institute for Astrophysics, in Germany. “When we determine the abundance of a certain element in a star or a galaxy or a gas cloud anywhere in the universe, we use the sun as a reference point.” The sun’s location in the Milky Way also makes it a good representative of the entire galaxy. Most stars reside in giant galaxies like the Milky Way, which makes the sun a touchstone for the entire cosmos. For nearly a century, astronomers have judged stars normal or not by seeing whether their chemical compositions match the sun’s. Most stars near us do; some don’t. Scientific American. 1 July 2020. Adaptado. Segundo o texto, conhecer a composição de elementos químicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,",
+      "page": 17,
+      "bbox": {
+        "x": 804,
+        "y": 1051,
+        "w": 848,
+        "h": 544
+      },
+      "stem": "o oo oO Mm. Scientific American. 1 July 2020. Adaptado. Segundo o texto, conhecer a composi¢ao de elementos quimicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,",
       "options": [
         {
           "key": "A",
-          "text": "fornece evidências da ligação entre as idades das estrelas."
+          "text": "fornece evidéncias da ligagdo entre as idades das estrelas."
         },
         {
           "key": "B",
-          "text": "sugere a existência de planetas rochosos formados por elementos pesados."
+          "text": "sugere a exist€ncia de planetas rochosos formados por"
         },
         {
           "key": "C",
-          "text": "influencia na possibilidade de presença de vida em outros locais do universo."
+          "text": "influencia na possibilidade de presenca de vida em outros"
         },
         {
           "key": "D",
-          "text": "determina condições cosmológicas da evolução de aglomerados estelares."
+          "text": "determina condigdes cosmoldgicas da evolugdo de"
         },
         {
           "key": "E",
-          "text": "possibilita a síntese de moléculas em nuvens de gás e poeira cósmica."
+          "text": "possibilita a sintese de moléculas em nuvens de gas e poeira"
         }
       ],
-      "bbox": {
-        "x": 554,
-        "y": 60,
-        "w": 400,
-        "h": 628
-      },
-      "page": 17,
       "answer": {
         "correct": "C"
       },
@@ -2910,36 +2976,36 @@
     },
     {
       "number": 57,
-      "stem": "TEXTO PARA AS QUESTÕES DE 56 A 58 As astronomers gaze into the depths of space, they do so with unease: They don't know precisely what the universe is made of. Surprisingly, no one knows the stars’ exact chemical composition: how many carbon, nitrogen and oxygen atoms they have relative to hydrogen, the most common element. These numbers are crucial, because they affect how stars live and die, what types of planets form and even how readily life might arise on other worlds. Twenty years ago, astronomers expressed confidence in the numbers they had been working with. Now, not so much. The problem lies not in the far corners of the cosmos, but much closer to home. Astonishingly, scientists don’t know exactly what the sun is made of. As a result, they don’t know what the other stars are made of, either. “The sun is a fundamental yardstick,” says Martin Asplund, an astrophysicist at the Max Planck Institute for Astrophysics, in Germany. “When we determine the abundance of a certain element in a star or a galaxy or a gas cloud anywhere in the universe, we use the sun as a reference point.” The sun’s location in the Milky Way also makes it a good representative of the entire galaxy. Most stars reside in giant galaxies like the Milky Way, which makes the sun a touchstone for the entire cosmos. For nearly a century, astronomers have judged stars normal or not by seeing whether their chemical compositions match the sun’s. Most stars near us do; some don’t. Scientific American. 1 July 2020. Adaptado. No texto, o astrofísico Martin Asplund emprega a frase “The sun is a fundamental yardstick” (L. 15), por considerar o Sol",
+      "page": 17,
+      "bbox": {
+        "x": 804,
+        "y": 1550,
+        "w": 848,
+        "h": 374
+      },
+      "stem": "« $ ­ d ® C ¯ & ° ± k ' 2 &$ ' &- ' & 0 ' & 1 ' & ' ² 58",
       "options": [
         {
           "key": "A",
-          "text": "um mistério."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "uma estrutura."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "um processo."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "um sistema."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "um parâmetro."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 554,
-        "y": 60,
-        "w": 400,
-        "h": 801
-      },
-      "page": 17,
       "answer": {
         "correct": "A"
       },
@@ -2963,36 +3029,36 @@
     },
     {
       "number": 58,
-      "stem": "TEXTO PARA AS QUESTÕES DE 56 A 58 As astronomers gaze into the depths of space, they do so with unease: They don't know precisely what the universe is made of. Surprisingly, no one knows the stars’ exact chemical composition: how many carbon, nitrogen and oxygen atoms they have relative to hydrogen, the most common element. These numbers are crucial, because they affect how stars live and die, what types of planets form and even how readily life might arise on other worlds. Twenty years ago, astronomers expressed confidence in the numbers they had been working with. Now, not so much. The problem lies not in the far corners of the cosmos, but much closer to home. Astonishingly, scientists don’t know exactly what the sun is made of. As a result, they don’t know what the other stars are made of, either. “The sun is a fundamental yardstick,” says Martin Asplund, an astrophysicist at the Max Planck Institute for Astrophysics, in Germany. “When we determine the abundance of a certain element in a star or a galaxy or a gas cloud anywhere in the universe, we use the sun as a reference point.” The sun’s location in the Milky Way also makes it a good representative of the entire galaxy. Most stars reside in giant galaxies like the Milky Way, which makes the sun a touchstone for the entire cosmos. For nearly a century, astronomers have judged stars normal or not by seeing whether their chemical compositions match the sun’s. Most stars near us do; some don’t. Scientific American. 1 July 2020. Adaptado. Conforme o texto, um critério tradicionalmente utilizado por astrônomos para avaliar estrelas envolve",
+      "page": 17,
+      "bbox": {
+        "x": 804,
+        "y": 1880,
+        "w": 848,
+        "h": 458
+      },
+      "stem": "& ' 58 0 ³ ! ! ! & $' ! \" ? 2 & - ' &0 ' ! \" ! &1' 5 & ' \" V G 17/28 V 10000000 derno Reserva 17 6 9",
       "options": [
         {
           "key": "A",
-          "text": "verificar se sua composição se assemelha à do Sol."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "selecionar galáxias compostas por estrelas padrão."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "calcular níveis de radiação estelar e de energia gravitacional."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "medir a densidade e grau de opacidade de nêutrons."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "testar a circulação atmosférica em torno dos astros."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 554,
-        "y": 60,
-        "w": 400,
-        "h": 968
-      },
-      "page": 17,
       "answer": {
         "correct": "C"
       },
@@ -3016,36 +3082,36 @@
     },
     {
       "number": 59,
-      "stem": "Conforme o texto, um aspecto associado ao caráter efêmero da popularidade de um usuário da internet, relativo ao uso de plataformas como TikTok, é",
+      "page": 18,
+      "bbox": {
+        "x": 0,
+        "y": 1263,
+        "w": 848,
+        "h": 556
+      },
+      "stem": "(Veja a imagem da questão)",
       "options": [
         {
           "key": "A",
-          "text": "a falta de conhecimento técnico dos adolescentes para o manejo de hardware."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "a perda de interesse do público pelas publicações até então atrativas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "a competição entre usuários com atitudes pouco éticas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "a variedade limitada dos vídeos postados, em razão do tratamento precário das imagens."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "a alta capacidade dos vídeos para viralizar entre grupos com interesses conflitantes."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 553,
-        "w": 432,
-        "h": 254
-      },
-      "page": 18,
       "answer": {
         "correct": "B"
       },
@@ -3069,36 +3135,36 @@
     },
     {
       "number": 60,
-      "stem": "No texto, a referência a um jardim de verão ao entardecer, repleto de vagalumes, sugere que, para os adolescentes, as mídias sociais",
+      "page": 18,
+      "bbox": {
+        "x": 0,
+        "y": 1775,
+        "w": 848,
+        "h": 563
+      },
+      "stem": "z U [Z\\[U] _ XZ WZXfV b c_ _ ^ Y n_Xd cY d Z hZX u U _U ZV [_XdZ b ZX] XZa gZ [U dZ h_y_g^ YZ` ] `^ y Z X Z {^ Z ] a _X_ U` _d UgZ` bZ V [ Z` ] _ ` Ywd c_` `Ubc_c` k l ` u U WUV[Z dZ a XZ`` u U Z [ ZV ` u U V_ W_Ywgc_o k p l W _h U X ZbZY _ b UY^ Vcb _ s u U d U` Y _c` [wY cdU`o k T l ` u U a_^ [_d_` aUX b ZX[_ cYa XZhc`cr cgcd_d Zo k v l y_X_V [ZY _ W ^Vb cUV _gc d_dZ dZ yX^a U`o k l a XUYUh ZY c y^ _g d_d Z d Z Z\\ aX Z`` u Uo V PAG 18 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "são fonte de pressão e tensão na família."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "favorecem a comunicação dos mais tímidos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "são pautadas por certa imprevisibilidade."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "garantem a funcionalidade de grupos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "promovem igualdade de expressão."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 55,
-        "y": 808,
-        "w": 432,
-        "h": 174
-      },
-      "page": 18,
       "answer": {
         "correct": "E"
       },
@@ -3122,36 +3188,36 @@
     },
     {
       "number": 61,
-      "stem": "I ain't gonna work on Maggie's farm no more I ain't gonna work on Maggie's farm no more Well, I wake up in the morning Fold my hands and pray for rain I got a head full of ideas That are drivin' me insane It's a shame the way she makes me scrub the floor I ain't gonna work on Maggie's farm no more I ain't gonna work for Maggie's brother no more I ain't gonna work for Maggie's brother no more Well, he hands you a nickel He hands you a dime He asks you with a grin If you're havin' a good time Then he fines you every time you slam the door I ain't gonna work for Maggie's brother no more No, I ain't gonna work for Maggie's pa no more No, I ain't gonna work for Maggie's pa no more Well, he puts his cigar out in your face just for kicks His bedroom window it is made out of bricks The National Guard stands around his door Ah, I ain't gonna work for Maggie's pa no more, alright Bob Dylan, \"Maggie's Farm\", do álbum Bringing it all back home, 1965. Nestas estrofes, o conjunto de cenas descritas mostra que a principal dificuldade experimentada pela pessoa cuja história é contada na letra da música refere-se",
+      "page": 18,
+      "bbox": {
+        "x": 804,
+        "y": 102,
+        "w": 848,
+        "h": 113
+      },
+      "stem": "# | & # \" 5 # & & | # \"% % \"",
       "options": [
         {
           "key": "A",
-          "text": "ao relacionamento difícil com familiares e amigos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "à falta de criatividade diante das exigências do trabalho."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "às restrições impostas a sua liberdade e expressão pessoal."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "à competição por salários mais altos com colegas de trabalho."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "às dificuldades de viver fora de um grande centro urbano."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 513,
-        "y": 55,
-        "w": 432,
-        "h": 597
-      },
-      "page": 18,
       "answer": {
         "correct": "C"
       },
@@ -3175,36 +3241,36 @@
     },
     {
       "number": 62,
-      "stem": "Leia os provérbios: 1. Don't count your chickens before they lay eggs. 2. Don't bite the hand that feeds you. 3. Every cloud has a silver lining. A alternativa que melhor expressa a ideia contida em cada um dos três provérbios, na ordem em que aparecem, é:",
+      "page": 18,
+      "bbox": {
+        "x": 804,
+        "y": 1436,
+        "w": 848,
+        "h": 902
+      },
+      "stem": "Zc_ U ` a XUh j X r cU` _ g[ZXV _[ch_ {^ Z YZgm UX Z\\aX Z``_ _ cdZc_ bUV [ cd _ ZY b _ d _ ^ Y d U` [Xf` a XUh j Xr cU`] V _ UXd Z Y ZY { ^ Z _a_ X Zb ZY] j k l `a ZX[Z x _¡ dZ `b UVWc_ V s _¡ WU b Uo kp l XZb ca c[_s u U ¡ c V yX_[cd u U ¡ Z`a ZX_V s_o kTl r `ZXh_s u U ¡ bZX[Z x _ ¡ Z\\ a ZXcfV bc_o k v l \\_ yZXU¡ m_X YUV c_ ¡ d Z`_aX Uh _s u Uo k l X y^gm U ¡ d Z`a X Z x U ¡ [ZcYU` c_o V G 18/28 V 10000000 derno Reserva 18 8 6",
       "options": [
         {
           "key": "A",
-          "text": "Esperteza; desconfiança; foco."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Precipitação; ingratidão; esperança."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Observação; certeza; experiência."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Exagero; harmonia; desaprovação."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Orgulho; desprezo; teimosia."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 513,
-        "y": 624,
-        "w": 432,
-        "h": 358
-      },
-      "page": 18,
       "answer": {
         "correct": "A"
       },
@@ -3227,10 +3293,68 @@
       }
     },
     {
-      "id": "fuvest-2021-q63",
       "number": 63,
+      "page": 19,
+      "bbox": {
+        "x": 0,
+        "y": 786,
+        "w": 848,
+        "h": 437
+      },
+      "stem": "63 No fragmento “ao tropegar, cravava sua propria adaga no peito.” (L. 8-9), a oracgdo em negrito abrange, simultaneamente, as nogdes de",
+      "options": [
+        {
+          "key": "A",
+          "text": "proporcdo e explicacdo."
+        },
+        {
+          "key": "B",
+          "text": "causa e proporcao."
+        },
+        {
+          "key": "C",
+          "text": "tempo e consequéncia."
+        },
+        {
+          "key": "D",
+          "text": "explicagao e consequéncia."
+        },
+        {
+          "key": "E",
+          "text": "tempo e causa."
+        }
+      ],
+      "answer": {
+        "correct": "D"
+      },
+      "id": "fuvest-2021-q63",
       "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q63/image.png"
+      }
+    },
+    {
+      "number": 64,
+      "page": 6,
+      "bbox": {
+        "x": 804,
+        "y": 353,
+        "w": 848,
+        "h": 44
+      },
+      "stem": "57 89:;< 8 6 4 ; 231 5 4 8 1 8 4 1 1 = 34>3 >48 9 :; ?; 1 =@8 9; >4A 82 ; B CDEF / G H I J -IH K /",
       "options": [
         {
           "key": "A",
@@ -3256,9 +3380,8 @@
       "answer": {
         "correct": "D"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q63/image.png"
-      },
+      "id": "fuvest-2021-q64",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -3271,12 +3394,72 @@
         },
         "finalSummary": ""
       },
-      "page": 19
+      "assets": {
+        "questionImage": "/assets/questions/2021/q64/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q64",
-      "number": 64,
+      "number": 65,
+      "page": 19,
+      "bbox": {
+        "x": 0,
+        "y": 1740,
+        "w": 848,
+        "h": 598
+      },
+      "stem": "Em “Seu carisma seduziu a editora DC Comics, que impés o acréscimo de um quadrinho.” (L. 12-13), 0 vocdbulo “que” possui a mesma funcdo sintatica desempenhada no texto por (A) “imével” (L. 2). (B) “Robin” (L. 5). (C) “seus pais” (L. 9). (D) “se” (L. 12). (E) “vivo” (L. 15). v (C",
+      "options": [
+        {
+          "key": "A",
+          "text": "“imével” (L. 2)."
+        },
+        {
+          "key": "B",
+          "text": "“Robin” (L. 5)."
+        },
+        {
+          "key": "C",
+          "text": "“seus pais” (L. 9)."
+        },
+        {
+          "key": "D",
+          "text": "(Veja a imagem da questão)"
+        },
+        {
+          "key": "E",
+          "text": "(Veja a imagem da questão)"
+        }
+      ],
+      "answer": {
+        "correct": "C"
+      },
+      "id": "fuvest-2021-q65",
       "year": 2021,
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "finalSummary": ""
+      },
+      "assets": {
+        "questionImage": "/assets/questions/2021/q65/image.png"
+      }
+    },
+    {
+      "number": 66,
+      "page": 9,
+      "bbox": {
+        "x": 804,
+        "y": 957,
+        "w": 848,
+        "h": 120
+      },
       "stem": "(Veja a imagem da questão)",
       "options": [
         {
@@ -3303,9 +3486,8 @@
       "answer": {
         "correct": "C"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q64/image.png"
-      },
+      "id": "fuvest-2021-q66",
+      "year": 2021,
       "explanation": {
         "theory": "Pendente",
         "steps": [],
@@ -3318,13 +3500,20 @@
         },
         "finalSummary": ""
       },
-      "page": 6
+      "assets": {
+        "questionImage": "/assets/questions/2021/q66/image.png"
+      }
     },
     {
-      "id": "fuvest-2021-q65",
-      "number": 65,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
+      "number": 67,
+      "page": 4,
+      "bbox": {
+        "x": 0,
+        "y": 688,
+        "w": 848,
+        "h": 79
+      },
+      "stem": "! ! ! ! ! ! 1 2 1 2 3 ! ! 45 ! 67 ! ) $ 2 8 ! \" 9: 2",
       "options": [
         {
           "key": "A",
@@ -3350,128 +3539,42 @@
       "answer": {
         "correct": "B"
       },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q65/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 19
-    },
-    {
-      "id": "fuvest-2021-q66",
-      "number": 66,
-      "year": 2021,
-      "stem": "(Veja a imagem da questão)",
-      "options": [
-        {
-          "key": "A",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "B",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "C",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "D",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "E",
-          "text": "(Veja a imagem da questão)"
-        }
-      ],
-      "answer": {
-        "correct": "E"
-      },
-      "assets": {
-        "questionImage": "/assets/questions/2021/q66/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 9
-    },
-    {
       "id": "fuvest-2021-q67",
-      "number": 67,
       "year": 2021,
-      "stem": "(Veja a imagem da questão)",
-      "options": [
-        {
-          "key": "A",
-          "text": "(Veja a imagem da questão)"
+      "explanation": {
+        "theory": "Pendente",
+        "steps": [],
+        "distractors": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": ""
         },
-        {
-          "key": "B",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "C",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "D",
-          "text": "(Veja a imagem da questão)"
-        },
-        {
-          "key": "E",
-          "text": "(Veja a imagem da questão)"
-        }
-      ],
-      "answer": {
-        "correct": "A"
+        "finalSummary": ""
       },
       "assets": {
         "questionImage": "/assets/questions/2021/q67/image.png"
-      },
-      "explanation": {
-        "theory": "Pendente",
-        "steps": [],
-        "distractors": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": "",
-          "E": ""
-        },
-        "finalSummary": ""
-      },
-      "page": 4
+      }
     },
     {
       "number": 68,
-      "stem": "Ao substituir a pessoa verbal utilizada para se referir ao substantivo \"palavras\" pela 3ª pessoa do plural, os verbos dos versos \"sois de vento, ides no vento,\" (v. 4) / \"Perdão podíeis ter sido!\" (v. 12) / \"Éreis um sopro na aragem...\" (v. 20) seriam conjugados conforme apresentado na alternativa:",
+      "page": 20,
+      "bbox": {
+        "x": 0,
+        "y": 1032,
+        "w": 848,
+        "h": 501
+      },
+      "stem": "Cecilia Meireles, Romanceiro aa Inconjidencia.",
       "options": [
         {
           "key": "A",
-          "text": "são, vão, podiam, eram."
+          "text": "sao, vao, podiam, eram."
         },
         {
           "key": "B",
-          "text": "seriam, iriam, podiam, serão."
+          "text": "seriam, iriam, podiam, serdo."
         },
         {
           "key": "C",
@@ -3479,20 +3582,13 @@
         },
         {
           "key": "D",
-          "text": "são, vão, poderiam, eram."
+          "text": "sao, vao, poderiam, eram."
         },
         {
           "key": "E",
           "text": "eram, iriam, podiam, seriam."
         }
       ],
-      "bbox": {
-        "x": 57,
-        "y": 456,
-        "w": 389,
-        "h": 117
-      },
-      "page": 20,
       "answer": {
         "correct": "B"
       },
@@ -3516,36 +3612,36 @@
     },
     {
       "number": 69,
-      "stem": "A \"estranha potência\" que a voz lírica ressalta nas palavras decorre de uma combinação entre",
+      "page": 20,
+      "bbox": {
+        "x": 0,
+        "y": 1489,
+        "w": 848,
+        "h": 849
+      },
+      "stem": "69 im A “estranha poténcia” que a voz lirica ressalta nas palavras decorre de uma combinacao entre Es: e",
       "options": [
         {
           "key": "A",
-          "text": "fluidez nos ventos do presente e conteúdo fixo no passado."
+          "text": "fluidez nos ventos do presente e contetido fixo no passado. re"
         },
         {
           "key": "B",
-          "text": "forma abstrata no espaço e presença concreta na história."
+          "text": "forma abstrata no espaco e presenga concreta na historia. re:"
         },
         {
           "key": "C",
-          "text": "leveza impalpável na arte e vigor nos documentos antigos."
+          "text": "leveza impalpavel na arte e vigor nos documentos antigos. (A"
         },
         {
           "key": "D",
-          "text": "sonoridade ruidosa nos ares e significado estável no papel."
+          "text": "sonoridade ruidosa nos ares e significado estavel no papel. |"
         },
         {
           "key": "E",
           "text": "lirismo irrefletido da poesia e peso justo dos acontecimentos."
         }
       ],
-      "bbox": {
-        "x": 57,
-        "y": 650,
-        "w": 406,
-        "h": 130
-      },
-      "page": 20,
       "answer": {
         "correct": "A"
       },
@@ -3569,36 +3665,36 @@
     },
     {
       "number": 70,
-      "stem": "Alferes, Ouro Preto em sombras Espera pelo batizado, Ainda que tarde sobre a morte do sonhador Ainda que tarde sobre as bocas do traidor. Raios de sol brilharão nos sinos: Dez vias dar. Ai Marília, as liras e o amor Não posso mais sufocar E a minha voz irá Pra muito além do desterro e do sal, Maior que a voz do rei. Aldir Blanc e João Bosco, trecho da canção “Alferes”, de 1973. A imagem de Tiradentes – a quem Cecília Meireles qualificou “Ó Alferes imortal, radiosa expressão dos mais altos sonhos desta cidade, do Brasil e do próprio mundo”, em palestra feita em Ouro Preto – torna a aparecer como símbolo da luta pela liberdade em vários momentos da cultura nacional. Os versos do letrista Aldir Blanc evocam, em novo contexto, o mártir sonhador para resistir ao discurso",
+      "page": 13,
+      "bbox": {
+        "x": 804,
+        "y": 243,
+        "w": 848,
+        "h": 71
+      },
+      "stem": "! * 0* 6' / ) , ) * 2 ) &' * 7 0 : ' $ , 7 ) , ; 09051 /) ' * <= ) *+ 0 9+ 0 * ' 8 ) 9 , 9+ 0 *",
       "options": [
         {
           "key": "A",
-          "text": "da doutrina revolucionária de ligas politicamente engajadas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "da historiografia, que minimizou a importância de Tiradentes."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "de autoritarismo e opressão, próprio da ditadura militar."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "dos poetas árcades, que se dedicavam às suas liras amorosas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "da tirania portuguesa sobre os mineradores no ciclo do ouro."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 508,
-        "y": 57,
-        "w": 430,
-        "h": 373
-      },
-      "page": 13,
       "answer": {
         "correct": "C"
       },
@@ -3622,36 +3718,36 @@
     },
     {
       "number": 71,
-      "stem": "I – Traíste-me, Sem Medo. Tu traíste-me. (...) Sabes o que tu és afinal, Sem Medo? És um ciumento. Chego a pensar se não és homossexual. Tu querias-me só, como tu. Um solitário do Mayombe. (...) Desprezo-te. (...) Nunca me verás atrás de uma garrafa vazia. (...) Cada sucesso que eu tiver, será a paga da tua bofetada, pois não serei um falhado como tu. Pepetela, Mayombe. Adaptado. II – Peço-te perdão, Sem Medo. Não te compreendi, fui um imbecil. E quis igualar o inigualável. Pepetela, Mayombe. Esses excertos de Mayombe referem-se a conversas entre as personagens Comissário e Sem Medo em momentos distintos do romance. Em I e II, as falas do Comissário revelam, respectivamente,",
+      "page": 20,
+      "bbox": {
+        "x": 804,
+        "y": 1028,
+        "w": 848,
+        "h": 146
+      },
+      "stem": "< ¨$ ! ; % )( ©2( 6 ( 2  ( 0 , 8 ¨' ) $ ! ; % )( © 2( 8",
       "options": [
         {
           "key": "A",
-          "text": "incompatibilidade étnica entre ele e Sem Medo, por pertencerem a linhagens diferentes, e superação de sua hostilidade tribal."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "decepção, por Sem Medo não ter intercedido a seu favor na conversa com Ondina, e desespero diante do companheiro baleado."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "suspeita de traição de Ondina e tomada de consciência de que isso não passara de uma crise de ciúme dele."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "forte tensão homoafetiva entre ele e Sem Medo, e aceitação da verdadeira orientação sexual do companheiro."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "ira, diante do anticatolicismo de Sem Medo, e culpa que o atinge ao perceber que sua demonstração de coragem colocara o companheiro em risco."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 508,
-        "y": 455,
-        "w": 430,
-        "h": 475
-      },
-      "page": 20,
       "answer": {
         "correct": "B"
       },
@@ -3675,36 +3771,36 @@
     },
     {
       "number": 72,
-      "stem": "Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto, respectivamente, por",
+      "page": 21,
+      "bbox": {
+        "x": 0,
+        "y": 830,
+        "w": 848,
+        "h": 468
+      },
+      "stem": "J U 72 WX YZW [ \\]^_ `W aW bcd`_ W ef ^ W b` _ f a f ` fY cf g h Wa bWiWa aj Zd f a k l Y_ a a]mW n a \\oa c dc \\dZ f a W p YZWaa h Wa WX `Wac fq \\ W b _ cW p c_ k ZWa YWi c dm f XW bc W k Y _Z r s d bi_X YZWW ba t _u f ZX f g t _u db _ e W b adm _u dZZW` \\ c]m W n v rw s fn cdm W^u o Zd b i f ` W dZ f u _ e Wb` d`_u X fb a f v rx s d y b_Zz b i d f u X W b cd Z f u Y Z W [\\ `d i f `_u fn d W bf ` f v r{ s i_X Ynf i | b i d f u d b m W bg t _u o_ o_u i Wy f v r s f Z Z _ y z b i d f u W b c Z W c W b d X W b c _ u db if Y f ^ u f b d X f n W a if v 73",
       "options": [
         {
           "key": "A",
-          "text": "incompreensão; armação; inofensivo; irredutível."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "altivez; brincadeira; ofendido; mansa."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "ignorância; mentira; prejudicado; alienada."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "complacência; invenção; bobo; cega."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "arrogância; entretenimento; incapaz; animalesca."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 49,
-        "y": 370,
-        "w": 429,
-        "h": 193
-      },
-      "page": 21,
       "answer": {
         "correct": "E"
       },
@@ -3728,36 +3824,36 @@
     },
     {
       "number": 73,
-      "stem": "As respostas do narrador às perguntas de Leusipo são uma tentativa de disfarçar o caráter",
+      "page": 21,
+      "bbox": {
+        "x": 0,
+        "y": 1253,
+        "w": 848,
+        "h": 1085
+      },
+      "stem": "a ZWa Y_ac f a ` _ b f ZZ f ` _Z } a YWZ y \\b c f a `W ~W \\ a d Y _ a t _ \\ X f cW bc f c d m f `W ` d a ef Zg f Z _ i f Zjc WZ r s e f o \\ n f Z ` _ Z _ X f b i W k d b a Y d Z f ` _ b f a n W b ` f a W c Z f ` d g h W a ` _ a  Z f   v rw s d b m W a c d y f c d m _ ` _ Z _ X f b i W k W X o f a f ` _ W X c W a c W X \\ b  _ a ` _ a  Z f   v r x s Y_ n ]cdi _ `_ Z _ X fbi W k f ZWa Y Wd c_ ` f a i _b` d g h Wa ` W md` f `_a  Z f  v r{ s Wc b_ yZje di _ `_ Z_X fb iW k f cZ f m la ` _ ZW y d acZ_ ` f i \\nc \\ Zf ` _ a  Z f  v r s o d _ y Z j e d i _ ` _ Z _ X f b i W k Z W n f c f b ` _ a \\ f m d m | b i d f [ \\ b c _ f _ a  Z f   v V PAG 21 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "fabular do romance, inspirado nas lendas e tradições dos Krahô."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "investigativo do romance, embasado em testemunhos dos Krahô."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "político do romance, a respeito das condições de vida dos Krahô."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "etnográfico do romance, através do registro da cultura dos Krahô."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "biográfico do romance, relatando sua vivência junto aos Krahô."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 49,
-        "y": 608,
-        "w": 429,
-        "h": 170
-      },
-      "page": 21,
       "answer": {
         "correct": "D"
       },
@@ -3781,36 +3877,36 @@
     },
     {
       "number": 74,
-      "stem": "Na cena apresentada, que explora o desconforto gerado pela difícil interlocução com o indígena, o narrador",
+      "page": 21,
+      "bbox": {
+        "x": 804,
+        "y": 102,
+        "w": 848,
+        "h": 572
+      },
+      "stem": "74 Na cena apresentada, que explora o desconforto gerado pela dificil interlocugdo com o indigena, o narrador",
       "options": [
         {
           "key": "A",
-          "text": "abandona a ideia de investigar o passado, ao se ver encurralado por Leusipo."
+          "text": "abandona a ideia de investigar o passado, ao se ver"
         },
         {
           "key": "B",
-          "text": "explora a sua posição ameaçadora de homem branco, ao insistir em permanecer na aldeia."
+          "text": "explora a sua posigdo ameacadora de homem branco, ao"
         },
         {
           "key": "C",
-          "text": "age com ousadia, ao procurar subjugar Leusipo a contribuir com o seu projeto."
+          "text": "age com ousadia, ao procurar subjugar Leusipo a contribuir"
         },
         {
           "key": "D",
-          "text": "identifica-se com a sabedoria de Leusipo, ao preterir do papel interrogativo e se deixar questionar."
+          "text": "identifica-se com a sabedoria de Leusipo, ao preterir do"
         },
         {
           "key": "E",
-          "text": "sente-se frustrado com a reação de Leusipo, que não se deixa levar por sua diplomacia."
+          "text": "sente-se frustrado com a reacgdo de Leusipo, que nao se"
         }
       ],
-      "bbox": {
-        "x": 518,
-        "y": 93,
-        "w": 429,
-        "h": 188
-      },
-      "page": 21,
       "answer": {
         "correct": "B"
       },
@@ -3834,36 +3930,36 @@
     },
     {
       "number": 75,
-      "stem": "Rubião fitava a enseada, — eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora! Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade. — Vejam como Deus escreve direito por linhas tortas, pensa ele. Se mana Piedade tem casado com Quincas Borba, apenas me daria uma esperança colateral. Não casou; ambos morreram, e aqui está tudo comigo; de modo que o que parecia uma desgraça... Machado de Assis, Quincas Borba. O primeiro capítulo de Quincas Borba já apresenta ao leitor um elemento que será fundamental na construção do romance:",
+      "page": 1,
+      "bbox": {
+        "x": 804,
+        "y": 1335,
+        "w": 848,
+        "h": 1003
+      },
+      "stem": "LD J SJ> J EG?> J KM =E J ? EG= S> ? L JL= LD =oJ F = / dC C ? FW L J KD > B F @ ?C IJ M B FJ 75 ( 5 LD cJ e IJ EL? L J GD cJ e K J > J I MB C ?RD L J jl p = L J i j <k l m/ d ?FJS = F EXD C = > H >JC @ ?E J M ? L J L= C W E D C G= > F D C L J M =? / B = C = D I J L= > ED =C GH IDF KM =GD / kM = L= R = I DEG= > s$ J/ QE @ D >F= J D @ ?C I JM L= C JMJ = R = EG BJ ?C L ?R = >ST EI ?JC / LDW B G? M ?[ J ELD I J E=G J = C @ = >D S> H @ ? IJ L= ( 8& ( 1 1: * 9/ L= >JCB>J/ B ZX D L J @ DM N J L= > = C KD C G J C J IDF K J E N J L J L= C G = ~                                                                                      £         ¡             G 01/28 V 10000000 derno Reserva 01 1 6",
       "options": [
         {
           "key": "A",
-          "text": "a contemplação das paisagens naturais, como se lê em “ele admirava aquele pedaço de água quieta”."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "a presença de um narrador-personagem, como se lê em “em verdade vos digo que pensava em outra coisa”."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "a sobriedade do protagonista ao avaliar o seu percurso, como se lê em “Cotejava o passado com o presente”."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "o sentido místico e fatalista que rege os destinos, como se lê em “Deus escreve direito por linhas tortas”."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "a reversibilidade entre o cômico e o trágico, como se lê em “de modo que o que parecia uma desgraça...”."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 518,
-        "y": 326,
-        "w": 429,
-        "h": 426
-      },
-      "page": 1,
       "answer": {
         "correct": "E"
       },
@@ -3887,36 +3983,36 @@
     },
     {
       "number": 76,
-      "stem": "Remissão Tua memória, pasto de poesia, tua poesia, pasto dos vulgares, vão se engastando numa coisa fria a que tu chamas: vida, e seus pesares. Mas, pesares de quê? perguntaria, se esse travo de angústia nos cantares, se o que dorme na base da elegia vai correndo e secando pelos ares, e nada resta, mesmo, do que escreves e te forçou ao exílio das palavras, senão contentamento de escrever, enquanto o tempo, e suas formas breves ou longas, que sutil interpretavas, se evapora no fundo do teu ser? Carlos Drummond de Andrade, Claro enigma. Claro enigma apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema “Remissão”",
+      "page": 22,
+      "bbox": {
+        "x": 0,
+        "y": 98,
+        "w": 848,
+        "h": 684
+      },
+      "stem": "! \" # $ % & ' $ \" ( ) * +,- . * / 00, 1 2 2 3 4 1 2 *) 2 35 67 89 : ; <= >? 8 @",
       "options": [
         {
           "key": "A",
-          "text": "traduz a melancolia e o recolhimento do eu lírico em face da sensação de incomunicabilidade com uma realidade indiferente à sua poesia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "revela uma perspectiva inconformada, mesclando-a, livre da indulgência dos anos anteriores, a um novo formalismo estético."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "propõe, como reação do poeta à vulgaridade do mundo, uma poética capaz de interferir na realidade pelo viés nostálgico."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "reflete a visão idealizada do trabalho do poeta e a consciência da perenidade da poesia, resistente à passagem do tempo."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "realiza a transição do lirismo social para o lirismo metafísico, caracterizado pela adesão ao conforto espiritual e ao escapismo imaginativo."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 58,
-        "y": 80,
-        "w": 382,
-        "h": 568
-      },
-      "page": 22,
       "answer": {
         "correct": "E"
       },
@@ -3940,36 +4036,36 @@
     },
     {
       "number": 77,
-      "stem": "E VOCÊ? O QUE VOCÊ TOMA PRA FICAR MELHOR? EU TOMO DISTÂNCIA. Mafalda, Quino. O efeito de humor presente nas falas das personagens decorre",
+      "page": 22,
+      "bbox": {
+        "x": 0,
+        "y": 1470,
+        "w": 848,
+        "h": 868
+      },
+      "stem": "e 8f 87g 8 5 h/ i1 ,j k J F H Y N D CD E F E B J B IB HB C D E B ^ E H M D D UV W H B lN [ DB H KC MFBF LB ^ DB H B C I B C I B P U ] W H B B [ ^ N H B H M B N B H B C I B B E F E Z B P U Q W H M E F D B F CD L M B H C I B J E ` F M B P U c W H M E FDB F E F D HN X H C I B E I ^ B P Ud W H FD B E Y B E F H L H \\ D J I ^ B P V PAG 22 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "da quebra de expectativa gerada pela polissemia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "da ambiguidade causada pela antonímia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "do contraste provocado pela fonética."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "do contraste introduzido pela neologia."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "do estranhamento devido à morfologia."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 58,
-        "y": 672,
-        "w": 382,
-        "h": 248
-      },
-      "page": 22,
       "answer": {
         "correct": "A"
       },
@@ -3993,36 +4089,36 @@
     },
     {
       "number": 78,
-      "stem": "Os últimos quatro versos do poema rompem com a série de contrapontos entre a usina e o banguê, pois",
+      "page": 12,
+      "bbox": {
+        "x": 0,
+        "y": 971,
+        "w": 848,
+        "h": 1367
+      },
+      "stem": "mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao pais o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca a altura de uma instituig¢Go social. Mas o Corta-jaca de que eu ouvira falar ha muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as dancas selvagens, a irma& gémea do batuque, do catereté e do samba. Mas nas recep¢ées presidenciais o “Corta-jaca” é executado com todas as honras da musica de Wagner, e nGo se quer que a consciéncia deste pais se revolte, que as nossas faces se enrubescam e que a mocidade se ria!",
       "options": [
         {
           "key": "A",
-          "text": "negam haver diferença química entre o açúcar cristal e o açúcar mascavo."
+          "text": "A critica permite compreender que, apesar da mudan¢a de"
         },
         {
           "key": "B",
-          "text": "esclarecem que a aparência do açúcar varia com a espécie de cana cultivada."
+          "text": "O discurso elogia os esforcos para compatibilizar a cultura"
         },
         {
           "key": "C",
-          "text": "revelam que na base de toda empresa açucareira está o trabalhador rural."
+          "text": "A eclosdo da Primeira Guerra Mundial contribuiu para a"
         },
         {
           "key": "D",
-          "text": "denunciam a exploração do trabalho infantil nos canaviais nordestinos."
+          "text": "O programa musical adotado na recepcdo revelava"
         },
         {
           "key": "E",
-          "text": "explicam que a estação do ano define em qualquer processo o tipo de açúcar."
+          "text": "A apresentagdo do maxixe Corta-jaca indicava uma"
         }
       ],
-      "bbox": {
-        "x": 500,
-        "y": 520,
-        "w": 440,
-        "h": 210
-      },
-      "page": 12,
       "answer": {
         "correct": "C"
       },
@@ -4046,36 +4142,36 @@
     },
     {
       "number": 79,
-      "stem": "Na oração “que ela dura” (v. 4), o pronome sublinhado",
+      "page": 22,
+      "bbox": {
+        "x": 804,
+        "y": 1721,
+        "w": 848,
+        "h": 617
+      },
+      "stem": "ª B DB O SlN I B HN D B T U LP « WG C D E N [ I E Y B H U V W E F D J D E F P U ] W D F B B C B I BL DB N E B U L P ­ WP U Q W C H D N[ F F N Z H C D S I T G D J D E H R B S B O wM B D T U L P ­ W P U cW D J D R \\ B E F b L I H B [ DB E M N D B U L P ® WP Ud W lN L B I \\ C B I B L DB M E N D B U LP ­ v W P V G 22/28 V 10000000 derno Reserva 22 9 5",
       "options": [
         {
           "key": "A",
-          "text": "não tem referente."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "retoma a palavra \"usina\" (v. 1)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "pode ser substituído por “ele”, referindo-se a \"açúcar\" (v. 1)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "refere-se à \"mais instável das brancuras\" (v. 2)."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "equivale à palavra \"censura\" (v. 10)."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 500,
-        "y": 750,
-        "w": 440,
-        "h": 140
-      },
-      "page": 22,
       "answer": {
         "correct": "D"
       },
@@ -4099,36 +4195,36 @@
     },
     {
       "number": 80,
-      "stem": "Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar. (Veja a imagem da questão) Disponível em https://sistemas.eel.usp.br/. Adaptado. Considerando essas informações e seu conhecimento sobre separação de misturas e transformações químicas e físicas, no trecho grifado no poema, o termo sublimar é usado",
+      "page": 23,
+      "bbox": {
+        "x": 0,
+        "y": 95,
+        "w": 848,
+        "h": 422
+      },
+      "stem": "8 ! \" # $$ % && $ \" ' ( ! () (* + & ( ,- ' $ '- ( . / / / 0 / 1 /",
       "options": [
         {
           "key": "A",
-          "text": "corretamEnte para mostrar como do líquido (xarope) é extraído o cristal de açúcar através do processo de evaporação do sólido e secagem."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "em um sentido amplo do processo, já que não corresponde ao que ocorre com o cristal de açúcar, e sim com o melaço, que se separa do xarope."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "metaforicamente, já que ocorre a precipitação do açúcar com o cozimento do xarope, que é separado por centrifugação."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "incorretamente, já que a obtenção do açúcar a partir do xarope é uma reação química direta que não necessita de processo de separação."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "em seu sentido literal, já que o açúcar está na fase sólida, no xarope, e passa à fase vapor com o cozimento, formando então cristais de açúcar puro."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 45,
-        "y": 79,
-        "w": 451,
-        "h": 792
-      },
-      "page": 23,
       "answer": {
         "correct": "D"
       },
@@ -4152,36 +4248,36 @@
     },
     {
       "number": 81,
-      "stem": "O meme ao lado brinca com conceitos de química em um jogo popular, cujo objetivo é que os jogadores descubram o impostor entre os tripulantes de naves e estações espaciais. Nele um dos elementos é considerado o impostor por sua característica química diferente. (Veja a imagem da questão) Disponível em: https://twitter.com/DoutorQuimica/. Nesse contexto, é correto afirmar que o impostor seria o elemento:",
+      "page": 23,
+      "bbox": {
+        "x": 0,
+        "y": 1132,
+        "w": 848,
+        "h": 808
+      },
+      "stem": "SMa Cllotdls UE ayutal Pury.",
       "options": [
         {
           "key": "A",
-          "text": "H, por ser um elemento com grande tendência a fazer ligação covalente em uma família com tendência a fazer ligação iônica."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Na, por ser o único que pode ser obtido em sua forma metálica, ao contrário dos demais membros da família, que formam apenas óxidos."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "K, por ter raio atômico atipicamente grande, sendo maior do que os elementos abaixo dele na tabela periódica."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Cs, por pertencer à família 2 da tabela periódica, enquanto os demais pertencem à 1, formando cátions +2."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Fr, por reagir violentamente com a água, devido ao seu pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 45,
-        "y": 810,
-        "w": 452,
-        "h": 393
-      },
-      "page": 23,
       "answer": {
         "correct": "D"
       },
@@ -4205,15 +4301,22 @@
     },
     {
       "number": 82,
-      "stem": "(Veja a imagem da questão) Um experimento expôs uma barra de titânio (Ti) pura e ligas desse material com 0,01% de diferentes metais nobres a soluções de ácido sulfúrico em ebulição para entender o efeito anticorrosivo desses metais no titânio. O resultado é mostrado na tabela a seguir: (Veja a imagem da questão) *Não foi possível medir. Com base nessas informações, é correto afirmar:",
+      "page": 6,
+      "bbox": {
+        "x": 804,
+        "y": 353,
+        "w": 848,
+        "h": 1985
+      },
+      "stem": "ultado. rifica¢Go, a fronteira e a reestrutura¢do do espaco urbano, 1986. Adaptado. ; no século XIX a do final do século XX. As imagens correspondentes tificadas em: Revitalizacao de areas centrais https://www.chicagodetours.com Suburbanizagao https://operamundi.uol.com.br a i Vale do Silicio https://collbusinessnews.com.br/jornadas",
       "options": [
         {
           "key": "A",
-          "text": "O aumento na concentração de ácido sulfúrico nos experimentos fez com que o titânio puro fosse mais corroído e o titânio com Pd, Rh e Pt fosse menos corroído."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Para Re, Cu e Au, espera-se que a reação com ácido sulfúrico mais concentrado demore muito para acontecer e, por isso, não foi possível medir."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
@@ -4221,20 +4324,13 @@
         },
         {
           "key": "D",
-          "text": "Pd, Rh, Pt e Ru apresentaram os melhores resultados como anticorrosivos, enquanto Cu e Au apresentaram os piores."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "O titânio puro é muito resistente ao ácido, e a adição de outros metais não faz nenhuma diferença para a taxa de corrosão."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 505,
-        "y": 79,
-        "w": 450,
-        "h": 802
-      },
-      "page": 6,
       "answer": {
         "correct": "B"
       },
@@ -4258,7 +4354,14 @@
     },
     {
       "number": 83,
-      "stem": "ENUNCIADOS PARA AS QUESTÕES 83 E 84 Um dos indicadores de qualidade de mel é a presença do composto orgânico hidroximetilfurfural (HMF), formado a partir de certos açúcares, como a frutose (C₆H₁₂O₆). A tabela resume os teores de HMF permitidos de acordo com a legislação brasileira e recomendações internacionais. Teor de HMF (mg de HMF por kg de mel) Utilização conforme legislação Conforme a legislação brasileira (Portaria N° 6 do Ministério da Agricultura de 1985). Até 40 mg/kg: Mel de mesa, utilizado para consumo humano direto. Até 60 mg/kg: Mel industrial e/ou subprodutos. Conforme a recomendação internacional contida no Codex Alimentarius (FAO). Até 80 mg/kg: Para utilização de mel produzido em países com clima tropical. Uma das possíveis rotas para a formação do HMF a partir da frutose é mostrada, de forma simplificada, no esquema: (Veja a imagem da questão para o esquema químico). Nas setas, são mostradas as perdas de moléculas ou grupos químicos em cada etapa. Por exemplo, entre as espécies 1 e 2, ocorrem a saída de uma molécula de água e a formação de uma ligação dupla entre carbonos. De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:",
+      "page": 24,
+      "bbox": {
+        "x": 0,
+        "y": 1564,
+        "w": 848,
+        "h": 774
+      },
+      "stem": "! , n ' + Q q ( 0 Q q r ( 0 t 's + o q ( ' + o q ( 0 t ' + Q q r ( 0 Q q ( t ' + Q q ( 0 Q q ( V PAG 24 Caderno",
       "options": [
         {
           "key": "A",
@@ -4266,11 +4369,11 @@
         },
         {
           "key": "B",
-          "text": "2 × OH⁻"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "2 × H₂O"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
@@ -4281,13 +4384,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 58,
-        "y": 69,
-        "w": 493,
-        "h": 751
-      },
-      "page": 24,
       "answer": {
         "correct": "C"
       },
@@ -4311,36 +4407,36 @@
     },
     {
       "number": 84,
-      "stem": "Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parâmetro de qualidade e tendo como referência os teores recomendados por órgãos nacionais e internacionais, mostrados na tabela [referente à tabela na introdução das questões 83 e 84], é correto afirmar que esse mel Note e adote: Massa molar (g/mol): HMF = 126 Desconsidere qualquer possibilidade de contaminação do mel por fonte externa de HMF.",
+      "page": 24,
+      "bbox": {
+        "x": 804,
+        "y": 95,
+        "w": 848,
+        "h": 1006
+      },
+      "stem": "oo ovo 84 Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parametro de qualidade e tendo como referéncia os teores recomendados por Orgdos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel",
       "options": [
         {
           "key": "A",
-          "text": "é recomendado como mel de mesa, assim como para outros usos que se façam necessários, segundo a legislação brasileira."
+          "text": "6 recomendado como mel de mesa, assim como para outros"
         },
         {
           "key": "B",
-          "text": "não pode ser usado como mel de mesa, mas pode ser usado para fins industriais, segundo a legislação brasileira."
+          "text": "nado pode ser usado como mel de mesa, mas pode ser usado"
         },
         {
           "key": "C",
-          "text": "pode ser usado para fins industriais, segundo a legislação brasileira, mas não deveria ser usado para nenhum fim, segundo a recomendação internacional."
+          "text": "pode ser usado para fins industriais, segundo a legislagdo"
         },
         {
           "key": "D",
-          "text": "não pode ser usado nem como mel de mesa nem para fins industriais, segundo a legislação brasileira, mas poderia ser utilizado segundo a recomendação internacional."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "não pode ser usado para qualquer aplicação, tanto segundo a legislação brasileira quanto segundo a recomendação internacional."
+          "text": "nao pode ser usado para qualquer aplicacdo, tanto segundo"
         }
       ],
-      "bbox": {
-        "x": 510,
-        "y": 50,
-        "w": 452,
-        "h": 420
-      },
-      "page": 24,
       "answer": {
         "correct": "B"
       },
@@ -4364,36 +4460,36 @@
     },
     {
       "number": 85,
-      "stem": "Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou íon molecular) e os círculos coloridos, outra. (Veja a imagem da questão para a representação). Essa representação pode ser corretamente associada à",
+      "page": 24,
+      "bbox": {
+        "x": 804,
+        "y": 1056,
+        "w": 848,
+        "h": 1282
+      },
+      "stem": "v Observe a representacdo a seguir, em que os circulos brancos representam uma espécie quimica (molécula ou ion molecular) e os circulos coloridos, outra.",
       "options": [
         {
           "key": "A",
-          "text": "combustão de um hidrocarboneto com oxigênio em fase gasosa."
+          "text": "combustdo de um hidrocarboneto com oxigénio em fase"
         },
         {
           "key": "B",
-          "text": "formação de um polímero a partir de duas espécies de monômeros."
+          "text": "formacgao de um polimero a partir de duas espécies de"
         },
         {
           "key": "C",
-          "text": "fusão de uma mistura de dois sais com aumento da temperatura."
+          "text": "fusdo de uma mistura de dois sais com aumento da tem-"
         },
         {
           "key": "D",
-          "text": "solidificação da água pura com diminuição da temperatura."
+          "text": "solidificagdo da Agua pura com diminuicdo da temperatura."
         },
         {
           "key": "E",
-          "text": "produção de anéis aromáticos em solvente orgânico."
+          "text": "producao de anéis aromaticos em solvente organico."
         }
       ],
-      "bbox": {
-        "x": 510,
-        "y": 485,
-        "w": 452,
-        "h": 417
-      },
-      "page": 24,
       "answer": {
         "correct": "A"
       },
@@ -4417,36 +4513,36 @@
     },
     {
       "number": 86,
-      "stem": "No fragmento a seguir, o autor explora conceitos químicos na forma de poesia: Químico apaixonado 1 Sua presença é “C2H5OH(l) + 3O2(g) → 2CO2(g) + 3H2O(g)” de sentimento 2 É explosão de “C6H12O6(aq) + 6O2(g) → 6CO2(g) + 6H2O(l) + ATP” 3 É (Veja a imagem da questão) de pensamento 4 Sinergia 5 Sua ausência, meu desalento 6 “4Fe(s) + 3O2(g) → 2Fe2O3(s)” o meu ser 7 Um modelo incompleto, (Veja a imagem da questão) 8 Impede-me de viver 9 Morte em pleno deserto. Wilmo Ernesto Francisco Junior, Ciência em prosa e verso - Acepipes para quem ousa gostar (ou ensinar), 2018 (adaptado), apud Lopes, M.J.M. Dissertação de Mestrado, 2019. Disponível em http://www.repositorio.ufal.br/. Sobre os conceitos mencionados, foram feitas as seguintes afirmações: I. A equação química mostrada na linha 2 pode ser associada à liberação de energia, pois corresponde à reação de fotossíntese com consumo de gás carbônico. II. A equação química apresentada na linha 6 representa uma reação na qual o número de oxidação das espécies é alterado, sendo associada a corrosão. III. O modelo incompleto referido na linha 7 refere-se ao proposto por Thomson, que identificava a presença de partículas com carga negativa dentro de uma esfera. Está correto o que se afirma no(s) item(ns):",
+      "page": 25,
+      "bbox": {
+        "x": 0,
+        "y": 98,
+        "w": 848,
+        "h": 947
+      },
+      "stem": "! \" # # $ % & ' ( ) * + ( , - . / 0 1 2 , - 3 - 0 2 1 4 5 + - / ( / - 2 / , 0 ,",
       "options": [
         {
           "key": "A",
-          "text": "I, apenas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "II, apenas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "I e III, apenas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "II e III, apenas."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "I, II e III."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 56,
-        "y": 56,
-        "w": 395,
-        "h": 702
-      },
-      "page": 25,
       "answer": {
         "correct": "B"
       },
@@ -4470,36 +4566,36 @@
     },
     {
       "number": 87,
-      "stem": "Para estudar equilíbrio químico de íons Co²⁺ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co(H₂O)₆]²⁺(aq) + 4Cℓ⁻(aq) ⇌ [CoCℓ₄]²⁻(aq) + 6H₂O(ℓ) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co(H₂O)₆]²⁺(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [CoCℓ₄]²⁻(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. (Veja a imagem da questão para a primeira tabela) A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é: Note e adote: Solubilidade dos sais em g/100 mL de água a 20 °C (Veja a imagem da questão para a segunda tabela)",
+      "page": 23,
+      "bbox": {
+        "x": 0,
+        "y": 1896,
+        "w": 848,
+        "h": 442
+      },
+      "stem": "; / ; 2 / 87 4 .6 I H / / / / 7 / 8 4=6 . / ? 2 J 8 / / / ? K / ; / LJ 4> 6 M / / ; / H / / C / / 2 V PAG 23 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "Azul, Azul, Vermelha"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Azul, Vermelha, Azul"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Vermelha, Azul, Azul"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Vermelha, Vermelha, Vermelha"
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Vermelha, Azul, Vermelha"
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 515,
-        "y": 56,
-        "w": 380,
-        "h": 702
-      },
-      "page": 23,
       "answer": {
         "correct": "E"
       },
@@ -4523,7 +4619,14 @@
     },
     {
       "number": 88,
-      "stem": "A reação de Maillard, que ocorre entre aminoácidos e carboidratos redutores, é a responsável por formar espécies que geram compostos coloridos que conferem o sabor característico de diversos alimentos assados. Um exemplo é a reação entre a glicina e um carboidrato redutor mostrada na equação em que R representa uma cadeia genérica: (Veja a imagem da reação de glicina com carboidrato redutor) Um aminoácido específico (Composto 1), ao reagir com o carboidrato redutor, pode gerar o Composto 2, levando à formação de acrilamida, uma espécie potencialmente carcinogênica, conforme mostrado na equação: (Veja a imagem da reação de Composto 1 com carboidrato redutor) A estrutura do aminoácido marcado como Composto 1 e que é capaz de gerar esse intermediário de espécies carcinogênicas é:",
+      "page": 26,
+      "bbox": {
+        "x": 0,
+        "y": 95,
+        "w": 848,
+        "h": 1537
+      },
+      "stem": "8 ! \"# ! $ % & ! \" ' & # ( # ) # * # ! # 90",
       "options": [
         {
           "key": "A",
@@ -4546,13 +4649,6 @@
           "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 80,
-        "y": 59,
-        "w": 570,
-        "h": 609
-      },
-      "page": 26,
       "answer": {
         "correct": "E"
       },
@@ -4576,36 +4672,36 @@
     },
     {
       "number": 89,
-      "stem": "Em aquários de água marinha, é comum o uso do equipamento chama-do “Skimmer”, aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apo-lar. (Veja a imagem do Skimmer) Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso). Considerando que todas as outras condições são mantidas, o menor rendimento desse aparato em água doce do que em água salgada pode ser explicado porque",
+      "page": 17,
+      "bbox": {
+        "x": 0,
+        "y": 1331,
+        "w": 848,
+        "h": 1007
+      },
+      "stem": "\" 5 : ; 6 7 8 9 < 2 5 > 2 = 7 8 9 ? 2 @ A",
       "options": [
         {
           "key": "A",
-          "text": "a polaridade da molécula de água na água doce é maior do que na água salgada, tornando as partes apolares das moléculas orgânicas mais solúveis."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "a menor concentração de sais na água doce torna as regiões apolares das moléculas orgânicas mais solúveis do que na água salgada, prejudicando a interação com as bolhas de ar."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "a água doce é mais polar do que água salgada por ser mais concentrada em moléculas polares como a do açúcar, levando as partes polares das moléculas orgânicas a interagir mais com a água doce."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "a reatividade de matéria orgânica em água salgada é maior do que em água doce, fazendo com que exista uma menor quantidade de material dissolvido para interação com as bolhas de ar."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "a concentração de sais na água marinha é maior, o que torna as partes apolares das moléculas orgânicas mais propensas a interagir com os sais dissolvidos, promovendo menor interação com as bolhas de ar."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 690,
-        "y": 59,
-        "w": 258,
-        "h": 579
-      },
-      "page": 17,
       "answer": {
         "correct": "A"
       },
@@ -4629,36 +4725,36 @@
     },
     {
       "number": 90,
-      "stem": "A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura. Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo “destilação global” é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?",
+      "page": 26,
+      "bbox": {
+        "x": 0,
+        "y": 1588,
+        "w": 848,
+        "h": 750
+      },
+      "stem": "' - 4 ' M + ' ' M ! P Q V PAG 26 Caderno",
       "options": [
         {
           "key": "A",
-          "text": "Eles são destilados nas águas aquecidas dos oceanos e levados pelas correntes marinhas para as regiões polares, onde se precipitam devido às águas frias dessas regiões."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "B",
-          "text": "Eles evaporam nas regiões mais quentes e são levados pelas correntes atmosféricas para regiões mais frias como os polos, onde se condensam e voltam para a superfície."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "C",
-          "text": "Após destilados, eles se tornam resistentes à degradação, de forma que alcançam todo o planeta, pela ação de correntes marinhas, inclusive as regiões polares."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "D",
-          "text": "Os pesticidas organoclorados destilados, por conta da eletronegatividade dos átomos de cloro, têm afinidade com o gelo, o que faz com que eles se acumulem na Antártica ou no Ártico."
+          "text": "(Veja a imagem da questão)"
         },
         {
           "key": "E",
-          "text": "Por serem hidrofílicos, eles são condensados juntamente com a água nas regiões quentes do planeta e se precipitam nos polos juntamente com o gelo."
+          "text": "(Veja a imagem da questão)"
         }
       ],
-      "bbox": {
-        "x": 80,
-        "y": 715,
-        "w": 868,
-        "h": 221
-      },
-      "page": 26,
       "answer": {
         "correct": "C"
       },

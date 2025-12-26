@@ -30,6 +30,27 @@ def _find_tesseract():
     found = shutil.which("tesseract")
     return found
 
+
+def _try_set_tessdata_prefix(tesseract_cmd: str | None):
+    """Tenta configurar TESSDATA_PREFIX automaticamente no Windows.
+
+    Observação: o pytesseract precisa do executável do tesseract + pasta tessdata.
+    Em instalações padrão (Windows):
+      C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+      C:\\Program Files\\Tesseract-OCR\\tessdata
+    """
+    if not tesseract_cmd:
+        return
+    try:
+        base = os.path.dirname(tesseract_cmd)
+        tessdata_dir = os.path.join(base, "tessdata")
+        if os.path.isdir(tessdata_dir):
+            # A mensagem de erro do Tesseract geralmente pede apontar para a pasta "tessdata".
+            # Então priorizamos o tessdata_dir.
+            os.environ.setdefault("TESSDATA_PREFIX", tessdata_dir)
+    except Exception:
+        return
+
 def init_ocr():
     """Inicializa o OCR. Retorna True se disponível."""
     global OCR_AVAILABLE
@@ -39,8 +60,28 @@ def init_ocr():
     tesseract_path = _find_tesseract()
     if tesseract_path:
         pytesseract.pytesseract.tesseract_cmd = tesseract_path
+        _try_set_tessdata_prefix(tesseract_path)
         return True
     return False
+
+
+def best_ocr_lang(preferred: str = "por") -> str:
+    """Retorna o melhor idioma disponível no Tesseract.
+
+    - Prioriza "por" se estiver instalado.
+    - Caso contrário, usa "eng".
+    """
+    if not OCR_AVAILABLE:
+        return "eng"
+    try:
+        langs = pytesseract.get_languages(config="")
+        if preferred in langs:
+            return preferred
+        if "eng" in langs:
+            return "eng"
+    except Exception:
+        pass
+    return "eng"
 
 def ocr_image(image_path_or_pil, lang="por"):
     """
@@ -66,8 +107,11 @@ def ocr_image(image_path_or_pil, lang="por"):
         if img.mode != 'RGB':
             img = img.convert('RGB')
         
+        # Alguns ambientes não têm o idioma 'por' instalado.
+        # Nesse caso, usamos automaticamente o melhor idioma disponível.
+        lang = best_ocr_lang(lang)
         text = pytesseract.image_to_string(img, lang=lang)
-        return text.strip()
+        return (text or "").strip()
     except Exception as e:
         print(f"[OCR] Erro: {e}")
         return ""
