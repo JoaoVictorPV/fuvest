@@ -4,7 +4,7 @@ import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Plus, Trash2, Clock, CheckCircle2, X, Play, Save } from 'lucide-react';
 
 // Anos disponíveis para simulados (sem 2021)
-const AVAILABLE_YEARS = [2019, 2020, 2022, 2023, 2024, 2025, 2026];
+const AVAILABLE_YEARS = [2015, 2017, 2019, 2020, 2022, 2023, 2024, 2025, 2026];
 
 // Função para gerar questões aleatórias
 function generateRandomQuestions(totalQuestions) {
@@ -79,18 +79,16 @@ function ConfigModal({ onClose, onStart }) {
             <label className="block text-sm font-bold text-slate-700 mb-3">
               Tempo Limite
             </label>
-            <select
+            <input
+              type="number"
+              min="1"
+              max="999"
               value={timeMinutes}
               onChange={(e) => setTimeMinutes(Number(e.target.value))}
+              placeholder="Ex: 90"
               className="w-full px-4 py-3 border-2 border-slate-200 rounded-xl focus:ring-2 focus:ring-crimson-500 focus:border-crimson-500 outline-none font-medium"
-            >
-              <option value={30}>30 minutos</option>
-              <option value={45}>45 minutos</option>
-              <option value={60}>60 minutos</option>
-              <option value={90}>90 minutos</option>
-              <option value={120}>120 minutos</option>
-              <option value={180}>180 minutos (3h)</option>
-            </select>
+            />
+            <p className="text-xs text-slate-500 mt-1">Escolha livremente o tempo em minutos (1-999)</p>
           </div>
         </div>
         
