@@ -79,13 +79,6 @@ def _normalize_explanation(exp: dict) -> tuple[dict, bool]:
     return exp, changed
 
 
-def _is_blank_text(value: str, min_len: int = 12) -> bool:
-    """Considera um texto 'em branco' quando é curto demais para ser útil."""
-    if not isinstance(value, str):
-        return True
-    return len(value.strip()) < min_len
-
-
 def _looks_like_incomplete_explanation(exp: dict) -> bool:
     """Define se a explicação está incompleta (e deve ser enriquecida/reparada)."""
     if not isinstance(exp, dict):
@@ -96,26 +89,11 @@ def _looks_like_incomplete_explanation(exp: dict) -> bool:
             return True
     if not isinstance(exp.get('steps'), list):
         return True
-    # Explicação útil precisa ter passos mínimos (senão é praticamente vazia)
-    if len(exp.get('steps') or []) == 0:
-        return True
     if not isinstance(exp.get('distractors'), dict):
         return True
     for k in ['A', 'B', 'C', 'D', 'E']:
         if k not in exp.get('distractors', {}):
             return True
-
-    # Campos textuais não podem ser vazios
-    if _is_blank_text(exp.get('theory', ''), min_len=24):
-        return True
-    if _is_blank_text(exp.get('finalSummary', ''), min_len=12):
-        return True
-
-    # Distratores: precisa explicar (mínimo) por que cada alternativa está certa/errada
-    for k in ['A', 'B', 'C', 'D', 'E']:
-        if _is_blank_text((exp.get('distractors') or {}).get(k, ''), min_len=16):
-            return True
-
     return False
 
 
@@ -145,10 +123,6 @@ def _try_parse_json_strict_or_repair(raw: str) -> dict:
 
     # 3) remove vírgulas “sobrando” antes de fechar objeto/array
     candidate = re.sub(r",\s*([}\]])", r"\1", candidate)
-
-    # 4) remove caracteres de controle inválidos em JSON (às vezes o modelo devolve
-    # strings com control chars não escapados)
-    candidate = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", candidate)
 
     return json.loads(candidate)
 
@@ -251,14 +225,9 @@ def enrich_question(question_data):
     cache_file = os.path.join(cache_subdir, f"{q_id}_{cache_key}.json")
 
     if os.path.exists(cache_file):
+        print(" (CACHE HIT!)", flush=True)
         with open(cache_file, 'r', encoding='utf-8') as f:
-            cached = json.load(f)
-        cached, _ = _normalize_explanation(cached)
-        if not _looks_like_incomplete_explanation(cached):
-            print(" (CACHE HIT!)", flush=True)
-            return cached
-        # cache existe, mas está incompleto → reprocessa
-        print(" (CACHE INCOMPLETO — REGERANDO)", flush=True)
+            return json.load(f)
 
     print(" (CHAMADA DE API...)", flush=True)
 

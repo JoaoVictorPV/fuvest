@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Clock, Calendar, Menu } from 'lucide-react';
+import { Clock, Calendar } from 'lucide-react';
 import { differenceInDays, differenceInHours, differenceInMinutes } from 'date-fns';
 
-export function Header({ onOpenMenu }) {
+export function Header() {
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0 });
   const targetDate = new Date('2026-11-15T13:00:00'); // Estimated date
 
@@ -32,23 +32,13 @@ export function Header({ onOpenMenu }) {
   }, []);
 
   return (
-    <header className="fixed top-0 left-0 md:left-64 right-0 h-16 glass shadow-soft flex items-center justify-between px-4 md:px-8 z-10">
-      <div className="flex items-center space-x-3 text-slate-600">
-        <button
-          type="button"
-          onClick={onOpenMenu}
-          className="md:hidden p-2 rounded-xl hover:bg-white/70 border border-white/40"
-          aria-label="Abrir menu"
-        >
-          <Menu size={18} />
-        </button>
-        <div className="hidden sm:flex items-center space-x-2">
-          <Calendar size={18} />
-          <span className="text-sm font-medium">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span>
-        </div>
+    <header className="fixed top-0 left-64 right-0 h-16 bg-white shadow-sm flex items-center justify-between px-8 z-10">
+      <div className="flex items-center space-x-2 text-slate-500">
+        <Calendar size={18} />
+        <span className="text-sm font-medium">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span>
       </div>
 
-      <div className="flex items-center bg-white/70 px-4 py-2 rounded-full border border-white/40">
+      <div className="flex items-center bg-crimson-50 px-4 py-2 rounded-full border border-crimson-100">
         <Clock size={18} className="text-crimson-600 mr-2" />
         <div className="flex space-x-2 text-sm font-bold text-crimson-800">
           <span>{timeLeft.days} dias</span>
