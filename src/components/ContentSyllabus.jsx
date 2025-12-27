@@ -4,6 +4,101 @@ import { useLocalStorage } from '../hooks/useLocalStorage';
 import { CheckCircle2, Circle, AlertCircle, Info, ChevronDown, ChevronUp } from 'lucide-react';
 import clsx from 'clsx';
 
+const THEMES = {
+  rose: {
+    title: 'text-rose-700',
+    borderLeft: 'border-l-rose-500',
+    bar: 'bg-rose-500',
+    icon: 'text-rose-600',
+    groupBorder: 'border-rose-200',
+    checkedBg: 'bg-rose-50',
+    checkedBorder: 'border-rose-100',
+    checkedText: 'text-rose-900',
+    uncheckedHover: 'hover:border-rose-200',
+  },
+  amber: {
+    title: 'text-amber-800',
+    borderLeft: 'border-l-amber-500',
+    bar: 'bg-amber-500',
+    icon: 'text-amber-600',
+    groupBorder: 'border-amber-200',
+    checkedBg: 'bg-amber-50',
+    checkedBorder: 'border-amber-100',
+    checkedText: 'text-amber-900',
+    uncheckedHover: 'hover:border-amber-200',
+  },
+  violet: {
+    title: 'text-violet-700',
+    borderLeft: 'border-l-violet-500',
+    bar: 'bg-violet-500',
+    icon: 'text-violet-600',
+    groupBorder: 'border-violet-200',
+    checkedBg: 'bg-violet-50',
+    checkedBorder: 'border-violet-100',
+    checkedText: 'text-violet-900',
+    uncheckedHover: 'hover:border-violet-200',
+  },
+  sky: {
+    title: 'text-sky-700',
+    borderLeft: 'border-l-sky-500',
+    bar: 'bg-sky-500',
+    icon: 'text-sky-600',
+    groupBorder: 'border-sky-200',
+    checkedBg: 'bg-sky-50',
+    checkedBorder: 'border-sky-100',
+    checkedText: 'text-sky-900',
+    uncheckedHover: 'hover:border-sky-200',
+  },
+  indigo: {
+    title: 'text-indigo-700',
+    borderLeft: 'border-l-indigo-500',
+    bar: 'bg-indigo-500',
+    icon: 'text-indigo-600',
+    groupBorder: 'border-indigo-200',
+    checkedBg: 'bg-indigo-50',
+    checkedBorder: 'border-indigo-100',
+    checkedText: 'text-indigo-900',
+    uncheckedHover: 'hover:border-indigo-200',
+  },
+  cyan: {
+    title: 'text-cyan-700',
+    borderLeft: 'border-l-cyan-500',
+    bar: 'bg-cyan-500',
+    icon: 'text-cyan-600',
+    groupBorder: 'border-cyan-200',
+    checkedBg: 'bg-cyan-50',
+    checkedBorder: 'border-cyan-100',
+    checkedText: 'text-cyan-900',
+    uncheckedHover: 'hover:border-cyan-200',
+  },
+  emerald: {
+    title: 'text-emerald-700',
+    borderLeft: 'border-l-emerald-500',
+    bar: 'bg-emerald-500',
+    icon: 'text-emerald-600',
+    groupBorder: 'border-emerald-200',
+    checkedBg: 'bg-emerald-50',
+    checkedBorder: 'border-emerald-100',
+    checkedText: 'text-emerald-900',
+    uncheckedHover: 'hover:border-emerald-200',
+  },
+  lime: {
+    title: 'text-lime-800',
+    borderLeft: 'border-l-lime-500',
+    bar: 'bg-lime-500',
+    icon: 'text-lime-700',
+    groupBorder: 'border-lime-200',
+    checkedBg: 'bg-lime-50',
+    checkedBorder: 'border-lime-100',
+    checkedText: 'text-lime-900',
+    uncheckedHover: 'hover:border-lime-200',
+  },
+};
+
+function getTheme(themeKey) {
+  return THEMES[themeKey] || THEMES.violet;
+}
+
 function ProgressBar({ progress, colorClass = 'bg-crimson-600' }) {
   return (
     <div className="w-full bg-slate-200 rounded-full h-2.5 mb-4">
@@ -56,9 +151,13 @@ function SubjectMeta({ meta }) {
 }
 
 function SubjectGroup({ group, checkedItems, onToggle }) {
+  const theme = getTheme(group.themeKey);
   return (
     <div className="mb-6 last:mb-0">
-      <h4 className="font-serif text-lg font-bold text-slate-700 mb-3 pl-2 border-l-2 border-crimson-300">
+      <h4 className={clsx(
+        "font-serif text-lg font-bold text-slate-700 mb-3 pl-2 border-l-2",
+        theme.groupBorder
+      )}>
         {group.title}
       </h4>
       <div className="space-y-3">
@@ -67,20 +166,27 @@ function SubjectGroup({ group, checkedItems, onToggle }) {
             key={item.id} 
             className={clsx(
               "flex items-start p-3 rounded-lg border transition-all cursor-pointer hover:shadow-md",
-              checkedItems[item.id] ? "bg-crimson-50 border-crimson-100" : "bg-white border-slate-200 hover:border-crimson-200"
+              checkedItems[item.id]
+                ? `${theme.checkedBg} ${theme.checkedBorder}`
+                : `bg-white border-slate-200 ${theme.uncheckedHover}`
             )}
             onClick={() => onToggle(item.id)}
           >
-            <div className="mt-0.5 mr-3 flex-shrink-0 text-crimson-600">
+            <div className={clsx("mt-0.5 mr-3 flex-shrink-0", theme.icon)}>
               {checkedItems[item.id] ? <CheckCircle2 size={20} /> : <Circle size={20} />}
             </div>
             <div className="flex-1">
               <div className="flex items-center flex-wrap gap-2">
-                <span className={clsx("font-medium", checkedItems[item.id] ? "text-crimson-800 line-through decoration-crimson-300" : "text-slate-700")}>
+                <span className={clsx(
+                  "font-medium",
+                  checkedItems[item.id]
+                    ? `${theme.checkedText} line-through decoration-slate-300`
+                    : "text-slate-700"
+                )}>
                   {item.topic}
                 </span>
                 {item.priority === 'high' && (
-                  <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-red-100 text-red-800">
+                  <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-rose-100 text-rose-800">
                     <AlertCircle size={12} className="mr-1" /> Alta Prioridade
                   </span>
                 )}
@@ -98,8 +204,9 @@ function SubjectGroup({ group, checkedItems, onToggle }) {
   );
 }
 
-function SubjectSection({ title, groups, meta, checkedItems, onToggle, colorTheme = 'crimson' }) {
+function SubjectSection({ title, groups, meta, checkedItems, onToggle, themeKey = 'violet' }) {
   const [isOpen, setIsOpen] = useState(false);
+  const theme = getTheme(themeKey);
 
   // Flatten items to calculate progress
   const allItems = groups.flatMap(g => g.items);
@@ -107,35 +214,23 @@ function SubjectSection({ title, groups, meta, checkedItems, onToggle, colorThem
   const completed = allItems.filter(item => checkedItems[item.id]).length;
   const progress = Math.round((completed / total) * 100) || 0;
 
-  const colorMap = {
-    crimson: 'text-red-700',
-    emerald: 'text-emerald-700',
-    indigo: 'text-indigo-700'
-  };
-
-  const barColorMap = {
-    crimson: 'bg-red-600',
-    emerald: 'bg-emerald-600',
-    indigo: 'bg-indigo-600'
-  };
-
   return (
-    <div className={`bg-white rounded-xl shadow-sm border border-slate-100 p-6 mb-6 transition-all border-l-4 ${
-      colorTheme === 'crimson' ? 'border-l-red-600' : 
-      colorTheme === 'emerald' ? 'border-l-emerald-600' : 'border-l-indigo-600'
-    }`}>
+    <div className={clsx(
+      'ui-card rounded-2xl p-6 mb-6 transition-all border-l-4',
+      theme.borderLeft
+    )}>
       <div 
         className="flex justify-between items-center mb-4 cursor-pointer"
         onClick={() => setIsOpen(!isOpen)}
       >
         <div className="flex items-center space-x-3">
           {isOpen ? <ChevronUp className="text-slate-400" /> : <ChevronDown className="text-slate-400" />}
-          <h3 className={`font-serif text-2xl font-bold ${colorMap[colorTheme]}`}>{title}</h3>
+          <h3 className={clsx('font-serif text-2xl font-bold', theme.title)}>{title}</h3>
         </div>
         <span className="text-sm font-medium text-slate-500">{progress}% Concluído</span>
       </div>
       
-      <ProgressBar progress={progress} colorClass={barColorMap[colorTheme]} />
+      <ProgressBar progress={progress} colorClass={theme.bar} />
 
       {isOpen && (
         <div className="animate-in fade-in slide-in-from-top-2 duration-300">
@@ -145,7 +240,7 @@ function SubjectSection({ title, groups, meta, checkedItems, onToggle, colorThem
             {groups.map((group, idx) => (
               <SubjectGroup 
                 key={idx} 
-                group={group} 
+                group={{...group, themeKey}} 
                 checkedItems={checkedItems} 
                 onToggle={onToggle} 
               />
@@ -185,7 +280,7 @@ export function ContentSyllabus() {
           meta={editalData.portugues.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="crimson"
+          themeKey="rose"
         />
         <SubjectSection 
           title="Literatura" 
@@ -193,7 +288,7 @@ export function ContentSyllabus() {
           meta={editalData.literatura.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="crimson"
+          themeKey="amber"
         />
         <SubjectSection 
           title="Física" 
@@ -201,7 +296,7 @@ export function ContentSyllabus() {
           meta={editalData.fisica.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="indigo"
+          themeKey="indigo"
         />
         <SubjectSection 
           title="Química" 
@@ -209,7 +304,7 @@ export function ContentSyllabus() {
           meta={editalData.quimica.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="indigo"
+          themeKey="cyan"
         />
         <SubjectSection 
           title="Biologia" 
@@ -217,7 +312,7 @@ export function ContentSyllabus() {
           meta={editalData.biologia.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="indigo"
+          themeKey="lime"
         />
         <SubjectSection 
           title="Redação" 
@@ -225,7 +320,7 @@ export function ContentSyllabus() {
           meta={editalData.redacao.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="crimson"
+          themeKey="violet"
         />
         <SubjectSection 
           title="História" 
@@ -233,7 +328,7 @@ export function ContentSyllabus() {
           meta={editalData.historia.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="crimson"
+          themeKey="amber"
         />
         <SubjectSection 
           title="Geografia" 
@@ -241,7 +336,7 @@ export function ContentSyllabus() {
           meta={editalData.geografia.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="emerald"
+          themeKey="emerald"
         />
         <SubjectSection 
           title="Matemática" 
@@ -249,7 +344,7 @@ export function ContentSyllabus() {
           meta={editalData.matematica.meta}
           checkedItems={checkedItems} 
           onToggle={handleToggle} 
-          colorTheme="indigo"
+          themeKey="sky"
         />
       </div>
     </div>

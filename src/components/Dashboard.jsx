@@ -30,7 +30,7 @@ function Notepad() {
   };
 
   return (
-    <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 flex flex-col h-full">
+    <div className="ui-card p-6 flex flex-col h-full">
       <div className="flex items-center space-x-2 mb-4 text-slate-800">
         <PenTool size={20} className="text-crimson-600" />
         <h3 className="font-serif text-xl font-bold">Bloco de Notas</h3>
@@ -80,7 +80,7 @@ function Notepad() {
 
 function StatCard({ icon: Icon, label, value, colorClass }) {
   return (
-    <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 flex items-center space-x-4">
+    <div className="ui-card p-6 flex items-center space-x-4">
       <div className={`p-3 rounded-full ${colorClass} bg-opacity-10`}>
         <Icon size={24} className={colorClass.replace('bg-', 'text-')} />
       </div>
@@ -297,7 +297,7 @@ export function Dashboard() {
   const suggestions = getSuggestions();
 
   return (
-    <div className="p-8 max-w-6xl mx-auto pb-20">
+    <div className="p-6 md:p-8 max-w-6xl mx-auto pb-20">
       <div className="mb-8">
         <h2 className="font-serif text-3xl font-bold text-slate-800 mb-2">Painel de Controle</h2>
         <QuoteDisplay />
@@ -330,16 +330,25 @@ export function Dashboard() {
         />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-        <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 flex flex-col">
-          <h3 className="font-serif text-xl font-bold text-slate-800 mb-6">Desempenho por Matéria</h3>
+      {/* Desempenho em largura total (melhor uso horizontal) */}
+      <div className="ui-card p-6 mb-8">
+        <div className="flex items-start justify-between gap-4 mb-6">
+          <div>
+            <h3 className="font-serif text-xl font-bold text-slate-900">Desempenho por Matéria</h3>
+            <p className="text-sm text-slate-500">Radar do progresso por disciplina</p>
+          </div>
+          <div className="hidden sm:flex items-center gap-2 text-xs text-slate-500">
+            <span className="px-3 py-1 rounded-full bg-white/70 border border-white/40">0–100</span>
+            <span className="px-3 py-1 rounded-full bg-white/70 border border-white/40">Atualiza automaticamente</span>
+          </div>
+        </div>
           <div className="flex-1 flex items-center justify-center min-h-[400px]">
             <ResponsiveContainer width="100%" height="100%">
               <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
                 <defs>
                   <linearGradient id="radarFill" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor="#990000" stopOpacity={0.8}/>
-                    <stop offset="95%" stopColor="#990000" stopOpacity={0.1}/>
+                    <stop offset="5%" stopColor="#7c3aed" stopOpacity={0.75}/>
+                    <stop offset="95%" stopColor="#7c3aed" stopOpacity={0.08}/>
                   </linearGradient>
                 </defs>
                 <PolarGrid stroke="#e2e8f0" strokeDasharray="3 3" />
@@ -351,22 +360,23 @@ export function Dashboard() {
                 <Radar
                   name="Progresso"
                   dataKey="A"
-                  stroke="#990000"
+                  stroke="#7c3aed"
                   strokeWidth={3}
                   fill="url(#radarFill)"
                   fillOpacity={0.6}
                 />
                 <Tooltip 
                   contentStyle={{ backgroundColor: '#fff', borderRadius: '8px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
-                  itemStyle={{ color: '#990000', fontWeight: 'bold' }}
+                  itemStyle={{ color: '#7c3aed', fontWeight: 'bold' }}
                 />
               </RadarChart>
             </ResponsiveContainer>
           </div>
-        </div>
+      </div>
 
-        <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
-          <h3 className="font-serif text-xl font-bold text-slate-800 mb-6">Próximos Passos Sugeridos</h3>
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div className="ui-card p-6">
+          <h3 className="font-serif text-xl font-bold text-slate-900 mb-6">Próximos Passos Sugeridos</h3>
           <div className="space-y-4">
              {suggestions.length > 0 ? (
                suggestions.map(item => {

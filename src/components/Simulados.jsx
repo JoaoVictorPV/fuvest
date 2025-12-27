@@ -412,8 +412,17 @@ export function Simulados() {
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2 space-y-6">
-            <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
-              <h3 className="text-lg font-bold text-slate-700 mb-6">Gráfico de Desempenho (1ª Fase)</h3>
+            <div className="ui-card p-6">
+              <div className="flex items-start justify-between gap-4 mb-6">
+                <div>
+                  <h3 className="text-lg font-black text-slate-900">Gráfico de Desempenho (1ª Fase)</h3>
+                  <p className="text-sm text-slate-500">Acompanhe sua evolução ao longo do tempo</p>
+                </div>
+                <div className="hidden sm:flex items-center gap-2 text-xs text-slate-500">
+                  <span className="px-3 py-1 rounded-full bg-white/70 border border-white/40">0–90</span>
+                  <span className="px-3 py-1 rounded-full bg-white/70 border border-white/40">Linha suave</span>
+                </div>
+              </div>
               <div className="h-80 w-full">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={simulados}>
@@ -431,10 +440,10 @@ export function Simulados() {
                     <Line 
                       type="monotone" 
                       dataKey="score" 
-                      stroke="#990000" 
+                      stroke="#7c3aed" 
                       strokeWidth={3}
-                      dot={{ fill: '#990000', strokeWidth: 2, r: 4 }}
-                      activeDot={{ r: 8 }}
+                      dot={{ fill: '#7c3aed', strokeWidth: 2, r: 4 }}
+                      activeDot={{ r: 8, stroke: '#7c3aed', fill: '#fff' }}
                     />
                   </LineChart>
                 </ResponsiveContainer>
@@ -444,9 +453,9 @@ export function Simulados() {
             {/* Botão Criar Simulado */}
             <button
               onClick={() => setShowConfigModal(true)}
-              className="w-full bg-gradient-to-r from-crimson-600 to-crimson-700 text-white py-6 px-8 rounded-2xl font-black text-xl hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex items-center justify-center gap-3"
+              className="ui-btn-primary w-full py-6 px-8 text-xl gap-3"
             >
-              <Play size={28} className="animate-pulse" /> Criar Novo Simulado
+              <Play size={28} className="animate-pulse-soft" /> Criar Novo Simulado
             </button>
             
             {/* Lista de Simulados Completos */}

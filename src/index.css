@@ -2,25 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Design System: Pastel Futurista com Brutalismo Pós-Moderno */
+/* Design System: Pastel Futurista + Brutalismo Leve */
 @layer base {
   :root {
-    /* Paleta Pastel Calmante */
-    --pastel-lavender: #E6E6FA;
-    --pastel-mint: #E0F2E9;
-    --pastel-peach: #FFE5D9;
-    --pastel-sky: #D4E7F5;
-    --pastel-rose: #FFD6E8;
-    
-    /* Gradientes Suaves */
-    --gradient-calm: linear-gradient(135deg, #E6E6FA 0%, #D4E7F5 100%);
-    --gradient-warm: linear-gradient(135deg, #FFE5D9 0%, #FFD6E8 100%);
-    --gradient-fresh: linear-gradient(135deg, #E0F2E9 0%, #D4E7F5 100%);
+    --paper: 255 255 255;
+    --ink: 15 23 42; /* slate-900 */
+
+    /* Acento (mantém identidade crimson, mas num visual mais suave) */
+    --accent: 153 0 0; /* crimson */
   }
-  
+
   body {
-    @apply bg-gradient-to-br from-slate-50 via-purple-50 to-blue-50;
+    @apply font-sans text-slate-800 antialiased;
+    @apply bg-gradient-to-br from-slate-50 via-violet-50 to-sky-50;
     font-feature-settings: "liga" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
   }
 }
 
@@ -45,25 +44,34 @@
 
 /* Glassmorphism */
 .glass {
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.66);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.42);
 }
 
 /* Sombras Modernas */
 .shadow-brutal {
-  box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 0px rgba(15, 23, 42, 0.10);
 }
 
 .shadow-soft {
   box-shadow: 0 20px 60px rgba(139, 92, 246, 0.1);
 }
 
-@layer base {
-  body {
-    @apply font-sans bg-slate-100 text-slate-800 antialiased;
+@layer components {
+  /* Card padrão (pastel + glass) */
+  .ui-card {
+    @apply glass rounded-2xl border border-white/40 shadow-soft;
   }
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-serif;
+
+  /* Card com toque brutalista */
+  .ui-card-brutal {
+    @apply bg-white rounded-2xl border border-slate-200 shadow-brutal;
+  }
+
+  .ui-btn-primary {
+    @apply inline-flex items-center justify-center rounded-2xl font-bold;
+    @apply bg-gradient-to-r from-violet-600 to-fuchsia-600 text-white;
+    @apply shadow-soft hover:shadow-xl hover:-translate-y-0.5 transition-all;
   }
 }
