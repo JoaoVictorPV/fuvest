@@ -4,7 +4,7 @@ import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Plus, Trash2, Clock, CheckCircle2, X, Play, Save } from 'lucide-react';
 
 // Anos disponíveis para simulados
-const AVAILABLE_YEARS = [2015, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026];
+const AVAILABLE_YEARS = [2015, 2017, 2019, 2020, 2022, 2023, 2024, 2025, 2026];
 
 // Função para gerar questões aleatórias
 function generateRandomQuestions(totalQuestions) {
